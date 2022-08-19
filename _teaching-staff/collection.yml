@@ -2,5 +2,6 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Senior Teacher Council.md
       - Mother Tongue Teachers.md
       - Teaching Support.md
