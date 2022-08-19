@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Queenstown Primary School
-description: Queenstown Primary School
+description: |
+  Queenstown Primary School
 image: /images/images.png
 permalink: /
 notification: ""
@@ -33,3 +34,4 @@ sections:
       url: https://queenstownpri.moe.edu.sg/departments/character-and-citizenship-education
       alt: Image alt text
 ---
+
