@@ -1,2 +1,15 @@
 logo: /images/images.png
-links: []
+links:
+  - title: About
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Vision Mission Values
+        url: /about-us/vision-mission-values/
+      - title: School Rules and Expectations
+        url: /about-us/school-rules-and-expectations/
+      - title: School Song
+        url: /about-us/school-song/
+      - title: Contact Us
+        url: /contact-us/
