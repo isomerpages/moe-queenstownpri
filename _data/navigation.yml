@@ -47,3 +47,20 @@ links:
         url: /departments/ict/
       - title: Character and Citizenship Edu
         url: /departments/CCE/
+  - title: Information
+    url: /information/administration/
+    sublinks:
+      - title: Administration
+        url: /information/administration/
+      - title: Location & Operating Hours
+        url: /information/location-and-operation-hours/
+      - title: Facilities & Services
+        url: /information/facilities-and-services/
+      - title: Financial Assistance Scheme
+        url: /information/fas/
+      - title: NEU PC Plus Programme
+        url: /information/neu-pc-plus-progamme/
+      - title: School Open Letters
+        url: /information/school-open-letters/
+      - title: Submenu Title
+        url: /permalink
