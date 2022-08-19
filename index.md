@@ -4,11 +4,10 @@ title: Queenstown Primary School
 description: Queenstown Primary School
 image: /images/images.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Queenstown Primary School
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -29,5 +28,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
