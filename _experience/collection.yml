@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - End Of Term Achievement/Value Award.md
       - End Of Term Achievement/Queenstowner Award.md
       - End Of Term Achievement/Sportsmanship Award.md
       - End Of Term Achievement/Artist of the Term Award.md
