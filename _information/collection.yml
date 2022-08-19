@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - NEU PC Plus Programme.md
       - School Open Letters.md
       - Health and Safety Matters.md
       - P4 Subject Based Banding.md
