@@ -62,5 +62,46 @@ links:
         url: /information/neu-pc-plus-progamme/
       - title: School Open Letters
         url: /information/school-open-letters/
-      - title: Submenu Title
-        url: /permalink
+      - title: Health and Safety Matters
+        url: /information/health-and-safety-matters/
+      - title: P4 Subject-Based Banding
+        url: /information/p4-subject-based-banding/
+      - title: Parents Gateway
+        url: /information/parents-gateway/
+      - title: Frequently Asked Questions
+        url: /information/FAQ/
+  - title: Experience
+    url: /experience/overview/
+    sublinks:
+      - title: Overview
+        url: /experience/overview/
+      - title: Co-Curricular Activities (CCA)
+        url: /experience/CCA/
+      - title: Applied Learning Programme
+        url: /experience/ALP/
+      - title: Learning for Life Programme
+        url: /experience/LLP/
+      - title: School Life Memories
+        url: /experience/school-life-memories-our-photo-journal/
+      - title: End of Term Achievement
+        url: /experience/end-of-term-achievement/
+      - title: P6 Digital Art Showcase
+        url: /experience/p6-digital-art-showcase/
+  - title: Partners
+    url: /partners/school-advisory-committee/
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners/school-advisory-committee/
+      - title: Parent Support Group
+        url: /partners/PSG/
+      - title: Student Care
+        url: /partners/student-care/
+  - title: Useful Links
+    url: /useful-links/for-students/
+    sublinks:
+      - title: For Students
+        url: /useful-links/for-students/
+      - title: For Teachers
+        url: /useful-links/for-teachers/
+      - title: School Calender of Events
+        url: /useful-links/school-calender/
