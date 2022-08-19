@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Administration.md
       - Location & Operating Hours.md
       - Financial Assistance Scheme.md
       - NEU PC Plus Programme.md
