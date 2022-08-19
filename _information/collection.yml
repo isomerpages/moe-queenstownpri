@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Facilities & Services/.keep
+      - Parents Gateway/Parents Gateway FAQ.md
       - Parents Gateway/.keep
