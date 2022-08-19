@@ -13,3 +13,33 @@ links:
         url: /about-us/school-song/
       - title: Contact Us
         url: /contact-us/
+  - title: Our Staff
+    url: /our-staff/organisation-chart/
+    sublinks:
+      - title: Organisation Chart
+        url: /our-staff/organisation-chart/
+      - title: Teaching Staff
+        url: /our-staff/teaching-staff/
+      - title: School Management Committee
+        url: /our-staff/school-management-committee/
+      - title: Admin & Support Staff
+        url: /our-staff/admin-and-support-staff/
+  - title: Departments
+    url: /departments/english/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mother Tongue
+        url: /departments/mother-tongue/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Physical Education (PE)
+        url: /departments/pe/
+      - title: Aesthetics
+        url: /departments/aesthetics/
+      - title: ICT
+        url: /departments/ict/
+      - title: Character and Citizenship Edu
+        url: /departments/CCE/
