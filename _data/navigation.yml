@@ -1,8 +1,10 @@
 logo: /images/images.png
 links:
   - title: About
-    url: /about-us/principals-message/
+    url: /about-us/
     sublinks:
+      - title: About Us
+        url: /about-us/
       - title: Principal's Message
         url: /about-us/principals-message/
       - title: Vision Mission Values
