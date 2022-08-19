@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Facilities & Services/Bus Services.md
       - Facilities & Services/Bookshop.md
       - Facilities & Services/School Uniform.md
       - Facilities & Services/Counselling.md
