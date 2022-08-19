@@ -2,4 +2,5 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Mother Tongue Teachers.md
       - Teaching Support.md
