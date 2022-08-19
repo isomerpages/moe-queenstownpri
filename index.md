@@ -13,9 +13,18 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Announcements
+        - title: P4 Subject Based Banding
           description: ""
-          url: /announcements/
+          url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/p4-subject-based-banding/
+        - title: Sign up for Parents Gateway now
+          description: ""
+          url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/parents-gateway/
+        - title: School Hours and Recess Time
+          description: ""
+          url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/location-and-operation-hours/
+        - title: QTPS Bus Service
+          description: ""
+          url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/facilities-and-services/bus-services/
   - infopic:
       title: CCE
       description: Character & Citizenship Education
@@ -34,4 +43,3 @@ sections:
       url: https://queenstownpri.moe.edu.sg/departments/character-and-citizenship-education
       alt: Image alt text
 ---
-
