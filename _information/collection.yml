@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Facilities & Services/Dental.md
       - Facilities & Services/Media Resource Library.md
       - Facilities & Services/Student Care Centre.md
       - Facilities & Services/.keep
