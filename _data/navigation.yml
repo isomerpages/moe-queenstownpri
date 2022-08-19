@@ -96,15 +96,6 @@ links:
         url: /partners/PSG/
       - title: Student Care
         url: /partners/student-care/
-  - title: Useful Links
-    url: /useful-links/for-students/
-    sublinks:
-      - title: For Students
-        url: /useful-links/for-students/
-      - title: For Teachers
-        url: /useful-links/for-teachers/
-      - title: School Calender of Events
-        url: /useful-links/school-calender/
   - title: E-Open House 2022
     url: /eopenhouse/overview/
     sublinks:
