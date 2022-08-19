@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - School Song.md
-      - School Rules and Expectations.md
-      - Vision Mission Values.md
-      - Principal's Message.md
       - Overview.md
+      - Principal's Message.md
+      - Vision Mission Values.md
+      - School Rules and Expectations.md
+      - School Song.md
