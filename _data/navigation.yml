@@ -105,3 +105,22 @@ links:
         url: /useful-links/for-teachers/
       - title: School Calender of Events
         url: /useful-links/school-calender/
+  - title: E-Open House 2022
+    url: /eopenhouse/overview/
+    sublinks:
+      - title: Overview
+        url: /eopenhouse/overview/
+      - title: School Corporate Video
+        url: /eopenhouse/school-corporate-video/
+      - title: Parents' Voices
+        url: /eopenhouse/parents-voices/
+      - title: Facilities
+        url: /eopenhouse/facilities/
+      - title: Co-Curricular Activities (CCA)
+        url: /eopenhouse/CCA/
+      - title: Frequently Asked Questions
+        url: /eopenhouse/FAQ/
+      - title: Live Webinar
+        url: /eopenhouse/live-webinar/
+      - title: Submenu Title
+        url: /permalink
