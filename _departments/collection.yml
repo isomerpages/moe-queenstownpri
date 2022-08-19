@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics/.keep
       - ICT.md
       - Character and Citizenship Edu/.keep
