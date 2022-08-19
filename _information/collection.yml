@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - P4 Subject Based Banding.md
       - Frequently Asked Questions (FAQ).md
       - Facilities & Services/Bus Services.md
       - Facilities & Services/Bookshop.md
