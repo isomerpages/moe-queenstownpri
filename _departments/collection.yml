@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics/Mathematics Club.md
       - Mathematics/.keep
       - Science.md
       - Physical Education (PE).md
