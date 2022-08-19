@@ -2,5 +2,6 @@ collections:
   experience:
     output: true
     order:
+      - End Of Term Achievement/Artist of the Term Award.md
       - End Of Term Achievement/.keep
       - P6 Digital Art Showcase.md
