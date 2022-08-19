@@ -14,8 +14,10 @@ links:
       - title: Contact Us
         url: /contact-us/
   - title: Our Staff
-    url: /our-staff/organisation-chart/
+    url: /our-staff/overview/
     sublinks:
+      - title: Overview
+        url: /our-staff/overview/
       - title: Organisation Chart
         url: /our-staff/organisation-chart/
       - title: Teaching Staff
