@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Form Teachers 2022/P2 Form Teachers.md
       - Form Teachers 2022/P3 Form Teachers.md
       - Form Teachers 2022/P4 Form Teachers.md
       - Form Teachers 2022/P5 Form Teachers.md
