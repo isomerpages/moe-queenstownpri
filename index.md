@@ -25,6 +25,11 @@ sections:
         - title: QTPS Bus Service
           description: ""
           url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/facilities-and-services/bus-services/
+  - infobar:
+      title: Useful Links
+      subtitle: For students & Teachers
+      button: click here
+      url: /useful-links/
   - infopic:
       title: CCE
       description: Character & Citizenship Education
