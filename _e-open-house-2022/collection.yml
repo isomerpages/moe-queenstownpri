@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Parents' Voices/Overview.md
       - Parents' Voices/Ice Lee.md
       - Parents' Voices/Michelle Ong.md
       - Parents' Voices/Dr James Teh.md
