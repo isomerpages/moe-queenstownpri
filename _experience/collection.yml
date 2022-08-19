@@ -1,4 +1,5 @@
 collections:
   experience:
     output: true
-    order: []
+    order:
+      - P6 Digital Art Showcase.md
