@@ -2,5 +2,5 @@ collections:
   information:
     output: true
     order:
-      - Parents Gateway/.keep
       - Facilities & Services/.keep
+      - Parents Gateway/.keep
