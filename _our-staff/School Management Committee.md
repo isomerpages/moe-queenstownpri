@@ -5,8 +5,9 @@ description: ""
 ---
 ### **School Management Committee**
 
-| Principal | Ms Pearly Ng  | [pearly_ng@moe.edu.sg](mailto:pearly_ng@moe.edu.sg)  |
+||||
 |:---:|:---:|:---:|
+| Principal | Ms Pearly Ng  | [pearly_ng@moe.edu.sg](mailto:pearly_ng@moe.edu.sg)  |
 | Vice-Principal |  Mr Atraju S/O Kanan Ramdas | [atraju_kanan_ramdas@moe.edu.sg](mailto:atraju_kanan_ramdas@moe.edu.sg) |
 | Vice-Principal (Admin) | Mr Low Kay Kiat  | [low_kay_kiat@moe.edu.sg](mailto:low_kay_kiat@moe.edu.sg)  |
 | Admin Manager | Mrs Jeslyn Lim  | [leong_kum_yin@moe.edu.sg](mailto:leong_kum_yin@moe.edu.sg) |
