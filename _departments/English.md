@@ -68,6 +68,5 @@ As we firmly believe in giving our students a strong foundation in English, we h
 | Primary 4 | School Dyslexia Remediation Programme (SDR) <br>Reading Remediation Programme (RRP)  |
 |
 
-<img src="/images/English%206.jpg" 
+<img src="/images/English%206a.jpg" 
      style="width:55%">
-Oracy Lesson
