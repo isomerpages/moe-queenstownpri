@@ -42,7 +42,7 @@ These strategies reinforce authentic learning, phonological awareness, reading, 
 #### **Photos**
 
 <img src="/images/English%201.jpg" 
-     style="width:65%">
+     style="width:55%">
 		 
 <img src="/images/English%202.jpg" 
      style="width:55%">
