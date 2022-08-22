@@ -12,7 +12,7 @@ In 2020, we piloted the _Introduction to Computational Thinking_ Programme whe
      style="width:55%">
 		 
 <img src="/images/ICT%202.jpg" 
-     style="width:85%">
+     style="width:65%">
 		 
 We strive to imbue our students with the appropriate dispositions to harness ICT for life-long learning, rather than merely equipping them with technical skills. At the same time, advancement in technology has given our students more options and varied ways to express their ideas.
 
