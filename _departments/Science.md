@@ -17,7 +17,7 @@ Our Science curriculum focuses on teaching and learning through inquiry via a va
      style="width:45%">
 
 <img src="/images/sci%202.jpg" 
-     style="width:65%">
+     style="width:55%">
 		 
 <img src="/images/sci%203.jpg" 
      style="width:45%">		 
@@ -32,10 +32,10 @@ Our Science curriculum focuses on teaching and learning through inquiry via a va
 The school conducts outdoor learning which brings the students out of the class and textbooks. Outdoors and the wider community provide rich and authentic learning environments that allow students to learn and see Science in action.
 
 <img src="/images/sci%206.jpg" 
-     style="width:65%">
+     style="width:55%">
 		 
 <img src="/images/sci%207.jpg" 
      style="width:45%">
 		 
 <img src="/images/sci%208.jpg" 
-     style="width:45%">		 
+     style="width:45%">
