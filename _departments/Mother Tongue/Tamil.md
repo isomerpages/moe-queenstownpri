@@ -7,10 +7,10 @@ third_nav_title: Mother Tongue
 ### **Tamil**
 
 <img src="/images/tamil%201.jpg" 
-     style="width:85%">
+     style="width:65%">
 <img src="/images/tamil%202.jpg" 
-     style="width:95%">
-<img src="/images/tamil%203.jpg" 
      style="width:85%">
+<img src="/images/tamil%203.jpg" 
+     style="width:65%">
 <img src="/images/tamil%204.jpg" 
-     style="width:45%">
+     style="width:35%">
