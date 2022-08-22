@@ -1,6 +1,6 @@
 title: Queenstown Primary School
 url: ""
-favicon: /images/images.png
+favicon: /images/logo.svg
 colors:
   primary-color: "#ca2e6f"
   secondary-color: "#28388c"
@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3haevm43m8pfu.amplifyapp.com
 prod: https://master.d3haevm43m8pfu.amplifyapp.com
-shareicon: /images/images.png
+shareicon: /images/logo.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
