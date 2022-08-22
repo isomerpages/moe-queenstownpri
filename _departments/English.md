@@ -36,3 +36,15 @@ Our EL curriculum adopts the STELLAR (STrategies for English Language Learning a
 | Retelling |
 | Writing Process Cycle (WPC) |
 |
+
+These strategies reinforce authentic learning, phonological awareness, reading, language acquisition and language development.
+
+#### **Photos**
+
+<img src="/images/English%201.jpg" 
+     style="width:65%">
+		 
+![](/images/English%202.jpg)
+
+
+
