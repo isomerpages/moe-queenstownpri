@@ -15,4 +15,4 @@ The curriculum encourages students to inquire about real-world issues that conce
      style="width:85%">
 		 
 <img src="/images/ss%202.jpg" 
-     style="width:85%">		 
+     style="width:85%">
