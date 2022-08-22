@@ -19,4 +19,4 @@ The Head Prefect Election is an opportunity for the student voice to be heard. P
      style="width:65%">		 
 		 
 <img src="/images/head%20pref%20election%203.jpg" 
-     style="width:85%">		 
+     style="width:85%">
