@@ -18,7 +18,8 @@ third_nav_title: Mother Tongue
 
 <iframe width="777" height="437" src="https://www.youtube.com/embed/QNx3_DVOPSI" title="MTL Reading Programme 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](/images/chinese.jpg)
+<img src="/images/chinese.jpg" 
+     style="width:85%">
 
 #### **Festive Celebrations**
 
@@ -26,4 +27,5 @@ Chinese New Year 2022
 
 <iframe width="783" height="440" src="https://www.youtube.com/embed/NTyb7uOMIuk" title="31 Jan 2022 Dragon & Lion Dances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](/images/chinese%202.jpg)
+<img src="/images/chinese%202.jpg" 
+     style="width:85%">
