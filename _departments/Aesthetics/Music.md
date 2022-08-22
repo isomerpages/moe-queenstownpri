@@ -64,6 +64,26 @@ Music teachers facilitate and guide students to play the resonator based on how 
 
 ![](/images/music.jpg)
 
-<iframe width="644" height="362" src="https://www.youtube.com/embed/FcJCM8NxEmc" title="P6 Got Talent 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+| <iframe width="644" height="362" src="https://www.youtube.com/embed/FcJCM8NxEmc" title="P6 Got Talent 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|:---:|
+| P6 Got Talent 2019 video |
 
+It is a platform for students to collaborate with their friends in different art form presentations such as dancing, singing, beatboxing, ensemble performances and others. We **encourage creativity** and guide students to **take responsibility** throughout this process of preparation. Students were given choices to select the appropriate songs, choreograph their own dance steps as it will help them to **take ownership** and **maximise their learning**. Teachers and emcees collaborated together to prepare the flow of the items. Teachers vetted the chosen song lyrics and worked together with performers to improvise and improve their performance items. Last year, due to overwhelming responses, selected groups were chosen to perform for their peers during their 2019 graduation party. Performing in-front of their peers on this occasion helped to build their **self-esteem** and **self-confidenc**e. It also created a **sense of belonging** and **camaraderie** with their friends before they leave Queenstown Primary School.
 
+#### **National Platforms for Students to Showcase Their Talent**
+
+##### **5th Steinway Youth Piano Competition, 18th May 2020**
+
+![](/images/music%202.jpg)
+
+<iframe width="638" height="361" src="https://www.youtube.com/embed/wuS7-yQ_fyc" title="Emily Performing Mozart, Sonata in F major, K332 (1st Movement Allegro)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This national competition seeks to **identify, encourage and promote** **young aspiring pianists** in the development stages of their careers. Participants have the freedom to choose pieces that would best represent their musical development.
+
+Emily Li from P4 Honesty 2020 participated in the competition recently. Due to the circuit breaker, it was telecast livestream on 18th May, 2020.
+
+Emily has been faithfully playing her musical pieces to create a conducive environment for students to read during morning assembly. She has been serving and contributing to the well-being of others for the last two years before her music teachers encouraged and collaborated with her parents to prepare her for this Steinway Youth Piano Competition 2020.
+
+It took a tremendous amount of courage, calmness, focus and many hours of practice to memorize her pieces for her performance. Through this journey, Emily has demonstrated one of our school values which is **RESILIENCE.**
+
+Well done, Emily!
