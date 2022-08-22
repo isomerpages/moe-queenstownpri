@@ -31,8 +31,7 @@ We work collaboratively with our colleagues to explore ideas together as a team 
 ##### **3. Reasoning and Communication is our Cornerstone**
 As we strive to develop our students to be Critical Thinkers and effective Problem Solvers, we continue to provide opportunities for students to explain their reasoning and work with their peers in the classroom.
 
-<img src="/images/math%203.jpg" 
-     style="width:85%">		 
+![](/images/math%203.jpg)	 
 
 Guided by the 3 principles, our Educators instill a **_joy of learning_** in Maths by orchestrating meaningful learning experiences in the classroom that allow students to discover mathematical ideas and co-construct mathematical knowledge with their peer. With sound mathematical knowledge, students are guided to adopt a systematic approach through Polya’s Problem Solving process to solve math problems. Teaching of Maths is made accessible for all students through the use of the Concrete-Pictorial-Abstract approach that makes the understanding of key Math concepts accessible for all students.
 
