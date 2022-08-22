@@ -14,11 +14,11 @@ third_nav_title: Mother Tongue
 ##### **Learning ML is FUN!**
 
 <img src="/images/malay%202.jpg" 
-     style="width:85%">
+     style="width:75%">
 <img src="/images/malay%203.jpg" 
-     style="width:85%">
+     style="width:75%">
 <img src="/images/malay%204.jpg" 
-     style="width:85%">		 
+     style="width:65%">		 
 
 ##### **ML Lesson Study**
 
