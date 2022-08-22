@@ -28,7 +28,7 @@ Over the years we have had these volunteers attend the SkillsFuture Fair:
 <img src="/images/skillsfuture%202.jpg" 
      style="width:49%" align=right>
 		 
-<br><br><br><br><br><br>		 
+<br><br><br><br><br><br><br>		 
 Our PSG members who work in the S.E.A aquarium and as an entrepreneur.		
 
 In 2021, the SkillsFuture Fair was organised virtually for our students and we were able to invite professionals to share about their jobs over Zoom.  SuperSteam even managed to send one engineer onsite together with a robot to share more about what they do - the students were really enthused and excited about this.
