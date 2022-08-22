@@ -42,3 +42,5 @@ We place a premium on enabling our students to apply their mathematical thinking
 
 <img src="/images/math%205.jpg" 
      style="width:40%" align= left>
+		 
+**image unavailable**		 
