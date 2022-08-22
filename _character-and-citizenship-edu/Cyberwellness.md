@@ -27,3 +27,29 @@ The Cyber Wellness curriculum is organised into 5 topics:
 |  Cyber Citizenship | * Understanding  the cyber world<br>* Handling online content and behaviour<br>* Having a positive presence in the cyber community |
 |  Cyber Ethics | * Creating and sharing of online content in a responsible manner<br>* Respecting copyright  |
 |
+
+#### **Support at home**
+Parents play a key role in their children’s growth. Students benefit the most when the home and school environments are attuned to each other. To help your child stay safe and have positive experiences online, you can:  
+
+*   Activate parental controls on your home devices.
+*   Model good digital habits for your child.
+*   Set ground rules for internet use.
+*   Navigate the internet together to understand their usage.
+
+#### **Resources**
+Learn more about how to keep your child safe online through these resources:
+
+##### **From MOE**
+*   [Parents, the guardians of internet](https://www.schoolbag.sg/story/parents-the-guardians-of-internet-safety)
+*   [Guide for parents on setting parental controls](https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls)
+*   [Understanding cyber wellness](https://www.schoolbag.sg/story/understanding-cyber-wellness)
+*   [Navigating the cyber world safely](https://www.schoolbag.sg/story/navigating-the-cyber-world-safely)
+*   [ICT in schools: To use or not to use?](https://www.schoolbag.sg/story/ict-in-schools-to-use-or-not-to-use)
+*   [Play safe – avoid online gaming addiction](https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction)
+*   [Safeguarding your child online](https://www.schoolbag.sg/story/safeguarding-your-child-online)
+*   [Exploring online, safely and confidently](https://www.schoolbag.sg/story/exploring-online-safely-and-confidently)
+*   [Keeping our teens safe online](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)
+*   [Parent kit - Supporting your child during full home-based learning](https://www.moe.gov.sg/-/media/files/parent-kit/Parent-Kit_Supporting-your-child-during-Full-HBL.pdf)
+*   [Parent kit - Cyber wellness for your child](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
+
+#####
