@@ -66,6 +66,8 @@ Each week, students write a note of encouragement to friend in the class. A char
 <img src="/images/cce%207.jpg" 
      style="width:49%" align=right>
 		 
+<br><br><br>
+
 #### **Social Skills**
 Being able to interact and work harmoniously with one’s peers help to build positive relationships. Such skills are caught and taught. We believe in helping students work well with each other and we teach them how to do so through social skills taught in FTGP lessons. Each level focuses on 1 skill a Semester and this is reinforced throughout the year.
 
