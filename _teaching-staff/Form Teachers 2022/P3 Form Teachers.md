@@ -16,6 +16,5 @@ third_nav_title: Form Teachers 2022
 |   | Ms Yang Jingning | [yang_jingning@moe.edu.sg](mailto:yang_jingning@moe.edu.sg) |
 |  3 Honesty | Ms Harianti Bte Mohd Ibrahim | [harianti_mohamed_ibrahim@moe.edu.sg](mailto:harianti_mohamed_ibrahim@moe.edu.sg) |
 |   | Mdm Chia Ai Tian | [chia_ai_tian@moe.edu.sg](mailto:chia_ai_tian@moe.edu.sg)  |
-|  3 Joy | Mr Amos Leong Sek Kee | [leong_sek_kee@moe.edu.sg](mailto:leong_sek_kee@moe.edu.sg) |
-|   | Ms Tan Wei Xin | [tan_wei_xin@moe.edu.sg](mailto:tan_wei_xin@moe.edu.sg)  |
-|   |  Mdm Vani Chawla | [vani_chawla@moe.edu.sg](mailto:vani_chawla@moe.edu.sg)  |
+|  3 Joy | Mr Amos Leong Sek Kee <br>Ms Tan Wei Xin <br>Mdm Vani Chawla| [leong_sek_kee@moe.edu.sg](mailto:leong_sek_kee@moe.edu.sg) <br> [tan_wei_xin@moe.edu.sg](mailto:tan_wei_xin@moe.edu.sg)<br>[vani_chawla@moe.edu.sg](mailto:vani_chawla@moe.edu.sg)|
+| 
