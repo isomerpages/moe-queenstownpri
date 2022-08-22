@@ -35,3 +35,21 @@ In the annual cohort camp, students engage in authentic activities and step out 
 
 #### **Sports Education Programme (SEP)**
 Sports Education Programme (SEP) is organized for P3 to P6 students to advocate the importance of sports education, encourage sports participation, and increase the opportunity to engage in sports.
+
+![](/images/PE%207.jpg)
+
+#### **Play@Recess**
+Students engage in unstructured play with their friends during recess. A variety of equipment is provided and students organise their own games.  This is a time when they can play with their friends from different classes too.
+
+![](/images/PE%208.png)
+![](/images/PE%209.png)
+
+#### **Athletics Fiesta**
+In the Athletics Fiesta, students become athletes for the day and engage in friendly competitions. Conducting the event at an external venue raises the excitement and quality of experience!
+
+![](/images/PE%2010.jpg)
+
+#### **PAM Carnival**
+A fun-filled day where students engage in a variety of activities. Sure to bring a smile to their faces!
+
+![](/images/PE%2011.jpg)
