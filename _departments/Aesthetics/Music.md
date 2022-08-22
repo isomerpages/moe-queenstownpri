@@ -64,7 +64,7 @@ Music teachers facilitate and guide students to play the resonator based on how 
 
 ![](/images/music.jpg)
 
-<iframe width="644" height="362" src="https://www.youtube.com/embed/FcJCM8NxEmc" title="P6 Got Talent 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1180" height="664" src="https://www.youtube.com/embed/9vAUrXa96H0" title="2020 P4 Camp Post-Camp Video Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 P6 Got Talent 2019 video
 
