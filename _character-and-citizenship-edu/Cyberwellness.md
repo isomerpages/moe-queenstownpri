@@ -52,4 +52,16 @@ Learn more about how to keep your child safe online through these resources:
 *   [Parent kit - Supporting your child during full home-based learning](https://www.moe.gov.sg/-/media/files/parent-kit/Parent-Kit_Supporting-your-child-during-Full-HBL.pdf)
 *   [Parent kit - Cyber wellness for your child](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
 
-#####
+##### **From external agencies**
+*   [Media Literacy Council](https://www.betterinternet.sg/)
+*   [National Crime Prevention Council](https://www.scamalert.sg/resources/videos)
+*   [S.U.R.E. by National Library Board](https://sure.nlb.gov.sg/)
+*   [Cyber Security Agency](https://csa.gov.sg/programmes/sg-cyber-safe-students)
+
+Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+
+#### **QtPS Cyber Wellness Activities**
+##### **P3 Cyber Wellness Jingles**
+Our P3 students came up with Jingles that convey Cyber Wellness messages that they have learnt in their music lessons. Students are encouraged to recap and convey the Cyber Wellness messages that they have learnt to their fellow students.
+
+
