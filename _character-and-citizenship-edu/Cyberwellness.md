@@ -20,13 +20,10 @@ Cyber Wellness education is usually conducted through CCE lessons during curricu
 The Cyber Wellness curriculum is organised into 5 topics:
 
 | Topics | What your child will learn about |
-|:---:|:---:|
+|:---:|---|
 | Cyber use | * Maintaining a healthy balance of online and offline activities |
 | Cyber identity | Developing a healthy online identity<br>* Appropriate online expression |
 |  Cyber relationships | * Netiquette<br>* Cyber bullying<br>* Developing safe, respectful and meaningful online relationships  |
 |  Cyber Citizenship | * Understanding  the cyber world<br>* Handling online content and behaviour<br>* Having a positive presence in the cyber community |
 |  Cyber Ethics | * Creating and sharing of online content in a responsible manner<br>* Respecting copyright  |
-| 
-
-
-
+|
