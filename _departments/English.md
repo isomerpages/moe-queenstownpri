@@ -46,10 +46,13 @@ These strategies reinforce authentic learning, phonological awareness, reading, 
 		 
 <img src="/images/English%202a.jpg" 
      style="width:55%">		
+		 
 <img src="/images/English%203a.jpg" 
      style="width:55%">		 
+		 
 <img src="/images/English%204a.jpg" 
      style="width:55%">		 
+		 
 <img src="/images/English%205a.jpg" 
      style="width:55%">		 		 
 		 
