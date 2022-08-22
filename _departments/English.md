@@ -46,6 +46,19 @@ These strategies reinforce authentic learning, phonological awareness, reading, 
 		 
 <img src="/images/English%202.jpg" 
      style="width:55%">
+Group Writing
+
+<img src="/images/English%203.jpg" 
+     style="width:55%">
+Collaborative Group Work		 
+		 
+<img src="/images/English%204.jpg" 
+     style="width:55%">
+Pizza Making		 
+		 
+<img src="/images/English%205.jpg" 
+     style="width:55%">		 
+Reader's Theatre		 
 		 
 Besides the various Oracy activities that are carried out in the English classes, our P1 and P2 students learn to be confident speakers through the provision of enrichment programmes such as Show and Tell and Readers Theatre.
 
