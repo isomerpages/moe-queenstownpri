@@ -2,6 +2,7 @@ collections:
   character-and-citizenship-edu:
     output: true
     order:
+      - Overview.md
       - Values in Action (VIA).md
       - SkillsFuture Week.md
       - Internationalisation Programme.md
