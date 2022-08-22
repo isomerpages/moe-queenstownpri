@@ -45,4 +45,20 @@ These strategies reinforce authentic learning, phonological awareness, reading, 
      style="width:65%">
 		 
 <img src="/images/English%202.jpg" 
-     style="width:55%">		 
+     style="width:55%">
+		 
+Besides the various Oracy activities that are carried out in the English classes, our P1 and P2 students learn to be confident speakers through the provision of enrichment programmes such as Show and Tell and Readers Theatre.
+
+As we firmly believe in giving our students a strong foundation in English, we have various support programmes to ensure our students achieve basic literacy skills. The programmes are as presented in the table below:
+
+| Level | Programme |
+|:---:|:---:|
+| Primary 1 | Learning Support Programme (LSP) <br>AM Read Programme |
+| Primary 2 | Learning Support Programme (LSP) <br>AM Read Programme |
+| Primary 3 | School Dyslexia Remediation Programme (SDR) <br>Reading Remediation Programme (RRP) |
+| Primary 4 | School Dyslexia Remediation Programme (SDR) <br>Reading Remediation Programme (RRP)  |
+|
+
+<img src="/images/English%206.jpg" 
+     style="width:55%">
+Oracy Lesson
