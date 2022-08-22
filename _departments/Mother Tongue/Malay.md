@@ -8,7 +8,8 @@ third_nav_title: Mother Tongue
 
 ##### **ICT in ML Classroom**
 
-![](/images/malay%201a.jpg)
+<img src="/images/malay%201a.jpg" 
+     style="width:85%">
 
 ##### **Learning ML is FUN!**
 
