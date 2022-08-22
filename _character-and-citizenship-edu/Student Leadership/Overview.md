@@ -10,6 +10,7 @@ Student Leadership Vision: Confident Individual, Effective Leader
 
 Student Leadership Structure:
 
-![](/images/student%20leadership.png)
+<img src="/images/student%20leadership.png" 
+     style="width:85%">
 
 Our Approach: “The Leadership Challenge” Model by Barry Posner & James Kouzes
