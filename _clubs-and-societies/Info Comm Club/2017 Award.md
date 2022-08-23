@@ -25,23 +25,23 @@ From Left , Kaung Khant Kyaw , Tong Jia Xian, Evangelyn Siau, Woo Yu Hung
 ##### **Photo Festival 2017**<br>**Group Special Mention Award**
 <img src="/images/2017%20award%203.jpg" 
      style="width:75%" align=left>
-<br><br><br><br>
+<br><br><br><br><br><br>
 <br><br><br><br><br><br>
 People’s Choice Award- Kolam Ayer Memories- Evangelyn Siau
 <br><br>
 <img src="/images/2017%20award%204.jpg" 
      style="width:75%" align=left>
-<br><br><br><br>
+<br><br><br><br><br><br>
 <br><br><br><br><br><br>
 Landscape- Tong Jia Xian		 
 <img src="/images/2017%20award%205.jpg" 
      style="width:75%" align=left>
-<br><br><br><br>
+<br><br><br><br><br><br>
 <br><br><br><br><br><br>
 Nature- Woo Yu Hung
 <br><br>
 <img src="/images/2017%20award%206.jpg" 
      style="width:75%" align=left>
-<br><br><br><br>
-<br><br><br><br><br>		 
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>		 
 Family Bonding - Kaung Khant Kyaw
