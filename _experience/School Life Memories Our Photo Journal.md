@@ -28,7 +28,7 @@ description: ""
 ![](/images/p1%20joy.gif)
 
 ##### **P1 P4 Buddy**
-
+![](/images/p1%20buddy.gif)
 
 ##### **P1 Peace 1st Day**
 ![](/images/p1%20peace.gif)
