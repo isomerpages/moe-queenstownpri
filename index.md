@@ -34,18 +34,17 @@ sections:
       title: CCE
       description: Character & Citizenship Education
       button: Click here
-      url: https://queenstownpri.moe.edu.sg/departments/character-and-citizenship-education
+      url: https://staging.d3haevm43m8pfu.amplifyapp.com/departments/CCE/
       alt: Image alt text
   - infopic:
       title: CCA
       description: Co-Curricular Activities
       button: click here
-      url: https://queenstownpri.moe.edu.sg/departments/character-and-citizenship-education
+      url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/
       alt: Image alt text
   - infopic:
       title: Photo Journal
       button: click here
-      url: https://queenstownpri.moe.edu.sg/departments/character-and-citizenship-education
+      url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/school-life-memories-our-photo-journal/
       alt: Image alt text
 ---
-
