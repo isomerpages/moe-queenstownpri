@@ -78,5 +78,8 @@ One jingle was chosen from each class and played to the students during the Cybe
 <img src="/images/cyberwellness%203.png" 
      style="width:85%">
 <img src="/images/cyberwellness%204.png" 
-     style="width:85%">		 
+     style="width:85%">
+		 
+P5 students design Cyber Wellness Posters during their art lesson.
 
+These posters are used to create Cyber Wellness awareness among their peers during the Cyber Wellness Week. At the same time, students are given an opportunity to apply what they have learnt during their FTGP Cyber Wellness lessons in their posters.
