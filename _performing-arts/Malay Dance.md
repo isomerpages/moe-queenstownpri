@@ -40,7 +40,7 @@ It is just not about dancing! As Malay Dance members, students are ambassadors i
      style="width:49%" align=left>
 <img src="/images/Malay%20Dance%20Pic%204.jpeg" 
      style="width:49%" align=right>		 
-<br><br><br><br><br><br>		 
+<br><br><br><br><br><br><br><br>		 
 <img src="/images/ML%20Dance%20Pic%205.jpg" 
      style="width:85%" >
 		 
