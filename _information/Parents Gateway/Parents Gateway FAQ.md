@@ -24,7 +24,7 @@ If you fall into any of the following categories, you are eligible to apply for 
     v. Dependant Pass holders (of EP, PEP, EntrePass and S-Pass holders)  
     vi. Long Term Visit Pass-Plus (LTVP+) holders vii. Long Term Visit Pass holders  
     viii. Selected Work Permit Holders who require SingPass to access government digital services.  
-Visit [WPOL Enquiry Service](https://wponline.mom.gov.sg/WPOLLoginController?action=WPOLLoginAction&actionType=WPOLNonLogin)**broken link** to check your status.
+Visit [WPOL Enquiry Service](https://wponline.mom.gov.sg/WPOLLoginController?action=WPOLLoginAction&actionType=WPOLNonLogin) **broken link** to check your status.
 
 \[WPOL link: [http://www.ifaq.gov.sg/SINGPASS/apps/fcd\_faqmain.aspx#FAQ\_2101385](http://www.ifaq.gov.sg/SINGPASS/apps/fcd_faqmain.aspx#FAQ_2101385)\] **broken link**
 
@@ -36,4 +36,3 @@ Please visit the SingPass website ([https://www.singpass.gov.sg](https://www.sin
 You can also download the following PDF: [Registering for SingPass.pdf](/files/Registering%20for%20SingPass.pdf)
 
 Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.
-
