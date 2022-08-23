@@ -2,5 +2,6 @@ collections:
   performing-arts:
     output: true
     order:
+      - International Dance.md
       - Malay Dance.md
       - Drama Club.md
