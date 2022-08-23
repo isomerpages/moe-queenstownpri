@@ -2,5 +2,6 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Info Comm Club/2017 Award.md
       - Info Comm Club/2017 Award (6th National Young Shutterbugs).md
       - Info Comm Club/.keep
