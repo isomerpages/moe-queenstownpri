@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
+      - School Corporate Video.md
+      - Parents' Voices/.keep
       - Parents' Voices/Overview.md
       - Parents' Voices/Ice Lee.md
       - Parents' Voices/Michelle Ong.md
@@ -16,8 +18,6 @@ collections:
       - Parents' Voices/Pam Oei.md
       - Parents' Voices/Dr Chua Guan Leong.md
       - Parents' Voices/Dr Melissa Tien.md
-      - Parents' Voices/.keep
-      - School Corporate Video.md
       - Facilities.md
       - Co Curricular Activities (CCA).md
       - Frequently Asked Questions (FAQ).md
