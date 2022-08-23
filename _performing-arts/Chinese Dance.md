@@ -44,8 +44,9 @@ Singapore Youth Festival (SYF) Art Presentation 2018— Certificate of Accomplis
      style="width:49%" align=left>
 <img src="/images/chi%20dance%202.jpg" 
      style="width:49%" align=right>		 
-<bR><br><br><br><br><br>
+<bR><br><br><br>
+<br><br><br><br>
 <img src="/images/chi%20dance%203.jpg" 
      style="width:49%" align=left>
 <img src="/images/chi%20dance%204.jpg" 
-     style="width:49%" align=right>		 
+     style="width:49%" align=right>
