@@ -2,4 +2,5 @@ collections:
   useful-links:
     output: true
     order:
+      - For Teachers.md
       - School Calender of Events.md
