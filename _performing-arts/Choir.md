@@ -56,3 +56,4 @@ Choir CCA - Student Voices
 <iframe width="644" height="364" src="https://www.youtube.com/embed/Fl9gB0y-E68" title="Choir CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 "Thunder" Music Video 2021
+<iframe width="642" height="360" src="https://www.youtube.com/embed/CRlxXZO159o" title="Thunder QTPS Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
