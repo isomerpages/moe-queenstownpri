@@ -2,6 +2,7 @@ collections:
   physical-sports:
     output: true
     order:
+      - Basketball/Photo Journal.md
       - Basketball/.keep
       - Football.md
       - Softball.md
