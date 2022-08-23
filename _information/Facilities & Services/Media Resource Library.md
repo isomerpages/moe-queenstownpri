@@ -10,12 +10,14 @@ third_nav_title: Facilities & Services
      style="width:49%" align=left>
 <img src="/images/media%202.jpg" 
      style="width:49%" align=right>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
 <img src="/images/media%203.jpg" 
      style="width:49%" align=left>
 <img src="/images/media%204.jpg" 
      style="width:49%" align=right>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
 <img src="/images/media%205.jpg" 
      style="width:49%" align=left>
 <img src="/images/media%206.jpg" 
