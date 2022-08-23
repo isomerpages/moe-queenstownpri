@@ -6,7 +6,7 @@ description: ""
 ### **For Students**
 
 *   [QtPS eLearning Website](https://sites.google.com/moe.edu.sg/elearning-queenstown-primary/home)
-*   [Student Learning Space](https://queenstownpri.moe.edu.sg/useful-links/for-students/student-learning-space)
+*   [Student Learning Space](https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/sls/)
 *   [Student ICON](https://queenstownpri.moe.edu.sg/useful-links/for-students/student-ICON)
 *   [iMTL](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)  
     
