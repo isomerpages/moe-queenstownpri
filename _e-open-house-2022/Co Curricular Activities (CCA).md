@@ -18,6 +18,15 @@ Watch our **students' interviews** where they share their experiences as they 
 
 Click on the link to read more about [Science and Green Club], [Info-Comm Club], [Weiqi Club], [Scrabble Club] or [Visual Art Club]
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_lWqz_1TmA" title="QtPS Uniformed Group and Sports CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click on the link to read more about [Boys' Brigade], [Girls' Brigade], 
+[Softball], [Basketball], [Swimming], [Football] or [Badminton].
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uATAo24pK6Q" title="QtPS Performing Arts CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click on the link to read more about [Drama Club], [Malay Dance], [Chinese Orchestra], [Indian Dance, Choir], [Chinese Dance] or [International Dance].
+
 <p><a href="https://staging.d3haevm43m8pfu.amplifyapp.com/eopenhouse/overview/">
 <img style="width:45%" src="/images/openhouse%20return.png">
 </a></p>
