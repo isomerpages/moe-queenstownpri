@@ -32,14 +32,20 @@ Singapore Youth Festival (SYF) Arts Appreciation 2016 - Certificate of Accomplis
 
 #### **Photo**
 
-![](/images/IntDance-1.jpg)
+<img src="/images/IntDance-1.jpg" 
+     style="width:65%">
 
-![](/images/IntDance-2.jpg)
+<img src="/images/IntDance-2.jpg" 
+     style="width:65%">
+		 
+<img src="/images/IntDance-3.jpg" 
+     style="width:75%">		 
 
-![](/images/IntDance-3.jpg)
+<img src="/images/IntDance-4.jpg" 
+     style="width:75%">		 
+		 
+<img src="/images/IntDance-5.jpg" 
+     style="width:75%">		 		 
 
-![](/images/IntDance-4.jpg)
-
-![](/images/IntDance-5.jpg)
-
-![](/images/IntDance-6.jpg)
+<img src="/images/IntDance-6.jpg" 
+     style="width:65%">		 
