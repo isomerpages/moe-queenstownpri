@@ -25,5 +25,5 @@ For enquiries, please contact IMDA at 6377 3800 or email [NEUPC@imda.gov.sg](ma
 
 #### **How to apply?**
 
-Parents/guardians who wish to apply for NEU PC Plus Programme can download the application form [here](https://www.imda.gov.sg/-/media/Imda/Files/Programme/NEU-PC-Plus/NPP-Application-Form-for-MOE-SPED-FAS.pdf?la=en&hash=93D036BD2ED116215C630752F09EC916) or apply online through [Digital Access Programme eService](https://eservice.imda.gov.sg/das/homepage).<br>
+Parents/guardians who wish to apply for NEU PC Plus Programme can download the application form [here](/files/NPP%20Application%20Form%20for%20MOE-SPED%20FAS.pdf) or apply online through [Digital Access Programme eService](https://eservice.imda.gov.sg/das/homepage).<br>
 You will be informed by the Lead Agency of the outcome of your application by post.
