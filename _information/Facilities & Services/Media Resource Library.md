@@ -20,3 +20,9 @@ third_nav_title: Facilities & Services
      style="width:49%" align=left>
 <img src="/images/media%206.jpg" 
      style="width:49%" align=right>
+		 
+Our MRL offers a wide variety of books and information that empower our pupils with values and knowledge.
+
+#### **Opening Hours**
+Monday to Friday: 8.00 am - 4.30 pm <br>
+Monday to Friday: 8.00 am - 1.00 pm (School Holidays)
