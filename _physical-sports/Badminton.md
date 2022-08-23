@@ -31,16 +31,20 @@ Junior Boys - Qualified for Second Round of the 2018 National Schools Games (Sou
 
 #### **Photos**
 
-![](/images/bmt%201.jpg)
+<img src="/images/bmt%201.jpg" 
+     style="width:85%">
 
-![](/images/bmt%202.jpg)
+<img src="/images/bmt%202.jpg" 
+     style="width:65%">
 
 ![](/images/bmt%203.jpg)
 
 ![](/images/bmt%204.jpg)
 
-![](/images/bmt%205.jpg)
+<img src="/images/bmt%205.jpg" 
+     style="width:65%">
 
-![](/images/bmt%206.jpg)
+<img src="/images/bmt%206.jpg" 
+     style="width:65%">
 
 ![](/images/bmt%207.jpg)
