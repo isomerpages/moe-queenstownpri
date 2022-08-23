@@ -47,7 +47,7 @@ Singapore Youth Festival (SYF) Appreciation 2016 - Certificate of Distinction
 ![](/images/indian%20dance%203.jpg)
 ![](/images/indian%20dance%204.jpg)
 <img src="/images/indian%20dance%205.jpg" 
-     style="width:65%">
+     style="width:75%">
 <img src="/images/indian%20dance%206.jpg" 
      style="width:45%">		 
 ![](/images/indian%20dance%207.jpg)
