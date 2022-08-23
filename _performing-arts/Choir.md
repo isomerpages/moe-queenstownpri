@@ -57,3 +57,6 @@ Choir CCA - Student Voices
 
 "Thunder" Music Video 2021
 <iframe width="642" height="360" src="https://www.youtube.com/embed/CRlxXZO159o" title="Thunder QTPS Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+QtPS Choir Warm Up during SYF Rehearsal 2020 @ SOTA
+<iframe width="640" height="362" src="https://www.youtube.com/embed/dtgGmIt6D_I" title="QtPS Choir Warm Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
