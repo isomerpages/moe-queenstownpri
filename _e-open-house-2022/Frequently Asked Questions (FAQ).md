@@ -113,6 +113,36 @@ It would be good to teach your child how to count money in preparation for schoo
 **26. Is there Halal food sold in the canteen?**<br>
 Stalls 5, 6 and 7 are Halal Certified by MUIS and sell Halal food only. Stall 8 sells Halal steamed buns.
 
+##### **Orientation & Buddy System**
+**27. How do students familiarise themselves with the school?**<br>
+On P1 Orientation Day, students will be introduced to various parts of the school through a guided school tour by our student leaders.
+
+For the first 2 weeks of school, P1 students will be paired with P4 buddies during recess.
+
+P4 buddies will assist P1 students with recess routines such as buying food at the canteen and items from the bookshop. They will also get P1 students familiar with the school compound and be a friend to them.
+
+Form Teachers, the Year Head/Assistant Year Head for P1 as well as student leaders will also be guiding your child/ward when moving around the school.
+
+**28. When is P1 Orientation Day? What happens on this day?**<br>
+Both parents/guardians and students will be invited to P1 Orientation Day.
+
+Students will get to meet their new classmates and enjoy meaningful activities together in their classrooms. In addition, they will also be taken on a guided school tour by our very own student leaders to familiarise them with common places in the school compound. 
+
+Parents/guardians will be welcomed and engaged by our school leaders (Principal and Vice-principals) in the hall on important school information to kick-start their child's / ward's journey as part of our QtPS family.
+
+##### **Student Management**
+**29. How does the school manage bullying?**<br>
+All students are educated on what bullying is at various platforms, such as during Form Teacher Guidance Period (FTGP) lessons. Students are taught explicit skills to manage or report bullying cases to their teachers. Students are also encouraged to share their concerns with a trusted adult, such as parents and teachers. The school works hand in hand with parents on any concern raised.
+
+In the event that bullying has been reported, Form Teachers and Year Heads will carry out thorough investigations with all parties involved, ensuring the accuracy of information and fairness to all parties involved. If the case of bullying is found to be true, necessary follow-ups with parents and students involved will take place. The aim of these follow-ups is to educate students about their actions and consequences. In QtPS, we take on restorative practices and social skills equipping as two of our core practices to educate our students and to mend relationships that have been strained. In more serious cases, the discipline master will be called upon for further investigations and to mete out necessary consequences. The school adopts a zero tolerance stance towards bullying.
+
+##### **Special Education Needs (SEN)**
+**30. How does the school support students with learning and behavioural needs?**<br>
+Support for students learning and behavioural needs is available in the school. A team of specially trained teachers, Allied Educators (Learning & Behavioural Support) [AED(LBS)], Allied Educators (Counselling) [AED(Counselling)], as well as MOE Psychologists work together to identify and support students' needs through various programmes and Individualised Education Plans (IEPs).
+
+##### **Transition from Kindergarten to Primary School**
+
+
 
 <p><a href="https://staging.d3haevm43m8pfu.amplifyapp.com/eopenhouse/overview/">
 <img style="width:45%" src="/images/openhouse%20return.png">
