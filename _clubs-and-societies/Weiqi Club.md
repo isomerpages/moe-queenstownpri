@@ -84,3 +84,9 @@ I joined Weiqi CCA for two years when I was in P3.I joined this CCA because I th
 
 <img src="/images/weiqi%202.jpg" style="width:45%;margin-right:15px;" align = "left">
 I joined Weiqi CCA for four years when I was in P3. I watched some Weiqi competition videos and a series of Weiqi anime Video (Hikaru No Go) and I begin to find it interesting and fun to learn Weiqi. I still remembered that during P2 CCA Trial, when I played the Weiqi board game for the first time, I felt excited and decided to join Weiqi CCA. During Weiqi CCA, I also have a chance to solve challenging questions together with my peers; it helps me to work my brain and learn from mistakes too. I also had the opportunity to represent the school to participate in the inter-school competition. I can learn more Weiqi strategies from my opponents from other schools. As a Weiqi senior member, I have opportunity to pair up with the juniors to coach them and enhance their Weiqi skills. It also trains my leadership skills to be a better communicator. It also trains my perseverance when I get tired in a long game
+
+![](/images/weiqi%203.jpg)
+
+![](/images/weiqi%204.jpg)
+
+![](/images/weiqi%205.jpg)
