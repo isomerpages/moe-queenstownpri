@@ -31,4 +31,16 @@ Through participation in the CCA, our swimmers will endeavour towards maintainin
 #### **CCA Achievement**
 Students from our Swimming CCA took part in the 60th National Primary School Swimming Championships 2019. Our boys’ 4 x 50m Freestyle Relay team attained a commendable 5th position in the Final and achieved a personal best timing.
 
+#### **Photos**
 
+<img src="/images/swimming%201.jpg" 
+     style="width:75%">
+
+<img src="/images/swimming%202.jpg" 
+     style="width:75%">
+		 
+<img src="/images/swimming%203.jpg" 
+     style="width:75%">
+		 
+<img src="/images/swimming%204.jpg" 
+     style="width:65%">		 
