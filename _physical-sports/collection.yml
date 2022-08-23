@@ -1,0 +1,4 @@
+collections:
+  physical-sports:
+    output: true
+    order: []
