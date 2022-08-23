@@ -7,7 +7,7 @@ third_nav_title: Parents' Voices
 ### **Michelle Ong**
 
 <img src="/images/MichelleOng-P.jpg" 
-     style="width:4%">
+     style="width:45%">
 		 
 ##### **Why my children & I like the school?**
 The caring culture of the school is something my 2 children & I like right from the beginning when my daughter started P1 back in 2015 til now that my son is in P6.
