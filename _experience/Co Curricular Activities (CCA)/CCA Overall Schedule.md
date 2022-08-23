@@ -21,8 +21,8 @@ Various teachers (see below)
 
 | CCA | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
-| Boys' Brigade | Fri<br>2.15 pm - 4.15 pm | Classroom | Mr Jason Seng (OIC)<br>seng_puay_liang@moe.edu.sg<br>Ms Kaycee Ng Wan Quan <br>ng_wan_quan_kaycee@moe.edu.sg<br>Mr Mark Teo<br>teo_nam_hua@moe.edu.sg |
-| Girls' Brigade | Fri<br>2.15 pm - 4.15 pm | Classroom  | Ms Qian Li (OIC)<br>qian_li@moe.edu.sg<br><br>Ms Wee Su Ern<br>wee_su_ern@moe.edu.sg <br><br>Ms Labelle Lee<br>lee_kum_foong@moe.edu.sg |
+| Boys' Brigade | Fri<br>2.15 pm - 4.15 pm | Classroom | Mr Jason Seng (OIC)<br>[seng_puay_liang@moe.edu.sg](mailto:seng_puay_liang@moe.edu.sg)<br>Ms Kaycee Ng Wan Quan <br>[ng_wan_quan_kaycee@moe.edu.sg](mailto:ng_wan_quan_kaycee@moe.edu.sg)<br>Mr Mark Teo<br>[teo_nam_hua@moe.edu.sg](mailto:teo_nam_hua@moe.edu.sg) |
+| Girls' Brigade | Fri<br>2.15 pm - 4.15 pm | Classroom  | Ms Qian Li (OIC)<br>[qian_li@moe.edu.sg](mailto:qian_li@moe.edu.sg)<br><br>Ms Wee Su Ern<br>[wee_su_ern@moe.edu.sg](mailto:wee_su_ern@moe.edu.sg) <br><br>Ms Labelle Lee<br>[lee_kum_foong@moe.edu.sg](mailto:lee_kum_foong@moe.edu.sg) |
 |
 
 #### **Performing Arts**
