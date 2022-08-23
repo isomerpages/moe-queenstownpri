@@ -25,7 +25,7 @@ Click on the link to read more about [Boys' Brigade](https://staging.d3haevm43m8
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uATAo24pK6Q" title="QtPS Performing Arts CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click on the link to read more about [Drama Club], [Malay Dance], [Chinese Orchestra], [Indian Dance, Choir], [Chinese Dance] or [International Dance].
+Click on the link to read more about [Drama Club](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/performing-arts/drama-club/), [Malay Dance](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/performing-arts/malay-dance/), [Chinese Orchestra](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/performing-arts/chinese-orchestra/), [Indian Dance](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/performing-arts/indian-dance/), [Choir](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/performing-arts/), [Chinese Dance](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/performing-arts/chinese-dance/) or [International Dance](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/performing-arts/international-dance/).
 
 <p><a href="https://staging.d3haevm43m8pfu.amplifyapp.com/eopenhouse/overview/">
 <img style="width:45%" src="/images/openhouse%20return.png">
