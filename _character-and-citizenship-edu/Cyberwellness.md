@@ -63,3 +63,20 @@ Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](
 #### **QtPS Cyber Wellness Activities**
 ##### **P3 Cyber Wellness Jingles**
 Our P3 students came up with Jingles that convey Cyber Wellness messages that they have learnt in their music lessons. Students are encouraged to recap and convey the Cyber Wellness messages that they have learnt to their fellow students.
+
+<img src="/images/cyberwellness.png" 
+     style="width:85%">
+		 
+One jingle was chosen from each class and played to the students during the Cyber Wellness week through a recorded video
+
+##### **P5 Cyber Wellness Posters** 
+
+<img src="/images/cyberwellness%201.png" 
+     style="width:85%">
+<img src="/images/cyberwellness%202.png" 
+     style="width:85%">
+<img src="/images/cyberwellness%203.png" 
+     style="width:85%">
+<img src="/images/cyberwellness%204.png" 
+     style="width:85%">		 
+
