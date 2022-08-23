@@ -60,3 +60,6 @@ Choir CCA - Student Voices
 
 QtPS Choir Warm Up during SYF Rehearsal 2020 @ SOTA
 <iframe width="640" height="362" src="https://www.youtube.com/embed/dtgGmIt6D_I" title="QtPS Choir Warm Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+QtPS Choir Friendship Song during SYF Rehearsal @ SOTA
+<iframe width="640" height="362" src="https://www.youtube.com/embed/5wvexQLdacA" title="QtPS Choir Friendship Song 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
