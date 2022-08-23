@@ -3,7 +3,6 @@ title: Science and Green Club
 permalink: /experience/CCA/clubs-and-societies/science-and-green-club/
 description: ""
 ---
-
 ### **Science and Green Club**
 #### **CCA Teachers-in-Charge**
 Ms Choo Ruofei (OIC)<br>
@@ -24,10 +23,10 @@ Life Science Room
 
 <img src="/images/green%20club%20achievement%201.png" 
      style="width:45%" align=left>
-<br><br><br>		 
+<br><br><br><br><br>		 
 <img src="/images/green%20club%20achievement%202.png" 
      style="width:45%" align=left>		 
-<br><br><br>		 		 
+<br><br><br><br><br>		 		 
 Sustained Vanda Miss Joaquim Award 2021<br>
 Vanda Miss Joaquim Award (2018 and 2019)<br>
 Lotus Sustained Achievement Award in 2017<br>
