@@ -36,7 +36,7 @@ People’s Choice Award- Kolam Ayer Memories- Evangelyn Siau
 Landscape- Tong Jia Xian		 
 <img src="/images/2017%20award%205.jpg" 
      style="width:75%" align=left>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br>
 Nature- Woo Yu Hung
 <br><br>
