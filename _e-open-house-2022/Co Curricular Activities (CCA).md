@@ -21,7 +21,7 @@ Click on the link to read more about [Science and Green Club], [Info-Comm Club
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l_lWqz_1TmA" title="QtPS Uniformed Group and Sports CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Click on the link to read more about [Boys' Brigade](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/uniformed-groups/), [Girls' Brigade](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/uniformed-groups/girls-brigade/), 
-[Softball], [Basketball], [Swimming], [Football] or [Badminton].
+[Softball](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/physical-sports/softball/), [Basketball](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/physical-sports/basketball/), [Swimming](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/physical-sports/swimming/), [Football](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/physical-sports/football/) or [Badminton](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/physical-sports/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uATAo24pK6Q" title="QtPS Performing Arts CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
