@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Weiqi Club.md
       - Scrabble Club.md
       - Info Comm Club/Infocomm Club.md
       - Info Comm Club/2017 Award.md
