@@ -69,3 +69,9 @@ QtPS Choir Performing "Happier" @ National A Capella Championships 2019
 **unable to insert video,cms error**
 
 QtPS Choir Performing "Human" @ National A Capella Championships 2019
+
+**unable to insert video,cms error**
+
+QtPS Choir Performing "Fight Song" @ National A Capella Championships 2019
+
+**unable to insert video,cms error**
