@@ -7,7 +7,7 @@ third_nav_title: Parents' Voices
 ### **Ice Lee**
 
 <img src="/images/IceLee_1.jpg" 
-     style="width:25%">
+     style="width:45%">
 		 
 ##### **Why do you or your child like the school?**
 I have had the unique opportunity to experience this from several angles, this being my 5th year serving as a parent volunteer in QtPS.
