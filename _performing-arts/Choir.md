@@ -53,5 +53,6 @@ Students also learn by reflecting on their own music making process and singing 
 #### **Videos**
 
 Choir CCA - Student Voices
+<iframe width="644" height="364" src="https://www.youtube.com/embed/Fl9gB0y-E68" title="Choir CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="85%" src="https://www.youtube.com/embed/Fl9gB0y-E68" title="Choir CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"Thunder" Music Video 2021
