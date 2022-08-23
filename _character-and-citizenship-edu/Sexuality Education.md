@@ -80,7 +80,7 @@ c. [Civics and Moral Education / Character and Citizenship Education](http://ww
 #### **INFORMATION FOR PARENTS**
 8\. Parents may opt their children out of the Growing Years programme, and/or sexuality education programmes by external providers.
 
-9\. Parents who wish to opt their children out of the Growing Years programme need to complete an opt-out form. This form will be distributed to parents in Term 4 week 1 and is also downloadable [here](https://queenstownpri.moe.edu.sg/qql/slot/u317/Sexuality%20Education/Sexuality%20Education%20Opt%20Out%20Form.doc) . A hardcopy of the form, duly completed and signed, is to be submitted to the school office by Term 4 week 2.
+9\. Parents who wish to opt their children out of the Growing Years programme need to complete an opt-out form. This form will be distributed to parents in Term 4 week 1 and is also downloadable [here](/files/sex%20edu%20opt%20out%20form.pdf) . A hardcopy of the form, duly completed and signed, is to be submitted to the school office by Term 4 week 2.
 
 10\. Parents may wish to attend the school sexuality education programmes with their children. Parents should contact the school to make the necessary arrangements.
 
