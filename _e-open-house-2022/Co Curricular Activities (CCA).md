@@ -16,7 +16,7 @@ Watch our **students' interviews** where they share their experiences as they 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJJJxV7Y7Y8" title="QtPS CLUBS CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click on the link to read more about [Science and Green Club], [Info-Comm Club], [Weiqi Club], [Scrabble Club] or [Visual Art Club]
+Click on the link to read more about [Science and Green Club](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/clubs-and-societies/), [Info-Comm Club](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/clubs-and-societies/infocomm/), [Weiqi Club](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/clubs-and-societies/weiqi-club/), [Scrabble Club](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/clubs-and-societies/scrabble-club/) or [Visual Art Club](https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/clubs-and-societies/visual-art-club/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l_lWqz_1TmA" title="QtPS Uniformed Group and Sports CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
