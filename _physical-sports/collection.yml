@@ -1,4 +1,5 @@
 collections:
   physical-sports:
     output: true
-    order: []
+    order:
+      - Swimming.md
