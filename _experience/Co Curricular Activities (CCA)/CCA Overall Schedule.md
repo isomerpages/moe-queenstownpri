@@ -29,13 +29,13 @@ Various teachers (see below)
 
 | CCA | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
-| Choir | Tue & Fri<br>2.15 pm - 4.15 pm (non-SYF period)<br>2.30 pm - 5.00 pm (SYF period)<br>3.00 pm - 4.00 pm (Zoom) | eCCA | Mrs Garcia-Quek Siew Kee (OIC)<br>quek_siew_kee@moe.edu.sg<br>Ms Peck Siew Ling<br>peck_siew_ling@moe.edu.sg<br><br>Mdm Vaani<br>thamizhvaani_veeraian@moe.edu.sg  |
-| Chinese Orchestra | Tue & Fri<br>2.15 pm - 4.15 pm | Band Room<br>AVA Room<br>Classroom | Mdm Yap Eng Fui (OIC)<br>yap_eng_fui@moe.edu.sg<br><br>Ms Liu Zijing<br>liu_zi_jing@moe.edu.sg<br><br>Mdm Liu Xi<br>liu_xi@moe.edu.sg |
-| International Dance | Tue & Fri<br>2.30 pm - 4.30 pm |  <br>Dance Studio | Ms Lu Wei (OIC)<br>lu_wei@moe.edu.sg<br>Mdm Zaheedah<br>zaheedah_bee_mohd_samsudin@moe.edu.sg<br>Mrs Sharon Ng<br>chet_yee_monica_sharon@moe.edu.sg<br>Ms Nurul Naqiyyah<br>nurul_naqiyyah_mohd_kamal@moe.edu.sg |
-| Chinese Dance | Fri<br>2.30 pm - 4.30 pm | Music Room 1 | Mdm Chia Ai Tian (OIC)<br>chia_ai_tian@moe.edu.sgMdm Li Lingbo<br><br>li_lingbo@moe.edu.sg<br>Mdm Kang Li Ping<br>kang_li_ping@moe.edu.sg |
-| Indian Dance | Fri<br>2.15 pm - 4.15 pm | PAL Room 2 | Ms Ho Li Ming (OIC)<br>ho_li_ming@moe.edu.sg<br><br>Mdm Najumunisha<br>najumunisha_sahul_hameed@moe.edu.sg |
-| Malay Dance |  Tue<br>2.15 pm - 4.15 pm | PAL Room 1 | Mdm Siti-Hamesiah (OIC)<br>siti-hamesiah_samsudin@moe.edu.sg<br>Mdm Norwati Neswan<br>norwati_neswan@moe.edu.sg |
-| Drama Club | Fri<br>2.30 pm - 4.30 pm | PAL Room 1 | Ms Muzaiyanah (OIC)<br>muzaiyanah_mohamed_ali@moe.edu.sg<br>Mdm Asmahliah<br>asmahliah_abu_bakar@moe.edu.sg <br>Ms Lee Yee Hueh<br>lee_yee_hueh@moe.edu.sg  |
+| Choir | Tue & Fri<br>2.15 pm - 4.15 pm (non-SYF period)<br>2.30 pm - 5.00 pm (SYF period)<br>3.00 pm - 4.00 pm (Zoom) | eCCA | Mrs Garcia-Quek Siew Kee (OIC)<br>[quek_siew_kee@moe.edu.sg](mailto:quek_siew_kee@moe.edu.sg)<br>Ms Peck Siew Ling<br>[peck_siew_ling@moe.edu.sg](mailto:peck_siew_ling@moe.edu.sg)<br><br>Mdm Vaani<br>[thamizhvaani_veeraian@moe.edu.sg](mailto:thamizhvaani_veeraian@moe.edu.sg)  |
+| Chinese Orchestra | Tue & Fri<br>2.15 pm - 4.15 pm | Band Room<br>AVA Room<br>Classroom | Mdm Yap Eng Fui (OIC)<br>[yap_eng_fui@moe.edu.sg](mailto:yap_eng_fui@moe.edu.sg)<br><br>Ms Liu Zijing<br>[liu_zi_jing@moe.edu.sg](mailto:liu_zi_jing@moe.edu.sg)<br><br>Mdm Liu Xi<br>[liu_xi@moe.edu.sg](mailto:liu_xi@moe.edu.sg) |
+| International Dance | Tue & Fri<br>2.30 pm - 4.30 pm |  <br>Dance Studio | Ms Lu Wei (OIC)<br>[lu_wei@moe.edu.sg](mailto:lu_wei@moe.edu.sg)<br>Mdm Zaheedah<br>[zaheedah_bee_mohd_samsudin@moe.edu.sg](mailto:zaheedah_bee_mohd_samsudin@moe.edu.sg)<br>Mrs Sharon Ng<br>[chet_yee_monica_sharon@moe.edu.sg](mailto:chet_yee_monica_sharon@moe.edu.sg)<br>Ms Nurul Naqiyyah<br>[nurul_naqiyyah_mohd_kamal@moe.edu.sg](mailto:nurul_naqiyyah_mohd_kamal@moe.edu.sg) |
+| Chinese Dance | Fri<br>2.30 pm - 4.30 pm | Music Room 1 | Mdm Chia Ai Tian (OIC)<br>[chia_ai_tian@moe.edu.sg](mailto:chia_ai_tian@moe.edu.sg)<br>Mdm Li Lingbo<br><br>[li_lingbo@moe.edu.sg](mailto:li_lingbo@moe.edu.sg)<br>Mdm Kang Li Ping<br>[kang_li_ping@moe.edu.sg](mailto:kang_li_ping@moe.edu.sg) |
+| Indian Dance | Fri<br>2.15 pm - 4.15 pm | PAL Room 2 | Ms Ho Li Ming (OIC)<br>[ho_li_ming@moe.edu.sg](mailto:ho_li_ming@moe.edu.sg)<br><br>Mdm Najumunisha<br>[najumunisha_sahul_hameed@moe.edu.sg](mailto:najumunisha_sahul_hameed@moe.edu.sg) |
+| Malay Dance |  Tue<br>2.15 pm - 4.15 pm | PAL Room 1 | Mdm Siti-Hamesiah (OIC)<br>[siti-hamesiah_samsudin@moe.edu.sg](mailto:siti-hamesiah_samsudin@moe.edu.sg)<br>Mdm Norwati Neswan<br>[norwati_neswan@moe.edu.sg](mailto:norwati_neswan@moe.edu.sg) |
+| Drama Club | Fri<br>2.30 pm - 4.30 pm | PAL Room 1 | Ms Muzaiyanah (OIC)<br>[muzaiyanah_mohamed_ali@moe.edu.sg](mailto:muzaiyanah_mohamed_ali@moe.edu.sg)<br>Mdm Asmahliah<br>[asmahliah_abu_bakar@moe.edu.sg](mailto:asmahliah_abu_bakar@moe.edu.sg) <br>Ms Lee Yee Hueh<br>[lee_yee_hueh@moe.edu.sg](mailto:lee_yee_hueh@moe.edu.sg)  |
 |
 
 #### **Sports**
