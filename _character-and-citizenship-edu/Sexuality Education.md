@@ -42,3 +42,23 @@ b. [Health Education](http://www.moe.gov.sg/education/programmes/social-emotion
 c. [Civics and Moral Education / Character and Citizenship Education](http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/scope/files/cme-curriculum.pdf) **broken link**
 
 [Growing Years (GY) Programme](http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/files/growing-years-2012.pdf) : “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
+
+6\. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+
+7\. The refreshed Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2 nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_ , build healthy _relationships_ , especially online relationships, and exercise _safety_ .
+
+#### **At QUEENSTOWN PRIMARY SCHOOL’S, the following lessons from the Growing Years Programme will be taught in 2013:**
+
+##### **PRIMARY 5**
+
+| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |
+|:---:|:---:|:---:|:---:|
+| Gosh! I Am Changing | What Is Happening To Me?<br>(30 min) | know what puberty is<br>identify the physical changes during puberty | TERM 4 |
+|  | What Can I Do? (Part 1)<br>(30 min) | identify the stresses caused by physical changes during puberty<br>describe ways to manage the stresses caused by physical changes during puberty | TERM 4 |
+|  | What Can I Do? (Part 2)<br>(30 min) | identify the stresses caused by physical and emotional changes during puberty<br>describe ways to manage the stresses caused by these changes during puberty | TERM 4 |
+|  | Main Task<br>(30 min) | Description of the Main Task:<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through. | TERM 4 |
+| Where I Belong | What Are Families?<br>(30 min) | know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need | TERM 4 |
+|  | What is My Role?<br>(30 min) | know that gender is about being male or female<br>choose not to stereotype by gender | TERM 4 |
+| How Do I Keep Myself Safe? | What is Safety?<br>(30 min) | know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse | TERM 4 |
+|  | Stop It! Run! Tell!<br>(30 min) | protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm | TERM 4 |
+|
