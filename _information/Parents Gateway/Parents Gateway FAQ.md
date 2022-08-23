@@ -36,3 +36,47 @@ Please visit the SingPass website ([https://www.singpass.gov.sg](https://www.sin
 You can also download the following PDF: [Registering for SingPass.pdf](/files/Registering%20for%20SingPass.pdf)
 
 Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.
+
+<img src="/images/singpass.jpg" 
+     style="width:55%">
+		 
+Please note that SingPass Mobile login is currently not yet supported for Android version of Parents Gateway. Parents using Android devices are advised to login using SMS 2FA or OneKey token in the meantime.
+
+**5\. I forgot my SingPass password. How do I reset it?**<br>
+If you have set up your SingPass 2FA, you can reset your password instantly online:
+
+i. Visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg/)
+
+ii. Select “Reset Password” icon on the scroll bar. Enter your NRIC/FIN details, followed by your SMS/Token One-Time Password.
+		
+iii. Create your new SingPass password.
+
+**6\. I have to use my SingPass for login. Is it secure?**<br>
+SingPass is an online account management for access to Singapore Government e-services. It allows you to access hundreds of government services easily and securely online.
+
+**7\. Must I pay for the app?**<br>
+Parents Gateway is free-of-charge.
+
+**8\. I have more than 1 child, do I require multiple accounts?**<br>
+No, you do not need multiple accounts. You will be able to access all your children’s information through a single platform on Parents Gateway, even if your children are attending different schools.
+
+**9\. Can I receive information on both Parents Gateway and through hardcopy forms so that I can pin up the forms as reminders?**<br>
+Parents are encouraged to view the school announcements and consent forms using the app. For parents who wish to receive reminders on upcoming events, there is an “Add to Calendar” feature. Upon selection, the event would be synced with your phone calendar.
+
+**10\. Can I access Parents Gateway on the computer?**<br>
+Parents Gateway is only available as a mobile application. Supported OS Versions: Android 5.0 or later & iOS 9.1 or later.
+
+**11\. Are the access rights limited to one parent only?**<br>
+No, both parents can access their children’s information simultaneously from their respective Parents Gateway accounts.
+
+**12\. Do both parents have to reply to consent forms?**<br>
+Only a single consent is required. Once consent has been given, it cannot be edited by either parent. Should there be a change in decision, parents have to inform the school directly.
+
+**13\. Does the usage of the app require large data consumption?**<br>
+Parents Gateway does not require large data consumption.
+
+**14\. Can I communicate with my child’s teacher directly via the app?**<br>
+This feature is not available at this point in time.
+
+**15\. I am experiencing difficulty using the app, who should I go to?**<br>
+You may approach your child’s school for assistance.
