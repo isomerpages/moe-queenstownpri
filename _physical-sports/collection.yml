@@ -2,6 +2,7 @@ collections:
   physical-sports:
     output: true
     order:
+      - Basketball/.keep
       - Football.md
       - Softball.md
       - Swimming.md
