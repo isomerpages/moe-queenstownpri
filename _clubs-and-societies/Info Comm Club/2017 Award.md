@@ -13,8 +13,8 @@ Evangelyn Siau (6 Care), Tong Jia Xian (5 Care), Woo Yu Hung (5 Care) and Kaung 
 
 <img src="/images/2017%20award%201.jpg" 
      style="width:75%" align=left>
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
 From Left , Tong Jia Xian, Kaung Khant Kyaw , Woo Yu Hung, Evangelyn Siau
 <br><br>
 <img src="/images/2017%20award%202.jpg" 
@@ -44,4 +44,4 @@ Nature- Woo Yu Hung
      style="width:75%" align=left>
 <br><br><br><br>
 <br><br><br><br><br>		 
-Family Bonding - Kaung Khant Kyaw		 
+Family Bonding - Kaung Khant Kyaw
