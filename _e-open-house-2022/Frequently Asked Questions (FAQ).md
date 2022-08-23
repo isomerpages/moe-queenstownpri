@@ -141,8 +141,42 @@ In the event that bullying has been reported, Form Teachers and Year Heads will 
 Support for students learning and behavioural needs is available in the school. A team of specially trained teachers, Allied Educators (Learning & Behavioural Support) [AED(LBS)], Allied Educators (Counselling) [AED(Counselling)], as well as MOE Psychologists work together to identify and support students' needs through various programmes and Individualised Education Plans (IEPs).
 
 ##### **Transition from Kindergarten to Primary School**
+**31. How will students be supported in their transition from kindergarten to primary school and adjust to new primary school life and longer school hours?**<br>
+Sitting through longer school hours is inevitable in primary school due to the more extensive school syllabus.<br>
+The school will support students’ transition to primary school through<br>
+*   P1 Orientation Day
+*   P1 Level transition programmes, such as Year Head engagement sessions, P4 Recess Buddy Programme, and other level and class bonding activities.
+*   Emphasis on class routines, with a slower pace of work and no or less homework in the first month of school
+*   Specially crafted lesson packages on the transition to Primary School and gaining greater school independence
+*   Allied Educator and Counsellor support for students with higher needs
 
+The school will also monitor the transition of students through Year Head and level teachers' check-in meetings.
 
+**32. How can I prepare my child/ward for the transition from kindergarten to primary school?**<br>
+Parents/guardians can support your child's/ward's transition through home preparation before the start of school, such as<br>
+
+*   establishing a good sleeping routine with an early bedtime, e.g. 9 pm
+*   getting ready in the morning for school
+*   reading the timetable accurately
+*   packing the school bag
+*   filing in worksheets neatly in files
+*   counting small denominations of money
+*   washing hands with soap before and after eating
+*   covering nose and mouth when coughing or sneezing
+
+**33. Must P1 students be toilet trained?**<br>
+Yes, all students must be toilet trained in order for them to move about independently in school. As going to the toilet is a private and personal affair, it is best that your child/ward is able to go to the toilet and clean up after herself/himself independently.
+
+In the event your child/ward accidentally soils himself/herself, the school can assist your child/ward to change into a new set of school uniform at the General Office, subject to the availability of spare school uniforms and sizes.
+
+##### **Co-Curricular Activities**
+**34. Are there Co-Curricular Activities (CCAs) for P1 students?**<br>
+No. Students are encouraged to take up a CCA at P3.
+
+##### **Q&A**
+If you still have a question, please fill in the form below and we will get back to you as soon as possible.  
+
+**form**
 
 <p><a href="https://staging.d3haevm43m8pfu.amplifyapp.com/eopenhouse/overview/">
 <img style="width:45%" src="/images/openhouse%20return.png">
