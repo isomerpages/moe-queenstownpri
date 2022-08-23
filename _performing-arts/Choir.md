@@ -65,3 +65,7 @@ QtPS Choir Friendship Song during SYF Rehearsal @ SOTA
 <iframe width="640" height="362" src="https://www.youtube.com/embed/5wvexQLdacA" title="QtPS Choir Friendship Song 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 QtPS Choir Performing "Happier" @ National A Capella Championships 2019
+
+**unable to insert video,cms error**
+
+QtPS Choir Performing "Human" @ National A Capella Championships 2019
