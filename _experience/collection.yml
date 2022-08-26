@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Overview.md
-      - Co Curricular Activities (CCA)/Clubs & Societies.md
+      - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/CCA Overall Schedule.md
       - Co Curricular Activities (CCA)/Uniformed Groups.md
+      - Co Curricular Activities (CCA)/Clubs & Societies.md
       - Co Curricular Activities (CCA)/Performing Arts.md
       - Co Curricular Activities (CCA)/Physical Sports.md
-      - Co Curricular Activities (CCA)/.keep
       - Applied Learning Programme (ALP) Environmental Project Based Learning.md
       - Learning for Life Programme (LLP) Connecting heARTs with the Arts.md
       - School Life Memories Our Photo Journal.md
