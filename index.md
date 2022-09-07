@@ -5,7 +5,7 @@ description: |
   Queenstown Primary School
 image: /images/logo.svg
 permalink: /
-notification: ""
+notification: "This is notification "
 sections:
   - hero:
       title: Queenstown Primary School
