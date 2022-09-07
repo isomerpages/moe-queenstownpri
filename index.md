@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: Queenstown Primary School
-      background: /images/hero-banner.png
+      background: /images/QtPS-intro3.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
