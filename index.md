@@ -50,4 +50,8 @@ sections:
       url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/school-life-memories-our-photo-journal/
       alt: Image alt text
       image: /images/photo journal banner.jpg
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
