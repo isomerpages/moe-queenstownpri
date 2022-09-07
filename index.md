@@ -25,6 +25,13 @@ sections:
         - title: QTPS Bus Service
           description: ""
           url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/facilities-and-services/bus-services/
+  - infopic:
+      title: CCA
+      description: Co-Curricular Activities
+      button: click here
+      url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/
+      alt: Image alt text
+      image: /images/cca banner.jpg
   - infobar:
       title: Useful Links
       subtitle: For students & Teachers
@@ -37,13 +44,6 @@ sections:
       url: https://staging.d3haevm43m8pfu.amplifyapp.com/departments/CCE/
       alt: Image alt text
       image: /images/cce banner.jpg
-  - infopic:
-      title: CCA
-      description: Co-Curricular Activities
-      button: click here
-      url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/
-      alt: Image alt text
-      image: /images/cca banner.jpg
   - infopic:
       title: Photo Journal
       button: click here
