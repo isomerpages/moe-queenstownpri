@@ -13,9 +13,9 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: P4 Subject Based Banding
+        - title: CCA
           description: ""
-          url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/p4-subject-based-banding/
+          url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/
         - title: Sign up for Parents Gateway now
           description: ""
           url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/parents-gateway/
