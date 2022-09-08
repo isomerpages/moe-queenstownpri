@@ -5,17 +5,17 @@ description: ""
 ---
 ### **School Song**
 
-*school song audio**
+<iframe width="400" height=200" src="https://www.youtube.com/embed/LH7dDlmYuSE" title="QtPS School Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h6>Click play button to play video</h6>
-<video src="./schoolsong.mp4" controls></video>
+Queenstown Primary, onward to success,<br>
+Together, let’s all do our best.<br>
+With passion and fervour and perseverance too, <br> 
+We learn and play in harmony our school is shining through.<br>
 
-Queenstown Primary, onward to success, together, let’s all do our best.
-	
-With passion and fervour and perseverance too,  we learn and play in harmony our school is shining through.
-	
-Queenstown Primary, onward to success, together, let’s all do our best. 
+Queenstown Primary, onward to success, <br>
+Together, let’s all do our best. <br>
+We’re proud to serve our country, it’s where we all belong. <br>
+With one voice in unity, the world will hear our song. <br>
 
-We’re proud to serve our country, it’s where we all belong. With one voice in unity, the world will hear our song…
-
-Queenstown Primary, onward to success, together, let’s all do our best.
+Queenstown Primary, onward to success, <br>
+Together, let’s all do our best.
