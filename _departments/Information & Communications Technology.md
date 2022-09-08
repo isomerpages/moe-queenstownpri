@@ -3,7 +3,6 @@ title: Information & Communications Technology
 permalink: /departments/ICT/
 description: ""
 ---
-
 ### **ICT**
 The QtPS ICT Department is committed to the national and school vision of nurturing Future-ready Digital Citizens, and have invested in the tools, programmes and appropriate training to help our teachers achieve that aim.
 
