@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Leadership/.keep
       - Character & Citizenship Educat/.keep
       - Character & Citizenship Educat/Overview.md
       - Character & Citizenship Educat/Values in Action (VIA).md
