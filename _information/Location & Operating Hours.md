@@ -54,4 +54,4 @@ From Redhill MRT Station (Opp Stn): 32 (alight directly outside school compound)
 
 #### **Students Arrival & Dismissal Video**
 
-<iframe width="1180" height="664" src="https://www.youtube.com/embed/D3FxNJGYfUQ" title="2021 QtPS Safety for Students' Arrival and Dismissal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="350" src="https://www.youtube.com/embed/D3FxNJGYfUQ" title="2021 QtPS Safety for Students' Arrival and Dismissal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
