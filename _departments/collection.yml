@@ -2,22 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Character & Citizenship Educat/.keep
-      - Character & Citizenship Educat/Overview.md
-      - Character & Citizenship Educat/Values in Action (VIA).md
-      - Character & Citizenship Educat/SkillsFuture Week.md
-      - Character & Citizenship Educat/Internationalisation Programme.md
-      - Character & Citizenship Educat/Class Leaders Training.md
-      - Character & Citizenship Educat/Social Studies.md
-      - Character & Citizenship Educat/Cyberwellness.md
-      - Character & Citizenship Educat/NE Commerative Events.md
-      - Character & Citizenship Educat/Sexuality Education.md
-      - Character & Citizenship Educat/Character and Citizenship Education
-        Lessons (FTGP and CCE MTL).md
-      - Character & Citizenship Educat/Overview for Student Leadership.md
-      - Character & Citizenship Educat/Head Prefect Election.md
-      - Character & Citizenship Educat/Prefect Investiture.md
-      - Character & Citizenship Educat/Prefects Training.md
       - English.md
       - Mother Tongue/.keep
       - Mother Tongue/Overview.md
@@ -34,3 +18,19 @@ collections:
       - Aesthetics/Visual Art.md
       - Aesthetics/Music.md
       - Information & Communications Technology.md
+      - Character & Citizenship Educat/.keep
+      - Character & Citizenship Educat/Overview.md
+      - Character & Citizenship Educat/Values in Action (VIA).md
+      - Character & Citizenship Educat/SkillsFuture Week.md
+      - Character & Citizenship Educat/Internationalisation Programme.md
+      - Character & Citizenship Educat/Class Leaders Training.md
+      - Character & Citizenship Educat/Social Studies.md
+      - Character & Citizenship Educat/Cyberwellness.md
+      - Character & Citizenship Educat/NE Commerative Events.md
+      - Character & Citizenship Educat/Sexuality Education.md
+      - Character & Citizenship Educat/Character and Citizenship Education
+        Lessons (FTGP and CCE MTL).md
+      - Character & Citizenship Educat/Overview for Student Leadership.md
+      - Character & Citizenship Educat/Head Prefect Election.md
+      - Character & Citizenship Educat/Prefect Investiture.md
+      - Character & Citizenship Educat/Prefects Training.md
