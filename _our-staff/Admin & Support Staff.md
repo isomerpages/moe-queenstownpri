@@ -26,6 +26,7 @@ description: ""
 *   Mdm Mun Lai Heng  
 *   Ms Ong Lak Cheng
 *   Mr William Foong Chong Keen
+*   Mdm Anushiya Devi D/O Gumanan
 
 #### **ICT Manager**
 * Mdm Heng Meow Hoon
@@ -38,5 +39,3 @@ description: ""
 | Desktop Engineer | Ms Siti Aisah Binte Osman<br>Mr Radin Muhammad |
 | Librarian | Ms Siti Azhan Bte Osman |
 |
-
-
