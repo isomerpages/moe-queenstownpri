@@ -6,9 +6,10 @@ description: ""
 ### **School Song**
 
 **school song audio**
-<audio>
-    <source src="file\_name" type="audio\_file\_type">
-</audio>
+<h2>Click play button to play video</h2>
+<video controls="">
+&nbsp;&nbsp;&nbsp;&nbsp;</video>
+
 Queenstown Primary, onward to success, together, let’s all do our best.
 	
 With passion and fervour and perseverance too,  we learn and play in harmony our school is shining through.
