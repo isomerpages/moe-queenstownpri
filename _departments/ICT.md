@@ -32,6 +32,6 @@ Students filming each other's performance and for peer-analysis and evaluation i
 
 | Level | Rationale |
 |:---:|---|
-| P1 – P2 | * Introduction to Computational Thinking<br>* Introduction to Touch Typing and Windows environment |
+| P1 - P2 | * Introduction to Computational Thinking<br>* Introduction to Touch Typing and Windows environment |
 | P3 - P6 | * Introduction to Microsoft Windows and Powerpoint<br>* New Media Literacies<br>* Coding with Scratch |
 |
