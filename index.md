@@ -22,7 +22,7 @@ sections:
         - title: School Hours and Recess Time
           description: ""
           url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/location-and-operation-hours/
-        - title: Useful Links
+        - title: Useful Links for Students & Teachers
           description: ""
           url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/
   - infopic:
@@ -32,11 +32,6 @@ sections:
       url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/
       alt: Image alt text
       image: /images/cca banner.jpg
-  - infobar:
-      title: Useful Links
-      subtitle: For students & Teachers
-      button: click here
-      url: /useful-links/
   - infopic:
       title: CCE
       description: Character & Citizenship Education
