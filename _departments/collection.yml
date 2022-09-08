@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character & Citizenship Educat/OverviewSL.md
       - Character & Citizenship Educat/Character and Citizenship Education
         Lessons (FTGP and CCE MTL).md
       - Character & Citizenship Educat/Sexuality Education.md
