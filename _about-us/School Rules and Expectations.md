@@ -32,12 +32,12 @@ Be responsible and disciplined.
 #### **Appearance and attire**
 
 <img src="/images/attire%20boy.jpg" 
-     style="width:49%" align=left>
-<img src="/images/attire%20girl.png" 
-     style="width:49%" align=right>		 
-
-Look smart. Take pride in your appearance and school attire.
-
+     style="width:50%" align=left>
+		 <img src="/images/attire%20girl.png" 
+     style="width:50%" align=left>
+		 e
+	
+*   Look smart. Take pride in your appearance and school attire.
 *   Students are to wear the prescribed school uniform. Modification to the uniform is not allowed.
 *   Students must attend school and all school activities in their school uniform, including those held during the weekends and school vacation.
 *   The uniform has to be worn tucked in at all times.
