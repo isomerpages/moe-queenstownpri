@@ -2,20 +2,20 @@ collections:
   departments:
     output: true
     order:
-      - Character & Citizenship Education.md
       - English.md
+      - Mother Tongue/.keep
       - Mother Tongue/Overview.md
       - Mother Tongue/Chinese.md
       - Mother Tongue/Malay.md
       - Mother Tongue/Tamil.md
-      - Mother Tongue/.keep
+      - Mathematics/.keep
       - Mathematics/Overview.md
       - Mathematics/Mathematics Club.md
-      - Mathematics/.keep
       - Science.md
       - Physical Education (PE).md
+      - Aesthetics/.keep
       - Aesthetics/Overview.md
       - Aesthetics/Visual Art.md
       - Aesthetics/Music.md
-      - Aesthetics/.keep
       - Information & Communications Technology.md
+      - Character & Citizenship Education.md
