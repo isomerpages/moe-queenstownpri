@@ -2,5 +2,4 @@ collections:
   character-and-citizenship-edu:
     output: true
     order:
-      - Student Leadership/Head Prefect Election.md
       - Student Leadership/.keep
