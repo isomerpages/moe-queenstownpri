@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character & Citizenship Educat/Cyberwellness.md
       - Character & Citizenship Educat/Social Studies.md
       - Character & Citizenship Educat/Internationalisation Programme.md
       - Character & Citizenship Educat/SkillsFuture Week.md
