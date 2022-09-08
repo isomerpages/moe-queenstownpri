@@ -28,7 +28,7 @@ The P3 SwimSafer 2.0 programme aims to build important life skills in our studen
 #### **Camp**
 In the annual cohort camp, students engage in authentic activities and step out of their comfort zones. Our Queenstowners become confident individuals as they learn to manage themselves independently, build meaningful friendships, and overcome challenges.
 
-<iframe width="800" height="400" src="https://www.youtube.com/embed/9vAUrXa96H0" title="2020 P4 Camp Post-Camp Video Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="300" src="https://www.youtube.com/embed/9vAUrXa96H0" title="2020 P4 Camp Post-Camp Video Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](/images/PE%205.jpg)
 
