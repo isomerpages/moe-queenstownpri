@@ -4,7 +4,6 @@ permalink: /departments/CCE/cyberwellness/
 description: ""
 third_nav_title: Character & Citizenship Educat
 ---
-
 ### **Cyber Wellness**
 #### **What is Cyber Wellness?**
 Information and Communication Technologies (ICT) are becoming increasingly pervasive in our world. While creating instant connectivity and access to vast repositories of information, knowledge, and opinions, the open nature of the Internet can expose our students to undesirable content and influences.
@@ -42,14 +41,14 @@ Parents play a key role in their children’s growth. Students benefit the most 
 Learn more about how to keep your child safe online through these resources:
 
 ##### **From MOE**
-*   [Parents, the guardians of internet](https://www.schoolbag.sg/story/parents-the-guardians-of-internet-safety) **privacy error**
-*   [Guide for parents on setting parental controls](https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls) **privacy error**
-*   [Understanding cyber wellness](https://www.schoolbag.sg/story/understanding-cyber-wellness) **privacy error**
-*   [Navigating the cyber world safely](https://www.schoolbag.sg/story/navigating-the-cyber-world-safely) **privacy error**
-*   [ICT in schools: To use or not to use?](https://www.schoolbag.sg/story/ict-in-schools-to-use-or-not-to-use) **privacy error**
-*   [Play safe – avoid online gaming addiction](https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction) **privacy error**
-*   [Safeguarding your child online](https://www.schoolbag.sg/story/safeguarding-your-child-online) **privacy error**
-*   [Exploring online, safely and confidently](https://www.schoolbag.sg/story/exploring-online-safely-and-confidently) **privacy error**
+*   [Parents, the guardians of Internet safety](https://www.schoolbag.sg/story/parents-the-guardians-of-internet-safety)
+*  [Guide for parents on setting parental controls](https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls)
+*   [Understanding cyber wellness](https://www.schoolbag.sg/story/understanding-cyber-wellness)
+*   [Navigating the cyber world safely](https://www.schoolbag.sg/story/navigating-the-cyber-world-safely)
+*   [ICT in schools: To use or not to use?](https://www.schoolbag.sg/story/ict-in-schools-to-use-or-not-to-use)
+*   [Play safe – avoid online gaming addiction](https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction) 
+*   [Safeguarding your child online](https://www.schoolbag.sg/story/safeguarding-your-child-online) 
+*   [Exploring online, safely and confidently](https://www.schoolbag.sg/story/exploring-online-safely-and-confidently) 
 *   [Keeping our teens safe online](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)
 *   [Parent kit - Supporting your child during full home-based learning](/files/Parent%20Kit_Supporting%20your%20child%20during%20Full%20HBL.pdf)
 *   [Parent kit - Cyber wellness for your child](/files/cyber-wellness-for-your-child.pdf)
