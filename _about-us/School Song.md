@@ -5,10 +5,10 @@ description: ""
 ---
 ### **School Song**
 
-**school song audio**
-<h2>Click play button to play video</h2>
-<video controls="">
-&nbsp;&nbsp;&nbsp;&nbsp;</video>
+*school song audio**
+
+<h6>Click play button to play video</h6>
+<video src="./schoolsong.mp4" controls></video>
 
 Queenstown Primary, onward to success, together, let’s all do our best.
 	
