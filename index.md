@@ -5,7 +5,7 @@ description: |
   Queenstown Primary School
 image: /images/logo.svg
 permalink: /
-notification: "This is notification "
+notification: ""
 sections:
   - hero:
       title: Queenstown Primary School
@@ -22,9 +22,9 @@ sections:
         - title: School Hours and Recess Time
           description: ""
           url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/location-and-operation-hours/
-        - title: QTPS Bus Service
+        - title: Useful Links
           description: ""
-          url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/facilities-and-services/bus-services/
+          url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/
   - infopic:
       title: CCA
       description: Co-Curricular Activities
@@ -50,8 +50,4 @@ sections:
       url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/school-life-memories-our-photo-journal/
       alt: Image alt text
       image: /images/photo journal banner.jpg
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
