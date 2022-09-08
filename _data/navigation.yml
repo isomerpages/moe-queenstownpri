@@ -98,20 +98,8 @@ links:
         url: /partners/PSG/
       - title: Student Care
         url: /partners/student-care/
-  - title: E-Open House 2022
-    url: /eopenhouse/overview/
+  - title: Useful links
+    url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/
     sublinks:
-      - title: Overview
-        url: /eopenhouse/overview/
-      - title: School Corporate Video
-        url: /eopenhouse/school-corporate-video/
-      - title: Parents' Voices
-        url: /eopenhouse/parents-voices/
-      - title: Facilities
-        url: /eopenhouse/facilities/
-      - title: Co-Curricular Activities (CCA)
-        url: /eopenhouse/CCA/
-      - title: Frequently Asked Questions
-        url: /eopenhouse/FAQ/
-      - title: Live Webinar
-        url: /eopenhouse/live-webinar/
+      - title: For Students
+        url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/For-Students
