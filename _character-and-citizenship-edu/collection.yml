@@ -2,7 +2,7 @@ collections:
   character-and-citizenship-edu:
     output: true
     order:
-      - Student Leadership/Overview.md
+      - Student Leadership/OverviewSL.md
       - Student Leadership/Class Leaders Training.md
       - Student Leadership/Prefects Training.md
       - Student Leadership/Prefect Investiture.md
