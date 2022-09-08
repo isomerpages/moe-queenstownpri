@@ -70,8 +70,6 @@ links:
         url: /information/parents-gateway/
       - title: Frequently Asked Questions
         url: /information/FAQ/
-  - title: "[Test] Resources"
-    resource_room: true
   - title: Experience
     url: /experience/overview/
     sublinks:
