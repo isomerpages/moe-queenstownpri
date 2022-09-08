@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character & Citizenship Educat/.keep
       - English.md
       - Mother Tongue/.keep
       - Mother Tongue/Overview.md
