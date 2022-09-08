@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character & Citizenship Educat/Prefect Investiture.md
       - Character & Citizenship Educat/Prefects Training.md
       - Character & Citizenship Educat/Class Leaders Training.md
       - Character & Citizenship Educat/OverviewSL.md
