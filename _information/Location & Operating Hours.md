@@ -36,21 +36,22 @@ Daily 6.30 am – 6.30 pm (Monday - Friday)
 
 #### **Recess**
 
-| Level | Schedule (Mon-Fri) | Schedule (Wed)  |
+| Level | Schedule (Mon-Fri) | Schedule (Wed) |
 |:---:|:---:|:---:|
-|  P1 | 10:00am - 10:30am | 9:45am - 10:15am  |
-|  P2 | 9:00am - 9:30am | 8:45am - 9:15am  |
-|  P3 | 9:30am - 10:00am  | 9:15am - 9:45am  |
-|  P4 | 11:00am - 11:30am | 10:45am - 11:15am  |
-|  P5 | 10:30am - 11:00am  | 10:15am - 10:45am  |
+|  P1 | 10:00am - 10:30am | 9:45am - 10:15am |
+|  P2 | 9:00am - 9:30am | 8:45am - 9:15am |
+|  P3 | 9:30am - 10:00am | 9:15am - 9:45am |
+|  P4 | 11:00am - 11:30am | 10:45am - 11:15am |
+|  P5 | 10:30am - 11:00am | 10:15am - 10:45am |
 |  P6 | 8:30am - 9:00am | 8:15am - 8:45am |
 |
-
 #### **Public Bus Transport Services**
 
-By MRT: Queenstown MRT Station<br>
-From Commonwealth MRT (Opp Shop): 32 & 122 (alight once school compound is visible on right side)<br>
-From Redhill MRT Station (Opp Stn): 32 (alight directly outside school compound)
+By MRT: alight at Queenstown MRT Station<br>
+
+By Bus:<br>
+From Commonwealth MRT (Opp Shop): <b>32</b> & <b>122</b> (alight once school compound is visible on right side)<br>
+From Redhill MRT Station (Opp Stn): <b>32</b> (alight directly outside school compound)
 
 #### **Students Arrival & Dismissal Video**
 
