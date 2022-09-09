@@ -2,4 +2,5 @@ collections:
   placeholder:
     output: true
     order:
+      - Prefect Investiture.md
       - Head Prefect Election.md
