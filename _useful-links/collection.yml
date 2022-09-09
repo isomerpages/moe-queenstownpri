@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Learning Space.md
-      - (For Primary 4 to 6 students only) National Digital Explorer Learn.md
       - For Students.md
       - For Teachers.md
       - School Calender of Events.md
