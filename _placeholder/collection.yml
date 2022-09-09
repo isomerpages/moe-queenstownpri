@@ -2,7 +2,6 @@ collections:
   placeholder:
     output: true
     order:
-      - Social Studies.md
       - Class Leaders Training.md
       - Prefects Training.md
       - Prefect Investiture.md
