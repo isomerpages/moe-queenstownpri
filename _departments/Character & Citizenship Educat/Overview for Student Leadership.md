@@ -44,4 +44,3 @@ Appointment of Prefects and introduce them to the school
 		 
 <img src="/images/prefect%20pledge%203.jpg" 
      style="width:85%">
-		 
