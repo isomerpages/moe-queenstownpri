@@ -1,5 +1,0 @@
-collections:
-  physical-sports:
-    output: true
-    order:
-      - Basketball/.keep
