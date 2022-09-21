@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/Softball.md
       - Physical Sports/Swimming.md
       - Physical Sports/.keep
       - Badminton.md
