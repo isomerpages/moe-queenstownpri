@@ -2,6 +2,5 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Infocomm Club.md
       - Science and Green Club.md
       - Visual Art Club.md
