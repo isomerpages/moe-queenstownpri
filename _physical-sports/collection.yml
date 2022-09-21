@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Badminton.md
-      - Basketball/Basketball.md
       - Basketball/.keep
       - Football.md
       - Softball.md
