@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Football.md
       - Softball.md
       - Swimming.md
       - Performing Arts/Choir.md
