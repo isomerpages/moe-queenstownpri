@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Overall Schedule.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys Brigade.md
       - Uniformed Groups/Girls Brigade.md
