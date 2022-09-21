@@ -1,5 +1,4 @@
 collections:
   clubs-and-societies:
     output: true
-    order:
-      - Science and Green Club.md
+    order: []
