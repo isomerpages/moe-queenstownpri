@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual Art Club.md
       - Infocomm Club.md
       - Weiqi Club.md
       - Scrabble Club.md
