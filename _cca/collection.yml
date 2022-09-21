@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Choir.md
       - Chinese Orchestra.md
       - Chinese Dance.md
       - Indian Dance.md
