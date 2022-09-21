@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Scrabble Club.md
       - Uniformed Groups/Boys Brigade.md
       - Uniformed Groups/Girls Brigade.md
       - Uniformed Groups/.keep
