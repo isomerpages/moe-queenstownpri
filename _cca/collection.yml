@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Infocomm Club.md
       - Weiqi Club.md
       - Scrabble Club.md
       - Uniformed Groups/Boys Brigade.md
