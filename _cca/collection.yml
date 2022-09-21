@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Swimming.md
       - Performing Arts/Choir.md
       - Performing Arts/Chinese Orchestra.md
       - Performing Arts/Chinese Dance.md
