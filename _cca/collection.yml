@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs And Societies/.keep
       - Science and Green Club.md
       - Visual Art Club.md
       - Infocomm Club.md
