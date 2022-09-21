@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Uniformed Groups/.keep
-      - Girls Brigade.md
       - Boys Brigade.md
