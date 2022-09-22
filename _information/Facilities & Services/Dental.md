@@ -13,15 +13,15 @@ third_nav_title: Facilities & Services
 | Clinic Operating Hours  | Tue & Wed : 8:00am to 5:30pm<br>Fri : 8:00am to 5:00pm <br>Lunch break : 1:00pm to 2:00pm |
 |
 
-#### **Dental Clinic Operating Schedule - August 2022**
+#### **Dental Clinic Operating Schedule - September 2022**
 
 | Week | Monday | Tuesday | Wednesday | Thursday | Friday |
 |:---:|---|---|---|---|---|
-| 6 | 1<br>CLOSED  | 2<br>OPEN | 3<br>OPEN | 4<br>CLOSED  | 5<br>OPEN |
-| 7 | 8<br>CLOSED  | 9<br>CLOSED  | 10<br>CLOSED  | 11<br>CLOSED  | 12<br>CLOSED  |
-| 8 | 15<br>CLOSED  | 16<br>OPEN | 17<br>OPEN | 18<br>CLOSED  | 19<br>OPEN |
-| 9 |  22<br>CLOSED | 23<br>CLOSED | 24<br>CLOSED |  25<br>CLOSED | 26<br>CLOSED |
-| 10 |  29<br>CLOSED |  30<br>OPEN |  31<br>OPEN |   |  |
+| <center> Holiday |  |  |  |<center>1<br>CLOSED  |<center> 2<br>OPEN AM| 
+| <center> 1 | <center> 5<br>CLOSED  | <center> 6<br>CLOSED  | <center> 7<br>CLOSED  | <center> 8<br>CLOSED  | <center> 9<br>CLOSED  |
+| <center> 2 | <center> 12<br>OPEN| <center> 13 <br>OPEN  | <center> 14<br>OPEN | <center> 15<br>OPEN | <center> 16<br>OPEN PM  |
+| <center> 3 |  <center> 19<br>CLOSED | <center> 20<br>CLOSED | <center> 21<br>CLOSED |  <center> 22<br>CLOSED | <center> 23<br>OPEN |
+| <center> 4 |  <center> 26<br>OPEN | <center> 27<br>CLOSED |   <center> 28<br>OPEN |<center> 29<br>CLOSED |   <center> 30<br>OPEN |   |  |
 |
 
 Note: No dental appointments will be given during school holidays
