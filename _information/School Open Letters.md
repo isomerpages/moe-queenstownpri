@@ -5,5 +5,4 @@ description: ""
 ---
 ### **School Open Letters**
 
-#### **2022**
-
+[2022 Open Letters](/resources/Open-Letter/)
