@@ -4,9 +4,6 @@ permalink: /experience/CCA/clubs-and-societies/infocomm/
 description: ""
 third_nav_title: Clubs And Societies
 ---
-
-
-
 ### **Info-Comm Club**
 #### **CCA Teachers-in-Charge**
 Ms Fathin Atikah Mas’ud (OIC)<br>
@@ -41,21 +38,7 @@ National Photography Festival 2016 - Group Special Mention Award<br>
 <iframe width="626" height="345" src="https://www.youtube.com/embed/ZYJXvOSYsFE" title="InfoComm CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="/images/InfoComm1.jpg" 
-     style="width:75%">
-		 
-##### **National Photography Festival 2016**
-
-<img src="/images/InfoComm2.jpg" 
-     style="width:65%">
-
-<img src="/images/InfoComm3.jpg" 
-     style="width:65%">
-		 
-<img src="/images/InfoComm4.jpg" 
-     style="width:55%">		 
-
-<img src="/images/InfoComm5.jpg" 
-     style="width:55%">
+     style="width:75%">	 
 		 
 ### **2017 Award**
 #### **National Photography Festival for Primary Schools 2017**
