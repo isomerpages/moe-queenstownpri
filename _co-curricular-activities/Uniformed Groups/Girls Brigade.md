@@ -4,9 +4,6 @@ permalink: /experience/CCA/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-
 ### **Girls' Brigade**
 
 #### **CCA Teachers-in-Charge**
@@ -34,9 +31,13 @@ The GB members engage in meaningful activities led by their teachers and volunte
 Through these experiences, the members will become a Confident Individual, Caring Citizen and Effective Leader. Although a Christian-based CCA, we welcome girls of any religion to join us.
 
 #### **CCA Achievement**
-Girls’ Brigade Company Award –Silver (2016, 2017)<br>
-Low Guat Tin Challenge – Gold Award
-
+Girls’ Brigade Company Award<br>
+2017 - Silver <br>
+2018 - Silver <br>
+2021 - Silver <br><br>
+Low Guat Tin Challenge<br>
+2017 - Gold Award <br>
+2019 - Silver Award<br>
 #### **Photos**
 
 ![](/images/gb%201.jpg)
