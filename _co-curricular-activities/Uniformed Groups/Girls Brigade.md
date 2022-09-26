@@ -9,7 +9,8 @@ third_nav_title: Uniformed Groups
 #### **CCA Teachers-in-Charge**
 Mdm Qian Li (OIC)  <br>
 Ms Wee Su Ern  <br>
-Ms Labelle Lee
+Ms Labelle Lee <br>
+Ms Von Tjong
 
 #### **CCA Advisor**
 Mr Md A'srie B Che Ali
