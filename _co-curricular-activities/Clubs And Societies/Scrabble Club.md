@@ -4,8 +4,6 @@ permalink: /experience/CCA/clubs-and-societies/scrabble-club/
 description: ""
 third_nav_title: Clubs And Societies
 ---
-
-
 ### **Scrabble Club**
 #### **CCA Teachers-in-Charge**
 Ms Julie Hong (OIC)<br>
@@ -35,24 +33,6 @@ By playing Scrabble, students will acquire various life skills and build charact
 Members have the opportunity to participate in inter-school and national Scrabble competitions that are held annually.
 
 #### **CCA Achievement**
-##### **15th Inter-school National Scrabble Competition**
-3 Merit awards in the Cup, Plate and Bowl categories for the individual event in Junior Division.<br>
-3rd position in the Plate category by Raghav Kumar (3 Care, 2016) for the individual event in Junior Division.<br>
-3rd position in the Cup category for team event in Junior Division.<br>
-1 Merit award in the Plate category for individual event in Senior Division.<br>
-4th position in the Bowl category by Foo Toon Hao (5 Care, 2016) for individual event in Senior Division.<br>
-4th position in Plate category for team event in Senior Division.
-
-##### **6th Super Zone Schools Scrabble Competition 2016**
-Junior Division team clinched 3rd position for South Zone.<br>
-Senior Division team clinched 4th position for South Zone.<br>
-Best School Player (BSP) trophy for Junior Division player, Mo Thant Cin (4 Care, 2016). 
-
-##### **16th Inter-school National Scrabble Championship 2017**
-3 Merit awards in the Cup and Plate categories for the individual event.<br>
-2nd position clinched by Chua Qi Xiang (4 Courage) in the Bowl category for individual event.<br>
-Senior teams clinched 4th position in the Cup category and 6th position in the Bowl category respectively.
-
 ##### **17th Inter-school National Scrabble Championship 2018**
 Senior teams clinched 3rd position in the Cup category and 2nd position in the Bowl category. <br>
 Junior team clinched 1st position in the Bowl category
