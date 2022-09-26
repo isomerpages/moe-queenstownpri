@@ -4,9 +4,6 @@ permalink: /experience/CCA/physical-sports/softball/
 description: ""
 third_nav_title: Sports
 ---
-
-
-
 ### **Softball**
 #### **CCA Teachers-in-Charge**
 Mr Khaliq Goh (OIC) <br>
@@ -26,7 +23,7 @@ Monday & Friday - School Field<br>
 Wet Weather - ISH 
 
 #### **About CCA**
-Softball is a great sport for both boys and girls. It is open to all students from P3 onwards.
+Softball is a great sport opened to boys from P3 onwards.
 
 The Softball CCA aims to develop the values of respect, fair play, teamwork and resilience in its members through the variety of physical activities and competitive experiences.
 
@@ -40,7 +37,6 @@ National Schools Softball Championship
 #### **Other Information**
 A number of our softball players have managed to enter their desired secondary schools through the Direct School Admission.
 
-Girls are also welcome to join.
 
 #### **Photos**
 
