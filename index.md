@@ -21,7 +21,7 @@ sections:
           url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/parents-gateway/
         - title: School Hours and Recess Time
           description: ""
-          url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/location-and-operation-hours/
+          url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/Location%20%26%20Operating%20Hours.md/
         - title: Useful Links for Students & Teachers
           description: ""
           url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/
