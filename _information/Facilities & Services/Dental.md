@@ -17,12 +17,12 @@ third_nav_title: Facilities & Services
 
 | Week | Monday | Tuesday | Wednesday | Thursday | Friday |
 |:---:|---|---|---|---|---|
-| <center> Holiday |  |  |  |<center>1<br>CLOSED  |<center> 2<br>OPEN AM| 
-| <center> 1 | <center> 5<br>CLOSED  | <center> 6<br>CLOSED  | <center> 7<br>CLOSED  | <center> 8<br>CLOSED  | <center> 9<br>CLOSED  |
-| <center> 2 | <center> 12<br>OPEN| <center> 13 <br>OPEN  | <center> 14<br>OPEN | <center> 15<br>OPEN | <center> 16<br>OPEN PM  |
-| <center> 3 |  <center> 19<br>CLOSED | <center> 20<br>CLOSED | <center> 21<br>CLOSED |  <center> 22<br>CLOSED | <center> 23<br>OPEN |
-| <center> 4 |  <center> 26<br>OPEN | <center> 27<br>CLOSED |   <center> 28<br>OPEN |<center> 29<br>CLOSED |   <center> 30<br>OPEN |   |  |
-|
+| <center> 10 |  |  |  |<center>1<br>CLOSED  |<center> 2<br>OPEN AM| 
+| <center> Holiday | <center> 5<br>CLOSED  | <center> 6<br>CLOSED  | <center> 7<br>CLOSED  | <center> 8<br>CLOSED  | <center> 9<br>CLOSED  |
+| <center> 1 | <center> 12<br>OPEN| <center> 13 <br>OPEN  | <center> 14<br>OPEN | <center> 15<br>OPEN | <center> 16<br>OPEN PM  |
+| <center> 2 |  <center> 19<br>CLOSED | <center> 20<br>CLOSED | <center> 21<br>CLOSED |  <center> 22<br>CLOSED | <center> 23<br>OPEN |
+| <center> 3|  <center> 26<br>OPEN | <center> 27<br>CLOSED |   <center> 28<br>OPEN |<center> 29<br>CLOSED |   <center> 30<br>OPEN |   |  |  |
+| 
 #### **October 2022**
 
 | Week | Monday | Tuesday | Wednesday | Thursday | Friday |
