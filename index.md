@@ -52,4 +52,11 @@ sections:
       url: https://go.gov.sg/pat2023
       image: /images/PAT 2023a.png
       alt: Image alt text
+  - infopic:
+      title: Outstanding Youth in Education Award 2023
+      subtitle: OYEA 2023
+      button: Nominate here
+      url: https://go.gov.sg/OYEA2023
+      image: /images/OYEA 2023a.png
+      alt: Image alt text
 ---
