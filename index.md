@@ -45,4 +45,11 @@ sections:
       url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/school-life-memories-our-photo-journal/
       alt: Image alt text
       image: /images/photo journal banner.jpg
+  - infopic:
+      title: President's Award for Teachers 2023
+      subtitle: PAT 2023
+      button: Nominate here
+      url: https://go.gov.sg/pat2023
+      image: /images/PAT 2023a.png
+      alt: Image alt text
 ---
