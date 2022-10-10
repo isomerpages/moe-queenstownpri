@@ -33,13 +33,6 @@ sections:
       alt: Image alt text
       image: /images/cca banner.jpg
   - infopic:
-      title: CCE
-      description: Character & Citizenship Education
-      button: Click here
-      url: https://staging.d3haevm43m8pfu.amplifyapp.com/departments/CCE/
-      alt: Image alt text
-      image: /images/cce banner.jpg
-  - infopic:
       title: Photo Journal
       button: click here
       url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/school-life-memories-our-photo-journal/
