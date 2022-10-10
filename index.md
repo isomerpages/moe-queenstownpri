@@ -52,4 +52,11 @@ sections:
       url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/school-life-memories-our-photo-journal/
       alt: Image alt text
       image: /images/photo journal banner.jpg
+  - infopic:
+      title: Come join our Alumni
+      subtitle: QtPS Alumni
+      button: Click here to register
+      url: https://docs.google.com/forms/d/e/1FAIpQLSdWz8NCB86RSrF0Lk7EuBSM2300rasnztuvwINCNBsIRKX2rg/viewform
+      image: /images/Alumni.jpg
+      alt: Image alt text
 ---
