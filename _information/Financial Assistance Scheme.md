@@ -8,9 +8,9 @@ description: ""
 To qualify, the pupil must be a Singapore citizen and must meet the following income criteria:
 
 | Gross Monthly Household Income | Per Capita Income |
-|:---:|:---:|
-| $3,000 or below | $750 or below |
-|
+| -------- | -------- | 
+| $3,000 or below     | $750 or below    |
+
 #### **Benefits**
 
 | Item | P1 to P6 |
