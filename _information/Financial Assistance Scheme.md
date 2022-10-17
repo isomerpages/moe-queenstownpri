@@ -14,15 +14,15 @@ To qualify, the pupil must be a Singapore citizen and must meet the following in
 
 #### **Benefits**
 
+
 | Item | P1 to P6 |
-|:---:|:---:|
-| School Fees | Not applicable |
-| Standard Miscellaneous Fees | Full waiver of $6.50 per month |
-| Textbooks | Free textbooks |
-| School attire | Free school attire:<br>2 sets of uniform, 2 sets of PE attire, 1 pair of shoes and 2 pairs of socks. |
-| Bursary | Not applicable |
-| Examination Fees | 75% waiver of National Examination Fees |
-|
+| -------- | -------- | 
+| School Fees     | Not applicable     |
+| Standard Miscellaneous Fees   |  Full waiver of $6.50 per month |
+| Textbooks   | Free   |
+| School attire  | Free school attire - 2 sets of uniform, 2 sets of PE attire, 1 pair of shoes and 2 pairs of socks |
+| Bursary | Not applicable|
+| Examination Fees | 75% waiver of National Examination Fees|
 
 #### **How to apply?**
 
