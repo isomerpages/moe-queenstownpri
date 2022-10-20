@@ -28,7 +28,7 @@ description: ""
 |---|---|---|---|
 | Choir | Tue & Fri<br>2.15 pm - 4.15 pm (non-SYF period)<br>2.30 pm - 5.00 pm (SYF period)<br>3.00 pm - 4.00 pm (Zoom) | Music Room 2 | Mrs Garcia-Quek Siew Kee (OIC)<br>Ms Peck Siew Ling<br>Mdm Vaani |
 | Chinese Orchestra | Tue & Fri<br>2.15 pm - 4.15 pm | Band Room<br>AVA Room<br>Classroom | Mdm Yap Eng Fui (OIC)<br>Ms Liu Zijing<br>Mdm Liu Xi |
-| International Dance | Tue & Fri<br>2.30 pm - 4.30 pm |  <br>Dance Studio | Ms Lu Wei (OIC)<br>Mdm Zaheedah<br>Mrs Sharon Ng<br>Ms Nurul Naqiyyah|
+| International Dance | Tue & Fri<br>2.30 pm - 4.30 pm |  Dance Studio | Ms Lu Wei (OIC)<br>Mdm Zaheedah<br>Mrs Sharon Ng<br>Ms Nurul Naqiyyah|
 | Chinese Dance | Fri<br>2.30 pm - 4.30 pm | Music Room 1 | Mdm Chia Ai Tian (OIC)<br>Mdm Li Lingbo<br>Ms Kang Li Ping |
 | Indian Dance | Fri<br>2.15 pm - 4.15 pm | PAL Room 2 | Ms Ho Li Ming (OIC)<br>Mdm Najumunisha |
 | Malay Dance |  Tue<br>2.15 pm - 4.15 pm | PAL Room 1 | Mdm Siti-Hamesiah (OIC)<br>Mdm Norwati Neswan |
@@ -53,7 +53,7 @@ description: ""
 | InfoComm Club    | Tue<br>2.15 pm - 4.15 pm | Computer Lab 2 & 3 | Ms Fathin Atikah Mas’ud (OIC)<br>Mdm Lim Li Yin (2IC)<br>Ms Jeanie Lim<br>Mr Noor (Advisor) |
 | Science & Green Club | Tue<br>2.15 pm - 4.15 pm | Life  Science Room | Ms Choo Ruofei (OIC)<br>Ms Rugayah<br>Mrs Jean Law<br>Mrs Chen Soon Shan (Advisor) |
 | Scrabble Club | Tue<br>2.30 pm - 4.30 pm | Library | Ms Julie Hong (OIC)<br>Mdm Joyce Kang<br>Ms Geraldine Lim (Advisor) |
-| Visual Art Club | Tue & Fri<br>2.30 pm - 4.30 pm | Art Room & Art Studio | Mdm Aliah Hanim (OIC)<br>Mrs Karen Toh <br>Mrs Suzanne Pang <br>Ms Jeanna Goh (TIC & Advisor) |
+| Visual Art Club | Tue & Fri<br>2.30 pm - 4.30 pm | Art Room <br> Art Studio | Mdm Aliah Hanim (OIC)<br>Mrs Karen Toh <br>Mrs Suzanne Pang <br>Ms Jeanna Goh (TIC & Advisor) |
 | Weiqi Club | Tue<br>2.15 pm - 4.15 pm | 4 Hon & 4 Joy <br>Classrooms | Ms Lee Hui Yi (OIC)<br>Mdm Chai Jing Yi<br>Mr Yeo Chee Wee (Advisor) |
 |
 
