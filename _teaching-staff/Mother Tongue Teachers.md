@@ -6,9 +6,9 @@ description: ""
 ### **Mother Tongue Teachers**
 
 #### **Chinese Language**
-|  |  |  |
-|---|---|---|
-| 1 | Mr Yeo Chee Wee 
+|  |  |
+|---|---|
+| 1 | Mr Yeo Chee Wee |
 | 2 | Mdm Chia Ai Tian  |  
 | 3 | Mdm Chai Jing Yi | 
 | 4 | Mdm Jeanie Lim | 
@@ -31,8 +31,8 @@ description: ""
 
 #### **Malay Language**
 
-|  |  |  |
-|---|---|---|
+|  |  |  
+|---|---|
 | 1 | Ms Fathin Atikah Mas'ud | 
 | 2 | Mdm Norwati Neswan  | 
 | 3 | Mdm Siti-Hamesiah Samsudin | 
@@ -41,8 +41,8 @@ description: ""
 
 #### **Tamil Language**
 
-|  |  |  |
-|---|---|---|
+|  |  |  
+|---|---|
 | 1 | Mdm Najumunisha D/O Sahul Hameed | 
 | 2 | Miss Mahejwari D/O Rajeswari Uthirapathy | 
 | 3 | Mrs Anand |
