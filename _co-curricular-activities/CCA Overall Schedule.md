@@ -48,6 +48,7 @@ Various teachers (see below)
 | Softball | Mon & Fri<br>3.00 pm - 5.00 pm | Mon - Field<br>Fri - Field<br>Wet Weather - ISH | Mr Khaliq Goh (OIC)<br>[abdul_khaliq_goh@moe.edu.sg](mailto:abdul_khaliq_goh@moe.edu.sg)<br><br>Mr Jasper Chiang<br>[chiang_howe_kiat_jasper@moe.edu.sg](mailto:chiang_howe_kiat_jasper@moe.edu.sg)<br><br>Ms Wan Hameezah<br>[wan_hameezah_mohamed_said@moe.edu.sg](mailto:wan_hameezah_mohamed_said@moe.edu.sg)<br><br>Mrs Pauline Lee<br>[pauline_wong@moe.edu.sg](mailto:pauline_wong@moe.edu.sg) |
 | Swimming |  Fri<br>2.30 pm - 4.00 pm | Area outside school MRL | Mdm Kwek Sor Hian (OIC)<br>[kwek_sor_hian@moe.edu.sg](mailto:kwek_sor_hian@moe.edu.sg)<br><br>Mr Kwek Hong Wee<br>[kwek_hong_wee@moe.edu.sg](mailto:kwek_hong_wee@moe.edu.sg)<br><br>Ms Yong Foong Er<br>[yong_foong_er@moe.edu.sg](mailto:yong_foong_er@moe.edu.sg)<br><br>Ms Yeo Teck Wai<br>[yeo_teck_wai@moe.edu.sg](mailto:yeo_teck_wai@moe.edu.sg)<br><br>Ms Yang Jingning<br>[yang_jingning@moe.edu.sg](mailto:yang_jingning@moe.edu.sg) |
 |
+
 #### **Clubs & Societies**
 | CCA | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
