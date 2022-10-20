@@ -6,7 +6,7 @@ description: ""
 ### **Mother Tongue Teachers**
 
 #### **Chinese Language**
-| | | |
+|  |  |  |
 |---|---|---|
 | 1 | Mr Yeo Chee Wee 
 | 2 | Mdm Chia Ai Tian  |  
