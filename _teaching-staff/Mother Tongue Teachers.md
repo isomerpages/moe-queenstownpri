@@ -6,10 +6,11 @@ description: ""
 ### **Mother Tongue Teachers**
 
 #### **Chinese Language**
+
 |  |  |
-|---|---|
-| 1 | Mr Yeo Chee Wee |
-| 2 | Mdm Chia Ai Tian  |  
+| -------- | -------- | 
+| 1 | Mr Yeo Chee Wee | 
+| 2 | Mdm Chia Ai Tian  | 
 | 3 | Mdm Chai Jing Yi | 
 | 4 | Mdm Jeanie Lim | 
 | 5 | Mr Kwek Hong Wee |
