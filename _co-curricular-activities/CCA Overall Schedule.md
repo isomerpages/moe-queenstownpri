@@ -6,8 +6,12 @@ description: ""
 ### **CCA Overall Schedule**
 
 #### **Advisors**
-Uniformed Groups / Physical Sports: Mr A'srie<br>
-Performing Arts: Mdm Jeanna Goh<br>
+
+| CCA section | Advisor |  
+|---|---|
+| Uniformed Groups / Sports:  | Mr A'srie     | 
+| Performing Arts:  | Mdm Jeanna Goh     | 
+
 
 #### **Uniformed Groups**
 
@@ -42,6 +46,7 @@ Performing Arts: Mdm Jeanna Goh<br>
 |
 
 #### **Clubs & Societies**
+
 | CCA | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
 | Visual Art Club | Tue & Fri<br>2.30 pm - 4.30 pm | Art Room & Art Studio | Mdm Aliah Hanim (OIC)<br>Mrs Karen Toh <br>Mrs Suzanne Pang <br>Ms Jeanna Goh (TIC & Advisor) |
@@ -51,5 +56,4 @@ Performing Arts: Mdm Jeanna Goh<br>
 | InfoComm Club    | Tue<br>2.15 pm - 4.15 pm | Computer Lab 2 & 3 | Ms Fathin Atikah Mas’ud (OIC)<br>Mdm Lim Li Yin (2IC)<br>Ms Jeanie Lim<br>Mr Noor (Advisor) |
 |
 
-Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
-![](/images/PG-contacts2.jpg)
+CCA Teachers in charge can be reached via email. Your child's CCA Teacher-in-charge's email address can be found on Parents Gateway.
