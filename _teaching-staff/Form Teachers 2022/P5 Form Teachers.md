@@ -6,13 +6,16 @@ third_nav_title: Form Teachers 2022
 ---
 ### **P5 Form Teachers**
 
-| Class | Form Teachers | FT Email |
-|:---:|:---:|:---:|
-| 5 Care | Mdm Thamizhvaani d/o Veeraian <br> Mdm Siti-Hamesiah Bte Samsudin | [thamizhvaani_veeraian@moe.edu.sg](mailto:thamizhvaani_veeraian@moe.edu.sg) <br> [siti-hamesiah_samsudin@moe.edu.sg](mailto:siti-hamesiah_samsudin@moe.edu.sg) |
-| 5 Courage | Mr Jevon See <br> Mdm Yong Foong Er | [see_chong_yuan_jevon@moe.edu.sg](mailto:see_chong_yuan_jevon@moe.edu.sg) <br> [yong_foong_er@moe.edu.sg](mailto:yong_foong_er@moe.edu.sg) |
-|  5 Creativity | Mr Feng Wenfu <br> Mdm Von Tjong Min Cui | [feng_wenfu@moe.edu.sg](mailto:feng_wenfu@moe.edu.sg) <br> [tjong_min_cui@moe.edu.sg](mailto:tjong_min_cui@moe.edu.sg) |
-|  5 Diligence | Mr Haw Shuen Siang <br> Mrs Ong-Lim Lay See | [haw_shuen_siang@moe.edu.sg](mailto:haw_shuen_siang@moe.edu.sg) <br> [lim_lay_see@moe.edu.sg](mailto:lim_lay_see@moe.edu.sg) |
-|  5 Honesty | Ms Choo Ruofei <br> Ms Nurul Naqiyyah | [choo_ruofei@moe.edu.sg](mailto:choo_ruofei@moe.edu.sg) <br> [nurul_naqiyyah_mohd_kamal@moe.edu.sg](mailto:nurul_naqiyyah_mohd_kamal@moe.edu.sg) |
-|  5 Joy | Ms Yeoh Mandi <br> Ms Wan Hameezah Bte Mohd Said | [yeoh_mandi@moe.edu.sg](mailto:yeoh_mandi@moe.edu.sg) <br> [wan_hameezah_mohamed_said@moe.edu.sg](mailto:wan_hameezah_mohamed_said@moe.edu.sg) |
-|  5 Peace | Mr Muhammad Azuan <br> Ms Yeo Teck Wai <br> Mdm Katherine Quek | [muhammad_azuan_ruslan@moe.edu.sg](mailto:muhammad_azuan_ruslan@moe.edu.sg) <br> [yeo_teck_wai@moe.edu.sg](mailto:yeo_teck_wai@moe.edu.sg) <br> [katherine_quek_joo_peo@moe.edu.sg](mailto:katherine_quek_joo_peo@moe.edu.sg) |
+| Class| Form Teachers | 
+| -------- | -------- |
+| 5 Care | Mdm Thamizhvaani d/o Veeraian <br> Mdm Siti-Hamesiah Bte Samsudin |
+| 5 Courage | Mr Jevon See <br> Mdm Yong Foong Er |
+| 5 Creativity | Mr Feng Wenfu <br> Mdm Von Tjong Min Cui |
+| 5 Diligence | Mr Haw Shuen Siang <br> Mrs Ong-Lim Lay See | 
+| 5 Honesty | Ms Choo Ruofei <br> Ms Nurul Naqiyyah | 
+| 5 Joy | Ms Yeoh Mandi <br> Ms Wan Hameezah Bte Mohd Said | 
+| 5 Peace | Mr Muhammad Azuan <br> Ms Yeo Teck Wai <br> Mdm Katherine Quek | 
 |
+
+Form Teachers can be reached either through ClassDojo or email. Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
+![](/images/PG-contacts2.jpg)
