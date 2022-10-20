@@ -7,7 +7,7 @@ description: ""
 
 #### **Advisors**
 
-| CCA section | Advisor |  
+| CCAs  | Advisor |  
 |---|---|
 | Uniformed Groups / Sports:  | Mr A'srie     | 
 | Performing Arts:  | Mdm Jeanna Goh     | 
