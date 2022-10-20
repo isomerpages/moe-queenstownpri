@@ -49,11 +49,11 @@ description: ""
 
 | CCA | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
-| Visual Art Club | Tue & Fri<br>2.30 pm - 4.30 pm | Art Room & Art Studio | Mdm Aliah Hanim (OIC)<br>Mrs Karen Toh <br>Mrs Suzanne Pang <br>Ms Jeanna Goh (TIC & Advisor) |
-| Science & Green Club | Tue<br>2.15 pm - 4.15 pm | Life  Science Room | Ms Choo Ruofei (OIC)<br>Ms Rugayah<br>Mrs Jean Law<br>Mrs Chen Soon Shan (Advisor) |
-| Weiqi Club | Tue<br>2.15 pm - 4.15 pm | 4 Hon & 4 Joy <br>Classrooms | Ms Lee Hui Yi (OIC)<br>Mdm Chai Jing Yi<br>Mr Yeo Chee Wee (Advisor) |
-| Scrabble Club | Tue<br>2.30 pm - 4.30 pm | Library | Ms Julie Hong (OIC)<br>Mdm Joyce Kang<br>Ms Geraldine Lim (Advisor) |
 | InfoComm Club    | Tue<br>2.15 pm - 4.15 pm | Computer Lab 2 & 3 | Ms Fathin Atikah Mas’ud (OIC)<br>Mdm Lim Li Yin (2IC)<br>Ms Jeanie Lim<br>Mr Noor (Advisor) |
+| Science & Green Club | Tue<br>2.15 pm - 4.15 pm | Life  Science Room | Ms Choo Ruofei (OIC)<br>Ms Rugayah<br>Mrs Jean Law<br>Mrs Chen Soon Shan (Advisor) |
+| Scrabble Club | Tue<br>2.30 pm - 4.30 pm | Library | Ms Julie Hong (OIC)<br>Mdm Joyce Kang<br>Ms Geraldine Lim (Advisor) |
+| Visual Art Club | Tue & Fri<br>2.30 pm - 4.30 pm | Art Room & Art Studio | Mdm Aliah Hanim (OIC)<br>Mrs Karen Toh <br>Mrs Suzanne Pang <br>Ms Jeanna Goh (TIC & Advisor) |
+| Weiqi Club | Tue<br>2.15 pm - 4.15 pm | 4 Hon & 4 Joy <br>Classrooms | Ms Lee Hui Yi (OIC)<br>Mdm Chai Jing Yi<br>Mr Yeo Chee Wee (Advisor) |
 |
 
 CCA Teachers in charge can be reached via email. Your child's CCA Teacher-in-charge's email address can be found on Parents Gateway.
