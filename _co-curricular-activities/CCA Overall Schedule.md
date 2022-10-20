@@ -9,9 +9,10 @@ description: ""
 
 | CCAs  | Advisor |  
 |---|---|
-| Uniformed Groups / Sports:  | Mr A'srie     | 
-| Performing Arts:  | Mdm Jeanna Goh     | 
-
+| Uniformed Groups / Sports | Mr A'srie     | 
+| Performing Arts | Mdm Jeanna Goh     | 
+| Clubs & Societies | Refer to respective club/society|
+|
 
 #### **Uniformed Groups**
 
