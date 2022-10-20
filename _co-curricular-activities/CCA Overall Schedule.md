@@ -50,3 +50,6 @@ Performing Arts: Mdm Jeanna Goh<br>
 | Scrabble Club | Tue<br>2.30 pm - 4.30 pm | Library | Ms Julie Hong (OIC)<br>Mdm Joyce Kang<br>Ms Geraldine Lim (Advisor) |
 | InfoComm Club    | Tue<br>2.15 pm - 4.15 pm | Computer Lab 2 & 3 | Ms Fathin Atikah Mas’ud (OIC)<br>Mdm Lim Li Yin (2IC)<br>Ms Jeanie Lim<br>Mr Noor (Advisor) |
 |
+
+Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
+![](/images/PG-contacts2.jpg)
