@@ -15,7 +15,7 @@ third_nav_title: Facilities & Services
 
 #### **Dental Clinic Operating Schedule - November 2022**
 
-| Week | Monday | Tuesday | Wednesday | Thursday | Friday |
+| <center>Week | <center>Monday | <center>Tuesday | <center>Wednesday | <center>Thursday | <center>Friday |
 |:---:|---|---|---|---|---|
 | <center> 8 |   |<center>1<br>CLOSED  |<center> 2<br>CLOSED| <center>3<br>CLOSED  |<center>4<br>CLOSED  |
 | <center> 9 | <center> 7<br>CLOSED  | <center> 8<br>  | <center> 9<br> | <center> 10 <br>CLOSED  | <center> 11<br>  |
