@@ -4,7 +4,7 @@ permalink: /extra-pages/Student-ICON/
 description: ""
 ---
 Student ICON
-============
+=
 
 To access your Student ICON, please click on this link:&nbsp;&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)  
   
