@@ -2,5 +2,6 @@ collections:
   eoy-achievemens:
     output: true
     order:
+      - Sportsmanship Award.md
       - Queenstowner Award.md
       - Value Award.md
