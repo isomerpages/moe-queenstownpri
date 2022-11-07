@@ -2,7 +2,6 @@ collections:
   placeholder:
     output: true
     order:
-      - Student ICON.md
       - Class Leaders Training.md
       - Prefects Training.md
       - Prefect Investiture.md
