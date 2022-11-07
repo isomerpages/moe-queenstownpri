@@ -15,8 +15,8 @@ Please refer to the onboarding guide below when setting up your account:
 For P1-3&nbsp;&nbsp;[Student iCON Onboarding Guide P1-3\_website.pdf](https://queenstownpri.moe.edu.sg/qql/slot/u317/For%20Students/Student%20iCON%20Onboarding%20Guide%20P1-3_website.pdf)  
 /files/Student iCON Onboarding Guide P1-3_website.pdf
 
-[For P1-3](/files/Student iCON Onboarding Guide P1-3_website.pdf)
-[For P4-6](/files/Student iCON Onboarding Guide P4-6_website.pdf)
+[For P1-3] (/files/Student iCON Onboarding Guide P1-3_website.pdf)
+[For P4-6] (/files/Student iCON Onboarding Guide P4-6_website.pdf)
 
 	* [QtPS Pupils Admission Application Form\_v1.pdf](/files/QtPS%20Pupils%20Admission%20Application%20Form_v1.pdf)
 	
