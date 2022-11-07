@@ -1,4 +1,5 @@
 collections:
   extra-pages:
     output: true
-    order: []
+    order:
+      - Student ICON.md
