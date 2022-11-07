@@ -45,6 +45,7 @@ Daily 6.30 am – 6.30 pm (Monday - Friday)
 |  P5 | 10:30am - 11:00am | 10:15am - 10:45am |
 |  P6 | 8:30am - 9:00am | 8:15am - 8:45am |
 |
+
 #### **Public Bus Transport Services**
 
 By MRT: alight at Queenstown MRT Station<br>
