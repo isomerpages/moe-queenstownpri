@@ -1,0 +1,4 @@
+collections:
+  extra-pages:
+    output: true
+    order: []
