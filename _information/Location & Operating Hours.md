@@ -28,7 +28,7 @@ Daily 6.30 am – 6.30 pm (Monday - Friday)
 #### **Side Gate Operating Hours**
 
 | Location | Schedule |
-|:---:|:---:|
+|-----|-----|
 | Beside Bus Stop in front of the School | 6.30 am - 7.45 am (Mon - Fri)<br>12:45 pm - 6:00 pm (Mon - Fri) |
 | Beside the Canteen (for Dismissal only) | 1.30 pm – 2:00 pm (Mon, Tue, Thu & Fri)<br>1.15 pm – 1:45 pm (Wed) |
 |  Field Gate (for Dismissal only) |  1.30 pm – 2:00 pm (Monday - Friday) |
