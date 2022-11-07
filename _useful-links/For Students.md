@@ -7,8 +7,8 @@ description: ""
 
 *   [QtPS eLearning Website](https://sites.google.com/moe.edu.sg/elearning-queenstown-primary/home)
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login/)
-*   [Student ICON](https://staging.d3haevm43m8pfu.amplifyapp.com/extra%20links/Student%20iCON/) 
-<!--(https://workspace.google.com/dashboard)-->
+*   [Student ICON](https://workspace.google.com/dashboard)
+ <!--(https://staging.d3haevm43m8pfu.amplifyapp.com/extra%20links/Student%20iCON/) -->
 <!--*   [iMTL](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)  -->
 *   [Caught Doing Right](https://forms.gle/Jjwq6odYQ4HN4m4VA)
 *   [TypingPal](https://queenstownps.typingpal.com/)
