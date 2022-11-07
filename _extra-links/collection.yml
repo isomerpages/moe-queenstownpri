@@ -1,5 +1,5 @@
 collections:
-  extra-pages:
+  extra-links:
     output: true
     order:
       - Student ICON.md
