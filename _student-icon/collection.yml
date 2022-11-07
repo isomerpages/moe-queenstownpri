@@ -1,5 +1,5 @@
 collections:
-  extra-links:
+  student-icon:
     output: true
     order:
       - Student ICON.md
