@@ -16,7 +16,10 @@ For P1-3&nbsp;&nbsp;[Student iCON Onboarding Guide P1-3\_website.pdf](https://qu
 /files/Student iCON Onboarding Guide P1-3_website.pdf
 
 [For P1-3](/files/Student iCON Onboarding Guide P1-3_website.pdf)
-  
+[For P4-6](/files/Student iCON Onboarding Guide P4-6_website.pdf)
+
+	* [QtPS Pupils Admission Application Form\_v1.pdf](/files/QtPS%20Pupils%20Admission%20Application%20Form_v1.pdf)
+	
 For P4-6&nbsp;&nbsp;[Student iCON Onboarding Guide P4-6\_website.pdf](https://queenstownpri.moe.edu.sg/qql/slot/u317/For%20Students/Student%20iCON%20Onboarding%20Guide%20P4-6_website.pdf)  
   
 Please approach your Form Teachers if you have forgotten your password.  
