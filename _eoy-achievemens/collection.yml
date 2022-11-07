@@ -2,4 +2,5 @@ collections:
   eoy-achievemens:
     output: true
     order:
+      - Queenstowner Award.md
       - Value Award.md
