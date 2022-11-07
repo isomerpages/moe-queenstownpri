@@ -1,4 +1,5 @@
 collections:
   eoy-achievemens:
     output: true
-    order: []
+    order:
+      - Value Award.md
