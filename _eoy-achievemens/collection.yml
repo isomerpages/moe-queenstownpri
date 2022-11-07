@@ -1,0 +1,4 @@
+collections:
+  eoy-achievemens:
+    output: true
+    order: []
