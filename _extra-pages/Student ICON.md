@@ -39,6 +39,8 @@ All students’ email addresses follow their full name as reflected in MOE’s r
 
 Please refer to the following table for guidance on the Operating System/browser which students can use to log in.
 
+[Student iCON OS support](\images\Student%20iCON%20Ssupport.png)
+
 ![Student iCON OS support.png](https://queenstownpri.moe.edu.sg/qql/slot/u317/For%20Students/Student%20iCON%20OS%20support.png)  
 
 **4.**&nbsp;&nbsp;&nbsp;&nbsp;**Can I link the Student iCON account to an email app on my Android/iOS mobile device?**
