@@ -37,7 +37,7 @@ Daily 6.30 am – 6.30 pm (Monday - Friday)
 #### **Recess**
 
 | Level | Schedule (Mon-Fri) | Schedule (Wed) |
-|:---:|:---:|:---:|
+|------|-------|-------|
 |  P1 | 10:00am - 10:30am | 9:45am - 10:15am |
 |  P2 | 9:00am - 9:30am | 8:45am - 9:15am |
 |  P3 | 9:30am - 10:00am | 9:15am - 9:45am |
