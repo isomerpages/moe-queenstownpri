@@ -1,0 +1,9 @@
+collections:
+  our-staff:
+    output: true
+    order:
+      - Overview.md
+      - Organisation Chart.md
+      - Teaching Staff/.keep
+      - School Management Committee.md
+      - Admin & Support Staff.md

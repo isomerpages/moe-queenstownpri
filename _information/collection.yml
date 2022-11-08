@@ -1,0 +1,23 @@
+collections:
+  information:
+    output: true
+    order:
+      - Administration.md
+      - Location & Operating Hours.md
+      - Facilities & Services/.keep
+      - Facilities & Services/Bus Services.md
+      - Facilities & Services/Bookshop.md
+      - Facilities & Services/School Uniform.md
+      - Facilities & Services/Counselling.md
+      - Facilities & Services/Dental.md
+      - Facilities & Services/Media Resource Library.md
+      - Facilities & Services/Student Care Centre.md
+      - Financial Assistance Scheme.md
+      - NEU PC Plus Programme.md
+      - School Open Letters.md
+      - Health and Safety Matters.md
+      - P4 Subject Based Banding.md
+      - Parents Gateway/.keep
+      - Parents Gateway/Parents Gateway.md
+      - Parents Gateway/Parents Gateway FAQ.md
+      - Frequently Asked Questions (FAQ).md

@@ -1,15 +1,105 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/QTPS-logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    url: /about-us/
+    sublinks:
+      - title: Overview
+        url: /about-us/
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Vision Mission Values
+        url: /about-us/vision-mission-values/
+      - title: School Rules and Expectations
+        url: /about-us/school-rules-and-expectations/
+      - title: School Song
+        url: /about-us/school-song/
+      - title: Contact Us
+        url: /contact-us/
+  - title: Our Staff
+    url: /our-staff/overview/
+    sublinks:
+      - title: Overview
+        url: /our-staff/overview/
+      - title: Organisation Chart
+        url: /our-staff/organisation-chart/
+      - title: Teaching Staff
+        url: /our-staff/teaching-staff/form-teachers-2022/p1/
+      - title: School Management Committee
+        url: /our-staff/school-management-committee/
+      - title: Admin & Support Staff
+        url: /our-staff/admin-and-support-staff/
+  - title: Departments
+    url: /departments/english/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mother Tongue
+        url: /departments/mother-tongue/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Physical Education (PE)
+        url: /departments/pe/
+      - title: Aesthetics
+        url: /departments/aesthetics/
+      - title: ICT
+        url: /departments/information-&-communications-technology
+      - title: Character & Citizenship Educat
+        url: /departments/CCE/
+  - title: Information
+    url: /information/administration/
+    sublinks:
+      - title: Administration
+        url: /information/administration/
+      - title: Location & Operating Hours
+        url: /information/location-and-operating-hours/
+      - title: Facilities & Services
+        url: /information/facilities-and-services/bus-services/
+      - title: Financial Assistance Scheme
+        url: /information/fas/
+      - title: NEU PC Plus Programme
+        url: /information/neu-pc-plus-progamme/
+      - title: School Open Letters
+        url: /resources/open-letter/
+      - title: Health and Safety Matters
+        url: /information/health-and-safety-matters/
+      - title: P4 Subject-Based Banding
+        url: /information/p4-subject-based-banding/
+      - title: Parents Gateway
+        url: /information/parents-gateway/
+      - title: Frequently Asked Questions
+        url: /information/FAQ/
+  - title: Experience
+    url: /experience/overview/
+    sublinks:
+      - title: Overview
+        url: /experience/overview/
+      - title: Co-Curricular Activities (CCA)
+        url: /experience/CCA/
+      - title: Applied Learning Programme
+        url: /experience/ALP/
+      - title: Learning for Life Programme
+        url: /experience/LLP/
+      - title: School Life Memories
+        url: /experience/school-life-memories-our-photo-journal/
+      - title: P6 Digital Art Showcase
+        url: /experience/p6-digital-art-showcase/
+  - title: Partners
+    url: /partners/school-advisory-committee/
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners/school-advisory-committee/
+      - title: Parent Support Group
+        url: /partners/PSG/
+      - title: Student Care
+        url: /partners/student-care/
+  - title: Useful links
+    url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/
+    sublinks:
+      - title: For Students
+        url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/
+      - title: For Teachers
+        url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/for-teachers/
+      - title: School Calendar of Events
+        url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/school-calender/

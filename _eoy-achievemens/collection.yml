@@ -1,0 +1,8 @@
+collections:
+  eoy-achievemens:
+    output: true
+    order:
+      - Artist of the Term Award.md
+      - Sportsmanship Award.md
+      - Queenstowner Award.md
+      - Value Award.md

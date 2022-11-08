@@ -1,0 +1,8 @@
+collections:
+  placeholder:
+    output: true
+    order:
+      - Class Leaders Training.md
+      - Prefects Training.md
+      - Prefect Investiture.md
+      - Head Prefect Election.md
