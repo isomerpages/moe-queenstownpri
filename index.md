@@ -21,15 +21,15 @@ sections:
           url: /information/parents-gateway/
         - title: School Hours and Recess Time
           description: ""
-          url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/location-and-operating-hours/
+          url: /information/location-and-operating-hours/
         - title: Useful Links for Students & Teachers
           description: ""
-          url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/
+          url: /useful-links/
   - infopic:
       title: CCA
       description: Co-Curricular Activities
       button: click here
-      url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/
+      url: /experience/CCA/
       alt: Image alt text
       image: /images/cca banner.jpg
   - infopic:
@@ -56,7 +56,7 @@ sections:
   - infopic:
       title: Photo Journal
       button: click here
-      url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/school-life-memories-our-photo-journal/
+      url: /experience/school-life-memories-our-photo-journal/
       alt: Image alt text
       image: /images/photo journal banner.jpg
 ---
