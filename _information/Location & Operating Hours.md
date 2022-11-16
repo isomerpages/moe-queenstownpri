@@ -56,5 +56,4 @@ From Redhill MRT Station (Opp Stn): <b>32</b> (alight directly outside school co
 
 #### **Students Arrival & Dismissal Video**
 
-
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jZ-6Fzl-kr4" title="Safety for Student Arrival and Dismissal 14 Nov 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
