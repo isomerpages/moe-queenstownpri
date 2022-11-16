@@ -18,7 +18,7 @@ sections:
           url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/
         - title: Sign up for Parents Gateway now
           description: ""
-          url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/parents-gateway/
+          url: /information/parents-gateway/
         - title: School Hours and Recess Time
           description: ""
           url: https://staging.d3haevm43m8pfu.amplifyapp.com/information/location-and-operating-hours/
