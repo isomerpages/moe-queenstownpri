@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: CCA
           description: ""
-          url: https://staging.d3haevm43m8pfu.amplifyapp.com/experience/CCA/
+          url: /experience/CCA/
         - title: Sign up for Parents Gateway now
           description: ""
           url: /information/parents-gateway/
