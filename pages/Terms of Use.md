@@ -8,21 +8,21 @@ Terms of Use
 
 Thank you for visiting https://www.queenstownpri.moe.edu.sg/. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
 
-**General**
+### General
 
 1\. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
-**Proprietary Rights**
+### Proprietary Rights
 
 2\. This website is maintained by Queenstown Primary School (QtPS).
 
 3\. The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by QtPS.
 
-**Privacy Policy**
+#### Privacy Policy
 
 4\. Click here to review this website [Privacy Statement](https://www.queenstownpri.moe.edu.sg/privacy-statement).
 
-**Restrictions on use of Materials**
+### Restrictions on use of Materials
 
 5\. Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of QtPS.
 
@@ -38,17 +38,17 @@ Thank you for visiting https://www.queenstownpri.moe.edu.sg/. By accessing and u
 
 8\. QtPS shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website.
 
-**Right of Access**
+### Right of Access
 
 9\. QtPS reserves all rights to deny or restrict access to this website to any particular person, or to block access from a particular Internet address to this website, at any time, without ascribing any reasons whatsoever.
 
-**Links from this website to other websites**
+### Links from this website to other websites
 
 10\. This website contains hyperlinks to websites which are not maintained by QtPS. QtPS is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
 11\. Hyperlinks to other websites are provided as a convenience. In no circumstances shall QtPS be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
 
-**Links to this website from other websites**
+### Links to this website from other websites
 
 12\. Except as set forth below, caching and links to, and the framing of this website or any of the Contents are prohibited.
 
@@ -62,6 +62,6 @@ Thank you for visiting https://www.queenstownpri.moe.edu.sg/. By accessing and u
 
 17\. QtPS reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this website or any of the Contents.
 
-**Governing Law**
+### Governing Law
 
 18\. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
