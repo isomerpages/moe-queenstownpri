@@ -1,6 +1,6 @@
 ---
-title: Frequently Asked Questions (FAQ)
-permalink: /information/FAQ/
+title: Frequently Asked Questions
+permalink: /faq/
 description: ""
 ---
 ### Frequently Asked Questions (FAQ)
@@ -13,4 +13,3 @@ You may look for their contact information in the “Facilities & Services” ta
 
 ##### I wish to share some feedback with the school. Who should I contact?
 You can send an email to [qtps@moe.edu.sg](mailto:qtps@moe.edu.sg). 
-<!-- If you wish to email the Key Personnel (KP) of the relevant departments, you may look for their contact information via the “School Management Committee” tab under “Our Staff” or click [here](https://staging.d3haevm43m8pfu.amplifyapp.com/our-staff/school-management-committee/)
