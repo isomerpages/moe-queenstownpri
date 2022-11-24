@@ -8,7 +8,7 @@ third_nav_title: Facilities & Services
 
 | Company | School Dental Service |
 |---|---|
-| Contact Person | Mdm Wan Foong Sim |
+| Contact Person | Ms Chen Su Juan |
 | Contact No | 89092160 |
 | Clinic Operating Hours  | Tue & Wed : 8:00am to 5:30pm<br>Fri : 8:00am to 5:00pm <br>Lunch break : 1:00pm to 2:00pm |
 |
