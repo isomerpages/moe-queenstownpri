@@ -33,8 +33,8 @@ In the event that you require treatment **URGENTLY** on the days that the clin
 | No. | Dental Clinic | Telephone | Address |
 |---|---|:---:|---|
 | 1 | Pei Tong Primary School | 89091679 | 15 Clementi Ave 5<br>Singapore 129857 |
-| 2 | New Town Primary School |  64742380 | 300 Tanglin Halt Road<br>Singapore 148812 |
-| 3 | Henry Park Primary School | 64630974 | 1 Holland Grove Road<br>Singapore 278790 |
+| 2 | New Town Primary School |  87649804 | 300 Tanglin Halt Road<br>Singapore 148812 |
+| 3 | Zhangde Primary School | 89400375 | 51 Jalan Membina<br>Singapore 169485 |
 |
 
 In the event that all dental clinics are closed, please call HPB School Dental Centre (64353782) for advice.
