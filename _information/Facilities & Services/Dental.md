@@ -13,18 +13,7 @@ third_nav_title: Facilities & Services
 | Clinic Operating Hours  | Tue & Wed : 8:00am to 5:30pm<br>Fri : 8:00am to 5:00pm <br>Lunch break : 1:00pm to 2:00pm |
 |
 
-#### **Dental Clinic Operating Schedule - November 2022**
-
-| <center>Week | <center>Monday | <center>Tuesday | <center>Wednesday | <center>Thursday | <center>Friday |
-|:---:|---|---|---|---|---|
-| <center> 8 |   |<center>1<br>CLOSED  |<center> 2<br>CLOSED| <center>3<br>CLOSED  |<center>4<br>CLOSED  |
-| <center> 9 | <center> 7<br>CLOSED  | <center> 8<br>  | <center> 9<br>CLOSED | <center> 10 <br>CLOSED  | <center> 11<br>  |
-| <center> 10 | <center> 14<br>| <center> 15 <br> CLOSED | <center> 16<br>CLOSED | <center> 17<br> | <center> 18<br>CLOSED  |
-| <center> Holidays |  <center> 21<br>CLOSED | <center> 22<br>CLOSED | <center> 23<br>CLOSED |  <center> 24<br> | <center> 25<br> |
-| <center> Holidays|  <center> 28<br> | <center> 29<br>CLOSED |   <center> 30<br> | |  |  |
-|
-
-#### **December 2022**
+#### **Dental Clinic Operating Schedule - December 2022**
 
 | <center>Week | <center>Monday | <center>Tuesday | <center>Wednesday | <center>Thursday | <center>Friday |
 |:---:|---|---|---|---|---|
