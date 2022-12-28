@@ -36,14 +36,14 @@ Daily 6.30 am – 6.30 pm (Monday - Friday)
 
 #### **Recess**
 
-| Level | Schedule (Mon-Fri) | Schedule (Wed) |
+| Level | Schedule (Mon, Tue, Thu, Fri) | Schedule (Wed) |
 |------|-------|-------|
-|  P1 | 10:00am - 10:30am | 9:45am - 10:15am |
+|  P1 | 9:00am - 9:30am | 8:45am - 9:15am |
 |  P2 | 9:00am - 9:30am | 8:45am - 9:15am |
 |  P3 | 9:30am - 10:00am | 9:15am - 9:45am |
-|  P4 | 11:00am - 11:30am | 10:45am - 11:15am |
-|  P5 | 10:30am - 11:00am | 10:15am - 10:45am |
-|  P6 | 8:30am - 9:00am | 8:15am - 8:45am |
+|  P4 | 9:30am - 10:00am | 9:15am - 9:45am |
+|  P5 | 10:00am - 10:30am | 9:45am - 10:15am |
+|  P6 | 10:30am - 11:00am | 10:15am - 10:45am |
 |
 
 #### **Public Bus Transport Services**
