@@ -98,8 +98,8 @@ links:
     url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/
     sublinks:
       - title: For Students
-        url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/
+        url: /useful-links/
       - title: For Teachers
-        url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/for-teachers/
+        url: /useful-links/for-teachers/
       - title: School Calendar of Events
-        url: https://staging.d3haevm43m8pfu.amplifyapp.com/useful-links/school-calender/
+        url: /useful-links/school-calender/
