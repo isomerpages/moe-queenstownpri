@@ -1,8 +1,9 @@
 ---
 title: For Students
-permalink: /useful-links/
+permalink: /useful-links/for-students/
 description: ""
 ---
+
 ### **For Students**
 
 *   [QtPS eLearning Website](https://sites.google.com/moe.edu.sg/elearning-queenstown-primary/home)
