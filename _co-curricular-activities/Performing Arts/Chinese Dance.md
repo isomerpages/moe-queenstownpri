@@ -7,8 +7,7 @@ third_nav_title: Performing Arts
 ### **Chinese Dance**
 
 #### **CCA Teachers-in-Charge**
-Mdm Chia Ai Tian (OIC)<br>
-Mdm Li Lingbo<br>
+Mdm Li Lingbo (OIC)<br>
 Ms Kang Li Ping
 
 #### **CCA Advisor**
