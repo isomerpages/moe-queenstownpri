@@ -10,15 +10,14 @@ third_nav_title: Sports
 Mr Amos Leong (OIC)  <br>
 Ms Tan Wei Xin<br>
 Ms Yap Ee Lim<br>
-Ms Revathi<br>
 Mdm Nazmunnisah<br>
-Mr Teo Chee Tat
+Ms Charmaine Goh
 
 #### **CCA Advisor**
-Mr Md A’srie B Che Ali
+Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
-Tuesdays & Fridays<br>
+Mondays, Tuesdays & Fridays<br>
 2.30 pm to 5.00 pm
 
 #### **CCA Venue**
