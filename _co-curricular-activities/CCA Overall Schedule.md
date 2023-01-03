@@ -66,7 +66,7 @@ description: ""
 |
 #### **Other Programmes**
 
-| Group | Day(s) / Time | Venue | Teachers In-Charge |
+| Name | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
 | SDR | Mon, Tue, Thu, Fri (P3-P4)<br>2.00 pm - 3.00 pm/<br>3.00 pm - 4.00 pm | Library Inner Room/Learning Centre  | Ms Goh Siew Ping <br> Mrs Christabel Goh|
 | RRP| Mon & Thu <br> | LSP Room, Teaching Lab | Ms Revathi<br>Ms Julie Hong |
