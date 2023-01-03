@@ -16,7 +16,6 @@ description: ""
 * Ms Siti Nur Sabrina Bte Dawood
 
 #### **Management Support Officers**
-*   Ms Woo Wai San
 *   Mdm Asanamal Bivi D/O Kothari
 *   Mdm Noraisah Bte Ibrahim
 
@@ -27,13 +26,14 @@ description: ""
 *   Ms Ong Lak Cheng
 *   Mr William Foong Chong Keen
 *   Mdm Anushiya Devi D/O Gumanan
+*   Ms Yan Sok Ying
 
 #### **ICT Manager**
 * Mdm Heng Meow Hoon
 
 #### **Other Support Staff**
 
-| | |
+|||
 |:---:|:---:|
 | School Support Staff | Mr Lee Boon Hoe Lawrence |
 | Desktop Engineer | Ms Siti Aisah Binte Osman<br>Mr Radin Muhammad |
