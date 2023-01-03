@@ -15,7 +15,7 @@ Mdm Jeanna Goh
 
 #### **CCA Day and Time**
 Fridays<br>
-2.15 p.m. to 4.15 p.m.
+2.15 pm to 4.15 pm
 
 #### **CCA Venue**
 Music Room 1
