@@ -8,12 +8,12 @@ third_nav_title: Form Teachers 2022
 
 | Class| Form Teachers | 
 | -------- | -------- |
-| 3 Care     | Mr Jason Seng <br> Ms Lee Yee Hueh   |
-| 3 Courage | Mr Mark Teo <br> Mdm Najumunisha  |
-| 3 Creativity | Mrs Christabel Goh <br>Mdm Jeanie Lim Jieying |
-| 3 Diligence | Mr Lim Ching Feng <br> Ms Yang Jingning | 
-| 3 Honesty | Ms Harianti Bte Mohd Ibrahim <br> Mdm Chia Ai Tian | 
-| 3 Joy | Mr Amos Leong Sek Kee <br>Ms Tan Wei Xin <br>Mdm Vani Chawla | 
+| 3 Care | Mdm Asmahliah Bte Abdul Bakar <br> Mrs Chia-Kong Su Sze |
+| 3 Courage | Mr Charles Ng <br> Ms Lu Wei |
+| 3 Creativity | Ms Iv Tan Yeng Peng <br> Mr Mohd Noor Bin Salim  |
+| 3 Diligence | Ms Goh Siew Ping <br> Mr Tan Kian Tat | 
+| 3 Honesty | Mrs Suzanne Pang <br> Mdm Yap Eng Fui | 
+| 3 Joy | Mr Lee Chin Hua Gabriel<br> Mdm Norwati Bte Neswan | 
 |
 
 Form Teachers can be reached either through ClassDojo or email. Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
