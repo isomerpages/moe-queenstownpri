@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Enrichment-Groups/math-club/
 description: ""
 third_nav_title: Enrichment Groups
 ---
-### **Weiqi Club**
+### **Mathematics Club**
 
 #### **CCA teachers-in-Charge**
 Mrs Siti Shahrin (OIC) <br>
