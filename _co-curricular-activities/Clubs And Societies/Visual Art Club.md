@@ -14,10 +14,10 @@ Mdm Jeanna Goh
 
 #### **CCA Day and Time**
 Tuesdays (Open Group)<br>
-2:15pm to 4:15pm
+2.15 pm to 4.15 pm
 
 Fridays (Focus Group)<br>
-2:15pm to 4:15pm
+2.15 pm to 4.15 pm
 
 #### **CCA Venue**
 Art Room and Art Studio
