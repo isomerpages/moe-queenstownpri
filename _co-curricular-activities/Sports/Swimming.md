@@ -16,7 +16,8 @@ Ms Cheung Man Wai
 Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
-Tuesdays & Fridays<br> 2:30pm to 5:00pm <br>
+Tuesdays & Fridays<br> 
+2.30 pm to 5.00 pm <br>
 
 #### **CCA Venue**
 Queenstown/MOE (Evans Road) swimming complex
