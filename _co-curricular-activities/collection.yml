@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Enrichment Groups/Mathematics Club.md
       - Enrichment Groups/.keep
       - Other Programmes/.keep
       - CCA Overall Schedule.md
