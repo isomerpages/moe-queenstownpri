@@ -4,6 +4,20 @@ permalink: /co-curricular-activities/Enrichment-Groups/E2K-science/
 description: ""
 third_nav_title: Enrichment Groups
 ---
-Mon (P3-P4)
-2.00 pm – 4.00 pm
-Thurs (P5-P6) 3.30 pm - 5.30 pm
+### **E2K Science**
+
+#### **CCA teachers-in-Charge**
+Ms Ivy Tan <br>
+Ms Ratna Bte Jainal <br>
+Mr Gabriel Lee <br>
+Mr Charles Ng
+
+#### **CCA Advisor**
+Mrs Chia-Kong Su Sze
+
+#### **CCA Day and Time**
+Mondays & Thursdays <br>
+2:00p.m. to 4:00p.m.
+
+#### **CCA Venue**
+Physical Science Room
