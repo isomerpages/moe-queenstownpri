@@ -16,7 +16,7 @@ Mdm Jeanna Goh
 
 #### **CCA Day and Time**
 Tuesdays _(Senior Group)_ & Fridays _(Junior Group)_ <br> 
-2.15 p.m. - 4.15 p.m.
+2.15 pm - 4.15 pm
 
 #### **CCA Venue**
 Dance Studio
