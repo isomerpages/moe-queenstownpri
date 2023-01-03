@@ -15,7 +15,7 @@ Mrs Chen Soon Shan
 
 #### **CCA Day and Time**
 Tuesdays<br>
-2:15pm to 4:15pm
+2.15 pm to 4.15 pm
 
 #### **CCA Venue**
 Physical Science Room
