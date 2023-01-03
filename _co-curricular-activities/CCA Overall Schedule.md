@@ -51,7 +51,7 @@ description: ""
 | CCA | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
 | Visual Art Club | Tue & Fri<br>2.15 pm - 4.15 pm | Art Room <br> Art Studio | Mdm Aliah Hanim (OIC)<br>Mrs Suzanne Pang <br>Ms Jeanna Goh (TIC & Advisor) |
-| Science & Green Club | Tue<br>2.15 pm - 4.15 pm | Life  Science Room | Ms Choo Ruofei (OIC)<br>Mrs Jean Law<br>Mdm Joyce Kang<br>Mrs Chen Soon Shan (Advisor) 
+| Science & Green Club | Tue<br>2.15 pm - 4.15 pm | Physical  Science Room | Ms Choo Ruofei (OIC)<br>Mrs Jean Law<br>Mdm Joyce Kang<br>Mrs Chen Soon Shan (Advisor) 
 | Weiqi Club | Tue<br>2.15 pm - 4.15 pm | 4 Hon & 4 Joy <br>Classrooms | Mdm Chai Jing Yi (OIC)<br>Mr Teo Chee Tat<br>Mr Yeo Chee Wee (Advisor) |
 | International Chess Club | Tue<br>2.15 pm - 4.15 pm | 4 Cre & 4 Dil <br>Classrooms | Ms Labelle Lee (OIC)<br>Ms Kaycee Ng Wan Quan<br>Mr Muhammad A'srie (Advisor) |
 | InfoComm Club    | Tue <br>2.15 pm - 4.15 pm | Computer Lab 2 & 3 | Ms Fathin Atikah Mas’ud (OIC)<br>Ms Lee Hui Yi<br>Ms Jeanie Lim<br>Mr Noor (Advisor) |
