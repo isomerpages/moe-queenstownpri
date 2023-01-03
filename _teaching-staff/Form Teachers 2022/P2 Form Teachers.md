@@ -8,14 +8,14 @@ third_nav_title: Form Teachers 2022
 
 | Class| Form Teachers | 
 | -------- | -------- |
-| 2 Care     | Mrs Sharon Ng <br> Mdm Chai Jing Yi    |
-| 2 Courage | Ms Ho Li Ming <br> Mr Albert Ng |
-| 2 Creativity | Mrs Jean Law <br> Mdm Qian Li |
-| 2 Diligence | Ms Yap Ee Lim <br> Ms Ng Wan Quan Kaycee | 
-| 2 Honesty | Ms Peck Siew Ling <br> Mdm Norwati Bte Neswan | 
-| 2 Joy | Mrs Ho-Yip Lai Mun <br> Mdm Yap Eng Fui | 
-| 2 Peace |  Ms Labelle Lee <br> Ms Mahejwari |
-| 2 Respect  | Mdm Lim Li Yin <br> Ms Charine Chong| 
+| 2 Care     | Ms Charine Chong <br> Mdm Li Lingbo |
+| 2 Courage | Ms Labelle Lee <br> Ms Helen Liang |
+| 2 Creativity | Mr Jasper Chiang <br> Ms Charmaine Goh |
+| 2 Diligence | Mdm Joyce Kang <br> Ms Sim Li Min | 
+| 2 Honesty | Mdm Zaheedah Bee Bte Mohd Samsudin <br> Mr Teo Chee Tat | 
+| 2 Joy | Mdm Liu Zi Jing <br> Mdm Aliah Hanim Bte Mahmud | 
+| 2 Peace | Ms Lim Wen Xuan Venus <br> Mdm Quek Siew Kee |
+| 2 Respect  | Ms Julie Hong <br> Ms Lee Hui Yi | 
 |
 
 Form Teachers can be reached either through ClassDojo or email. Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
