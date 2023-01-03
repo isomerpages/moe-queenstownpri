@@ -4,12 +4,9 @@ permalink: /experience/CCA/clubs-and-societies/visual-art-club/
 description: ""
 third_nav_title: Clubs And Societies
 ---
-
-
 ### **Visual Art Club**
 #### **CCA Teachers-in-Charge**
 Mdm Aliah Hanim (OIC)<br>
-Mrs Karen Toh<br>
 Mrs Suzanne Pang
 
 #### **CCA Advisor**
@@ -17,10 +14,10 @@ Mdm Jeanna Goh
 
 #### **CCA Day and Time**
 Tuesdays (Open Group)<br>
-2.30 pm to 4.30 pm
+2:15pm to 4:15pm
 
 Fridays (Focus Group)<br>
-2.30 pm to 4.30 pm
+2:15pm to 4:15pm
 
 #### **CCA Venue**
 Art Room and Art Studio
