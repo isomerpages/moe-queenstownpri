@@ -17,7 +17,7 @@ Mrs Chia-Kong Su Sze
 
 #### **CCA Day and Time**
 Mondays & Thursdays <br>
-2:00p.m. to 4:00p.m.
+2:00pm to 4:00pm
 
 #### **CCA Venue**
 Physical Science Room
