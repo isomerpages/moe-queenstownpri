@@ -4,8 +4,6 @@ permalink: /experience/CCA/performing-arts/malay-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 ### **Malay Dance**
 #### **CCA Teachers-in-Charge**
 Mdm Siti-Hamesiah Samsudin (OIC)<br>
@@ -15,7 +13,7 @@ Mdm Norwati Neswan
 Mdm Jeanna Goh
 
 #### **CCA Day and Time**
-Tuesdays<br>
+Fridays<br>
 2.15 p.m. to 4.15 p.m.
 
 #### **CCA Venue**
