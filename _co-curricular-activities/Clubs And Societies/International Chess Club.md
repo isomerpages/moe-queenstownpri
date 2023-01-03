@@ -15,7 +15,7 @@ Mr Muhammad A'srie
 
 #### **CCA Day and Time**
 Tuesdays<br>
-2:15 p.m. to 4:15 p.m.
+2.15 pm to 4.15 pm
 
 #### **CCA Venue**
 4 Creativity and 4 Diligence classrooms
