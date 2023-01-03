@@ -18,7 +18,7 @@ Fridays<br>
 2.15 pm to 4.15 pm
 
 #### **CCA Venue**
-Music Room 1
+PAL Room 1
 
 #### **About CCA**
 Drama Club aims to instill in its members skills that are important as a performer and beyond. It also provides a platform for students to express themselves creatively on stage, online as well as off-stage.
