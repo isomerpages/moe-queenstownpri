@@ -32,7 +32,7 @@ description: ""
 | Chinese Dance | Fri<br>2.15 pm - 4.15 pm| Music Room 1 | Mdm Li Lingbo (OIC)<br>Ms Kang Li Ping |
 | Indian Dance | Fri<br>2.15 pm - 4.15 pm | PAL Room 2 | Ms Ho Li Ming (OIC)<br>Mdm Najumunisha |
 | Malay Dance |  Fri<br>2.15 pm - 4.15 pm | PAL Room 1 | Mdm Siti-Hamesiah (OIC)<br>Mdm Norwati Neswan |
-| Drama Club | Fri<br>2.15 pm - 4.15 pm | PAL Room 1 | Mdm Asmahliah (OIC)<br>Ms Lee Yee Hueh <br>Ms Muzaiyanah |
+| Drama Club | Fri<br>2.15 pm - 4.15 pm | Teaching Lab | Mdm Asmahliah (OIC)<br>Ms Lee Yee Hueh <br>Ms Muzaiyanah |
 |
 
 #### **Sports**
