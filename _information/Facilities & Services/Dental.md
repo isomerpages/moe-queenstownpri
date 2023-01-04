@@ -12,6 +12,7 @@ third_nav_title: Facilities & Services
 | Contact No | 89092160 |
 | Clinic Operating Hours  | Mon to Thu : 8:00am to 5:30pm<br>Fri : Closed <br>Lunch break : 1:30pm to 2:30pm|
 |
+
 #### **Dental Clinic Operating Schedule - January 2023**
 
 | <center>Week | <center>Monday | <center>Tuesday | <center>Wednesday | <center>Thursday | <center>Friday |
