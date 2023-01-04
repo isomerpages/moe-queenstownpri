@@ -35,4 +35,3 @@ In the event that you require treatment **URGENTLY** on the days that the clin
 | 2 | New Town Primary School |  87649804 | 300 Tanglin Halt Road<br>Singapore 148812 |
 | 3 | Zhangde Primary School | 89400375 | 51 Jalan Membina<br>Singapore 169485 |
 |
-
