@@ -4,20 +4,18 @@ permalink: /experience/CCA/clubs-and-societies/weiqi-club/
 description: ""
 third_nav_title: Clubs And Societies
 ---
-
-
 ### **Weiqi Club**
 
 #### **CCA teachers-in-Charge**
-Ms Lee Hui Yi (OIC)<br>
-Mdm Chai Jing Yi
+Mdm Chai Jing Yi (OIC) <br>
+Mr Teo Chee Tat
 
 #### **CCA Advisor**
 Mr Yeo Chee Wee
 
 #### **CCA Day and Time**
 Tuesdays<br>
-2.15 p.m. to 4.15 p.m.
+2:15 p.m. to 4:15 p.m.
 
 #### **CCA Venue**
 4 Honesty and 4 Joy classrooms

@@ -4,20 +4,17 @@ permalink: /experience/CCA/physical-sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
-
-
-
-
 ### **Basketball**
 #### **CCA Teachers-in-Charge**
 Ms Charine Chong (OIC)<br>
 Mr Jevon See<br>
-Mrs Ho-Yip Lai Mun<br>
+Ms Venus Lim Wen Xuan<br>
 Mrs Nur Syakilla Bates<br>
-Ms Venus Lim Wen Xuan
+Mdm Vaani <br>
+Ms Wong Jieying
 
 #### **CCA Advisor**
-Mr Md A’srie B Che Ali
+Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
 Tuesdays (Group 2) <br>
@@ -98,4 +95,4 @@ Students are given leadership roles such as Leader, Assistant Leader and Equipme
 		 
 ### **Photo Journal**
 
-![](/images/bball%20photo%20journal.gif)		 
+![](/images/bball%20photo%20journal.gif)

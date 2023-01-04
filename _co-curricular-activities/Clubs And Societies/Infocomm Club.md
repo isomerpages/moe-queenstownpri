@@ -7,11 +7,11 @@ third_nav_title: Clubs And Societies
 ### **Info-Comm Club**
 #### **CCA Teachers-in-Charge**
 Ms Fathin Atikah Mas’ud (OIC)<br>
-Mdm Lim Li Yin<br>
+Ms Lee Hui Yi<br>
 Ms Jeanie Lim
 
 #### **CCA Advisor**
-Mr Noor
+Mr Mohd Noor
 
 #### **CCA Days and Time**
 Tuesdays<br>

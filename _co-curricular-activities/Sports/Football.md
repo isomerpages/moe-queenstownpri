@@ -4,19 +4,16 @@ permalink: /experience/CCA/physical-sports/football/
 description: ""
 third_nav_title: Sports
 ---
-
-
-
 ### **Football**
 
 #### **CCA Teachers-in-Charge**
-Mr Azuan (OIC)<br>
-Mr Tan Yew Wee<br>
+Ms Sim Limin (OIC)<br>
+Mr Md Azuan<br>
 Mr Lim Ching Feng<br>
-Ms Sim Limin
+Ms Yeo Teck Wai
 
 #### **CCA Advisor**
-Mr Md A’srie B Che Ali
+Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
 Tuesdays & Thursdays (Competitive Team)<br>
@@ -26,7 +23,7 @@ Thursdays (Developmental Team)<br>
 3.00 pm to 5.00 pm
 
 #### **CCA Venue**
-School Field <br>
+School Field/Parade Square <br>
 ISH (Wet Weather)
 
 #### **About CCA**
@@ -59,4 +56,4 @@ CCA Training, Competitions, Friendly matches and Football Clinics.
      style="width:75%">
 		 
 <img src="/images/football%204.jpg" 
-     style="width:75%">		 
+     style="width:75%">

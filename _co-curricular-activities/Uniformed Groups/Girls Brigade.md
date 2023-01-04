@@ -7,16 +7,16 @@ third_nav_title: Uniformed Groups
 ### **Girls' Brigade**
 
 #### **CCA Teachers-in-Charge**
-Mdm Qian Li (OIC)  <br>
+Ms Von Tjong Min Cui (OIC) <br>
+Mdm Qian Li <br>
 Ms Wee Su Ern  <br>
-Ms Labelle Lee <br>
-Ms Von Tjong
 
 #### **CCA Advisor**
 Mr Md A'srie B Che Ali
 
 #### **CCA Day and Time**
-Fridays, 2.15 p.m. to 4.15 p.m.
+Fridays <br>
+2.15 pm to 4.15 pm
 
 #### **CCA Venue**
 Classrooms & Parade Square (drills)

@@ -4,22 +4,19 @@ permalink: /experience/CCA/performing-arts/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 ### **Choir**
 #### **CCA Teachers-in-Charge**
 Mdm Quek Siew Kee (OIC)<br>
 Ms Peck Siew Ling<br>
-Mdm Vaani
+Mdm Liuu Xi
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
 
 #### **CCA Day and Time**
 Tuesdays & Fridays<br>
-2.15 pm to 4.15 pm _(non-SYF period)_<br>
-2.30 pm to 5.00 pm _(SYF period)_  <br>
-3.00 pm to 4.00 pm _(Zoom)_<br>
+2.15 pm to 4.15 pm <br>
+
 
 #### **CCA Venue**
 Music Room 2
@@ -66,4 +63,3 @@ QtPS Choir Warm Up during SYF Rehearsal 2020 @ SOTA
 
 QtPS Choir Friendship Song during SYF Rehearsal @ SOTA
 <iframe width="640" height="362" src="https://www.youtube.com/embed/5wvexQLdacA" title="QtPS Choir Friendship Song 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-

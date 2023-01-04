@@ -8,25 +8,24 @@ third_nav_title: Facilities & Services
 
 | Company | School Dental Service |
 |---|---|
-| Contact Person | Ms Chen Su Juan |
+| Contact Person | Mdm Chui |
 | Contact No | 89092160 |
-| Clinic Operating Hours  | Tue & Wed : 8:00am to 5:30pm<br>Fri : 8:00am to 5:00pm <br>Lunch break : 1:00pm to 2:00pm |
+| Clinic Operating Hours  | Mon to Thu : 8:00am to 5:30pm<br>Fri : Closed <br>Lunch break : 1:30pm to 2:30pm|
 |
-
-#### **Dental Clinic Operating Schedule - December 2022**
+#### **Dental Clinic Operating Schedule - January 2023**
 
 | <center>Week | <center>Monday | <center>Tuesday | <center>Wednesday | <center>Thursday | <center>Friday |
 |:---:|---|---|---|---|---|
-| <center> Holidays |  |  |  |<center>1<br>CLOSED  |<center> 2<br>CLOSED| 
-| <center> Holidays | <center> 5<br>CLOSED  | <center> 6<br>CLOSED  | <center> 7<br> | <center> 8 <br>  | <center> 9<br>  |
-| <center> Holidays | <center> 12<br>| <center> 13 <br>  | <center> 14<br> | <center> 15<br> | <center> 16<br>  |
-| <center> Holidays |  <center> 19<br>CLOSED | <center> 20<br>CLOSED | <center> 21<br>CLOSED |  <center> 22<br>CLOSED | <center> 23<br>CLOSED |
-| <center> Holidays|  <center> 26<br>CLOSED | <center> 27<br>CLOSED |   <center> 28<br>CLOSED |<center> 29<br>CLOSED |<center> 30<br>CLOSED  |  |
+| <center> 1 |<center>2<br>CLOSED  | <center>3<br> | <center>4<br>CLOSED |<center>5<br>  |<center> 6<br>CLOSED| 
+| <center>2 | <center>9<br>CLOSED  | <center>10<br>CLOSED  | <center>11<br>CLOSED | <center>12<br>CLOSED  | <center>13<br>CLOSED  |
+| <center>3 | <center>16<br>| <center> 17<br>  | <center>18<br> | <center>19<br> | <center>20<br>  |
+| <center> 4 |  <center> 23<br>CLOSED | <center> 24<br>CLOSED | <center> 25<br>CLOSED |  <center> 26<br>CLOSED | <center> 27<br>CLOSED |
+| <center> 5|  <center>30<br> | <center>31 <br> |   <center> <br>|<center> <br> |<center> <br> |  |
 |
 	
-Note: No dental appointments will be given during school holidays
+Note: No dental appointments will be given during school holidays 
 
-In the event that you require treatment **URGENTLY** on the days that the clinic are closed, please call HPB School Dental Centre (64353782) for advice.
+In the event that you require treatment **URGENTLY** on the days that the clinic are closed, please call HPB School Dental Centre (64353782) for advice. 
 
 #### **Buddy Clinics**
 
@@ -36,5 +35,3 @@ In the event that you require treatment **URGENTLY** on the days that the clin
 | 2 | New Town Primary School |  87649804 | 300 Tanglin Halt Road<br>Singapore 148812 |
 | 3 | Zhangde Primary School | 89400375 | 51 Jalan Membina<br>Singapore 169485 |
 |
-
-In the event that all dental clinics are closed, please call HPB School Dental Centre (64353782) for advice.

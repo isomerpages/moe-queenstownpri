@@ -4,26 +4,23 @@ permalink: /experience/CCA/physical-sports/swimming/
 description: ""
 third_nav_title: Sports
 ---
-
-
-
 ### **Swimming**
 
 #### **CCA Teachers-in-Charge**
-Mdm Kwek Sor Hian (OIC) <br>
+Mdm Yong Foong Er (OIC)<br>
 Mr Kwek Hong Wee<br>
-Mdm Yong Foong Er<br>
-Ms Yang Jing Ning
+Ms Calista Fang<br>
+Ms Cheung Man Wai
 
 #### **CCA Advisor**
-Mr Md A’srie B Che Ali
+Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
-Tuesdays 3:00pm to 4:30pm <br>
-Fridays     3:00pm to 4:30pm
+Tuesdays & Fridays<br> 
+2.30 pm to 5.00 pm <br>
 
 #### **CCA Venue**
-MOE (Evans Road) swimming pool
+Queenstown/MOE (Evans Road) swimming complex
 
 #### **About CCA**
 The swimming CCA aims to develop competitive swimmers, by providing them with a platform to develop their potential. Members of the CCA will learn to swim proficiently using the various swimming strokes such as freestyle, backstroke, breaststroke and butterfly. Our swimmers also get a chance to represent the school in the Swimming National School Games.
@@ -47,4 +44,4 @@ Students from our Swimming CCA took part in the 60th National Primary School Swi
      style="width:75%">
 		 
 <img src="/images/swimming%204.jpg" 
-     style="width:65%">		 
+     style="width:65%">

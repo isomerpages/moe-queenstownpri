@@ -4,22 +4,19 @@ permalink: /experience/CCA/performing-arts/international-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 ### **International Dance**
 
 #### **CCA Teachers-in-Charge**
 Ms Lu Wei (OIC)<br>
-Mdm Zaheedah Bee<br>
 Mrs Sharon Ng<br>
-Ms Nurul Naqiyyah
+Mdm Zaheedah Bee
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
 
 #### **CCA Day and Time**
 Tuesdays _(Senior Group)_ & Fridays _(Junior Group)_ <br> 
-2.15 p.m. - 4.15 p.m.
+2.15 pm - 4.15 pm
 
 #### **CCA Venue**
 Dance Studio
@@ -51,4 +48,4 @@ Singapore Youth Festival (SYF) Arts Appreciation 2016 - Certificate of Accomplis
      style="width:75%">		 		 
 
 <img src="/images/IntDance-6.jpg" 
-     style="width:65%">		 
+     style="width:65%">

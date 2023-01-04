@@ -4,13 +4,11 @@ permalink: /experience/CCA/performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 ### **Chinese Orchestra**
 #### **CCA Teachers-in-Charge**
 Mdm Yap Eng Fui (OIC)<br>
-Mdm Liu Zijing<br>
-Mdm Liu Xi
+Ms S Srija<br>
+Mdm Liu Zijing
 
 #### **CCA Advisor**
 Mdm Jeanna Goh

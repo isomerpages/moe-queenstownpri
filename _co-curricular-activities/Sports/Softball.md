@@ -6,20 +6,21 @@ third_nav_title: Sports
 ---
 ### **Softball**
 #### **CCA Teachers-in-Charge**
-Mr Khaliq Goh (OIC) <br>
-Mr Jasper Chiang<br>
+Mr Jasper Chiang (OIC)<br>
 Ms Wan Hameezah<br>
-Mrs Pauline Lee
+Mrs Pauline Lee<br>
+Mr Tan Kian Tat
 
 #### **CCA Advisor**
-Mr Md A’srie B Che Ali
+Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
-Mondays & Fridays<br>
+Mondays & Thursdays<br>
 3.00 pm to 5.00 pm
 
 #### **CCA Venue**
-Monday & Friday - School Field<br>
+Monday - School Field<br>
+Thurday - Hall<br>
 Wet Weather - ISH 
 
 #### **About CCA**

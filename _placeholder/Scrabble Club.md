@@ -2,8 +2,8 @@
 title: Scrabble Club
 permalink: /experience/CCA/clubs-and-societies/scrabble-club/
 description: ""
-third_nav_title: Clubs And Societies
 ---
+
 ### **Scrabble Club**
 #### **CCA Teachers-in-Charge**
 Ms Julie Hong (OIC)<br>
