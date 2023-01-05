@@ -61,7 +61,7 @@ description: ""
 
 | Group | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
-| Mathematics Club | Mon (P3-P4)<br>2.00 pm - 4.00 pm<br>Thu (P5-P6)<br>3.30 pm - 5.00 pm | Teaching Lab  | Mdm Aliah Hanim (OIC)<br>Mrs Siti Shahrin (OIC) <br>Ms Harianti Md Ibrahim<br> <br>Mr Haw Shuen Siang (Advisor) |
+| Mathematics Club | Mon (P3-P4)<br>2.00 pm - 4.00 pm<br>Thu (P5-P6)<br>3.30 pm - 5.00 pm | Teaching Lab  | Mrs Siti Shahrin (OIC) <br>Ms Harianti Md Ibrahim<br>Mr Albert Ng<br>Ms Mandi Yeoh<br>Mr Haw Shuen Siang (Advisor) |
 | E2K Science | Mon & Thu <br>2.00 pm - 4.00 pm | Physical Science Room | Ms Ivy Tan<br>Ms Ratna Bte Jainal<br>Mr Gabriel Lee<br> Mr Charles Ng<br>Mrs Chia-Kong Su Sze (Advisor) |
 |
 
