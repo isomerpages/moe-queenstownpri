@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-And-Societies/international-chess/
 description: ""
 third_nav_title: Clubs And Societies
 ---
-### **Weiqi Club**
+### **International Chess Club**
 
 #### **CCA teachers-in-Charge**
 Ms Labelle Lee (OIC) <br>
