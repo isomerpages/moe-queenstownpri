@@ -45,31 +45,3 @@ description: ""
 | Softball | Mon & Thu<br>3.00 pm - 5.00 pm | Mon - Field<br>Thu - Hall<br>Wet Weather - ISH | Mr Jasper Chiang (OIC)<br>Ms Wan Hameezah<br>Mrs Pauline Lee<br>Mr Tan Kian Tat |
 | Swimming |  Tue & Fri<br>2.30 pm - 5.00 pm | Queenstown/MOE (Evans Road) swimming complex | Ms Yong Foong Er (OIC) <br>Mdm Kwek Sor Hian<br>Mr Kwek Hong Wee<br>Ms Calista Fang <br>Ms Cheung Man Wai|
 |
-
-#### **Clubs & Societies**
-
-| CCA | Day(s) / Time | Venue | Teachers In-Charge |
-|---|---|---|---|
-| Visual Art Club | Tue & Fri<br>2.15 pm - 4.15 pm | Art Room <br> Art Studio | Mdm Aliah Hanim (OIC)<br>Mrs Suzanne Pang <br>Ms Jeanna Goh (TIC & Advisor) |
-| Science & Green Club | Tue<br>2.15 pm - 4.15 pm | Physical  Science Room | Ms Choo Ruofei (OIC)<br>Mrs Jean Law<br>Mdm Joyce Kang<br>Mrs Chen Soon Shan (Advisor) 
-| Weiqi Club | Tue<br>2.15 pm - 4.15 pm | 4 Hon & 4 Joy <br>Classrooms | Mdm Chai Jing Yi (OIC)<br>Mr Teo Chee Tat<br>Mr Yeo Chee Wee (Advisor) |
-| International Chess Club | Tue<br>2.15 pm - 4.15 pm | 4 Cre & 4 Dil <br>Classrooms | Ms Labelle Lee (OIC)<br>Ms Kaycee Ng Wan Quan<br>Mr Muhammad A'srie (Advisor) |
-| InfoComm Club    | Tue <br>2.15 pm - 4.15 pm | Computer Lab 2 & 3 | Ms Fathin Atikah Mas’ud (OIC)<br>Ms Lee Hui Yi<br>Ms Jeanie Lim<br>Mr Noor (Advisor) |
-|
-
-#### **Enrichment Groups**
-
-| Group | Day(s) / Time | Venue | Teachers In-Charge |
-|---|---|---|---|
-| Mathematics Club | Mon (P3-P4)<br>2.00 pm - 4.00 pm<br>Thu (P5-P6)<br>3.30 pm - 5.00 pm | Teaching Lab  | Mdm Aliah Hanim (OIC)<br>Mrs Siti Shahrin (OIC) <br>Ms Harianti Md Ibrahim<br> <br>Mr Haw Shuen Siang (Advisor) |
-| E2K Science | Mon & Thu <br>2.00 pm - 4.00 pm | Physical Science Room | Ms Ivy Tan<br>Ms Ratna Bte Jainal<br>Mr Gabriel Lee<br> Mr Charles Ng<br>Mrs Chia-Kong Su Sze (Advisor) |
-|
-
-#### **Other Programmes**
-
-| Name | Day(s) / Time | Venue | Teachers In-Charge |
-|---|---|---|---|
-| SDR | Mon, Tue, Thu, Fri (P3-P4)<br>2.00 pm - 3.00 pm/<br>3.00 pm - 4.00 pm | Library Inner Room/Learning Centre  | Ms Goh Siew Ping <br> Mrs Christabel Goh|
-| RRP| Mon & Thu <br>2.00 pm - 3.00 pm | LSP Room, Teaching Lab | Ms Revathi<br>Ms Julie Hong |
-
-CCA Teachers in charge can be reached via email. Your child's CCA Teacher-in-charge's email address can be found on Parents Gateway.
