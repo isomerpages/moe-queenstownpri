@@ -57,13 +57,14 @@ description: ""
 | InfoComm Club    | Tue <br>2.15 pm - 4.15 pm | Computer Lab 2 & 3 | Ms Fathin Atikah Mas’ud (OIC)<br>Ms Lee Hui Yi<br>Ms Jeanie Lim<br>Mr Noor (Advisor) |
 |
 
-#### **Enrichment Groups**
 
+#### **Enrichment Groups**
 | Group | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
 | Mathematics Club | Mon (P3-P4)<br>2.00 pm - 4.00 pm<br>Thu (P5-P6)<br>3.30 pm - 5.00 pm | Teaching Lab  | Mdm Aliah Hanim (OIC)<br>Mrs Siti Shahrin (OIC) <br>Ms Harianti Md Ibrahim<br> <br>Mr Haw Shuen Siang (Advisor) |
 | E2K Science | Mon & Thu <br>2.00 pm - 4.00 pm | Physical Science Room | Ms Ivy Tan<br>Ms Ratna Bte Jainal<br>Mr Gabriel Lee<br> Mr Charles Ng<br>Mrs Chia-Kong Su Sze (Advisor) |
 |
+
 #### **Other Programmes**
 
 | Name | Day(s) / Time | Venue | Teachers In-Charge |
