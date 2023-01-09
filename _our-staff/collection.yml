@@ -2,9 +2,9 @@ collections:
   our-staff:
     output: true
     order:
-      - Senior Teacher Council.md
       - Overview.md
       - Organisation Chart.md
       - Teaching Staff/.keep
       - School Management Committee.md
+      - Senior Teacher Council.md
       - Admin & Support Staff.md
