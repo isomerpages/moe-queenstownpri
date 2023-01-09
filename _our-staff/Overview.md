@@ -5,4 +5,4 @@ description: ""
 ---
 ### **Our Staff**
 
-![](/images/All%20Staff.jpg)
+![](/images/all-staff-2022.jpg)
