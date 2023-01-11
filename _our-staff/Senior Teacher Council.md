@@ -8,7 +8,7 @@ description: ""
 |||
 |-----|-----|
 | Lead Teacher | Mrs Chen Soon Shan  | 
-| ST/English | Ms Choo Ruofei  | 
+| ST/English Language | Ms Choo Ruofei  | 
 | ST/Chinese Language | Mr Kwek Hong Wee |
 | ST/Tamil Language | Mdm Najumunisha |
 | ST/Mathematics | Mr Albert Ng |
