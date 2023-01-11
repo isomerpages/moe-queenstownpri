@@ -5,4 +5,4 @@ description: ""
 ---
 ### **Senior Teacher Council**
 
-![](/images/senior%20teacher%20council.jpg)
+![](/images/Organisation%20Chart%202023-09Jan-STCa.jpg)

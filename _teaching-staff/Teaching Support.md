@@ -18,5 +18,4 @@ description: ""
 
 #### **Student Welfare Officer**
 
-*   Ms Tan Shuhui
-*   Mr Robin Chua Luo Bin
+*  Mr Robin Chua Luo Bin
