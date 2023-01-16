@@ -5,4 +5,4 @@ description: ""
 ---
 ### **School Open Letters**
 
-[2022](https://staging.d3haevm43m8pfu.amplifyapp.com/resources/open-letter/)
+[Open Letters](/resources/open-letter/)
