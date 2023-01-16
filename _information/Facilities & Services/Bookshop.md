@@ -17,4 +17,4 @@ third_nav_title: Facilities & Services
 
 **On-site purchase:** Vendor accepts cash, PayNow, NTUC/CDAC Vouchers.
 
-* [Booklists are available here](https://resources/book-list/)
+* [Booklists are available here](/resources/book-list/)
