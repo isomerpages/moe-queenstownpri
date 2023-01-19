@@ -49,35 +49,23 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 ##### **PRIMARY 5**
 
-| CCE(FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD |
-|:---:|:---:|:---:|:---:|
-| Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br>
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions |   |
-| Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Semester 1|
-|  | Did You Know?<br>(60 min) | identify the stresses caused by physical changes during puberty<br>describe ways to manage the stresses caused by physical changes during puberty | TERM 4 |
-|  | What Can I Do? (Part 2)<br>(30 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>. 
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
- | Semester 2|
-|  | Main Task<br>(30 min) | Description of the Main Task:<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through. | TERM 4 |
-| Where I Belong | What Are Families?<br>(30 min) | know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need | TERM 4 |
-|  | What is My Role?<br>(30 min) | know that gender is about being male or female<br>choose not to stereotype by gender | TERM 4 |
-| How Do I Keep Myself Safe? | What is Safety?<br>(30 min) | know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse | TERM 4 |
-|  | Stop It! Run! Tell!<br>(30 min) | protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm | TERM 4 |
-|
+| CCE(FTGP) THEME | LESSON TITLE/DURATION | LESSON OVERVIEW | TIME PERIOD |
+| -------- | -------- | -------- | -------- |
+| Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions     | Semester 1  |
+|   | Did You Know? <br>(60min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | Semester 2|
+|   | Keeping Myself Safe <br>(60min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | Semester 2| 
+| 
 
 ##### **PRIMARY 6**
 
-| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |
-|:---:|:---:|:---:|:---:|
-| Are We More Than Friends? | Who Are My Friends?<br>(30 min) | identify the qualities of a healthy friendship<br>recognise the importance of making wise choices in friendship | TERM 4 |
-|  | Am I A Good Friend?<br>(30 min) | identify the qualities that they have as a friend<br>recognise the importance of developing in oneself the qualities of a good friend | TERM 4 |
-|  | What is Love?<br>(30 min) | identify the characteristics of love and infatuation<br>distinguish between the characteristics of love versus infatuation | TERM 4 |
-|  | Am I Falling In Love?<br>(30 min) | identify strong feelings arising from infatuation.<br>manage strong feelings arising from infatuation<br>identify ways to manage and cope with teasing from peers | TERM 4 |
-|  | Main Task<br>(30 min) | Description of the Main Task:<br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing. | TERM 4 |
-| Friends or Foes? | Are You Really My Friend?<br>(30 min) | identify the pros and cons of forming relationships through social networking websites<br>know ways to keep themselves safe when using social networking websites | TERM 4 |
-|  | Is It All Safe?<br>(30 min) | know that some information (like pornography) received through the Internet may be harmful<br>know ways to keep themselves safe when using the Internet | TERM 4 |
-|  | Main Task<br>(30 min) | Description of the Main Task:<br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility. | TERM 4 |
-|
+| CCE(FTGP) THEME | LESSON TITLE/DURATION | LESSON OVERVIEW | TIME PERIOD |
+| -------- | -------- | -------- | -------- |
+| Growing Years | Are We More than Friends? <br>Lesson 1<br>(60 min) | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.     | Semester 2  |
+|  | Are We More than Friends? <br>Lesson 2<br>(60 min) | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.    | Semester 2  |
+|   | Did You Know? <br>(60min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | Semester 2|
+|   | Keeping Myself Safe <br>(60min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | Semester 2| 
+| 
+
 
 #### **INFORMATION FOR PARENTS**
 8\. Parents may opt their children out of the Growing Years programme, and/or sexuality education programmes by external providers.
