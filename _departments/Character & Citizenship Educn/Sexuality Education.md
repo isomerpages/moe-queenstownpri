@@ -18,7 +18,7 @@ third_nav_title: Character & Citizenship Educn
 
 (c)	To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality. 
 
-3. The Key Messages of Sexuality Education are:
+3. The <b>Key Messages</b> of Sexuality Education are:
 
 (a)	Love and respect yourself as you love and respect others;
 
@@ -32,14 +32,14 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 #### **OVERVIEW OF QUEENSTOWN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023**
 
-4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <b>[here]</b>(https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 5.	The subjects that incorporate topics on sexuality include:
 
 (a)	Science
 
 (b)	Character and Citizenship Education (CCE)
 
-**Sexuality Education Lessons**:
+##### **Sexuality Education Lessons**: #####
 
 6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
@@ -51,7 +51,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 | CCE(FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD |
 |:---:|:---:|:---:|:---:|
-| Growing Years | The Changes in Me<br>(60 min) |This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Semester 1|
+| Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Semester 1|
 |  | Did You Know?<br>(60 min) | identify the stresses caused by physical changes during puberty<br>describe ways to manage the stresses caused by physical changes during puberty | TERM 4 |
 |  | What Can I Do? (Part 2)<br>(30 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>. 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
