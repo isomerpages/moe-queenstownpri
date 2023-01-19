@@ -67,7 +67,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 |   
 
 <u>Please note:</u><br>
-*For 2023, the Primary 5 lesson "did You Know?" will also be conducted for the Primary 6 cohort.
+*For 2023, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort.
 
 #### **INFORMATION FOR PARENTS**
 8\. Parents may opt their children out of Sexuality Education lessons, and/or Sexuality Education programmes by MOE approved external providers.
