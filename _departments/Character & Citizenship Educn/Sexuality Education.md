@@ -12,7 +12,7 @@ third_nav_title: Character & Citizenship Educn
 
 2\. The Goals of Sexuality Education are:
 
-    <p style="margin-left: 5px;"> (a)	To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;</p>
+(a)	To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
 
 (b)	To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
