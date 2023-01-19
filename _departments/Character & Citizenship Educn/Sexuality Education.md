@@ -45,15 +45,17 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-#### **At QUEENSTOWN PRIMARY SCHOOL’S, the following lessons from the Growing Years Programme will be taught in 2023:**
+#### **At QUEENSTOWN PRIMARY SCHOOL’S, the following Sexuality Education lessons will be taught in 2023:**
 
 ##### **PRIMARY 5**
 
-| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |
+| CCE(FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD |
 |:---:|:---:|:---:|:---:|
-| Gosh! I Am Changing | What Is Happening To Me?<br>(30 min) | know what puberty is<br>identify the physical changes during puberty | TERM 4 |
-|  | What Can I Do? (Part 1)<br>(30 min) | identify the stresses caused by physical changes during puberty<br>describe ways to manage the stresses caused by physical changes during puberty | TERM 4 |
-|  | What Can I Do? (Part 2)<br>(30 min) | identify the stresses caused by physical and emotional changes during puberty<br>describe ways to manage the stresses caused by these changes during puberty | TERM 4 |
+| Growing Years | The Changes in Me<br>(60 min) |This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Semester 1|
+|  | Did You Know?<br>(60 min) | identify the stresses caused by physical changes during puberty<br>describe ways to manage the stresses caused by physical changes during puberty | TERM 4 |
+|  | What Can I Do? (Part 2)<br>(30 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>. 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+ | Semester 2|
 |  | Main Task<br>(30 min) | Description of the Main Task:<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through. | TERM 4 |
 | Where I Belong | What Are Families?<br>(30 min) | know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need | TERM 4 |
 |  | What is My Role?<br>(30 min) | know that gender is about being male or female<br>choose not to stereotype by gender | TERM 4 |
