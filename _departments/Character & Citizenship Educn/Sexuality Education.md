@@ -28,7 +28,7 @@ third_nav_title: Character & Citizenship Educn
 
 (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education. 
+You may click <b>[here](https://go.gov.sg/moe-sexuality-education)</b> for more information on MOE Sexuality Education. 
 
 #### **OVERVIEW OF QUEENSTOWN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023**
 
@@ -72,6 +72,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 #### **INFORMATION FOR PARENTS**
 8\. Parents may opt their children out of Sexuality Education lessons, and/or Sexuality Education programmes by MOE approved external providers.
 
-9\. Parents who wish to opt their children out of the Growing Years programme need to complete an opt-out form. This form will be distributed via Parents Gateway to parents in Term 4 week 1. The completed opt-out form is to be s <u><b>1 February 2023</b></u>.
+9\. Parents who wish to opt their children out of the Growing Years programme need to complete an opt-out form. This form will be distributed via Parents Gateway to parents in Term 1 week 3. The completed opt-out form is to be submitted  by <u><b>1 February 2023</b></u>.
 
 10\. Parents can contact the school at 64741044 or email us at qtps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
