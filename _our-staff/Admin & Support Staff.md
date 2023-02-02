@@ -18,6 +18,7 @@ description: ""
 #### **Management Support Officers**
 *   Mdm Asanamal Bivi D/O Kothari
 *   Mdm Noraisah Bte Ibrahim
+*   Mdm Vasanthi D/O Sathiaselan
 
 #### **Operation Support Officers**
 *   Mdm Dahliah Bte Hussin
