@@ -30,3 +30,8 @@ Through the International Chess Club CCA, members will learn that Focus and Effo
 
 #### **Photos**
 
+![](/images/IntChess1.jpeg)
+
+![](/images/IntChess2.jpeg)
+
+![](/images/IntChess3.jpeg)
