@@ -2,6 +2,7 @@ collections:
   placeholder:
     output: true
     order:
+      - For Parents.md
       - Scrabble Club.md
       - Class Leaders Training.md
       - Prefects Training.md

@@ -7,6 +7,7 @@ description: ""
 
 * [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 * [MOE ICON](https://icon.moe.edu.sg)
+* [Resource Booking System](https://rbs.avero-tech.com/)
 * [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 * [SSOE Portal](https://ssoe2.moe.edu.sg/)
 * [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
