@@ -24,7 +24,7 @@ sections:
           url: /information/location-and-operating-hours/
         - title: Useful Links for Students & Teachers
           description: ""
-          url: /useful-links/
+          url: /useful-links/for-students
   - infopic:
       title: CCA
       description: Co-Curricular Activities
@@ -38,20 +38,6 @@ sections:
       button: Click here to register
       url: https://docs.google.com/forms/d/e/1FAIpQLSdWz8NCB86RSrF0Lk7EuBSM2300rasnztuvwINCNBsIRKX2rg/viewform
       image: /images/Alumni.jpg
-      alt: Image alt text
-  - infopic:
-      title: President's Award for Teachers 2023
-      subtitle: PAT 2023
-      button: Nominate here
-      url: https://go.gov.sg/pat2023
-      image: /images/PAT 2023a.png
-      alt: Image alt text
-  - infopic:
-      title: Outstanding Youth in Education Award 2023
-      subtitle: OYEA 2023
-      button: Nominate here
-      url: https://go.gov.sg/OYEA2023
-      image: /images/OYEA 2023a.png
       alt: Image alt text
   - infopic:
       title: Photo Journal
