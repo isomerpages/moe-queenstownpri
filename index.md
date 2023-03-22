@@ -26,6 +26,12 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: I love My English Teacher
+      subtitle: I love My English Teacher
+      button: Nominate here
+      url: https://www.goodenglish.org.sg
+      image: /images/EngTeacher2023.png
+  - infopic:
       title: CCA
       description: Co-Curricular Activities
       button: click here
