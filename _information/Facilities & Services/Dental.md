@@ -22,7 +22,7 @@ third_nav_title: Facilities & Services
 | <center>10 | <center>6<br>CLOSED  | <center>7<br>CLOSED  | <center>8<br>CLOSED | <center>9<br>CLOSED  | <center>10<br>CLOSED  |
 | <center>HOLIDAYS | <center>13<br>CLOSED | <center> 14<br>  | <center>15<br> | <center>16<br>CLOSED PM | <center>17<br>CLOSED|
 | <center> 1 |  <center>20<br>CLOSED | <center> 21<br>CLOSED | <center> 22<br>CLOSED |  <center> 23<br>CLOSED | <center> 24<br>CLOSED |
-| <center> 2|  <center>27<br>CLOSED PM | <center>28 <br> |   <center>29 <br>CLOSED PM |<center>30 <br> |<center>31 <br>CLOSED |  
+| <center> 2|  <center>27<br>CLOSED PM | <center>28 <br>CLOSED |   <center>29 <br>CLOSED |<center>30 <br> OPEN at 10am|<center>31 <br>CLOSED |  
 |
 
 #### **April 2023**
