@@ -11,7 +11,7 @@ description: ""
 <img style="width:50%" src="/images/oh23-rsvp.png">
 </a></p>
 
-<p><a href="/openhouse2023/school-corporate-video/">
+<p><a href="/open-house-2023/school-corporate-video/">
 <img style="width:65%" src="/images/oh23-schcorpvideo1.png">
 </a></p>
 
