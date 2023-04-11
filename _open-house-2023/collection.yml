@@ -2,6 +2,7 @@ collections:
   open-house-2023:
     output: true
     order:
+      - CorpVideo.md
       - Overview.md
       - School Corporate Video.md
       - Co Curricular Activities (CCA).md
