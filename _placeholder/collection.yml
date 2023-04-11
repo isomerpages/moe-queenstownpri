@@ -2,6 +2,7 @@ collections:
   placeholder:
     output: true
     order:
+      - Parents Voices 2022/Michelle Ong.md
       - Parents Voices 2022/Ice Lee.md
       - Parents Voices 2022/Overview.md
       - Parents Voices 2022/.keep
