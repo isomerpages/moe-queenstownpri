@@ -25,7 +25,7 @@ Each class has 2 Form Teachers who teach the class different subjects.
 Parents/guardians can write a note in the Student Handbook, send an email to the teachers, call the office and leave a note for the teacher to return the call etc. Parents/guardians may wish to check with teachers on their preferred modes of communication (e.g. Class Dojo, etc.).
 
 **6. Can parents/guardians meet teachers or School Leaders?**<br>
-Parents/guardians should call the General Office to make an appointment to meet with teachers, Year Heads, and School Leaders if they would like to meet them.
+Parents/guardians should call the General Office to make an appointment to meet with teachers, Year Heads, and School Leaders.
 
 ##### **School Operation and Dismissal**
 **7. What are the school hours?**<br>
@@ -33,7 +33,7 @@ Parents/guardians should call the General Office to make an appointment to meet 
 *   Wednesday: 7.30 am to 1.15 pm
 
 **8. Where can parents/guardians wait for students after school?**<br>
-Parents/guardians can wait at the Back Gate and Canteen Gate. These gates are open for dismissal at the following times:<br>
+Parents/guardians can wait at Gate 8 (back gate) and Gate 1 (canteen gate). These gates are open for dismissal at the following times:<br>
 *   Monday, Tuesday, Thursday and Friday 1.30 to 2.00 pm
 *   Wednesday: 1.15 to 1.45 pm
 
@@ -86,15 +86,15 @@ Admin Day is a day organised for all P1 parents/guardians to purchase books and 
 
 ##### **Financial Assistance**
 **22. When can parents/guardians apply for MOE Financial Assistance Scheme (FAS)?**<br>
-Application link for MOE FAS will be available 
-opens on P1 Admin Day (October). Approval and collection of school books and uniforms will be tentatively in November.
+Application link for MOE eFAS will be available online.  Information will be provided via the 1st P1 Open Letter that will be sent to you via your mailing address.
+Approval and collection of school books and uniforms will be  in November (tentatively).
 
 ##### **Daily Concerns: School Bag, Recess, etc**
 **23. Are students expected to carry a heavy bag to school daily?**<br>
 School bags must be manageable as students will be required to move between different classrooms and levels for various lessons. To manage the load, some books are kept in school by teachers or in the students' individual lockers. Students are advised to pack their books and learning materials according to the timetable and avoid adding unnecessary weight to their bags. 
 
 **24. What times do Primary 1s have their breaks?**<br>
-*   Recess Time: 10.00am to 10.30am (30 mins) in the canteen.
+*   Recess Time: 9.00am to 9.30am (30 mins) in the canteen.
 *   Elevenses (snack break): 12.15pm to 12.30pm (15 mins) in the classroom.
 
 Parents/guardians should pack light, healthy snacks that can be easily eaten in the classroom. 
@@ -102,9 +102,9 @@ Parents/guardians should pack light, healthy snacks that can be easily eaten in 
 **25. What should students bring for recess? How much money should they bring?**<br>
 Students should bring plain water in water bottles, refillable at water coolers around the school. Students may bring their own food in lunch boxes or purchase food from the canteen. Water bottles and lunch boxes must be clearly labelled with the student’s name and class. 
 
-If a student is buying food and drink from the canteen, a good amount to bring is $2.00 to $2.50 in cash. Set meals range from $1.50 to $2.00. Drinks range from $0.50 to $1.00. 
+If a student is buying food and drink from the canteen, a good amount to bring is $2.00 to $2.60 in cash/ePayment. Set meals range from $1.80 to $2.00. Drinks range from $0.80 to $1.20. 
 
-For students who prefer to go cashless, POSB Smart Buddy watches and the accompanying parents' phone app may be used. Application details will be provided before P1 Admin Day.
+For students who prefer to go cashless, POSB Smart Buddy watches may be used. Application details will be provided before P1 Admin Day.
 
 Students under MOE or SAC Financial Assistance Schemes (FAS) will have money credited to them in their Ez-Link cards upon activation for them to purchase their meals. 
 
