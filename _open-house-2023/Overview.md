@@ -24,7 +24,7 @@ description: ""
 		<tr>
 		<th style="width:30%">
 <p><a href="/open-house-2023/corpvideo/">
-<img style="width:80%" src="/images/oh23-schcorpvideo1.png">
+<img style="width:65%" src="/images/oh23-schcorpvideo1.png">
 </a></p>
 		</th><th style="width:60%">
 <p><a href="/open-house-2023/cca/">
