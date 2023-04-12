@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/oh23-header.png)
 
-<p><a href="https://staging.d3haevm43m8pfu.amplifyapp.com/eopenhouse/school-corporate-video/">
+<p><a href="/open-house-2023/rsvp/">
 <img style="width:40%" src="/images/oh23-rsvp.png">
 </a></p>
 
