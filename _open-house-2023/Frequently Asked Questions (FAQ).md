@@ -9,7 +9,7 @@ description: ""
 
 ##### **Class Sizes and Allocation**
 **1\. How many P1 classes do you have in QtPS, and how many students are there in each class?**<br>
-We have 8 P1 classes, with a maximum of 30 students in each class.
+We have 7 P1 classes, with a maximum of 30 students in each class.
 
 **2. How are students allocated to classes in P1?**<br>
 Students are allocated to respective classes based on the equal distribution (as best as possible) of students of different genders, races, and ethnicities.
