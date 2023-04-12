@@ -7,4 +7,4 @@ description: ""
 
 <img style="width:80%" src="/images/oh23-schcorpvideo1.png">
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Queenstown  Primary School Corporate Video" src="https://www.youtube.com/embed/QGcts6lAeu8" height="400" width="600"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Queenstown  Primary School Corporate Video" src="https://www.youtube.com/embed/QGcts6lAeu8" height="320" width="560"></iframe>
