@@ -45,7 +45,7 @@ Parents/guardians should call the General Office to alert the school. After the 
 Yes, there is a Student Care Centre (SCC) in the school that provides after-school care. Parents/guardians of students who have successfully secured a place in the school will be invited to apply on Admin Day.
 
 **11. Is there a school bus service? How do parents/guardians apply for the school bus service?**<br>
-Yes. Parents/guardians of students who have successfully secured a place in the school will be invited to apply on Admin Day.
+Yes. Parents/guardians of students who have successfully secured a place in the school will be invited to apply. Information will be provided nearer the date.
 
 ##### **School Programmes**
 **12. What are the niche areas for QtPS?**<br>
