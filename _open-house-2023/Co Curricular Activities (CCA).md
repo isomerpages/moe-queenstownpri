@@ -15,7 +15,7 @@ Watch our&nbsp;**students' interviews**&nbsp;where they share their experiences 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/fJJJxV7Y7Y8" title="QtPS CLUBS CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-Click on the link to read more about&nbsp;[Science and Green Club](/experience/CCA/clubs-and-societies/),&nbsp;[InfoComm Club](/experience/CCA/clubs-and-societies/infocomm/),&nbsp;[Weiqi Club](/experience/CCA/clubs-and-societies/weiqi-club/),&nbsp;[International Chess Club](experience/cca/clubs-and-societies/international-chess/)&nbsp;or&nbsp;[Visual Art Club](/experience/CCA/clubs-and-societies/visual-art-club/)
+Click on the link to read more about&nbsp;[Science and Green Club](/experience/CCA/clubs-and-societies/),&nbsp;[InfoComm Club](/experience/CCA/clubs-and-societies/infocomm/),&nbsp;[Weiqi Club](/experience/CCA/clubs-and-societies/weiqi-club/),&nbsp;[International Chess Club](/experience/cca/clubs-and-societies/international-chess/)&nbsp;or&nbsp;[Visual Art Club](/experience/CCA/clubs-and-societies/visual-art-club/)
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/l_lWqz_1TmA" title="QtPS Uniformed Group and Sports CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
