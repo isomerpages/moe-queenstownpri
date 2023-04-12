@@ -42,10 +42,10 @@ Parents/guardians should call the General Office to alert the school. After the 
 
 ##### **Services: Student Care Centre &amp; School Bus**
 **10. Is there a Student Care Centre (SCC) in the school? How do parents/guardians apply for SCC?**<br>
-Yes, there is a Student Care Centre (SCC) in the school that provides after-school care. Parents/guardians of students who have successfully secured a place in the school will be invited to apply on Admin Day.
+Yes, there is a Student Care Centre (SCC) in the school that provides after-school care. Parents/guardians of students who have successfully secured a place in the school will be invited to apply.
 
 **11. Is there a school bus service? How do parents/guardians apply for the school bus service?**<br>
-Yes. Parents/guardians of students who have successfully secured a place in the school will be invited to apply. Information will be provided nearer the date.
+Yes. Parents/guardians of students who have successfully secured a place in the school will be invited to apply. 
 
 ##### **School Programmes**
 **12. What are the niche areas for QtPS?**<br>
@@ -86,7 +86,7 @@ Admin Day is a day organised for all P1 parents/guardians to purchase books and 
 
 ##### **Financial Assistance**
 **22. When can parents/guardians apply for MOE Financial Assistance Scheme (FAS)?**<br>
-Application link for MOE eFAS will be available online.  Information will be provided via the 1st P1 Open Letter that will be sent to you via your mailing address.
+Application link for MOE eFAS will be available online.  Information will be provided via the 1st P1 Welcome Letter that will be sent to you via your mailing address.
 Approval and collection of school books and uniforms will be  in November (tentatively).
 
 ##### **Daily Concerns: School Bag, Recess, etc**
@@ -106,7 +106,7 @@ If a student is buying food and drink from the canteen, a good amount to bring i
 
 For students who prefer to go cashless, POSB Smart Buddy watches may be used. Application details will be provided before P1 Admin Day.
 
-Students under MOE or SAC Financial Assistance Schemes (FAS) will have money credited to them in their Ez-Link cards upon activation for them to purchase their meals. 
+Students under MOE FASor School-Based Financial Assistance Schemes will have money credited to them in their Ez-Link cards upon activation for them to purchase their meals. 
 
 It would be good to teach your child how to count money in preparation for school. Do give your child smaller denominations, like 50-cent coins or $1 coins, as these are easier for them to handle. Please avoid $5 or $10 notes. 
 
@@ -124,7 +124,7 @@ P4 buddies will assist P1 students with recess routines such as buying food at t
 Form Teachers, the Year Head/Assistant Year Head for P1 as well as student leaders will also be guiding your child/ward when moving around the school.
 
 **28. When is P1 Orientation Day? What happens on this day?**<br>
-Both parents/guardians and students will be invited to P1 Orientation Day.
+P1 Orientation Day will be between 13 November to 17 November 2023 (tentatively).  Both parents/guardians and students will be invited to P1 Orientation Day.
 
 Students will get to meet their new classmates and enjoy meaningful activities together in their classrooms. In addition, they will also be taken on a guided school tour by our very own student leaders to familiarise them with common places in the school compound. 
 
@@ -175,9 +175,3 @@ No. Students are encouraged to take up a CCA at P3.
 
 ##### **Q&amp;A**
 If you still have a question, please fill in the form below and we will get back to you as soon as possible.  
-
-**form**
-
-<p><a href="https://staging.d3haevm43m8pfu.amplifyapp.com/eopenhouse/overview/">
-<img style="width:45%" src="/images/openhouse%20return.png">
-</a></p>
