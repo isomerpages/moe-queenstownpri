@@ -53,7 +53,7 @@ QtPS has niches in Visual Arts through our Learning for Life Programme (LLP), as
 
 ##### **P1 Registration**
 **13. Who is eligible to register for P1 this year?**<br>
-Children born from 2 Jan 2016 to 1 Jan 2017 (both dates inclusive) are eligible to register for P1 this year.
+Children born from 2 Jan 2017 to 1 Jan 2018 (both dates inclusive) are eligible to register for P1 this year.
 
 **14. What are the chances of securing a place in QtPS?**<br>
 The P1 registration differs from year to year. Parents/guardians may monitor vacancies in the school via MOE's website during the P1 registration exercise. For the past two years, balloting has occurred in Phase 2C.
@@ -76,17 +76,18 @@ All registration will be done online.
 
 **20. After my child has successfully secured a place in QtPS, what are the key dates I will need to take note of?**<br>
 Parents/guardians of children who have successfully secured a place in QtPS should keep the following dates free: <br>
-*   Admin Day (October 2022, date to be confirmed)
-*   P1 Orientation Day (November 2022, date to be confirmed)
+*   Admin Day (October 2023, date to be confirmed)
+*   P1 Orientation Day (November 2023, date to be confirmed)
 
-Due to the changing situation, the school will advise parents/guardians on the confirmed dates and platforms for these events closer to the date. Please visit the school website for confirmation. 
+The school will advise parents/guardians on the confirmed dates and platforms for these events through your mailing address closer to the date. 
 
 **21. What is Admin Day?**<br>
-Admin Day is a day organised for all P1 parents/guardians to complete administrative tasks and purchase books and school uniforms.
+Admin Day is a day organised for all P1 parents/guardians to purchase books and school uniforms.
 
 ##### **Financial Assistance**
 **22. When can parents/guardians apply for MOE Financial Assistance Scheme (FAS)?**<br>
-Application for MOE FAS opens on P1 Admin Day (October). Approval and collection of school books and uniforms will be tentatively in November.
+Application link for MOE FAS will be available 
+opens on P1 Admin Day (October). Approval and collection of school books and uniforms will be tentatively in November.
 
 ##### **Daily Concerns: School Bag, Recess, etc**
 **23. Are students expected to carry a heavy bag to school daily?**<br>
