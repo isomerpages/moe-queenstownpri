@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Frequently Asked Questions (FAQ)**
 
-<img src="/images/openhouse%20faq.png" style="width:75%">
+<img src="/images/oh23-faq.png" style="width:75%">
 
 ##### **Class Sizes and Allocation**
 **1\. How many P1 classes do you have in QtPS, and how many students are there in each class?**<br>
