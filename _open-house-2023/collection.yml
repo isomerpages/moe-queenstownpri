@@ -2,9 +2,9 @@ collections:
   open-house-2023:
     output: true
     order:
-      - Map for the Day.md
-      - RSVP to attend.md
       - Overview.md
+      - RSVP to attend.md
+      - Map for the Day.md
       - School Corporate Video.md
       - Co Curricular Activities (CCA).md
       - Facilities.md
