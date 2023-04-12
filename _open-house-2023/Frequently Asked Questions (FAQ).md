@@ -38,7 +38,7 @@ Parents/guardians can wait at Gate 8 (back gate) and Gate 1 (canteen gate). Thes
 *   Wednesday: 1.15 to 1.45 pm
 
 **9. What happens when parents/guardians are late for pick up?**<br>
-Parents/guardians can call the General Office to alert the school. After the school gates are closed, students will be brought to the General Office and parents/guardians will be called.
+Parents/guardians should call the General Office to alert the school. After the school gates are closed, students will be brought to the General Office and parents/guardians will be called.
 
 ##### **Services: Student Care Centre &amp; School Bus**
 **10. Is there a Student Care Centre (SCC) in the school? How do parents/guardians apply for SCC?**<br>
