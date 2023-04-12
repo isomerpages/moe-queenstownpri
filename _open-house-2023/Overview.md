@@ -23,7 +23,7 @@ description: ""
 	</a></p></th></tr>
 		<tr>
 		<th style="width:40%">
-<p><a href="/open-house-2023/school-corporate-video/">
+<p><a href="/open-house-2023/corpvideo/">
 <img style="width:80%" src="/images/oh23-schcorpvideo1.png">
 </a></p>
 		</th><th style="width:6
