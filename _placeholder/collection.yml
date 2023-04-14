@@ -2,6 +2,21 @@ collections:
   placeholder:
     output: true
     order:
+      - Live Webinar.md
+      - Parents Voices 2022/Dr Melissa Tien.md
+      - Parents Voices 2022/Dr Chua Guan Leong.md
+      - Parents Voices 2022/Pam Oei.md
+      - Parents Voices 2022/Sundram & Carolina.md
+      - Parents Voices 2022/Teo Cher Hwa.md
+      - Parents Voices 2022/Joye Foo.md
+      - Parents Voices 2022/Angeline Foo.md
+      - Parents Voices 2022/Dr Anna Pham.md
+      - Parents Voices 2022/Elaine Lee.md
+      - Parents Voices 2022/Dr James Teh.md
+      - Parents Voices 2022/Michelle Ong.md
+      - Parents Voices 2022/Ice Lee.md
+      - Parents Voices 2022/Overview.md
+      - Parents Voices 2022/.keep
       - For Parents.md
       - Scrabble Club.md
       - Class Leaders Training.md

@@ -1,6 +1,6 @@
 ---
 title: International Chess Club
-permalink: /co-curricular-activities/Clubs-And-Societies/international-chess/
+permalink: /experience/cca/clubs-and-societies/international-chess/
 description: ""
 third_nav_title: Clubs And Societies
 ---
