@@ -4,8 +4,6 @@ permalink: /experience/CCA/performing-arts/indian-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 ### **Indian Dance**
 
 #### **CCA Teachers-in-Charge**
@@ -46,13 +44,26 @@ Singapore Youth Festival (SYF) Appreciation 2016 - Certificate of Distinction
 #### **Photos**
 
 ![](/images/indian%20dance%201.jpg)
-![](/images/indian%20dance%202.jpg)
-![](/images/indian%20dance%203.jpg)
-![](/images/indian%20dance%204.jpg)
-<img src="/images/indian%20dance%205.jpg" 
-     style="width:75%">
-<img src="/images/indian%20dance%206.jpg" 
-     style="width:45%">		 
+<center>Our Indian Dance members having their weekly practices</center>
+
+![](/images/2022syf-inddan1.jpg)
+
+![](/images/2022syf-inddan2.jpg)
+
+![](/images/2022syf-inddan3.jpg)
+
+![](/images/2022syf-inddan4.jpg)
+
+![](/images/2022syf-inddan5.jpg)
+
+![](/images/2022syf-inddan6.jpg)
+
+![](/images/2022syf-inddan7.jpg)
+
+![](/images/2022syf-inddan8.jpg)
+<center>SYF Arts Presentation 2022</center>
+
+![](/images/indian%20dance%205.jpg)
+![](/images/indian%20dance%206.jpg)
 ![](/images/indian%20dance%207.jpg)
-<img src="/images/indian%20dance%208.jpg" 
-     style="width:65%">
+![](/images/indian%20dance%208.jpg)
