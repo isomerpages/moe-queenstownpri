@@ -18,13 +18,13 @@ description: ""
 <img style="width:100%" src="/images/Open%20House%202023/oh23-rsvp.png" align="right">
 	</a></p></th></tr>
 		<tr>
-		<th style="width:30%">
+		<th style="width:50%">
 <p><a href="/open-house-2023/corpvideo/">
-<img style="width:65%" src="/images/Open%20House%202023/oh23-schcorpvideo1.png">
+<img style="width:50%" src="/images/Open%20House%202023/oh23-schcorpvideo1.png">
 </a></p>
-		</th><th style="width:60%">
+		</th><th style="width:70%">
 <p><a href="/open-house-2023/cca/">
-<img style="width:100%" src="/images/Open%20House%202023/oh23-cca.png" align="right">
+<img style="width:120%" src="/images/Open%20House%202023/oh23-cca.png">
 	</a></p></th></tr>
 		<tr>
 		<th style="width:60%">
