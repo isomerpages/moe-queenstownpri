@@ -7,31 +7,31 @@ description: ""
 
 ![](/images/Open%20House%202023/oh23-header.png)
 
-<p><a href="/open-house-2023/schedule/">
-<img src="/images/Open%20House%202023/oh23-schedule1.jpg" style="width:80%">
-</a></p><table style="width:100%">
+<table style="width:100%">
 	<tbody><tr>
-
-<th style="width:60%">
+		<th style="width:50%">
+<p><a href="/open-house-2023/schedule/">
+<img src="/images/Open%20House%202023/oh23-schedule1.jpg" style="width:100%">
+</a></p>
+</th><th style="width:50%">
 <p><a href="/open-house-2023/rsvp/">
 <img align="right" src="/images/Open%20House%202023/oh23-rsvp1.jpg" style="width:100%">
-	</a></p></th></tr>
-		<tr style="height:150px">
+	</a></p></th></tr>	
+			<tr>
 				<th style="width:50%">
 <p><a href="/open-house-2023/corpvideo/">
-<img src="/images/Open%20House%202023/oh23-schcorpvid1.jpg" style="width:50%">
+<img src="/images/Open%20House%202023/oh23-schcorpvid1.jpg" style="width:100%">
 </a></p>
-		</th><th style="width:70%">
+		</th><th style="width:50%">
 <p><a href="/open-house-2023/cca/">
-<img src="/images/Open%20House%202023/oh23-cca1.jpg" style="width:120%">
+<img src="/images/Open%20House%202023/oh23-cca1.jpg" style="width:100%">
 	</a></p></th></tr>
-		<tr>
-		<th style="width:60%">
+		<tr><th style="width:50%">
 <p><a href="/open-house-2023/facilities/">
-<img src="/images/Open%20House%202023/oh23-facilities1.jpg" style="width:80%">
-</a></p>
-		</th><th style="width:40%">
+<img src="/images/Open%20House%202023/oh23-facilities1.jpg" style="width:100%">
+</a></p>	
+			</th><th style="width:50%">
 <p><a href="/open-house-2023/faq/">
-<img align="right" src="/images/Open%20House%202023/oh23-faq1.jpg" style="width:100%">
+<img src="/images/Open%20House%202023/oh23-faq1.jpg" style="width:100%">
  </a></p></th></tr>
 </tbody></table>
