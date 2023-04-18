@@ -5,4 +5,4 @@ description: ""
 ---
 ### **Map for the day**
 
-<img src="/images/oh23-map.png" style="width:75%">
+<img src="/images/Open%20House%202023/oh23-map.png" style="width:75%">
