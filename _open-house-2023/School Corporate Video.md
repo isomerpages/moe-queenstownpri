@@ -5,6 +5,6 @@ description: ""
 ---
 ### **School Corporate Video**
 
-<img style="width:80%" src="/images/oh23-schcorpvideo1.png">
+<img style="width:80%" src="/images/Open%20House%202023/oh23-schcorpvideo1.png">
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Queenstown  Primary School Corporate Video" src="https://www.youtube.com/embed/QGcts6lAeu8" height="480" width="720"></iframe></center>
