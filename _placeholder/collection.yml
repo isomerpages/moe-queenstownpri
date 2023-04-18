@@ -2,6 +2,7 @@ collections:
   placeholder:
     output: true
     order:
+      - Map for the Day.md
       - Live Webinar.md
       - Parents Voices 2022/Dr Melissa Tien.md
       - Parents Voices 2022/Dr Chua Guan Leong.md
