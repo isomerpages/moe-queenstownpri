@@ -17,8 +17,8 @@ description: ""
 <p><a href="/open-house-2023/rsvp/">
 <img align="right" src="/images/Open%20House%202023/oh23-rsvp.png" style="width:100%">
 	</a></p></th></tr>
-		<tr>
-		<th style="width:50%">
+		<tr style="height:150px">
+				<th style="width:50%">
 <p><a href="/open-house-2023/corpvideo/">
 <img src="/images/Open%20House%202023/oh23-schcorpvideo1.png" style="width:50%">
 </a></p>
