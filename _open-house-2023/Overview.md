@@ -9,7 +9,7 @@ description: ""
 
 <table style="width:100%">
 	<tbody><tr>
-		<th style="width:55%">
+			<th style="width:20%">
 <p><a href="/open-house-2023/schedule/">
 <img style="width:80%" src="/images/Open%20House%202023/oh23-schedule.png">
 </a></p>
