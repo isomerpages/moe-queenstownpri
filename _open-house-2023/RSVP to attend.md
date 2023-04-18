@@ -5,4 +5,4 @@ description: ""
 ---
 ### **RSVP to QtPS Open House 2023**
 
-<img src="/images/oh23-rsvp.png" style="width:75%">
+<img src="/images/Open%20House%202023/oh23-rsvp.png" style="width:75%">
