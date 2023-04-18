@@ -29,10 +29,10 @@ description: ""
 		<tr>
 		<th style="width:60%">
 <p><a href="/open-house-2023/facilities/">
-<img src="/images/Open%20House%202023/oh23-facilities1.png" style="width:80%">
+<img src="/images/Open%20House%202023/oh23-facilities1.jpg" style="width:80%">
 </a></p>
 		</th><th style="width:40%">
 <p><a href="/open-house-2023/faq/">
-<img align="right" src="/images/Open%20House%202023/oh23-faq.png" style="width:100%">
-	</a></p></th></tr>
+<img align="right" src="/images/Open%20House%202023/oh23-faq1.jpg" style="width:100%">
+ </a></p></th></tr>
 </tbody></table>
