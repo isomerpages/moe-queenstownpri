@@ -7,24 +7,23 @@ description: ""
 
 ![](/images/Open%20House%202023/oh23-header.png)
 
-<table style="width:100%">
-	<tbody><tr>
-			<th style="width:20%">
 <p><a href="/open-house-2023/schedule/">
-<img src="/images/Open%20House%202023/oh23-schedule.png" style="width:80%">
-</a></p>
-		</th><th style="width:60%">
+<img src="/images/Open%20House%202023/oh23-schedule1.jpg" style="width:80%">
+</a></p><table style="width:100%">
+	<tbody><tr>
+
+<th style="width:60%">
 <p><a href="/open-house-2023/rsvp/">
-<img align="right" src="/images/Open%20House%202023/oh23-rsvp.png" style="width:100%">
+<img align="right" src="/images/Open%20House%202023/oh23-rsvp1.jpg" style="width:100%">
 	</a></p></th></tr>
 		<tr style="height:150px">
 				<th style="width:50%">
 <p><a href="/open-house-2023/corpvideo/">
-<img src="/images/Open%20House%202023/oh23-schcorpvideo1.png" style="width:50%">
+<img src="/images/Open%20House%202023/oh23-schcorpvid1.jpg" style="width:50%">
 </a></p>
 		</th><th style="width:70%">
 <p><a href="/open-house-2023/cca/">
-<img src="/images/Open%20House%202023/oh23-cca.png" style="width:120%">
+<img src="/images/Open%20House%202023/oh23-cca1.jpg" style="width:120%">
 	</a></p></th></tr>
 		<tr>
 		<th style="width:60%">
