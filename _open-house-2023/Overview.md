@@ -11,11 +11,11 @@ description: ""
 	<tbody><tr>
 		<th style="width:50%">
 <p><a href="/open-house-2023/schedule/">
-<img src="/images/Open%20House%202023/oh23-schedule2.png" style="width:100%">
+<img src="/images/Open%20House%202023/oh23-schedule2.png" style="width:120%">
 </a></p>
 </th><th style="width:50%">
 <p><a href="/open-house-2023/rsvp/">
-<img align="right" src="/images/Open%20House%202023/oh23-rsvp2.png" style="width:100%">
+<img align="right" src="/images/Open%20House%202023/oh23-rsvp2.png" style="width:120%">
 	</a></p></th></tr>	
 			<tr>
 				<th style="width:50%">
