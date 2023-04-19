@@ -11,7 +11,7 @@ description: ""
 	<tbody><tr>
 		<th style="width:50%">
 <p><a href="/open-house-2023/schedule/">
-<img src="/images/Open%20House%202023/oh23-schedule2.png">
+<img src="/images/Open%20House%202023/oh23-schedule3.png">
 </a></p>
 </th><th style="width:50%">
 <p><a href="/open-house-2023/rsvp/">
@@ -24,7 +24,7 @@ description: ""
 </a></p>
 		</th><th style="width:50%">
 <p><a href="/open-house-2023/cca/">
-<img src="/images/Open%20House%202023/oh23-cca2.png" style="width:100%">
+<img src="/images/Open%20House%202023/oh23-cca3.png" style="width:100%">
 	</a></p></th></tr>
 		<tr><th style="width:50%">
 <p><a href="/open-house-2023/facilities/">
