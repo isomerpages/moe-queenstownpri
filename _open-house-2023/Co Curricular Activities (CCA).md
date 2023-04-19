@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Co-Curricular Activities (CCA)**
 
-<img src="/images/Open%20House%202023/oh23-cca.png" style="width:80%">
+<img src="/images/Open%20House%202023/oh23-cca2.png" style="width:80%">
 
 Co-curricular Activities (CCA) play a key role in students' holistic development. Through CCA, students discover their interests and talents. Through CCA, students develop their character, learn values, social-emotional competencies and skills to prepare them for future challenges.
 
