@@ -35,6 +35,12 @@ Authentic learning experiences are provided to students through lessons in the c
 Students are guided through an Inquiry Based approach which includes making Connections to artists, Investigating the art forms and Problem Solving when faced with challenges during brainstorming and art making. Students also learn by reflecting on their own art making process and providing feedback on their peers’ artwork.
 
 #### **CCA Achievement**
+
+##### **2023 SOTA Primary 6 Art Competition**
+Top 50 Finalist - Yim Yebin (6 Joy)
+##### **2022 Draw My Stamp Story Art Competition**
+Silver Award - Yim Yebin (6 Joy)
+
 ##### **2021 Draw My Stamp Story Art Competition**
 Silver Award - Chua Xin Yu, Elise (6 Joy)
 ##### **2021 Singapore Youth Festival (SYF)**
@@ -65,8 +71,5 @@ Students will be required to purchase their own art sketchbook (visual diary) fo
 ![](/images/art%207.jpg)
 
 ![](/images/art%208.jpg)
-
-**(image unavailable)**
-We had a chance to showcase part of our curriculum in SYF Art Labs 2019 at Bukit Panjang Plaza. Many children came to our booth to try their hands on some craftwork.
 
 ![](/images/art%209.jpg)
