@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Open House 2023**
 
-![](/images/Open%20House%202023/oh23-header.png)
+![](/images/Open%20House%202023/oh23-header3.png)
 
 <table style="width:100%">
 	<tbody><tr>
