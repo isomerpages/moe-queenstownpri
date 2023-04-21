@@ -38,10 +38,10 @@ Students are guided through an Inquiry Based approach which includes making Conn
 
 ##### **2023 SOTA Primary 6 Art Competition**
 Top 50 Finalist - Yim Yebin (6 Joy)
-![](/images/2023-sota-p6.jpg)
+![](/images/CCA%20VisualArts/2023-sota-top50.png)
 ##### **2022 Draw My Stamp Story Art Competition**
 Silver Award - Yim Yebin (6 Joy)
-![](/images/2023-drawmystamp.jpg)
+![](/images/CCA%20VisualArts/2022-drawmystamp-silver.jpg)
 ##### **2021 Draw My Stamp Story Art Competition**
 Silver Award - Chua Xin Yu, Elise (6 Joy)
 ![](/images/art%201.jpg)
@@ -59,16 +59,17 @@ Students will be required to purchase their own art sketchbook (visual diary) fo
 
 #### **Photo**
 ![](/images/art%202.jpg)
-
 ![](/images/art%203.jpg)
-
 ![](/images/art%204.jpg)
-
 ![](/images/art%205.jpg)
-
 ![](/images/art%206.jpg)
+![](/images/CCA%20VisualArts/watercolour.png)
+![](/images/CCA%20VisualArts/artworks.png)
 
 ![](/images/art%207.jpg)
-
+![](/images/CCA%20VisualArts/coiling.png)
+![](/images/CCA%20VisualArts/pinching.png)
+![](/images/CCA%20VisualArts/fish-sculpture.png)
+![](/images/CCA%20VisualArts/honeypot.png)
 ![](/images/art%208.jpg)
-
+![](/images/CCA%20VisualArts/bento-jute.png)
