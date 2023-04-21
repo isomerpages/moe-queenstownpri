@@ -35,8 +35,17 @@ Authentic learning experiences are provided to students through lessons in the c
 Students are guided through an Inquiry Based approach which includes making Connections to artists, Investigating the art forms and Problem Solving when faced with challenges during brainstorming and art making. Students also learn by reflecting on their own art making process and providing feedback on their peers’ artwork.
 
 #### **CCA Achievement**
+
+##### **2023 SOTA Primary 6 Art Competition**
+Top 50 Finalist - Yim Yebin (6 Joy)
+![](/images/CCA%20VisualArts/2023-sota-top50.png)
+##### **2022 Draw My Stamp Story Art Competition**
+Silver Award - Yim Yebin (6 Joy)
+![](/images/CCA%20VisualArts/2022-drawmystamp-silver.jpg)
 ##### **2021 Draw My Stamp Story Art Competition**
 Silver Award - Chua Xin Yu, Elise (6 Joy)
+![](/images/art%201.jpg)
+
 ##### **2021 Singapore Youth Festival (SYF)**
 Selected for Virtual Exhibition CAT C
 ##### **2019 Singapore Youth Festival (SYF)**
@@ -49,24 +58,22 @@ Certificate of Recognition for CAT C
 Students will be required to purchase their own art sketchbook (visual diary) for use during CCA sessions.
 
 #### **Photo**
-
-![](/images/art%201.jpg)
-
 ![](/images/art%202.jpg)
-
 ![](/images/art%203.jpg)
-
 ![](/images/art%204.jpg)
-
 ![](/images/art%205.jpg)
-
 ![](/images/art%206.jpg)
+![](/images/CCA%20VisualArts/watercolour.png)
+![](/images/CCA%20VisualArts/artworks.png)
 
 ![](/images/art%207.jpg)
+![](/images/CCA%20VisualArts/coiling.png)
+
+![](/images/CCA%20VisualArts/pinching.png)
+
+![](/images/CCA%20VisualArts/fish-sculpture.png)
+
+![](/images/CCA%20VisualArts/honeypot.png)
 
 ![](/images/art%208.jpg)
-
-**(image unavailable)**
-We had a chance to showcase part of our curriculum in SYF Art Labs 2019 at Bukit Panjang Plaza. Many children came to our booth to try their hands on some craftwork.
-
-![](/images/art%209.jpg)
+![](/images/CCA%20VisualArts/bento-jute.png)

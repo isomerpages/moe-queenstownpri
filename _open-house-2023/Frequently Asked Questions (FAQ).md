@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Frequently Asked Questions (FAQ)**
 
-<img src="/images/oh23-faq.png" style="width:75%">
+<img src="/images/Open%20House%202023/oh23-faq2.png" style="width:100%">
 
 ##### **Class Sizes and Allocation**
 **1\. How many P1 classes do you have in QtPS, and how many students are there in each class?**<br>
@@ -174,4 +174,4 @@ In the event your child/ward accidentally soils himself/herself, the school can 
 No. Students are encouraged to take up a CCA at P3.
 
 ##### **Q&amp;A**
-If you still have a question, please fill in the form below and we will get back to you as soon as possible.  
+If you still have a question, please fill in the form below and we will get back to you as soon as possible.

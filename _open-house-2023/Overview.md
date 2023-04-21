@@ -5,38 +5,33 @@ description: ""
 ---
 ### **Open House 2023**
 
-![](/images/oh23-header.png)
-
-<p><a href="/open-house-2023/rsvp/">
-<img style="width:40%" src="/images/oh23-rsvp.png">
-</a></p>
+![](/images/Open%20House%202023/oh23-header3.png)
 
 <table style="width:100%">
 	<tbody><tr>
-		<th style="width:55%">
+		<th style="width:50%">
 <p><a href="/open-house-2023/schedule/">
-<img style="width:80%" src="/images/oh23-schedule.png">
+<img src="/images/Open%20House%202023/oh23-schedule3.png">
 </a></p>
-		</th><th style="width:60%">
-<p><a href="/open-house-2023/map4day/">
-<img style="width:100%" src="/images/oh23-map.png" align="right">
-	</a></p></th></tr>
-		<tr>
-		<th style="width:30%">
+</th><th style="width:50%">
+<p><a href="/open-house-2023/rsvp/">
+<img align="right" src="/images/Open%20House%202023/oh23-rsvp2.png">
+	</a></p></th></tr>	
+			<tr>
+				<th style="width:50%">
 <p><a href="/open-house-2023/corpvideo/">
-<img style="width:65%" src="/images/oh23-schcorpvideo1.png">
+<img src="/images/Open%20House%202023/oh23-schcorpvid2.png" style="width:100%">
 </a></p>
-		</th><th style="width:60%">
+		</th><th style="width:50%">
 <p><a href="/open-house-2023/cca/">
-<img style="width:100%" src="/images/oh23-cca.png" align="right">
+<img src="/images/Open%20House%202023/oh23-cca3.png" style="width:100%">
 	</a></p></th></tr>
-		<tr>
-		<th style="width:60%">
+		<tr><th style="width:50%">
 <p><a href="/open-house-2023/facilities/">
-<img style="width:80%" src="/images/oh23-facilities1.png">
-</a></p>
-		</th><th style="width:40%">
+<img src="/images/Open%20House%202023/oh23-facilities2.png" style="width:100%">
+</a></p>	
+			</th><th style="width:50%">
 <p><a href="/open-house-2023/faq/">
-<img style="width:100%" src="/images/oh23-faq.png" align="right">
+<img src="/images/Open%20House%202023/oh23-faq2.png" style="width:100%">
 	</a></p></th></tr>
 </tbody></table>
