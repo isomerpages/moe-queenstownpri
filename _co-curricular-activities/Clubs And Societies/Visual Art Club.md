@@ -72,4 +72,3 @@ Students will be required to purchase their own art sketchbook (visual diary) fo
 
 ![](/images/art%208.jpg)
 
-![](/images/art%209.jpg)
