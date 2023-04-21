@@ -68,8 +68,12 @@ Students will be required to purchase their own art sketchbook (visual diary) fo
 
 ![](/images/art%207.jpg)
 ![](/images/CCA%20VisualArts/coiling.png)
+
 ![](/images/CCA%20VisualArts/pinching.png)
+
 ![](/images/CCA%20VisualArts/fish-sculpture.png)
+
 ![](/images/CCA%20VisualArts/honeypot.png)
+
 ![](/images/art%208.jpg)
 ![](/images/CCA%20VisualArts/bento-jute.png)
