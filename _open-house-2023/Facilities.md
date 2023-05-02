@@ -8,3 +8,5 @@ description: ""
 <img src="/images/Open%20House%202023/oh23-facilities5b.png" style="width:100%">
 
 <center><iframe width="644" height="362" src="https://www.youtube.com/embed/DE5R8SaSpfw" title="QtPS Facilities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+
+(Video is best viewed using Youtube)
