@@ -1,5 +1,5 @@
 ---
-title: RSVP to attend
+title: RSVP
 permalink: /open-house-2023/rsvp/
 description: ""
 ---

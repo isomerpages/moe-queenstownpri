@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - RSVP to attend.md
+      - RSVP.md
       - Schedule.md
       - School Corporate Video.md
       - Co Curricular Activities (CCA).md

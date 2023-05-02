@@ -39,10 +39,4 @@ sections:
       url: https://docs.google.com/forms/d/e/1FAIpQLSdWz8NCB86RSrF0Lk7EuBSM2300rasnztuvwINCNBsIRKX2rg/viewform
       image: /images/Alumni.jpg
       alt: Image alt text
-  - infopic:
-      title: Photo Journal
-      button: click here
-      url: /experience/school-life-memories-our-photo-journal/
-      alt: Image alt text
-      image: /images/photo journal banner.jpg
 ---
