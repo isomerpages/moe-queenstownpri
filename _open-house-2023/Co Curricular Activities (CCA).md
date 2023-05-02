@@ -25,3 +25,5 @@ Click on the link to read more about [Boys' Brigade](/experience/CCA/uniformed-g
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/uATAo24pK6Q" title="QtPS Performing Arts CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 Click on the link to read more about [Drama Club](/experience/CCA/performing-arts/drama-club/), [Malay Dance](/experience/CCA/performing-arts/malay-dance/), [Chinese Orchestra](/experience/CCA/performing-arts/chinese-orchestra/), [Indian Dance](/experience/CCA/performing-arts/indian-dance/), [Choir](/experience/CCA/performing-arts/), [Chinese Dance](/experience/CCA/performing-arts/chinese-dance/) or [International Dance](/experience/CCA/performing-arts/international-dance/).
+
+(Videos are best viewed using Youtube)
