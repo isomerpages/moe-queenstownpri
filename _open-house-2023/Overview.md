@@ -17,7 +17,8 @@ description: ""
 <img align="right" src="/images/Open%20House%202023/oh23-rsvp5a.png">
 	</a></p></th></tr>	
 	</tbody></table>
-	<table>
+	
+<table>
 	<tbody><tr>
 				<th style="width:50%">
 <p><a href="/open-house-2023/corpvideo/">
@@ -28,8 +29,9 @@ description: ""
 <img src="/images/Open%20House%202023/oh23-cca5b.png" style="width:100%">
 	</a></p></th></tr>
 	</tbody></table>
-	<table>
-		<tbody><tr><th style="width:50%">
+	
+<table>
+	<tbody><tr><th style="width:50%">
 <p><a href="/open-house-2023/facilities/">
 <img src="/images/Open%20House%202023/oh23-facilities5b.png" style="width:100%">
 </a></p>	
