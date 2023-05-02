@@ -24,11 +24,11 @@ description: ""
 </a></p>
 		</th><th style="width:50%">
 <p><a href="/open-house-2023/cca/">
-<img src="/images/Open%20House%202023/oh23-cca5.png" style="width:100%">
+<img src="/images/Open%20House%202023/oh23-cca5b.png" style="width:100%">
 	</a></p></th></tr>
 		<tr><th style="width:50%">
 <p><a href="/open-house-2023/facilities/">
-<img src="/images/Open%20House%202023/oh23-facilities5a.png" style="width:100%">
+<img src="/images/Open%20House%202023/oh23-facilities5b.png" style="width:100%">
 </a></p>	
 			</th><th style="width:50%">
 <p><a href="/open-house-2023/faq/">
