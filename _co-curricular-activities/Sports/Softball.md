@@ -15,20 +15,19 @@ Mr Tan Kian Tat
 Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
-Mondays & Thursdays<br>
-3.00 pm to 5.00 pm
+Monday 3pm to 5pm<br>
+Friday 2.30pm to 4.30pm<br>
 
 #### **CCA Venue**
-Monday - School Field<br>
-Thurday - Hall<br>
-Wet Weather - ISH 
+Monday &amp; Friday - School Field<br>
+Wet Weather - Hall 
 
 #### **About CCA**
 Softball is a great sport opened to boys from P3 onwards.
 
 The Softball CCA aims to develop the values of respect, fair play, teamwork and resilience in its members through the variety of physical activities and competitive experiences.
 
-Our members will learn the skills of throwing, catching and batting a ball, as well as the rules of the striking & fielding game.
+Our members will learn the skills of throwing, catching and batting a ball, as well as the rules of the striking &amp; fielding game.
 
 The vigorous training sessions will develop their stamina, speed, hand-eye coordination, power and agility. They will also learn useful game tactics in order to make strategic decisions during the game. Players will then apply their knowledge and skills when they represent the school in the National Schools Softball Championship.
 

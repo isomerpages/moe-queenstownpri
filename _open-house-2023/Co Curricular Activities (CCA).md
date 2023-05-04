@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Co-Curricular Activities (CCA)**
 
-<img src="/images/Open%20House%202023/oh23-cca2.png" style="width:100%">
+<img src="/images/Open%20House%202023/oh23-cca5b.png" style="width:100%">
 
 Co-curricular Activities (CCA) play a key role in students' holistic development. Through CCA, students discover their interests and talents. Through CCA, students develop their character, learn values, social-emotional competencies and skills to prepare them for future challenges.
 
@@ -17,7 +17,7 @@ Watch our&nbsp;**students' interviews**&nbsp;where they share their experiences 
 
 Click on the link to read more about&nbsp;[Science and Green Club](/experience/CCA/clubs-and-societies/),&nbsp;[InfoComm Club](/experience/CCA/clubs-and-societies/infocomm/),&nbsp;[Weiqi Club](/experience/CCA/clubs-and-societies/weiqi-club/),&nbsp;[International Chess Club](/experience/CCA/clubs-and-societies/international-chess/)&nbsp;or&nbsp;[Visual Art Club](/experience/CCA/clubs-and-societies/visual-art-club/)
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/l_lWqz_1TmA" title="QtPS Uniformed Group and Sports CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="QtPS Uniformed Group and Sports CCA" src="https://www.youtube.com/embed/l_lWqz_1TmA" height="506" width="900"></iframe>
 
 Click on the link to read more about [Boys' Brigade](/experience/CCA/uniformed-groups/), [Girls' Brigade](/experience/CCA/uniformed-groups/girls-brigade/), 
 [Softball](/experience/CCA/physical-sports/softball/), [Basketball](/experience/CCA/physical-sports/basketball/), [Swimming](/experience/CCA/physical-sports/swimming/), [Football](/experience/CCA/physical-sports/football/) or [Badminton](/experience/CCA/physical-sports/).
@@ -25,3 +25,5 @@ Click on the link to read more about [Boys' Brigade](/experience/CCA/uniformed-g
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/uATAo24pK6Q" title="QtPS Performing Arts CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 Click on the link to read more about [Drama Club](/experience/CCA/performing-arts/drama-club/), [Malay Dance](/experience/CCA/performing-arts/malay-dance/), [Chinese Orchestra](/experience/CCA/performing-arts/chinese-orchestra/), [Indian Dance](/experience/CCA/performing-arts/indian-dance/), [Choir](/experience/CCA/performing-arts/), [Chinese Dance](/experience/CCA/performing-arts/chinese-dance/) or [International Dance](/experience/CCA/performing-arts/international-dance/).
+
+(Videos are best viewed using Youtube)
