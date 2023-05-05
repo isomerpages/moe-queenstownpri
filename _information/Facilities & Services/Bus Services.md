@@ -18,7 +18,14 @@ third_nav_title: Facilities & Services
 Bus fares applicable from 1 January 2023 to 31 December 2023:
 
 <table> 
-		<tbody><tr>
+		<tbody>
+			<tr>
+			<th> </th>
+			<th colspan="2"> Up to 15 seater </th>			
+			<th colspan="2"> &gt;15-30 seater </th>
+      <th colspan="2"> &gt;30 seater </th>
+	</tr>	
+			<tr>
 			<th> Distance </th>
 			<th> 1 way </th>
 			<th> 2 way </th>
