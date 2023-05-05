@@ -46,7 +46,7 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:
 			<td> $128 </td>
 	</tr>
 				<tr>
-			<td> &gt;4 - 6km</td>
+			<td> &gt;4km - 6km</td>
 			<td> $149 </td>
 			<td> $192 </td>
 			<td> $133 </td>
