@@ -28,19 +28,30 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:
 			<th> 2 way </th>
 	</tr>	
 	<tr>
-			<th> Up to 2km</th>
-			<th> $90 </th>
-			<th> $107 </th>
-			<th> &amp;80 </th>
-			<th> $90 </th>
-			<th> $80 </th>
-			<th> $90 </th>
+			<td> Up to 2km</td>
+			<td> $90 </td>
+			<td> $107 </td>
+			<td> $80 </td>
+			<td> $90 </td>
+			<td> $80 </td>
+			<td> $90 </td>
+	</tr>
+	<tr>
+			<td> &gt;2km - 4km</td>
+			<td> $123 </td>
+			<td> $149 </td>
+			<td> $101 </td>
+			<td> $128 </td>
+			<td> $101 </td>
+			<td> $128 </td>
+	</tr>
+				<tr>
+			<td> &gt;4 - 6km</td>
+			<td> $149 </td>
+			<td> $192 </td>
+			<td> $133 </td>
+			<td> $171 </td>
+			<td> $133 </td>
+			<td> $171 </td>
 	</tr>
 </tbody></table>
-	
-
-
-
-
-
-
