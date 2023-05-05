@@ -20,10 +20,10 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:
 <table border="1px"> 
 		<tbody>
 			<tr>
-				<th border="1px" rowspan="2"><center>Distance </center></th>
-				<th border="1px" colspan="2"><center> Up to 15 seater </center></th>
-			<th border="1px" colspan="2"><center> &gt;15-30 seater </center></th>			
-      <th border="1px" colspan="2"><center> &gt;30 seater </center></th>
+				<th rowspan="2"><center>Distance </center></th>
+				<th colspan="2"><center> Up to 15 seater </center></th>
+			<th colspan="2"><center> &gt;15-30 seater </center></th>			
+      <th colspan="2"><center> &gt;30 seater </center></th>
 	</tr>	
 			<tr>
 				<th><center>1 way </center></th>
