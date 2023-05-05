@@ -17,10 +17,30 @@ third_nav_title: Facilities & Services
 
 Bus fares applicable from 1 January 2023 to 31 December 2023:
 
+<table> 
+		<tbody><tr>
+			<th> Distance </th>
+			<th> 1 way </th>
+			<th> 2 way </th>
+			<th> 1 way </th>
+			<th> 2 way </th>
+			<th> 1 way </th>
+			<th> 2 way </th>
+	</tr>	
+	<tr>
+			<th> Up to 2km</th>
+			<th> $90 </th>
+			<th> $107 </th>
+			<th> &amp;80 </th>
+			<th> $90 </th>
+			<th> $80 </th>
+			<th> $90 </th>
+	</tr>
+</tbody></table>
+	
 
-|                 |
-| Distance | Sky Island Transport &amp; Trading Pte Ltd |
-|---|---|
-| Contact Person | Ms Fong Li Ying/Mr Richard Fong |
-| Contact No | 91884698 |
-<table></table>
+
+
+
+
+
