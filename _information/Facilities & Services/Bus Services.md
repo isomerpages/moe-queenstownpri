@@ -17,7 +17,7 @@ third_nav_title: Facilities & Services
 
 Bus fares applicable from 1 January 2023 to 31 December 2023:
 
-<table> 
+<table border="1px"> 
 		<tbody>
 			<tr>
 				<th rowspan="2"><center>Distance </center></th>
