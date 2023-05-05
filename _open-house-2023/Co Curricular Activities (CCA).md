@@ -17,7 +17,7 @@ Watch our&nbsp;**students' interviews**&nbsp;where they share their experiences 
 
 Click on the link to read more about&nbsp;[Science and Green Club](/experience/CCA/clubs-and-societies/),&nbsp;[InfoComm Club](/experience/CCA/clubs-and-societies/infocomm/),&nbsp;[Weiqi Club](/experience/CCA/clubs-and-societies/weiqi-club/),&nbsp;[International Chess Club](/experience/CCA/clubs-and-societies/international-chess/)&nbsp;or&nbsp;[Visual Art Club](/experience/CCA/clubs-and-societies/visual-art-club/)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="QtPS Uniformed Group and Sports CCA" src="https://www.youtube.com/embed/l_lWqz_1TmA" height="506" width="900"></iframe>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="QtPS Uniformed Group and Sports CCA" src="https://www.youtube.com/embed/l_lWqz_1TmA" height="315" width="560"></iframe></center>
 
 Click on the link to read more about [Boys' Brigade](/experience/CCA/uniformed-groups/), [Girls' Brigade](/experience/CCA/uniformed-groups/girls-brigade/), 
 [Softball](/experience/CCA/physical-sports/softball/), [Basketball](/experience/CCA/physical-sports/basketball/), [Swimming](/experience/CCA/physical-sports/swimming/), [Football](/experience/CCA/physical-sports/football/) or [Badminton](/experience/CCA/physical-sports/).
