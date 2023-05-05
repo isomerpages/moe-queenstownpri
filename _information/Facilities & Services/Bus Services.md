@@ -18,7 +18,7 @@ third_nav_title: Facilities & Services
 Bus fares applicable from 1 January 2023 to 31 December 2023:
 
 <table border="1px"> 
-		<tbody>
+		<tbody border="1px">
 			<tr>
 				<th rowspan="2"><center>Distance </center></th>
 				<th colspan="2"><center> Up to 15 seater </center></th>
@@ -34,31 +34,31 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:
 		   	<th><center>2 way </center></th>
 	</tr>	
 	<tr>
-			<td> Up to 2km</td>
-			<td> $90 </td>
-			<td> $107 </td>
-			<td> $80 </td>
-			<td> $90 </td>
-			<td> $80 </td>
-			<td> $90 </td>
+		<td><center>Up to 2km </center></td>
+			<td><center> $90 </center></td>
+			<td><center> $107 </center></td>
+			<td><center> $80 </center></td>
+			<td><center> $90 </center></td>
+			<td><center> $80 </center></td>
+			<td><center> $90 </center></td>
 	</tr>
 	<tr>
-			<td> &gt;2km - 4km</td>
-			<td> $123 </td>
-			<td> $149 </td>
-			<td> $101 </td>
-			<td> $128 </td>
-			<td> $101 </td>
-			<td> $128 </td>
+			<td><center> &gt;2km - 4km </center></td>
+			<td><center> $123 </center></td>
+			<td><center> $149 </center></td>
+			<td><center> $101 </center></td>
+			<td><center> $128 </center></td>
+			<td><center> $101 </center></td>
+			<td><center> $128 </center></td>
 	</tr>
 				<tr>
-			<td> &gt;4km - 6km</td>
-			<td> $149 </td>
-			<td> $192 </td>
-			<td> $133 </td>
-			<td> $171 </td>
-			<td> $133 </td>
-			<td> $171 </td>
+			<td><center> &gt;4km - 6km</center></td>
+			<td><center> $149 </center></td>
+			<td><center> $192 </center></td>
+			<td><center> $133 </center></td>
+			<td><center> $171 </center></td>
+			<td><center> $133 </center></td>
+			<td><center> $171 </center></td>
 	</tr>
 </tbody>
 </table>
