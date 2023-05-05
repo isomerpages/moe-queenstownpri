@@ -15,6 +15,6 @@ CCA bring students from diverse backgrounds together. By learning and interactin
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="NSG" src="https://www.youtube.com/embed/h3v26muqG3k" height="310" width="560"></iframe></center>
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2022 CCA Appreciation" src="https://www.youtube.com/embed/eyrZCt27zaU" height="506" width="900"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2022 CCA Appreciation" src="https://www.youtube.com/embed/eyrZCt27zaU" height="310" width="560"></iframe></center>
 
 (Videos are best viewed using Youtube)
