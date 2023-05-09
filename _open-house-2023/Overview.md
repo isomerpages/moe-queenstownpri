@@ -14,7 +14,7 @@ description: ""
 </a></p>
 </th><th style="width:50%">
 <p><a href="https://go.gov.sg/qtpsopenhouse2023">
-<img align="right" src="/images/Open%20House%202023/oh23-rsvp5.png">
+<img align="right" src="/images/Open%20House%202023/oh23-rsvp6.png">
 	</a></p></th></tr>	
 	</tbody></table>
 	
