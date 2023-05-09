@@ -5,4 +5,8 @@ description: ""
 ---
 ### **Schedule for Open House 2023**
 
-<img src="/images/Open%20House%202023/oh23-schedule5.png" style="width:100%">
+<img src="/images/Open%20House%202023/oh23-schedule6a.png" style="width:100%">
+
+
+
+#### Page under construction. Please come back again
