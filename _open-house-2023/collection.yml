@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
-      - RSVP.md
       - Programme for the day.md
+      - RSVP.md
       - School Corporate Video.md
       - Co Curricular Activities (CCA).md
       - Parents Voices.md
