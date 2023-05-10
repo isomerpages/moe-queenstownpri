@@ -10,7 +10,7 @@ description: ""
 <table> 
 		<tbody><tr><th style="width:50%">
 <p><a href="/open-house-2023/schedule/">
-<img src="/images/Open%20House%202023/oh23-schedule6b.png">
+<img src="/images/Open%20House%202023/oh23-schedule6c.png">
 </a></p>
 </th><th style="width:50%">
 <p><a href="https://go.gov.sg/qtpsopenhouse2023">
