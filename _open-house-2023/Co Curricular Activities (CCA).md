@@ -14,8 +14,8 @@ CCA bring students from diverse backgrounds together. By learning and interactin
 loop 1a
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="P2 CCA Fair 720p" src="https://www.youtube.com/embed/UTvkpa5fOkc?playlist=UTvkpa5fOkc&amp;loop=1" height="310" width="560"></iframe></center>
 
-loop 0a
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="NSG" src="https://www.youtube.com/embed/h3v26muqG3k?playlist=h3v26muqG3k&amp;loop=0" height="310" width="560"></iframe></center>
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="NSG" src="https://www.youtube.com/embed/h3v26muqG3k?playlist=h3v26muqG3k&amp;loop=1;rel-=0" height="310" width="560"></iframe></center>
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2022 CCA Appreciation" src="https://www.youtube.com/embed/eyrZCt27zaU?rel-=0" height="310" width="560"></iframe></center>
 
