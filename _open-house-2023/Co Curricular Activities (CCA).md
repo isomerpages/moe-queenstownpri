@@ -17,4 +17,4 @@ CCA bring students from diverse backgrounds together. By learning and interactin
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2022 CCA Appreciation" src="https://www.youtube.com/embed/eyrZCt27zaU?rel-=0" height="310" width="560"></iframe></center>
 
-(Videos are best viewed using Youtube)
+<center>(Videos are best viewed using Youtube)</center>
