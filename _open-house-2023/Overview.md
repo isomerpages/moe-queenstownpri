@@ -10,11 +10,11 @@ description: ""
 <table> 
 		<tbody><tr><th style="width:50%">
 <p><a href="/open-house-2023/schedule/">
-<img src="/images/Open%20House%202023/oh23-schedule5.png">
+<img src="/images/Open%20House%202023/oh23-schedule6c.png">
 </a></p>
 </th><th style="width:50%">
-<p><a href="/open-house-2023/rsvp/">
-<img align="right" src="/images/Open%20House%202023/oh23-rsvp5a.png">
+<p><a target="_blank" href="https://go.gov.sg/qtpsopenhouse2023">
+<img align="right" src="/images/Open%20House%202023/oh23-rsvp6.png">
 	</a></p></th></tr>	
 	</tbody></table>
 	
@@ -26,14 +26,14 @@ description: ""
 </a></p>
 		</th><th style="width:50%">
 <p><a href="/open-house-2023/cca/">
-<img src="/images/Open%20House%202023/oh23-cca5b.png" style="width:100%">
+<img src="/images/Open%20House%202023/oh23-cca6a.png" style="width:100%">
 	</a></p></th></tr>
 	</tbody></table>
 	
 <table>
 	<tbody><tr><th style="width:50%">
-<p><a href="/open-house-2023/facilities/">
-<img src="/images/Open%20House%202023/oh23-facilities5b.png" style="width:100%">
+<p><a href="/open-house-2023/parentvoices/">
+<img src="/images/Open%20House%202023/oh23-parvoices6.png" style="width:100%">
 </a></p>	
 			</th><th style="width:50%">
 <p><a href="/open-house-2023/faq/">

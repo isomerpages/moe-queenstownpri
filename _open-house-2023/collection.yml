@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Overview.md
+      - Programme for the day.md
       - RSVP.md
-      - Schedule.md
       - School Corporate Video.md
       - Co Curricular Activities (CCA).md
-      - Facilities.md
+      - Parents Voices.md
       - Frequently Asked Questions (FAQ).md
