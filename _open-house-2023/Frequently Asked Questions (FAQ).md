@@ -173,5 +173,3 @@ In the event your child/ward accidentally soils himself/herself, the school can 
 **34. Are there Co-Curricular Activities (CCAs) for P1 students?**<br>
 No. Students are encouraged to take up a CCA at P3.
 
-##### **Q&amp;A**
-If you still have a question, please fill in the form below and we will get back to you as soon as possible.
