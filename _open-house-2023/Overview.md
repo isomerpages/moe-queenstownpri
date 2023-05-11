@@ -13,7 +13,7 @@ description: ""
 <img src="/images/Open%20House%202023/oh23-schedule6c.png">
 </a></p>
 </th><th style="width:50%">
-<p><a href="https://go.gov.sg/qtpsopenhouse2023">
+<p><a target="_blank" href="https://go.gov.sg/qtpsopenhouse2023">
 <img align="right" src="/images/Open%20House%202023/oh23-rsvp6.png">
 	</a></p></th></tr>	
 	</tbody></table>
