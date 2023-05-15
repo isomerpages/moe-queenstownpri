@@ -30,6 +30,8 @@ sections:
       button: Click Here for details
       url: /open-house-2023/
       image: /images/Open House 2023/oh23-motd.png
+      alt: Image alt text
+      description: 1st July 2023
   - infopic:
       title: CCA
       description: Co-Curricular Activities
