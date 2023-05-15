@@ -15,13 +15,13 @@ third_nav_title: Facilities & Services
 
 #### **Dental Clinic Operating Schedule - May 2023**
 
-| <center>Week | <center>Monday| <center>Tuesday | <center>Wednesday | <center>Thursday | <center>Friday |
+| <center>Week</center> | <center>Monday</center>| <center>Tuesday</center> | <center>Wednesday</center> | <center>Thursday</center> | <center>Friday</center> |
 |:---:|---|---|---|---|---|
-| <center> 7|<center>1<br>CLOSED  | <center>2<br>CLOSED | <center>3<br>CLOSED |<center>4<br>CLOSED  |<center>5<br>CLOSED| 
-| <center>8 | <center>8<br>  | <center>9<br>  | <center>10<br> | <center>11<br> | <center>12<br>CLOSED  |
-| <center> 9 |  <center>15<br>CLOSED | <center> 16<br>CLOSED | <center> 17<br>CLOSED |  <center> 18<br>CLOSED | <center> 19<br>CLOSED |
-| <center> 10|  <center>22<br> | <center>23 <br> | <center>24 <br>|<center>25 <br> |<center>26 <br>CLOSED|
-| <center> Holiday |  <center>29<br>CLOSED | <center> 30<br>CLOSED | <center> 31<br>CLOSED |  <center>  | <center>  |
+| <center> 7</center>|<center>1<br>CLOSED</center> | <center>2<br>CLOSED</center> | <center>3<br>CLOSED</center> |<center>4<br>CLOSED</center>  |<center>5<br>CLOSED</center>| 
+| <center>8</center> | <center>8<br></center>  | <center>9<br></center>  | <center>10<br></center> | <center>11<br></center> | <center>12<br>CLOSED</center>  |
+| <center> 9</center> |  <center>15<br>CLOSED</center> | <center> 16<br>CLOSED</center> | <center> 17<br>CLOSED</center> |  <center> 18<br>CLOSED</center> | <center> 19<br>CLOSED</center> |
+| <center> 10</center>|  <center>22<br></center> | <center>23 <br></center> | <center>24 <br></center>|<center>25 <br></center> |<center>26 <br>CLOSED</center>|
+| <center> Holiday</center> |  <center>29<br>CLOSED</center> | <center> 30<br>CLOSED</center> | <center> 31<br>CLOSED</center> |  <center> </center> | <center></center>  |
 	
 Pupils who need dental treatment on days when the clinic is closed can go to the buddy clinics listed below.
 
@@ -37,5 +37,3 @@ Please <b><u>CALL</u></b> the dental in the clinic to make an appointment before
 |
 
 In case of trauma, facial swelling or pain, please email Contact_YPS@HPB.Gov.Sg
-	
-	</center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center>
