@@ -26,6 +26,11 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: OPEN HOUSE 2023
+      button: Click Here for the OPen House details
+      url: /open-house-2023
+      image: /images/Open House 2023/oh23-motd.png
+  - infopic:
       title: CCA
       description: Co-Curricular Activities
       button: click here
@@ -39,9 +44,4 @@ sections:
       url: https://docs.google.com/forms/d/e/1FAIpQLSdWz8NCB86RSrF0Lk7EuBSM2300rasnztuvwINCNBsIRKX2rg/viewform
       image: /images/Alumni.jpg
       alt: Image alt text
-  - infopic:
-      title: OPEN HOUSE 2023
-      button: Click Here for the OPen House details
-      url: /open-house-2023
-      image: /images/Open House 2023/oh23-motd.png
 ---
