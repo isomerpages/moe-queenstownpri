@@ -27,7 +27,7 @@ sections:
           url: /useful-links/for-students
   - infopic:
       title: OPEN HOUSE 2023
-      button: Click Here for the OPen House details
+      button: Click Here for details
       url: /open-house-2023
       image: /images/Open House 2023/oh23-motd.png
   - infopic:
