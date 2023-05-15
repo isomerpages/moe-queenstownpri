@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: OPEN HOUSE 2023
       button: Click Here for details
-      url: /open-house-2023
+      url: /open-house-2023/
       image: /images/Open House 2023/oh23-motd.png
   - infopic:
       title: CCA
