@@ -36,4 +36,6 @@ Please <b><u>CALL</u></b> the dental in the clinic to make an appointment before
 | 3 | River Valley Primary School Dental Clinic |  89095948 | 2 River Valley Green<br>S(237993) |
 |
 
-In case of trauma, facial swelling or pain, please email Contact_YPS@HPB.Gov.Sg</center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center>
+In case of trauma, facial swelling or pain, please email Contact_YPS@HPB.Gov.Sg
+	
+	</center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center>
