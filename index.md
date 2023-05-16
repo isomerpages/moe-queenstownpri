@@ -29,7 +29,7 @@ sections:
       title: OPEN HOUSE 2023
       button: Click Here for details
       url: /open-house-2023/overview/
-      image: /images/Open House 2023/oh23-motd.png
+      image: /images/Open House 2023/oh23-motd-website50a.png
       alt: Image alt text
       description: 1st July 2023
   - infopic:
