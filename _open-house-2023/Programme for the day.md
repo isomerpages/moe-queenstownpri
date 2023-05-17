@@ -7,6 +7,6 @@ description: ""
 
 <img src="/images/Open%20House%202023/oh23-schedule6b.png" style="width:100%">
 
+![](/images/Open%20House%202023/leoh%20%20map%20v4.jpg)
 
-
-#### Page under construction. Please come back again.
+![](/images/Open%20House%202023/leoh%20%20programme.jpg)
