@@ -2,7 +2,7 @@ collections:
   open-house-2023:
     output: true
     order:
-      - Overview.md
+      - Learning Extravaganza & Open House 2023.md
       - Programme for LEOH 2023.md
       - RSVP.md
       - School Corporate Video.md
