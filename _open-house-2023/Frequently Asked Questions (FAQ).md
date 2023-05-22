@@ -3,8 +3,6 @@ title: Frequently Asked Questions (FAQ)
 permalink: /open-house-2023/faq/
 description: ""
 ---
-### **Frequently Asked Questions (FAQ)**
-
 <img src="/images/Open%20House%202023/oh23-faq5a.png" style="width:100%">
 
 ##### **Class Sizes and Allocation**
@@ -172,4 +170,3 @@ In the event your child/ward accidentally soils himself/herself, the school can 
 ##### **Co-Curricular Activities**
 **34. Are there Co-Curricular Activities (CCAs) for P1 students?**<br>
 No. Students are encouraged to take up a CCA at P3.
-
