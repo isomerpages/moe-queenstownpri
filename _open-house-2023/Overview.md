@@ -3,7 +3,7 @@ title: Overview
 permalink: /open-house-2023/overview/
 description: ""
 ---
-### **Learning Extravaganza &amp; Open House 2023**
+### **Learning Extravaganza &amp; Open House 2023 (LEOH 2023)**
 
 ![](/images/Open%20House%202023/oh23-banner5.png)
 
