@@ -25,12 +25,12 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
-      title: LEARNING EXTRAVAGANZA & OPEN HOUSE 2023
+      title: LEOH 2023
       button: Click Here for details
       url: /leoh-2023/overview/
       image: /images/Open House 2023/oh23-motd.png
       alt: Image alt text
-      description: LEOH 1st July 2023
+      description: Learning Extravaganza & Open House 1st July 2023
   - infopic:
       title: CCA
       description: Co-Curricular Activities
