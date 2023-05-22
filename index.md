@@ -27,7 +27,7 @@ sections:
   - infopic:
       title: LEARNING EXTRAVAGANZA & OPEN HOUSE 2023
       button: Click Here for details
-      url: /open-house-2023/overview/
+      url: /leoh-2023/overview/
       image: /images/Open House 2023/oh23-motd.png
       alt: Image alt text
       description: LEOH 1st July 2023
