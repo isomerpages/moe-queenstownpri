@@ -4,8 +4,6 @@ permalink: /departments/CCE/
 description: ""
 third_nav_title: Character & Citizenship Educn
 ---
-
-
 ### **Character and Citizenship Education**
 
 #### **Queenstowner Outcomes (QtO)**
@@ -17,9 +15,9 @@ The Queenstowner Outcomes (QtOs) form a set of aspirated outcomes seeking to dev
 
 The CCE curriculum in Queenstown Primary focuses on helping them develop these traits: Caring Citizens, Confident Individuals and Effective Leaders.
 
-A **Confident Individual** is self-assured and thinks positively.<br>
-A **Caring Citizen** is a compassionate and civic-minded individual who shows concern for others and serves the needs of the community.<br>
-An **Effective Leader** is a good communicator and team player.
+A&nbsp;**Confident Individual**&nbsp;is self-assured and thinks positively.<br>
+A&nbsp;**Caring Citizen**&nbsp;is a compassionate and civic-minded individual who shows concern for others and serves the needs of the community.<br>
+An&nbsp;**Effective Leader**&nbsp;is a good communicator and team player.
 
 #### **Positive Education as an Approach**
 
@@ -27,13 +25,13 @@ Queenstown Primary School believes in Positive Education (PosEd). Positive educa
 
 ![](/images/cce%202.jpg)
 
-Though the PERMA model, we aim to help students be more **Positive Thinkers** and **Self-assured** individuals. These can be inculcated through practices that we have adopted in the school.
+Though the PERMA model, we aim to help students be more&nbsp;**Positive Thinkers**&nbsp;and&nbsp;**Self-assured**&nbsp;individuals. These can be inculcated through practices that we have adopted in the school.
 
 #### **Mindful Moments @ Recess**
 
 After a hectic workout through play during recess, students gather in their classes and start the Mindful Moment Routine which lasts approximately 5 minutes. A pre-recorded video with music is played to help students calm down through breathing exercises. We believe that this helps them prepare for the next class better and helps them build concentration in the long run. This fosters positive emotions as they get ready for the activity for the day.
 
-<iframe width="1180" height="664" src="https://www.youtube.com/embed/kzaILkJC7Dc" title="Mindful Moments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="540" height="360" src="https://www.youtube.com/embed/kzaILkJC7Dc" title="Mindful Moments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### **Mass Birthday Celebration**
 The Mass Birthday Celebration is an initiative borne from the school’s philosophy of “Every Child Matters and Can Accomplish”. The mass celebration of students’ birthdays reinforces this belief. On the first Friday of each month during the school’s pre-assembly period, the names of students who will be celebrating their birthday in that month will be flashed on PowerPoint slides. They will later be asked to stand and 2 teachers lead the school in singing them a birthday song. Their friends are encouraged to wish them a happy birthday later in class. Students enjoy this time and feel not just appreciated, but also valued as significant individuals.
@@ -53,21 +51,16 @@ In Queenstown Primary, lessons on Growth Mindset (incidental and planned) are de
 #### **Inculcating Gratitude**
 Frequently finding ways and time to show gratitude also helps to build positive emotions in students. Research has shown that people are better at analysing things that have gone badly in their lives but not so much so for the good things. Finding time to be thankful for little things help to raise positive emotions in a one’s life. We teach our students to be grateful for small things and they can do so through penning notes in their handbook and also through small projects that come along the way. An example would be the gratitude notes they penned for cleaners in the school and also healthcare workers at Alexandra Hospital to show our support for them in these trying times.
 
-<img src="/images/cce%203.jpg" 
-     style="width:49%" align=left>
-<img src="/images/cce%204.jpg" 
-     style="width:49%" align=right>
+<img src="/images/cce%203.jpg" style="width:49%" align="left">
+<img src="/images/cce%204.jpg" style="width:49%" align="right">
 		 
-<img src="/images/cce%205.jpg" 
-     style="width:65%">		 
+<img src="/images/cce%205.jpg" style="width:65%">		 
 
 #### **Power Mail**
 Each week, students write a note of encouragement to friend in the class. A chart with all the students’ names are placed in the classroom and at allotted times, students are encouraged to place a note of encouragement to their friends to brighten their day. We have seen friendships blossom with this initiative as this helps build and improve friendships among classmates
 
-<img src="/images/cce%206.jpg" 
-     style="width:49%" align=left>
-<img src="/images/cce%207.jpg" 
-     style="width:49%" align=right>
+<img src="/images/cce%206.jpg" style="width:49%" align="left">
+<img src="/images/cce%207.jpg" style="width:49%" align="right">
 		 
 <br><br><br>
 <br><br><br>

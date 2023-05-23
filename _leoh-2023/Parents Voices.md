@@ -3,8 +3,6 @@ title: Parents Voices
 permalink: /open-house-2023/parentvoices/
 description: ""
 ---
-### **Parents Voices**
-
 <img src="/images/Open%20House%202023/oh23-parvoices6.png" style="width:100%">
 
 <p><img style="width:49%" src="/images/ice%20lee.jpg" align="left">
