@@ -31,7 +31,7 @@ Though the PERMA model, we aim to help students be more&nbsp;**Positive Thinkers
 
 After a hectic workout through play during recess, students gather in their classes and start the Mindful Moment Routine which lasts approximately 5 minutes. A pre-recorded video with music is played to help students calm down through breathing exercises. We believe that this helps them prepare for the next class better and helps them build concentration in the long run. This fosters positive emotions as they get ready for the activity for the day.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/kzaILkJC7Dc" title="Mindful Moments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="540" height="360" src="https://www.youtube.com/embed/kzaILkJC7Dc" title="Mindful Moments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### **Mass Birthday Celebration**
 The Mass Birthday Celebration is an initiative borne from the school’s philosophy of “Every Child Matters and Can Accomplish”. The mass celebration of students’ birthdays reinforces this belief. On the first Friday of each month during the school’s pre-assembly period, the names of students who will be celebrating their birthday in that month will be flashed on PowerPoint slides. They will later be asked to stand and 2 teachers lead the school in singing them a birthday song. Their friends are encouraged to wish them a happy birthday later in class. Students enjoy this time and feel not just appreciated, but also valued as significant individuals.
