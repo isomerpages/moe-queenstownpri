@@ -21,7 +21,19 @@ third_nav_title: Facilities & Services
 | <center>8</center> | <center>8<br></center>  | <center>9<br></center>  | <center>10<br></center> | <center>11<br></center> | <center>12<br>CLOSED</center>  |
 | <center> 9</center> |  <center>15<br>CLOSED</center> | <center> 16<br>CLOSED</center> | <center> 17<br>CLOSED</center> |  <center> 18<br>CLOSED</center> | <center> 19<br>CLOSED</center> |
 | <center> 10</center>|  <center>22<br></center> | <center>23 <br></center> | <center>24 <br></center>|<center>25 <br></center> |<center>26 <br>CLOSED</center>|
-| <center> Holiday</center> |  <center>29<br>CLOSED</center> | <center> 30<br>CLOSED</center> | <center> 31<br>CLOSED</center> |  <center> </center> | <center></center>  |
+| <center> Holiday</center> |  <center>29<br>CLOSED</center> | <center> 30<br>CLOSED</center> | <center> 31<br>CLOSED</center> |  <center> </center> | <center></center> 
+|
+	
+#### June 2023
+
+| <center>Week</center> | <center>Monday</center>| <center>Tuesday</center> | <center>Wednesday</center> | <center>Thursday</center> | <center>Friday</center> |
+|:---:|---|---|---|---|---|
+| <center> Holiday</center>|<center><br></center> | <center><br></center> | <center><br></center> |<center>1<br>CLOSED</center>  |<center>2<br>CLOSED</center>| 
+| <center>Holiday</center> | <center>5<br>CLOSED</center>  | <center>6<br>CLOSED</center>  | <center>7<br>CLOSED</center> | <center>8<br>CLOSED</center> | <center>9<br>CLOSED</center>  |
+| <center> Holiday</center> |  <center>12<br>CLOSED</center> | <center> 13<br>CLOSED</center> | <center> 14<br>CLOSED</center> |  <center> 15<br>CLOSED</center> | <center> 16<br>CLOSED</center> |
+| <center> Holiday</center>|  <center>19<br>CLOSED</center> | <center>20 <br>CLOSED</center> | <center>21 <br>CLOSED</center>|<center>22 <br>CLOSED</center> |<center>23 <br>CLOSED</center>|
+| <center> 1</center>|  <center>26<br>CLOSED</center> | <center>27 <br>CLOSED</center> | <center>28 <br>CLOSED</center>|<center>29 <br>CLOSED</center> |<center>30 <br>CLOSED</center>|
+|
 	
 Pupils who need dental treatment on days when the clinic is closed can go to the buddy clinics listed below.
 
