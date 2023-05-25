@@ -16,7 +16,7 @@ Ms Yeo Teck Wai
 Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
-Tuesdays & Thursdays (Competitive Team)<br>
+Tuesdays &amp; Thursdays (Competitive Team)<br>
 3.00 pm to 5.00 pm 
 
 Thursdays (Developmental Team)<br>
@@ -46,14 +46,23 @@ CCA Training, Competitions, Friendly matches and Football Clinics.
 
 #### **Photos**
 
-<img src="/images/football%201.jpg" 
-     style="width:75%">
+![](/images/CCA%20Football/match%20time.JPG)
+Our senior boys doing their best in one of their matches
 
-<img src="/images/football%202.jpg" 
-     style="width:75%">
+![](/images/CCA%20Football/south%20zone%20champion%202023.jpg)Champion of the South Zone Football Senior Boys Division 2023
+
+![](/images/CCA%20Football/3rd%20nsg%202023.JPG)3rd in the National School Games Football Senior Boys Division
+
+![](/images/CCA%20Football/senior%20stretching.jpg)Our senior boys doing stretches before the start of their match
+
+![](/images/CCA%20Football/circle%20with%20coach%20lynden.jpg)Circle with Coach Lynden to review their match and performance
+
+![](/images/CCA%20Football/junior%20team.jpg)Our Junior Team before their match
+
+<img src="/images/football%201.jpg" style="width:75%">
+
+<img src="/images/football%202.jpg" style="width:75%">
 		 
-<img src="/images/football%203.jpg" 
-     style="width:75%">
+<img src="/images/football%203.jpg" style="width:75%">
 		 
-<img src="/images/football%204.jpg" 
-     style="width:75%">
+<img src="/images/football%204.jpg" style="width:75%">
