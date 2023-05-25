@@ -8,4 +8,4 @@ description: ""
 
 ![](/images/Open%20House%202023/leoh%20map%20v5b.jpg)
 
-![](/images/Open%20House%202023/leoh%20%20programme%20v5b.png)
+![](/images/Open%20House%202023/leoh%20%20programme%20v6a.png)
