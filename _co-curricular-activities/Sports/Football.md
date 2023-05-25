@@ -55,7 +55,7 @@ Our senior boys doing their best in one of their matches
 
 ![](/images/CCA%20Football/senior%20stretching.jpg)Our senior boys doing stretches before the start of their match
 
-![](/images/CCA%20Football/circle%20with%20coach%20lynden.jpg)Circle with Coach Lynden to review their match and performance
+![](/images/CCA%20Football/circle%20with%20coach%20lynden.jpg)Circle Time with Coach Lynden to review their match and performance
 
 ![](/images/CCA%20Football/junior%20team.jpg)Our Junior Team before their match
 
