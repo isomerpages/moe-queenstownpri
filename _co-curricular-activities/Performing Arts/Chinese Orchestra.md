@@ -7,14 +7,14 @@ third_nav_title: Performing Arts
 ### **Chinese Orchestra**
 #### **CCA Teachers-in-Charge**
 Mdm Yap Eng Fui (OIC)<br>
-Ms S Srija<br>
-Mdm Liu Zijing
+Mdm Liu Zijing<br>
+Mrs Dorai
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
 
 #### **CCA Day and Time**
-Tuesdays & Fridays<br>
+Tuesdays &amp; Fridays<br>
 2.15 pm to 4.15 pm
 
 #### **CCA Venue**
@@ -40,12 +40,9 @@ Singapore Youth Festival (SYF) Arts Appreciation 2018 - Certificate of Accomplis
 
 #### **Photos**
 
-![](/images/CO%201.jpg)
+SYF Presentation 2022
+![](/images/CCA%20CO/syf2022-a.jpg)
+![](/images/CCA%20CO/syf2022-b.jpg)
+![](/images/CCA%20CO/syf2022-c.jpg)
 
- ![](/images/CO%202.jpg)
- 
- ![](/images/CO%203.jpg)
- 
- ![](/images/CO%204.jpg)
- 
- ![](/images/CO%205.jpg)
+![](/images/CCA%20CO/cny2023.png)
