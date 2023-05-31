@@ -11,13 +11,13 @@ Mr Amos Leong (OIC)  <br>
 Ms Tan Wei Xin<br>
 Ms Yap Ee Lim<br>
 Mdm Nazmunnisah<br>
-Ms Charmaine Goh
+Ms Kang Li Ping
 
 #### **CCA Advisor**
 Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
-Mondays, Tuesdays & Fridays<br>
+Mondays, Tuesdays &amp; Fridays<br>
 2.30 pm to 5.00 pm
 
 #### **CCA Venue**
@@ -32,20 +32,16 @@ Junior Boys - Qualified for Second Round of the 2018 National Schools Games (Sou
 
 #### **Photos**
 
-<img src="/images/bmt%201.jpg" 
-     style="width:85%">
+<img src="/images/bmt%201.jpg" style="width:85%">
 
-<img src="/images/bmt%202.jpg" 
-     style="width:65%">
+<img src="/images/bmt%202.jpg" style="width:65%">
 
 ![](/images/bmt%203.jpg)
 
 ![](/images/bmt%204.jpg)
 
-<img src="/images/bmt%205.jpg" 
-     style="width:65%">
+<img src="/images/bmt%205.jpg" style="width:65%">
 
-<img src="/images/bmt%206.jpg" 
-     style="width:65%">
+<img src="/images/bmt%206.jpg" style="width:65%">
 
 ![](/images/bmt%207.jpg)
