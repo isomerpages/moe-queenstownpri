@@ -15,12 +15,12 @@ Mr Tan Kian Tat
 Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
-Monday 3pm to 5pm<br>
-Friday 2.30pm to 4.30pm<br>
+Monday &amp; Thursday 3pm to 5pm<br>
 
 #### **CCA Venue**
-Monday &amp; Friday - School Field<br>
-Wet Weather - Hall 
+Monday - School Field<br>
+Thursday - Hall<br>
+Wet Weather - ISH 
 
 #### **About CCA**
 Softball is a great sport opened to boys from P3 onwards.
