@@ -9,13 +9,13 @@ third_nav_title: Performing Arts
 #### **CCA Teachers-in-Charge**
 Ms Lu Wei (OIC)<br>
 Mrs Sharon Ng<br>
-Mdm Zaheedah Bee
+Mdm Zaheedah 
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
 
 #### **CCA Day and Time**
-Tuesdays _(Senior Group)_ & Fridays _(Junior Group)_ <br> 
+Tuesdays&nbsp;_(Senior Group)_&nbsp;&amp;&nbsp;Fridays&nbsp;_(Junior Group)_ <br> 
 2.15 pm - 4.15 pm
 
 #### **CCA Venue**
@@ -32,20 +32,14 @@ Singapore Youth Festival (SYF) Arts Appreciation 2016 - Certificate of Accomplis
 
 #### **Photo**
 
-<img src="/images/IntDance-1.jpg" 
-     style="width:65%">
+<img src="/images/IntDance-1.jpg" style="width:65%">
 
-<img src="/images/IntDance-2.jpg" 
-     style="width:65%">
+<img src="/images/IntDance-2.jpg" style="width:65%">
 		 
-<img src="/images/IntDance-3.jpg" 
-     style="width:75%">		 
+<img src="/images/IntDance-3.jpg" style="width:75%">		 
 
-<img src="/images/IntDance-4.jpg" 
-     style="width:75%">		 
+<img src="/images/IntDance-4.jpg" style="width:75%">		 
 		 
-<img src="/images/IntDance-5.jpg" 
-     style="width:75%">		 		 
+<img src="/images/IntDance-5.jpg" style="width:75%">		 		 
 
-<img src="/images/IntDance-6.jpg" 
-     style="width:65%">
+<img src="/images/IntDance-6.jpg" style="width:65%">
