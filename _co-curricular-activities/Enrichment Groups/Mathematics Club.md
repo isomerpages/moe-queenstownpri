@@ -16,10 +16,10 @@ Ms Mandi Yeoh
 Mr Haw Shuen Siang
 
 #### **CCA Day and Time**
-Mondays (P3-P4) <br>
-2.00 pm – 4.00 pm <br>
+Mondays (P4) <br>
+2.00 pm – 3.30 pm <br>
 Thursdays (P5-P6) <br>
-3.30 pm - 5.30 pm
+3.30 pm - 5.00 pm
 
 #### **CCA Venue**
 Teaching Lab
