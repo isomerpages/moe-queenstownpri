@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 #### **CCA Teachers-in-Charge**
 Mdm Li Lingbo (OIC)<br>
-Ms Kang Li Ping
+Ms Cheung Man Wai
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
@@ -40,13 +40,9 @@ Singapore Youth Festival (SYF) Art Presentation 2018— Certificate of Accomplis
 
 #### **Photos**
 
-<img src="/images/chi%20dance%201.jpg" 
-     style="width:49%" align=left>
-<img src="/images/chi%20dance%202.jpg" 
-     style="width:49%" align=right>		 
-<bR><br><br><br>
+<img src="/images/chi%20dance%201.jpg" style="width:49%" align="left">
+<img src="/images/chi%20dance%202.jpg" style="width:49%" align="right">		 
+<br><br><br><br>
 <br><br><br><br><br>
-<img src="/images/chi%20dance%203.jpg" 
-     style="width:49%" align=left>
-<img src="/images/chi%20dance%204.jpg" 
-     style="width:49%" align=right>
+<img src="/images/chi%20dance%203.jpg" style="width:49%" align="left">
+<img src="/images/chi%20dance%204.jpg" style="width:49%" align="right">
