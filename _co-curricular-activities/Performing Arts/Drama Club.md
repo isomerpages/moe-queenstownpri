@@ -8,7 +8,6 @@ third_nav_title: Performing Arts
 #### **CCA Teachers-in-Charge**
 Mdm Asmahliah (OIC)<br>
 Miss Lee Yee Hueh <br>
-Ms Muzaiyanah 
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
