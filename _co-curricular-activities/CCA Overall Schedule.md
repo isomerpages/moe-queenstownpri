@@ -39,7 +39,7 @@ description: ""
 
 | CCA | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
-| Badminton | Mon, Tue &amp; Fri <br>2.30 pm - 5.00 pm | School Hall | Mr Amos Leong (OIC)<br>Ms Tan Wei Xin<br>Ms Yap Ee Lim<br>Mdm Nazmunnisah<br>Ms Kang Li Ping |
+| Badminton | Mon, Tue &amp; Fri <br>3.00 pm - 5.00 pm | School Hall | Mr Amos Leong (OIC)<br>Ms Tan Wei Xin<br>Ms Yap Ee Lim<br>Mdm Nazmunnisah<br>Ms Kang Li Ping |
 | Basketball | Mon, Tue &amp; Fri (Group 2)<br>  2.30 pm to 4.30 pm<br> | ISH / Rooftop Basketball Court | Ms Charine Chong (OIC)<br>Mr Jevon See <br>Ms Venus Lim <br>Mrs Nur Syakilla Bates<br>Mdm Vaani<br>Ms Wong Jieying  |
 | Football | Tue &amp; Thu<br> 3.00 pm to 5.00 pm<br> | Field / Parade Square<br>ISH (Wet Weather) | Ms Sim Li Min (OIC) <br>Mr Md Azuan <br>Mr Lim Ching Feng<br>Ms Yeo Teck Wai |
 | Softball | Mon &amp; Thu<br>3.00 pm - 5.00 pm | Mon - Field<br>Thu - Hall<br>Wet Weather - ISH | Mr Jasper Chiang (OIC)<br>Ms Wan Hameezah<br>Mrs Pauline Lee<br>Mr Tan Kian Tat |
