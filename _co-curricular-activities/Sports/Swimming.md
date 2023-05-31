@@ -10,13 +10,13 @@ third_nav_title: Sports
 Mdm Yong Foong Er (OIC)<br>
 Mr Kwek Hong Wee<br>
 Ms Calista Fang<br>
-Ms Cheung Man Wai
+Ms Charmaine Goh
 
 #### **CCA Advisor**
 Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
-Tuesdays & Fridays<br> 
+Tuesdays &amp; Fridays<br> 
 2.30 pm to 5.00 pm <br>
 
 #### **CCA Venue**
@@ -34,14 +34,10 @@ Students from our Swimming CCA took part in the 60th National Primary School Swi
 
 #### **Photos**
 
-<img src="/images/swimming%201.jpg" 
-     style="width:75%">
+<img src="/images/swimming%201.jpg" style="width:75%">
 
-<img src="/images/swimming%202.jpg" 
-     style="width:75%">
+<img src="/images/swimming%202.jpg" style="width:75%">
 		 
-<img src="/images/swimming%203.jpg" 
-     style="width:75%">
+<img src="/images/swimming%203.jpg" style="width:75%">
 		 
-<img src="/images/swimming%204.jpg" 
-     style="width:65%">
+<img src="/images/swimming%204.jpg" style="width:65%">
