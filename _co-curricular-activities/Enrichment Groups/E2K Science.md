@@ -16,7 +16,7 @@ Mr Charles Ng
 Mrs Chia-Kong Su Sze
 
 #### **CCA Day and Time**
-Mondays & Thursdays <br>
+Mondays &amp; Thursdays <br>
 2.00pm to 4.00pm
 
 #### **CCA Venue**
