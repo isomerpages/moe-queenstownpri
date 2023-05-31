@@ -18,7 +18,7 @@ Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
 Mondays, Tuesdays &amp; Fridays<br>
-2.30 pm to 5.00 pm
+3.00 pm to 5.00 pm
 
 #### **CCA Venue**
 School Hall
