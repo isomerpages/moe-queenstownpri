@@ -21,7 +21,7 @@ Tuesdays<br>
 4 Honesty and 4 Joy classrooms
 
 #### **About CCA**
-The QtPS Weiqi Club is currently made up of 32 members. The CCA allows members to learn different strategies involved in playing the game of Weiqi. Members learn strategies progressively and hone their skills through friendly games with their fellow CCA mates. Members are grouped into junior and senior groups to better cater to their learning needs.
+The QtPS Weiqi Club is currently made up of 33 members. The CCA allows members to learn different strategies involved in playing the game of Weiqi. Members learn strategies progressively and hone their skills through friendly games with their fellow CCA mates. Members are grouped into junior and senior groups to better cater to their learning needs.
 
 Queenstown Primary School Weiqi Club CCA provides platforms for our students to gain exposure, new insights and experiences to enhance their Weiqi skills. Members of each level are selected by the instructor and teachers-in-charge to form school teams to represent the school to participate in the annual Weiqi Competition organized by the Singapore Weiqi Association (SWA) or The GO Academy.
 
@@ -30,64 +30,50 @@ Through the Weiqi Club CCA, our members are provided with opportunities to be:
 ##### **Problem Solver**
 Regular CCA sessions, friendly matches during CCA sessions. Instructor provides challenging Weiqi questions for members to solve (Eg. defend, surround and score points)
 
-##### **Team Player**
-The members are divided into 3 groups according to their attributes, characteristics and strengths. Group points are allocated when they display good values throughout the Weiqi session.<br>
-They cooperate with their CCA leader and group members.
-
 ##### **Good Communicator**
-CCA leaders and selected members are involved in Open House and P2 CCA trials. The selected members were able to listen, clarify their queries and concerns and to guide the P2 students patiently.<br>
+CCA leaders and selected members are involved in Learning Extravaganza Open House and P2 CCA Fair. The selected members were able to listen, clarify their queries and concerns and to guide the P2 students patiently.<br>
 Selected senior members were paired up with the juniors to coach them to enhance their Weiqi skills.
 
-15 participants comprising of P3 to P6 pupils were selected to represent QtPS in the THE GO ACADEMY CUP National Online Go Championship 2022 (May Edition) on 28th May and 29th May 2022.  The results are as follows:
+On 15 April 2023, 16 members of ur Qeiqi Club participated in the GO Academiy Cup National GO Championship 2023. The results are as follows:
 
-**Elementary Category:**
+![](/images/CCA%20Weiqi/go-comp-results.jpg)
 
-| S/N | English Name | Form Class | Achievement |
-|---|:---:|:---:|:---:|
-| 1 | HAYDEN THE ZHONG WEI | 3 Care | Gold Award |
-| 2 | DOU ZICHEN | 3 Courage | Bronze Award |
-| 3 | YONG MIN HO | 4 Creativity | Bronze Award |
-| 4 | LAM HO PENG | 4 Diligence | Bronze Award |
-| 5 | NYAN JIE KAI | 4 Joy | Bronze Award |
-| 6 | CHEN WEN | 5 Joy | Bronze Award & Top 3 female award (3rd ) |
-| 7 | LIN TZE RAN | 3 Creativity | Consolation Award |
-| 8 | CHEN PINYAN BENJAMIN | 3 Honesty | Consolation Award |
-| 9 | SIM XIN YI | 4 Honesty | Consolation Award |
-| 10 | LI XINGYE RYAN | 5 Honesty | Consolation Award |
-| 11 | CARIS LEE CAI XUAN | 5 Joy | Consolation Award |
-|
+![](/images/CCA%20Weiqi/go-comp-1.png)
 
-**Intermediate Category:**
+![](/images/CCA%20Weiqi/go-comp-2.png)
 
-| S/N | English Name | Form Class | Achievement |
-|---|:---:|:---:|:---:|
-| 1 | FANG YUETING | 6 Joy | Consolation Award |
-| 2 | LEE YU HAN | 6 Honesty | Consolation Award |
-|
+![](/images/CCA%20Weiqi/go-comp-3.png)
 
-**Advanced Category:**
+![](/images/CCA%20Weiqi/go-comp-4.png)
 
-| S/N | English Name | Form Class | Achievement |
-|---|:---:|:---:|:---:|
-| 1 | QUINTON TJIA DING EN | 5 Joy | Gold Award |
-| 2 | GRACELYN CHIA SIHUI | 5 Honesty | Silver Award and Top 3 female award (3rd ) |
-|
+![](/images/CCA%20Weiqi/go-comp-5.png)
 
-<img src="/images/Weiqi-competition.jpg" 
-     style="width:65%">
-		 
-#### **Photos**
+![](/images/CCA%20Weiqi/go-comp-6.png)
 
-<img src="/images/weiqi%201.jpg" style="width:45%;margin-right:15px;" align = "left">
-I joined Weiqi CCA for two years when I was in P3.I joined this CCA because I thought it was interesting and my parents told me that this game uses strategies and trains my critical thinking. I learnt many different Weiqi strategies (Atari, extend, descend, snapback, ladder, connect and die) to make the game advantageous for me and hopefully let me win the game.  Also, I learnt sportsmanship when I get defeated by seniors and I can learn tactics from them. As a Weiqi CCA leader, I have opportunity to be a problem solver. I don’t give up easily and try to solve the challenging questions given to me. The CCA also trains me to become a better communicator. During the P2 CCA trial, I listened and clarified the queries raised by the P2 students.
+![](/images/CCA%20Weiqi/go-comp-7.png)         <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-ansi-language:EN-SG;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-ansi-language:EN-SG;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
-<br><br>
+“By joining Weiqi CCA, I learnt how to focus, think and persevere. These are the core values of our CCA and they are crucial in our gameplay. Over the course of my four years in Weiqi CCA, I have accumulated vast experience and knowledge. For example, we should never assume that our opponents are weaker than us so we should always be cautious no matter who our opponents are.” (Quinton Tjia Ding En, P6 Joy, Weiqi CCA Leader)
 
-<img src="/images/weiqi%202.jpg" style="width:45%;margin-right:15px;" align = "left">
-I joined Weiqi CCA for four years when I was in P3. I watched some Weiqi competition videos and a series of Weiqi anime Video (Hikaru No Go) and I begin to find it interesting and fun to learn Weiqi. I still remembered that during P2 CCA Trial, when I played the Weiqi board game for the first time, I felt excited and decided to join Weiqi CCA. During Weiqi CCA, I also have a chance to solve challenging questions together with my peers; it helps me to work my brain and learn from mistakes too. I also had the opportunity to represent the school to participate in the inter-school competition. I can learn more Weiqi strategies from my opponents from other schools. As a Weiqi senior member, I have opportunity to pair up with the juniors to coach them and enhance their Weiqi skills. It also trains my leadership skills to be a better communicator. It also trains my perseverance when I get tired in a long game
+“I have learnt to always show respect to our opponent. Some ways include wishing them a great game before playing as well as thanking them sincerely after the game. These are some of the important life lessons I have learnt through these four years. I really love sparring with my CCA mates and will definitely miss the fun here.”
 
-![](/images/weiqi%203.jpg)
+&nbsp;(Chen Wen, P6 Joy, Weiqi Member)
 
-![](/images/weiqi%204.jpg)
+“I learnt to display sportsmanship and thank my opponent after every match. I also learnt that resilience is extremely important in playing Weiqi. Even though we might be trailing our opponent in a game, we must show resilience and persevere till the end, sometimes we can turn defeat into victory!” (Gracelyn Chia, P6 Honesty, Weiqi Member)
 
-![](/images/weiqi%205.jpg)
+“Being a CCA Leader is not only helping to carry our equipment around, but also being a mature role model to my fellow CCA mates. We sometimes have disputes during CCA, but as CCA Leaders, we keep our cool and encourage our fellow teammates to respect each other’s differences. In this way, we maintain harmony within the CCA, rather than discipline.” (Lee Kenzo, P6 Courage, Weiqi CCA Leader)
+
+![](/images/CCA%20Weiqi/training-1.png)
+
+![](/images/CCA%20Weiqi/training-2.png)
+
+![](/images/CCA%20Weiqi/training-3.png)
+
+![](/images/CCA%20Weiqi/training-4.png)
+
+![](/images/CCA%20Weiqi/training-5.png)
+
+![](/images/CCA%20Weiqi/training-6.png)
+
+![](/images/CCA%20Weiqi/training-7.png)
+
+![](/images/CCA%20Weiqi/training-9.png)
