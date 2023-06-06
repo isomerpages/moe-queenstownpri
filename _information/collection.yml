@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - P4 Subject Based Banding.md
       - Administration.md
       - Location & Operating Hours.md
       - Facilities & Services/.keep
