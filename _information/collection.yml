@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - DigitalAccess@Home.md
       - Administration.md
       - Location & Operating Hours.md
       - Facilities & Services/.keep
@@ -15,6 +14,7 @@ collections:
       - Facilities & Services/Student Care Centre.md
       - Financial Assistance Scheme.md
       - NEU PC Plus Programme.md
+      - DigitalAccess@Home.md
       - School Open Letters.md
       - Health and Safety Matters.md
       - P4 Subject Based Banding.md
