@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - DigitalAccess@Home.md
       - Administration.md
       - Location & Operating Hours.md
       - Facilities & Services/.keep
