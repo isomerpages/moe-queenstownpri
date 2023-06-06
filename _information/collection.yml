@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - P4 Subject Based Banding.md
       - Administration.md
       - Location & Operating Hours.md
       - Facilities & Services/.keep
@@ -21,3 +20,4 @@ collections:
       - Parents Gateway/Parents Gateway.md
       - Parents Gateway/Parents Gateway FAQ.md
       - Frequently Asked Questions (FAQ).md
+      - P4 Subject Based Banding.md
