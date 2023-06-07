@@ -30,7 +30,7 @@ description: ""
 <!--* [Edusave\_Application\_Form.pdf](/files/Edusave_Application_Form.pdf)
 * [GIRO\_Application\_Form\_Nov20.pdf](/files/GIRO_Application_Form_Nov20.pdf)
 <!--* [GIRO\_Termination\_Form.pdf](/files/GIRO_Termination_Form.pdf)-->
-* GIRO application and termination for school fees is now online. Please check the [MOE link here](https://www.moe.gov.sg/financial-matters/fees?pt=GIRO) for further details
+* GIRO application and termination for school fees is now online. Please check the [MOE link here](https://www.moe.gov.sg/financial-matters/fees?pt=GIRO) for more details
 * Edusave Standing Order to pay for enrichment and miscellaneous fees is now online. Please check the [MOE link here](https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds) for more details
 * [Termination\_of\_Edusave\_SO.pdf](/files/Termination_of_Edusave_SO.pdf)
 
