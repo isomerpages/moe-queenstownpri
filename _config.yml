@@ -2,11 +2,11 @@ title: Queenstown Primary School
 url: https://queenstownpri.moe.edu.sg
 favicon: /images/Logo.png
 colors:
-  primary-color: "#ca2e6f"
+  primary-color: "#417505"
   secondary-color: "#28388c"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#ac2007"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
