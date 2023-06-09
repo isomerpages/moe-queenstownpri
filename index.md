@@ -2,7 +2,7 @@
 layout: homepage
 title: Queenstown Primary School
 description: Queenstown Primary School
-image: /images/logo.svg
+image: /images/website logo.png
 permalink: /
 notification: ""
 sections:
