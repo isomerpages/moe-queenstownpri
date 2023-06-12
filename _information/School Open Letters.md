@@ -1,6 +1,6 @@
 ---
 title: School Open Letters
-permalink: /resources/Open-Letter/
+permalink: /resources/open-letter/
 description: ""
 ---
 ### **School Open Letters**
