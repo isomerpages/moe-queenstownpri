@@ -15,7 +15,7 @@ contacts:
   - content:
       - phone: +65 6474 1044
       - email: qtps@moe.edu.sg
-      - other: ""
+      - other: <br>Have A Question?<br><i>https://go.ask.gov.sg/qtps</i>
     title: General Enquiries & Feedback
   - content:
       - phone: +65 6471 3640
