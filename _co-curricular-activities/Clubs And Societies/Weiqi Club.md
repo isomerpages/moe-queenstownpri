@@ -34,7 +34,7 @@ Regular CCA sessions, friendly matches during CCA sessions. Instructor provides 
 CCA leaders and selected members are involved in Learning Extravaganza Open House and P2 CCA Fair. The selected members were able to listen, clarify their queries and concerns and to guide the P2 students patiently.<br>
 Selected senior members were paired up with the juniors to coach them to enhance their Weiqi skills.
 
-On 15 April 2023, 16 members of ur Qeiqi Club participated in the GO Academiy Cup National GO Championship 2023. The results are as follows:
+On 15 April 2023, 16 members of our Weiqi Club participated in the GO Academy Cup National GO Championship 2023. The results are as follows:
 
 ![](/images/CCA%20Weiqi/go-comp-results.jpg)
 
