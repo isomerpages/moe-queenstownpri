@@ -42,4 +42,11 @@ sections:
       url: https://docs.google.com/forms/d/e/1FAIpQLSdWz8NCB86RSrF0Lk7EuBSM2300rasnztuvwINCNBsIRKX2rg/viewform
       image: /images/Alumni.jpg
       alt: Image alt text
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: HAVE A QUESTION
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://go.ask.gov.sg/qtps
+      image: /images/qtps-askgov.png
+      alt: Image alt text
 ---
