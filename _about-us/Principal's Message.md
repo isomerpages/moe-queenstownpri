@@ -3,10 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-### **Principal's Message**
-
-<img src="/images/principa.jpg" 
-     style="width:35%" align=left>
+<img src="/images/principa.jpg" style="width:35%" align="left">
 		 
 <br><br><br><br><br>
 <br><br><br><br><br>
@@ -15,9 +12,9 @@ description: ""
 **Dear Parents,**<br>
 Welcome to Queenstown Primary School.
 
-As a school of the 21st Century, we are committed to providing a holistic education for all our students. We envision our students to be Flourishing Individuals, Future- Ready Citizens, In this current world, which is ever-changing, one has to be adaptable and innovative, equipping our students with skills and competencies of the 21st century is thus important. Our teachers and students have been able to view the challenges they face as opportunities for growth by internalising the school’s core values of Respect, Integrity, Resilience and Gratitude.
+As a school of the 21st&nbsp;Century, we are committed to providing a holistic education for all our students. We envision our students to be Flourishing Individuals, Future- Ready Citizens, In this current world, which is ever-changing, one has to be adaptable and innovative, equipping our students with skills and competencies of the 21st&nbsp;century is thus important. Our teachers and students have been able to view the challenges they face as opportunities for growth by internalising the school’s core values of Respect, Integrity, Resilience and Gratitude.
 
-As 21st century educators, our teachers adopt a growth mindset as they deepen their professional expertise in educational technology to engage and enthuse our students through carefully crafting and curating enriching learning experiences to develop our students into a Confident individual, A Critical Thinker, a Caring Citizen and an Effective Leader. These are fondly known as our Queenstowner outcomes (QtOs)
+As 21st&nbsp;century educators, our teachers adopt a growth mindset as they deepen their professional expertise in educational technology to engage and enthuse our students through carefully crafting and curating enriching learning experiences to develop our students into a Confident individual, A Critical Thinker, a Caring Citizen and an Effective Leader. These are fondly known as our Queenstowner outcomes (QtOs)
 
 Two of our signature programmes seek to develop our QtOs further. Through our Environment Project-Based Learning programme (E-PBL), our students gain first hand understanding of environmental issues and the need to build a sustainable future. We believe that is it never too young to learn to make a difference in the lives of others as environmental champions. Through project-based learning, students put their problem solving skills to the test as they solve real life environmental issues collaboratively. Through Connecting Hears with the Arts programme, our students learn to express themselves through visual arts and develop a voice and a sense of self-worth.
 
