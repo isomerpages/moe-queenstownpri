@@ -4,8 +4,6 @@ permalink: /experience/CCA/physical-sports/
 description: ""
 third_nav_title: Sports
 ---
-### **Badminton**
-
 #### **CCA Teachers-in-Charge**
 Mr Amos Leong (OIC)  <br>
 Ms Tan Wei Xin<br>
