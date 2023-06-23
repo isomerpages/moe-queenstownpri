@@ -6,7 +6,7 @@ description: ""
 #### **Administration Manager**
 *   Mrs Jeslyn Lim
 
-#### **Operation Manager**
+#### **Operation Managers**
 *   Mr Abdul Latiff Bin A Majeed  
 *   Mr Pathmanaban S/O V. Pitchayia
 
@@ -34,13 +34,12 @@ description: ""
 
 #### **Other Support Staff**
 
-|||
-|:---:|:---:|
-| School Support Staff | Mr Lee Boon Hoe Lawrence |
-| Librarian | Ms Siti Azhan Bte Osman |
-| Desktop Engineer | Mr Arivagalan s/o Sivasankaran| 
-|
+ * School Support Staff - Mr Lee Boon Hoe Lawrence 
+ * Librarian - Ms Siti Azhan Bte Osman
+ * Desktop Engineer - Mr Arivagalan s/o Sivasankaran
 
 <!--
+|||
+|:---:|:---:|
  | Desktop Engineer | Ms Siti Aisah Binte Osman<br>Mr Radin Muhammad | 
 -->
