@@ -4,8 +4,6 @@ permalink: /our-staff/teaching-staff/form-teachers-2022/p2/
 description: ""
 third_nav_title: Form Teachers 2023
 ---
-### **P2 Form Teachers**
-
 | Class| Form Teachers | 
 | -------- | -------- |
 | 2 Care     | Ms Charine Chong <br> Mdm Li Lingbo |
