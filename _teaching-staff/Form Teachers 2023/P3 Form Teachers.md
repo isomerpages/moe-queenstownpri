@@ -4,9 +4,6 @@ permalink: /our-staff/teaching-staff/form-teachers-2022/p3/
 description: ""
 third_nav_title: Form Teachers 2023
 ---
-
-### **P3 Form Teachers**
-
 | Class| Form Teachers | 
 | -------- | -------- |
 | 3 Care | Mdm Asmahliah Bte Abdul Bakar <br> Mrs Chia-Kong Su Sze |
