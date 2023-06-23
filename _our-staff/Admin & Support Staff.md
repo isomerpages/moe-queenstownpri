@@ -38,6 +38,7 @@ description: ""
 |:---:|:---:|
 | School Support Staff | Mr Lee Boon Hoe Lawrence |
 | Librarian | Ms Siti Azhan Bte Osman |
+| Desktop Engineer | Mr Arivagalan s/o Sivasankaran| 
 |
 
 <!--
