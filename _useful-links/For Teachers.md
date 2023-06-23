@@ -3,8 +3,6 @@ title: For Teachers
 permalink: /useful-links/for-teachers/
 description: ""
 ---
-### **For Teachers**
-
 * [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 * [MOE ICON](https://icon.moe.edu.sg)
 * [Resource Booking System](https://rbs.avero-tech.com/)
