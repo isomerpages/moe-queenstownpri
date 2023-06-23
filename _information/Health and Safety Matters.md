@@ -3,8 +3,6 @@ title: Health and Safety Matters
 permalink: /information/health-and-safety-matters/
 description: ""
 ---
-### **Health and Safety Matters**
-
 #### **School Safety Policy**
 
 We are committed to ensuring a healthy, safe and secure environment for our staff and pupils. As such, we aim to:
@@ -27,7 +25,7 @@ Parents will not be allowed into the school during recess. There will be teacher
 We appeal to parents who drive, not to drive into the school compound on fine days during peak hours.  Parents who drive are to park at the HDB car park adjacent to the school and not to obstruct the other vehicles when you send your child to school. On wet days, parents who drive into the school compound to drop off your child should drive slowly. Due to limited parking space in the school, the car park is reserved for school staff. Visitors can park at the HDB car park.
 
 #### **General Health**
-**a. Immunisation & Health Booklet**<br>
+**a. Immunisation &amp; Health Booklet**<br>
 Pupils must be immunised against measles, diphtheria, tetanus and poliomyelitis before joining the school. Health booklets will be collected prior to the visit by the School Health Team every year. They will be returned to the pupils after their medical check-up by the School Health Service.
 
 **b. Physical Health**<br>
@@ -61,13 +59,3 @@ All outdoor activities must stop immediately when the amber alert blinking light
 
 #### **Updating of Pupil/Parent/Guardian Particulars**
 As a school, we must ensure that the addresses, contact numbers and commuter status of all our pupils are up-to-date so that they can be easily contacted in times of emergency. If there are changes to the particulars of your child or yourself, please contact us at 64741044.
-
-
-
-
-
-
-
-
-
-
