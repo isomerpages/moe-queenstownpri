@@ -3,8 +3,6 @@ title: For Students
 permalink: /useful-links/for-students/
 description: ""
 ---
-### **For Students**
-
 *   [QtPS eLearning Website](https://sites.google.com/moe.edu.sg/elearning-queenstown-primary/home)
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login/)
 *   [Student ICON](https://workspace.google.com/dashboard)
@@ -13,4 +11,4 @@ description: ""
 *   [Caught Doing Right](https://forms.gle/zzLMN4Mj9uwimY9y9)
 *   [TypingPal](https://queenstownps.typingpal.com/)
 *   [(For Primary 4 to 6 students only) National Digital Explorer Learn](https://learn.icdlasia.org/login/index.php/) 
-*   [(For Primary 4 to 6 students only) National Digital Explorer Learn & Apply](https://asia.skillsbox.com/)
+*   [(For Primary 4 to 6 students only) National Digital Explorer Learn &amp; Apply](https://asia.skillsbox.com/)
