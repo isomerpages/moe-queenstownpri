@@ -3,8 +3,6 @@ title: Financial Assistance Scheme
 permalink: /information/fas/
 description: ""
 ---
-### **Financial Assistance Scheme**
-
 To qualify, the pupil must be a Singapore citizen and must meet the following income criteria:
 
 | Gross Monthly Household Income | Per Capita Income |
