@@ -4,8 +4,6 @@ permalink: /information/facilities-and-services/bus-services/
 description: ""
 third_nav_title: Facilities & Services
 ---
-### **Bus Services**
-
 | Company | Sky Island Transport &amp; Trading Pte Ltd |
 |---|---|
 | Contact Person | Ms Fong Li Ying/Mr Richard Fong |
