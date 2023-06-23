@@ -4,8 +4,6 @@ permalink: /departments/CCE/
 description: ""
 third_nav_title: Character & Citizenship Educn
 ---
-### **Character and Citizenship Education**
-
 #### **Queenstowner Outcomes (QtO)**
 In the 6 years of education @ QtPS, the school aims to develop 4 student outcomes.
 
