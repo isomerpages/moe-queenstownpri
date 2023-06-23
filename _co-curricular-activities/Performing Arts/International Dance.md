@@ -4,8 +4,6 @@ permalink: /experience/CCA/performing-arts/international-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-### **International Dance**
-
 #### **CCA Teachers-in-Charge**
 Ms Lu Wei (OIC)<br>
 Mrs Sharon Ng<br>
