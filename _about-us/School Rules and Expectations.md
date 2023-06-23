@@ -3,8 +3,6 @@ title: School Rules and Expectations
 permalink: /about-us/school-rules-and-expectations/
 description: ""
 ---
-### **School Rules and Expectations**
-
 Rules are necessary to maintain a safe and secure environment for students to learn and teachers to carry out their duties. Keeping to school rules help students develop self-discipline and a sense of responsibility which are basic qualities for success in life.
 
 #### **General conduct**
@@ -30,10 +28,8 @@ Be responsible and disciplined.
 * Absence from classes, CCA and other school activities must be covered by a medical certificate or a letter of excuse from the parent/guardian. Absence from exams/tests must be covered by a medical certificate or letters of excuse which will only be accepted under extenuating circumstances such as bereavement.
 
 #### **Appearance and attire**
-<img src="/images/attire%20boy.jpg" 
-     style="width:50%" align=left>
-		 <img src="/images/attire%20girl.png" 
-     style="width:50%" align=right>                        .
+<img src="/images/attire%20boy.jpg" style="width:50%" align="left">
+		 <img src="/images/attire%20girl.png" style="width:50%" align="right">                        .
 
 Look smart. Take pride in your appearance and school attire.
 *   Students are to wear the prescribed school uniform. Modification to the uniform is not allowed.
@@ -41,23 +37,23 @@ Look smart. Take pride in your appearance and school attire.
 *   The uniform has to be worn tucked in at all times.
 *   Nametags are to be displayed on the school uniform.
 *   Hair must be neat and tidy at all times. Fringe should be above the eyebrows. Long fringe must be clipped up neatly. No fancy or outlandish hair styling or colouring or tinting of hair is allowed
-*   Boys' hair should be short and gently-sloped at the sides and rear. No shaving or cropping the sides and rear.  They must be clean-shaven with no facial hair like moustaches and beards.
-*   Girls with touching the collar must have it neatly plaited or tied up.  All rubber bands, hair bands and hair clips used must be black or dark blue.
+*   Boys' hair should be short and gently-sloped at the sides and rear. No shaving or cropping the sides and rear.&nbsp; They must be clean-shaven with no facial hair like moustaches and beards.
+*   Girls with touching the collar must have it neatly plaited or tied up.&nbsp; All rubber bands, hair bands and hair clips used must be black or dark blue.
 *   Students are not allowed to wear make-up at any time except when performing during concerts.
 *   Spectacles should be plain frame and non-tinted, unless recommended by the physician.
 *   No friendship bands or accessories are allowed. Religious items are to be kept out of view, under the uniform. Small earrings or simple plain gold or silver ear studs are allowed. Multiple earrings are not allowed. No necklaces are to be worn.
 *   Fingernails are to be kept short and clean. No nail polish or strengthener should be applied to fingernails.
 *   Black socks should be worn with full black shoes.  
 *   Socks worn should cover the ankle.
-*   Girls can only wear their PE shorts on days with PE lessons.  They are not required to change out of their PE shorts after their PE lessons.
+*   Girls can only wear their PE shorts on days with PE lessons.&nbsp; They are not required to change out of their PE shorts after their PE lessons.
 
 #### **Daily assembly**
 
 Observe the routines at all times.
-*   Assemble according to the classes upon reaching school.  Sit down and read a book quietly. 
+*   Assemble according to the classes upon reaching school.&nbsp; Sit down and read a book quietly.&nbsp;
 *   No playing within the school compound.
-*   Have breakfast in the canteen if necessary before proceeding to the hall/classroom.  No idling at the canteen
-*   Breakfast from the canteen will _NOT_ be sold after 7.20am.
+*   Have breakfast in the canteen if necessary before proceeding to the hall/classroom.&nbsp; No idling at the canteen
+*   Breakfast from the canteen will&nbsp;_NOT_&nbsp;be sold after 7.20am.
 *   Assemble in the class every Wednesday and read a book quietly while waiting.
 
 #### **Flag-raising ceremony**
@@ -128,23 +124,23 @@ Observe and follow all examination procedures.
 *   Place all bags and books/notes outside the classroom as instructed by the invigilator.  
 *   Listen to the invigilator and follow the instructions at all times.
 *   Raise hand if help is needed and wait to be attended to by the invigilator.
-*   Check and see that the paper has all the relevant pages.  Read the instructions provided in the question booklets, answer booklets and Optical Answer Sheet (OAS) carefully.
-*   The duration of each examination paper includes the time for reading the questions, writing and/or shading your answers on the OAS, etc.  No extra time will be given.
+*   Check and see that the paper has all the relevant pages.&nbsp; Read the instructions provided in the question booklets, answer booklets and Optical Answer Sheet (OAS) carefully.
+*   The duration of each examination paper includes the time for reading the questions, writing and/or shading your answers on the OAS, etc.&nbsp; No extra time will be given.
 *   Read all questions carefully. No marks will be awarded for information that is not asked for in the questions.
 *   Avoid any contact with your classmates, not even eye contact. Observe silence during the entire duration of the exam, from the moment the examination paper is given out till the last paper is collected and the teacher instructs that the examination is over.  
 *   Check work after finishing the paper. Make full use of the time given, abstain from playing with your stationery and exhibiting behaviours that may prevent classmates from concentrating on doing the paper.  
 *   Make sure the name, class and register/index number are written on the paper before handing it in.
 *   Use only 2B pencil when shading the OAS.
 *   Students are not allowed to bring into examination rooms any unauthorised notes or any electronic devices capable of storing and displaying visual and verbal information such as digital cameras and MP3 players.
-*   Cheating is a serious offence.  Disciplinary action will be taken against candidates found cheating, attempting to cheat or helping others to cheat in an examination.
+*   Cheating is a serious offence.&nbsp; Disciplinary action will be taken against candidates found cheating, attempting to cheat or helping others to cheat in an examination.
 
 #### **Mobile Phones**
 
 Be responsible users of mobile phones.
 
-*   Students who need to bring a mobile phone to school for the purpose of keeping in touch with family members, **can only use the mobile phone after school hours and at the foyer**.
+*   Students who need to bring a mobile phone to school for the purpose of keeping in touch with family members,&nbsp;**can only use the mobile phone after school hours and at the foyer**.
 *   Even at the foyer and after school hours, students are not allowed to use their mobile phones to play games or watch videos.
-*   Mobile phones must be switched off during school hours, CCA and remedial/supplementary lessons. Students found to be using their mobile phones without permission during these occasions will have their mobile phones confiscated.  Mobile phones will only be returned to parents.
+*   Mobile phones must be switched off during school hours, CCA and remedial/supplementary lessons. Students found to be using their mobile phones without permission during these occasions will have their mobile phones confiscated.&nbsp; Mobile phones will only be returned to parents.
 *   The school will not bear responsibility for the loss of, damage to or theft of mobile phones.
 *   The school will take strict action against students who abuse their mobile phones by taking pictures or videos without permission and uploading them onto the Internet.
 
