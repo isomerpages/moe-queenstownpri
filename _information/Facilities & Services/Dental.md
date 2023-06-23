@@ -4,8 +4,6 @@ permalink: /information/facilities-and-services/dental/
 description: ""
 third_nav_title: Facilities & Services
 ---
-### **Dental**
-
 | Company | School Dental Service |
 |---|---|
 | Contact Person | Mdm Chui |
