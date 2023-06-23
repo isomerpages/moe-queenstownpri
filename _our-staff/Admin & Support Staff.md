@@ -10,6 +10,9 @@ description: ""
 *   Mr Abdul Latiff Bin A Majeed  
 *   Mr Pathmanaban S/O V. Pitchayia
 
+#### **ICT Manager**
+* Mdm Heng Meow Hoon
+
 #### **Administration Executive**
 * Ms Siti Nur Sabrina Bte Dawood
 
@@ -28,9 +31,6 @@ description: ""
 *   Mr William Foong Chong Keen
 *   Mdm Anushiya Devi D/O Gumanan
 *   Ms Yan Sok Ying
-
-#### **ICT Manager**
-* Mdm Heng Meow Hoon
 
 #### **Other Support Staff**
 
