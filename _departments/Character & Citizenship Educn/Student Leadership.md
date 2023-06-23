@@ -4,14 +4,11 @@ permalink: /departments/CCE/Student-Leadership/
 description: ""
 third_nav_title: Character & Citizenship Educn
 ---
-
-## **Student Leadership**
 Student Leadership Vision: Confident Individual, Effective Leader
 Student Leadership Structure:
-<img src="/images/student%20leadership.png" 
-     style="width:85%">
+<img src="/images/student%20leadership.png" style="width:85%">
 
-Our Approach: “The Leadership Challenge” Model by Barry Posner & James Kouzes
+Our Approach: “The Leadership Challenge” Model by Barry Posner &amp; James Kouzes
 
 <hr>
 
@@ -19,17 +16,14 @@ Our Approach: “The Leadership Challenge” Model by Barry Posner & James Kouze
 Due to the Covid-19 pandemic, we have shifted to a blended approach where P3-P6 class leaders will complete an online SLS Assignment to prepare themselves for their respective roles. There are 2 termly class leaders committee sessions with their Form Teachers for them to share their challenges and also discuss solutions and improvements for class matters.
 
 #### **Purpose of activity**
-*   For departments to train up the various class leaders holding subject monitor or ambassador roles.   
+*   For departments to train up the various class leaders holding subject monitor or ambassador roles.&nbsp;  
     
 #### **Photos**
-<img src="/images/class%20ldr%20trg%201.jpg" 
-     style="width:85%">
+<img src="/images/class%20ldr%20trg%201.jpg" style="width:85%">
 
-<img src="/images/class%20ldr%20trg%202.jpg" 
-     style="width:85%">
+<img src="/images/class%20ldr%20trg%202.jpg" style="width:85%">
 		 
-<img src="/images/class%20ldr%20trg%203.jpg" 
-     style="width:85%">
+<img src="/images/class%20ldr%20trg%203.jpg" style="width:85%">
 <hr>
 
 ### **Prefects Training**
@@ -50,14 +44,11 @@ Appointment of Prefects and introduce them to the school
 
 #### **Photos**
 
-<img src="/images/prefect%20pledge%201.png" 
-     style="width:85%">
+<img src="/images/prefect%20pledge%201.png" style="width:85%">
 
-<img src="/images/prefect%20pledge%202.png" 
-     style="width:85%">
+<img src="/images/prefect%20pledge%202.png" style="width:85%">
 		 
-<img src="/images/prefect%20pledge%203.jpg" 
-     style="width:85%">
+<img src="/images/prefect%20pledge%203.jpg" style="width:85%">
 <hr>
 
 ### **Head Prefect Election**
@@ -67,11 +58,8 @@ The Head Prefect Election is an opportunity for the student voice to be heard. P
 * To give the school a voice in voting for the Head Prefect
 
 #### **Photos**
-<img src="/images/head%20pref%20election%201.jpg" 
-     style="width:85%">
+<img src="/images/head%20pref%20election%201.jpg" style="width:85%">
 		 
-<img src="/images/head%20pref%20election%202.jpg" 
-     style="width:65%">		 
+<img src="/images/head%20pref%20election%202.jpg" style="width:65%">		 
 		 
-<img src="/images/head%20pref%20election%203.jpg" 
-     style="width:85%">
+<img src="/images/head%20pref%20election%203.jpg" style="width:85%">
