@@ -3,8 +3,6 @@ title: School Management Committee
 permalink: /our-staff/school-management-committee/
 description: ""
 ---
-### **School Management Committee**
-
 |||
 |-----|-----|
 | Principal | Ms Pearly Ng  |   
