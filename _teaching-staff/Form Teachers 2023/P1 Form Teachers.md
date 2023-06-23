@@ -4,8 +4,6 @@ permalink: /our-staff/teaching-staff/form-teachers-2022/p1/
 description: ""
 third_nav_title: Form Teachers 2023
 ---
-### **P1 Form Teachers**
-
 | Class| Form Teachers | 
 | -------- | -------- |
 | 1 Care     | Mrs Sharon Ng <br> Mdm Qian Li   |
