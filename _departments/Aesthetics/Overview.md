@@ -4,9 +4,6 @@ permalink: /departments/aesthetics/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-### **Aesthetics**
-
 We believe that aesthetics play a fundamental role in stimulating cognitive development, encouraging innovative thinking and creativity, causing the ability to form meaningful relationships and peaceful, cohesive societies. By assisting and encouraging our students’ creativity, we set the stage for endless opportunities for their imagination, promoting their individuality, bolstering their self-confidence, and improving their overall academic performance.  
 
 Our 6-year Visual Arts Programme is designed to provide all students with an outlet of self-expression through experimentation with various materials and methods. It affords them a variety of experiences to enrich their knowledge of the arts, develop their art-making skills and explore personal areas of creative interest to achieve visual literacy. The programme puts emphasis on creativity and experimentation through age-appropriate projects, themes and skills. The elements of art are taught throughout all art lessons. Our students expand their knowledge of art ideas and techniques while exploring a variety of materials including sketching and doodling, painting, mixed media, collage, print making, sculpturing and ceramics.
