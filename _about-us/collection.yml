@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Overview.md
       - Principal's Message.md
       - Vision Mission Values.md
       - School Rules and Expectations.md
       - School Song.md
+      - Contact Us.md
