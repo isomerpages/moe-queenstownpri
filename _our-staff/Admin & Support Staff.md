@@ -3,14 +3,15 @@ title: Admin & Support Staff
 permalink: /our-staff/admin-and-support-staff/
 description: ""
 ---
-### **Admin & Support Staff**
-
 #### **Administration Manager**
 *   Mrs Jeslyn Lim
 
-#### **Operation Manager**
+#### **Operation Managers**
 *   Mr Abdul Latiff Bin A Majeed  
 *   Mr Pathmanaban S/O V. Pitchayia
+
+#### **ICT Manager**
+* Mdm Heng Meow Hoon
 
 #### **Administration Executive**
 * Ms Siti Nur Sabrina Bte Dawood
@@ -31,14 +32,14 @@ description: ""
 *   Mdm Anushiya Devi D/O Gumanan
 *   Ms Yan Sok Ying
 
-#### **ICT Manager**
-* Mdm Heng Meow Hoon
-
 #### **Other Support Staff**
 
+ * School Support Staff - Mr Lee Boon Hoe Lawrence 
+ * Librarian - Ms Siti Azhan Bte Osman
+ * Desktop Engineer - Mr Arivagalan s/o Sivasankaran
+
+<!--
 |||
 |:---:|:---:|
-| School Support Staff | Mr Lee Boon Hoe Lawrence |
-| Desktop Engineer | Ms Siti Aisah Binte Osman<br>Mr Radin Muhammad |
-| Librarian | Ms Siti Azhan Bte Osman |
-|
+ | Desktop Engineer | Ms Siti Aisah Binte Osman<br>Mr Radin Muhammad | 
+-->

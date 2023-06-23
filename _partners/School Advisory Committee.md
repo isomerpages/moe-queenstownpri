@@ -3,8 +3,6 @@ title: School Advisory Committee
 permalink: /partners/school-advisory-committee/
 description: ""
 ---
-### **School Advisory Committee**
-
 | Role | Name |
 |:---:|:---:|
 | Chairman | Mr V S Kumar |
