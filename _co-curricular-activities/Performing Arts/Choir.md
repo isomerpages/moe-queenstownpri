@@ -4,7 +4,6 @@ permalink: /experience/CCA/performing-arts/
 description: ""
 third_nav_title: Performing Arts
 ---
-### **Choir**
 #### **CCA Teachers-in-Charge**
 Mdm Quek Siew Kee (OIC)<br>
 Ms Peck Siew Ling<br>
