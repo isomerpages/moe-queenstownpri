@@ -4,8 +4,6 @@ permalink: /departments/mother-tongue/
 description: ""
 third_nav_title: Mother Tongue
 ---
-### **Mother Tongue**
-
 #### **Mission**
 Nurturing Active Learners and Proficient Users of MTL
 
