@@ -21,8 +21,6 @@ sections:
         - title: Useful Links for Students & Teachers
           description: ""
           url: /useful-links/for-students
-      button: Contact Us
-      url: contact-us\
   - infopic:
       title: LEOH 2023
       button: Click Here for details
