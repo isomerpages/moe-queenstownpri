@@ -4,8 +4,6 @@ permalink: /departments/mathematics/mathematics-club/
 description: ""
 third_nav_title: Mathematics
 ---
-### **Mathematics Club**
-
 #### **Teachers-in-charge**
 Mrs Shahrin <br>
 Ms Harianti<br>
