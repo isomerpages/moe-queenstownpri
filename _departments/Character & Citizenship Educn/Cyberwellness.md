@@ -4,8 +4,6 @@ permalink: /departments/CCE/cyberwellness/
 description: ""
 third_nav_title: Character & Citizenship Educn
 ---
-
-### **Cyber Wellness**
 #### **What is Cyber Wellness?**
 Information and Communication Technologies (ICT) are becoming increasingly pervasive in our world. While creating instant connectivity and access to vast repositories of information, knowledge, and opinions, the open nature of the Internet can expose our students to undesirable content and influences.
 
@@ -60,27 +58,22 @@ Learn more about how to keep your child safe online through these resources:
 *   [S.U.R.E. by National Library Board](https://sure.nlb.gov.sg/)
 *   [Cyber Security Agency](https://csa.gov.sg/programmes/sg-cyber-safe-students)
 
-Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+Source:&nbsp;[https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
 #### **QtPS Cyber Wellness Activities**
 ##### **P3 Cyber Wellness Jingles**
-Our P3 students came up with Jingles that convey Cyber Wellness messages that they have learnt in their music lessons. Students are encouraged to recap and convey the Cyber Wellness messages that they have learnt to their fellow students.
+Our P3 students came up with Jingles that convey Cyber Wellness messages that they have learnt in their music lessons.&nbsp;Students are encouraged to recap and convey the Cyber Wellness messages that they have learnt to their fellow students.
 
-<img src="/images/cyberwellness.png" 
-     style="width:85%">
+<img src="/images/cyberwellness.png" style="width:85%">
 		 
 One jingle was chosen from each class and played to the students during the Cyber Wellness week through a recorded video
 
 ##### **P5 Cyber Wellness Posters** 
 
-<img src="/images/cyberwellness%201.png" 
-     style="width:85%">
-<img src="/images/cyberwellness%202.png" 
-     style="width:85%">
-<img src="/images/cyberwellness%203.png" 
-     style="width:85%">
-<img src="/images/cyberwellness%204.png" 
-     style="width:85%">
+<img src="/images/cyberwellness%201.png" style="width:85%">
+<img src="/images/cyberwellness%202.png" style="width:85%">
+<img src="/images/cyberwellness%203.png" style="width:85%">
+<img src="/images/cyberwellness%204.png" style="width:85%">
 		 
 P5 students design Cyber Wellness Posters during their art lesson.
 
