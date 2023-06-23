@@ -3,8 +3,6 @@ title: Senior Teacher Council
 permalink: /our-staff/STC/
 description: ""
 ---
-### **Senior Teacher Council Committee**
-
 |||
 |-----|-----|
 | Lead Teacher | Mrs Chen Soon Shan  | 
