@@ -3,8 +3,6 @@ title: CCA Overall Schedule
 permalink: /co-curricular-activities/
 description: ""
 ---
-### **CCA Overall Schedule**
-
 #### **Advisors**
 
 | CCAs  | Advisor |  
