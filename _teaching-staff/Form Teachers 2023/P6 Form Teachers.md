@@ -4,8 +4,6 @@ permalink: /our-staff/teaching-staff/form-teachers-2022/p6/
 description: ""
 third_nav_title: Form Teachers 2023
 ---
-### **P6 Form Teachers**
-
 | Class| Form Teachers | 
 | -------- | -------- |
 | 6 Care | Mdm Thamizhvaani d/o Veeraian <br> Mdm Siti-Hamesiah Bte Samsudin |

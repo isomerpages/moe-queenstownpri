@@ -4,8 +4,6 @@ permalink: /experience/CCA/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### **Boys' Brigade**
-
 #### **CCA Teachers-in-Charge**
 Mr Jason Seng (OIC)<br>
 Mr Mark Teo<br>
@@ -19,7 +17,7 @@ Fridays <br>
 2.15 pm to 4.15 pm
 
 #### **CCA Venue**
-Classrooms & Parade Square (drills)
+Classrooms &amp; Parade Square (drills)
 
 #### **About CCA**
 ##### **BB Motto: Sure and Steadfast**

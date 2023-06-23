@@ -3,9 +3,7 @@ title: School Song
 permalink: /about-us/school-song/
 description: ""
 ---
-### **School Song**
-
-<iframe width="1536" height="722" src="https://www.youtube.com/embed/LH7dDlmYuSE" title="QtPS School Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1536" height="722" src="https://www.youtube.com/embed/LH7dDlmYuSE" title="QtPS School Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Queenstown Primary, onward to success,<br>
 Together, let’s all do our best.<br>

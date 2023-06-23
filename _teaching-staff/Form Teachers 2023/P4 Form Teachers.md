@@ -4,8 +4,6 @@ permalink: /our-staff/teaching-staff/form-teachers-2022/p4/
 description: ""
 third_nav_title: Form Teachers 2023
 ---
-### **P4 Form Teachers**
-
 | Class| Form Teachers | 
 | -------- | -------- |
 | 4 Care     | Mr Jason Seng <br> Mdm Cheung Man Wai   |

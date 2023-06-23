@@ -3,8 +3,6 @@ title: Overview
 permalink: /experience/overview/
 description: ""
 ---
-### **Experience**
-
 ![](/images/experience.jpg)
 
 * [Co-Curricular Activities (CCA)](/co-curricular-activities/)

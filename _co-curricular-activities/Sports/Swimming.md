@@ -4,8 +4,6 @@ permalink: /experience/CCA/physical-sports/swimming/
 description: ""
 third_nav_title: Sports
 ---
-### **Swimming**
-
 #### **CCA Teachers-in-Charge**
 Mdm Yong Foong Er (OIC)<br>
 Mr Kwek Hong Wee<br>

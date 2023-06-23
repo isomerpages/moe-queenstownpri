@@ -4,7 +4,6 @@ permalink: /experience/CCA/performing-arts/drama-club/
 description: ""
 third_nav_title: Performing Arts
 ---
-### **Drama Club**
 #### **CCA Teachers-in-Charge**
 Mdm Asmahliah (OIC)<br>
 Miss Lee Yee Hueh <br>

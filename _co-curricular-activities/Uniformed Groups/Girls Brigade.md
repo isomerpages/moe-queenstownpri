@@ -4,8 +4,6 @@ permalink: /experience/CCA/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### **Girls' Brigade**
-
 #### **CCA Teachers-in-Charge**
 Ms Von Tjong Min Cui (OIC) <br>
 Ms Wee Su Ern  <br>

@@ -4,7 +4,6 @@ permalink: /experience/CCA/physical-sports/softball/
 description: ""
 third_nav_title: Sports
 ---
-### **Softball**
 #### **CCA Teachers-in-Charge**
 Mr Jasper Chiang (OIC)<br>
 Ms Wan Hameezah<br>

@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/Enrichment-Groups/math-club/
 description: ""
 third_nav_title: Enrichment Groups
 ---
-### **Mathematics Club**
-
 #### **CCA teachers-in-Charge**
 Mrs Siti Shahrin (OIC) <br>
 Ms Harianti Md Ibrahim <br>

@@ -4,8 +4,6 @@ permalink: /experience/CCA/physical-sports/football/
 description: ""
 third_nav_title: Sports
 ---
-### **Football**
-
 #### **CCA Teachers-in-Charge**
 Ms Sim Limin (OIC)<br>
 Mr Md Azuan<br>

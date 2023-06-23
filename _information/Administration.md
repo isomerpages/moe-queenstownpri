@@ -3,8 +3,6 @@ title: Administration
 permalink: /information/administration/
 description: ""
 ---
-### **Administration**
-
 #### **Administration Forms**
 
 * [QtPS Pupils Admission Application Form\_v1.pdf](/files/QtPS%20Pupils%20Admission%20Application%20Form_v1.pdf)

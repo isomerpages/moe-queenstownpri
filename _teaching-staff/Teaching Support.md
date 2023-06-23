@@ -3,12 +3,11 @@ title: Teaching Support
 permalink: /our-staff/teaching-staff/teaching-support/
 description: ""
 ---
-### **Teaching Support**
-
 #### **Special Needs Officers**
 
 *   Mdm Angelina Gan  
 *   Mdm Noorjehan Ibrahim
+*   Ms Winnie Tan
 
 #### **School Counselor**
 

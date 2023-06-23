@@ -4,7 +4,6 @@ permalink: /experience/CCA/clubs-and-societies/
 description: ""
 third_nav_title: Clubs And Societies
 ---
-### **Science and Green Club**
 #### **CCA Teachers-in-Charge**
 Ms Choo Ruofei (OIC)<br>
 Mrs Jean Law<br>
@@ -22,11 +21,9 @@ Physical Science Room
 
 #### **CCA Achievement**
 
-<img src="/images/green%20club%20achievement%201.png" 
-     style="width:45%" align=left>
+<img src="/images/green%20club%20achievement%201.png" style="width:45%" align="left">
 <br><br><br><br><br>		 
-<img src="/images/green%20club%20achievement%202.png" 
-     style="width:45%" align=left>		 
+<img src="/images/green%20club%20achievement%202.png" style="width:45%" align="left">		 
 <br><br><br><br><br>		 		 
 Sustained Vanda Miss Joaquim Award 2021<br>
 Vanda Miss Joaquim Award (2018 and 2019)<br>
@@ -54,8 +51,7 @@ Every year, our members embark on organising activities during Earth Week. The p
 
 Our members are given the platform to showcase what they have learnt during Science and Green Club and educate their fellow schoolmates on being Caring Citizens and developing compassion and civic-mindedness towards the environment around them.
 
-<img src="/images/green%20club%205.jpg" 
-     style="width:65%">
+<img src="/images/green%20club%205.jpg" style="width:65%">
 		 
 #### **"Every Singaporean A Naturalist" Programme with Nature Society (Singapore)**
 As Caring Citizens, our members are involved in the Every Singaporean A Naturalist programme with Nature Society (Singapore) (NSS) where they are engaged in a long-term study and appreciation of nature, focusing on birds in Singapore with the experts and volunteers of NSS. This is done by equipping them with knowledge and skills to identify, monitor and appreciate common species of birds around the school. This teaches them to be compassionate towards animals and plants while educating them on their civic-mindedness.
@@ -67,12 +63,11 @@ We have regular collaborations with the World Wildlife Fund (WWF) where workshop
 We provide authentic learning activities outside of school through the semesterly field trip or learning journey. Our members visit various places every year and have done a variety of activities. Over the past few years, our members have gone to:
 
 *  Singapore Science Centre (various workshops e.g. aeroplane making, study of insects etc)
-*  Sungei Buloh (Birdwatching) 
-*  Singapore Botanical Gardens (how to conduct a garden trail) 
+*  Sungei Buloh (Birdwatching)&nbsp;
+*  Singapore Botanical Gardens (how to conduct a garden trail)&nbsp;
 *  Kallang River (waterway clean-up)
 *  ArtScience Museum at Marina Bay Sands (WWF exhibit)
 
 After the field trips and learning journeys, our members embark on reflection as Critical Thinkers and become more compassionate and civic-minded as Caring Citizens.
 
-<img src="/images/green%20club%206.jpg" 
-     style="width:65%">
+<img src="/images/green%20club%206.jpg" style="width:65%">

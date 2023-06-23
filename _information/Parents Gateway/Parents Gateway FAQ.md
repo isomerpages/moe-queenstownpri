@@ -4,7 +4,6 @@ permalink: /information/parents-gateway/FAQ/
 description: ""
 third_nav_title: Parents Gateway
 ---
-### **Parents Gateway FAQ**
 #### **FREQUENTLY ASKED QUESTIONS (FOR PARENTS)**
 
 **1\. What is Parents Gateway?**<br>
@@ -18,15 +17,15 @@ Parents Gateway contains sensitive information about students and their parents.
 
 If you fall into any of the following categories, you are eligible to apply for SingPass:
 
-    i. Singapore Citizen and Permanent Resident  
-    ii. Employment Pass and Personalised Employment Pass holders iii. EntrePass holders  
-    iv. S-Pass holders  
-    v. Dependant Pass holders (of EP, PEP, EntrePass and S-Pass holders)  
-    vi. Long Term Visit Pass-Plus (LTVP+) holders vii. Long Term Visit Pass holders  
-    viii. Selected Work Permit Holders who require SingPass to access government digital services.  
-Visit [WPOL Enquiry Service](https://wponline.mom.gov.sg/WPOLLoginController?action=WPOLLoginAction&actionType=WPOLNonLogin) **broken link** to check your status.
+   &nbsp;i. Singapore Citizen and Permanent Resident  
+&nbsp; &nbsp;&nbsp;ii. Employment Pass and Personalised Employment Pass holders iii. EntrePass holders  
+&nbsp; &nbsp;&nbsp;iv. S-Pass holders  
+&nbsp; &nbsp;&nbsp;v. Dependant Pass holders (of EP, PEP, EntrePass and S-Pass holders)  
+&nbsp; &nbsp;&nbsp;vi. Long Term Visit Pass-Plus (LTVP+) holders vii. Long Term Visit Pass holders  
+&nbsp; &nbsp;&nbsp;viii. Selected Work Permit Holders who require SingPass to access government digital services.  
+Visit&nbsp;[WPOL Enquiry Service](https://wponline.mom.gov.sg/WPOLLoginController?action=WPOLLoginAction&amp;actionType=WPOLNonLogin) **broken link**&nbsp;to check your status.
 
-\[WPOL link: [http://www.ifaq.gov.sg/SINGPASS/apps/fcd\_faqmain.aspx#FAQ\_2101385](http://www.ifaq.gov.sg/SINGPASS/apps/fcd_faqmain.aspx#FAQ_2101385)\] **broken link**
+\[WPOL link:&nbsp;[http://www.ifaq.gov.sg/SINGPASS/apps/fcd\_faqmain.aspx#FAQ\_2101385](http://www.ifaq.gov.sg/SINGPASS/apps/fcd_faqmain.aspx#FAQ_2101385)\] **broken link**
 
 Schools will continue to issue hardcopy letters and consent forms to parents and legal guardians who are unable to onboard Parents Gateway.
 
@@ -37,15 +36,14 @@ You can also download the following PDF: [Registering for SingPass.pdf](/files/R
 
 Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.
 
-<img src="/images/singpass.jpg" 
-     style="width:55%">
+<img src="/images/singpass.jpg" style="width:55%">
 		 
 Please note that SingPass Mobile login is currently not yet supported for Android version of Parents Gateway. Parents using Android devices are advised to login using SMS 2FA or OneKey token in the meantime.
 
 **5\. I forgot my SingPass password. How do I reset it?**<br>
 If you have set up your SingPass 2FA, you can reset your password instantly online:
 
-i. Visit [https://www.singpass.gov.sg](https://www.singpass.gov.sg/)
+i. Visit&nbsp;[https://www.singpass.gov.sg](https://www.singpass.gov.sg/)
 
 ii. Select “Reset Password” icon on the scroll bar. Enter your NRIC/FIN details, followed by your SMS/Token One-Time Password.
 		
@@ -64,7 +62,7 @@ No, you do not need multiple accounts. You will be able to access all your child
 Parents are encouraged to view the school announcements and consent forms using the app. For parents who wish to receive reminders on upcoming events, there is an “Add to Calendar” feature. Upon selection, the event would be synced with your phone calendar.
 
 **10\. Can I access Parents Gateway on the computer?**<br>
-Parents Gateway is only available as a mobile application. Supported OS Versions: Android 5.0 or later & iOS 9.1 or later.
+Parents Gateway is only available as a mobile application. Supported OS Versions: Android 5.0 or later &amp; iOS 9.1 or later.
 
 **11\. Are the access rights limited to one parent only?**<br>
 No, both parents can access their children’s information simultaneously from their respective Parents Gateway accounts.

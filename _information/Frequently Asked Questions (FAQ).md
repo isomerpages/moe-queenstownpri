@@ -3,8 +3,6 @@ title: Frequently Asked Questions (FAQ)
 permalink: /information/FAQ/
 description: ""
 ---
-### Frequently Asked Questions (FAQ)
-
 ##### I wish to understand more about my child’s progress in school. Who should I contact?
 You may email your child’s form teachers. Form Teachers can be reached either through ClassDojo or email. Your child's Form Teachers' email addresses can be found on Parents Gateway.
 

@@ -4,8 +4,6 @@ permalink: /our-staff/teaching-staff/form-teachers-2022/p5/
 description: ""
 third_nav_title: Form Teachers 2023
 ---
-### **P5 Form Teachers**
-
 | Class| Form Teachers | 
 | -------- | -------- |
 | 5 Care | Mrs Pauline Lee <br> Mr Muhammad A'srie |

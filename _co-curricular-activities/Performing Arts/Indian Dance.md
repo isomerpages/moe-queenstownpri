@@ -4,8 +4,6 @@ permalink: /experience/CCA/performing-arts/indian-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-### **Indian Dance**
-
 #### **CCA Teachers-in-Charge**
 Ms Ho Li Ming (OIC)<br>
 Mdm Najumunisha

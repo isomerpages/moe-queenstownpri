@@ -4,7 +4,6 @@ permalink: /experience/CCA/physical-sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
-### **Basketball**
 #### **CCA Teachers-in-Charge**
 Ms Charine Chong (OIC)<br>
 Mr Jevon See<br>

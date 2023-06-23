@@ -4,8 +4,6 @@ permalink: /departments/aesthetics/visual-art/
 description: ""
 third_nav_title: Aesthetics
 ---
-### **Visual Art**
-
 #### **Mission**
 To provide a holistic education to develop confident and self-directed learners, concerned citizens and active contributors.
 
@@ -20,11 +18,11 @@ The QtPS Visual Art department believes that aesthetics play a fundamental role 
 
 In our art curriculum, the pedagogical approach of inquiry is embedded in our weekly lessons. This is seen through the following structure:
 
-*   **Connect and Wonder:** Students are introduced to existing artworks and artists that are related to the module.
-*   **Investigate:** Everyday objects/ unconventional mediums are introduced for students to explore and experiment, guiding them to make choices during art making.
-*   **Make:** Termly modules with mini exploration exercises provide opportunities for students to interact with various art mediums which in turn, builds their experience and confidence in creating their final artwork.
-*   **Express:** Gallery walks and art talks make learning meaningful for students when their personal voice is captured in their final artwork. Manipulatives such as the Effective Art Talk Wheelie is used to help students build their art vocabulary.
-*   **Reflect:** Self-reflection of art making experience is introduced to students at the end of each module to help students collate their learning experience
+*   **Connect and Wonder:**&nbsp;Students are introduced to existing artworks and artists that are related to the module.
+*   **Investigate:**&nbsp;Everyday objects/ unconventional mediums are introduced for students to explore and experiment, guiding them to make choices during art making.
+*   **Make:**&nbsp;Termly modules with mini exploration exercises provide opportunities for students to interact with various art mediums which in turn, builds their experience and confidence in creating their final artwork.
+*   **Express:**&nbsp;Gallery walks and art talks make learning meaningful for students when their personal voice is captured in their final artwork. Manipulatives such as the Effective Art Talk Wheelie is used to help students build their art vocabulary.
+*   **Reflect:**&nbsp;Self-reflection of art making experience is introduced to students at the end of each module to help students collate their learning experience
 
 #### **Signature Programme**
 
@@ -34,6 +32,6 @@ Our 6-year Visual Art Programme is designed to provide all students with an outl
 
 #### **Take a look at our students @ work!**
 
-<iframe width="642" height="361" src="https://www.youtube.com/embed/Nhv5PznFY48" title="QtPS students@work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="642" height="361" src="https://www.youtube.com/embed/Nhv5PznFY48" title="QtPS students@work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ![](/images/visual%20art.gif)

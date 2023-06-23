@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/Other-Programmes/SDR/
 description: ""
 third_nav_title: Other Programmes
 ---
-### **SDR**
-
 #### **CCA teachers-in-Charge**
 Ms Goh Siew Ping <br>
 Mrs Christabel Goh
