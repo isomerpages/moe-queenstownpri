@@ -3,8 +3,6 @@ title: Overview
 permalink: /about-us/
 description: ""
 ---
-### **About Us**
-
 #### **QtPS History**
 The new Queenstown Primary School was formed through a merger of Mei Chin, Tanglin and the old Queenstown Primary School in January 2002. The school underwent PRIME at the end of Nov 1999. The old school was demolished and rebuilt on site. A moving-in ceremony for the other 2 schools was held on 16 Nov 2001.
 
