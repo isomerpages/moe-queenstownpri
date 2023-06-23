@@ -4,9 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 <img src="/images/principa.jpg" style="width:35%" align="left">
-		 
-<br><br><br><br><br>
-<br><br><br><br><br>
+
 
 #### **Principal’s Foreward**
 **Dear Parents,**<br>
