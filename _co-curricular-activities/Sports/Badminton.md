@@ -9,14 +9,15 @@ Mr Amos Leong (OIC)  <br>
 Ms Tan Wei Xin<br>
 Ms Yap Ee Lim<br>
 Mdm Nazmunnisah<br>
-Ms Kang Li Ping
+Ms Kang Li Ping <br>
+Mr Gordon Ranjit Magherra
 
 #### **CCA Advisor**
 Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
 Mondays, Tuesdays &amp; Fridays<br>
-3.00 pm to 5.00 pm
+2.30 pm to 5.00 pm
 
 #### **CCA Venue**
 School Hall
