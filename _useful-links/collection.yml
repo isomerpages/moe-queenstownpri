@@ -2,7 +2,7 @@ collections:
   useful-links:
     output: true
     order:
-      - For Vendors.md
       - For Students.md
       - For Teachers.md
       - School Calendar of Events.md
+      - For Vendors.md
