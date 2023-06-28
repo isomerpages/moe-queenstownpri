@@ -5,7 +5,6 @@ description: ""
 third_nav_title: For Vendors
 ---
 <!-- To place advertisements for ITQ -->
-#### School Bus Advertisement
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 ##### Service Requirements
