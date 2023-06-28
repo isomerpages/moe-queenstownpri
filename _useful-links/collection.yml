@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Vendors/School Bus Advertisement.md
       - For Vendors/.keep
       - For Students.md
       - For Teachers.md
