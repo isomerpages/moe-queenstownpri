@@ -35,6 +35,7 @@ third_nav_title: For Vendors
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
+
 **Applicants should preferably fulfil the following criteria:**
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
