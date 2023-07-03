@@ -11,18 +11,7 @@ third_nav_title: Facilities & Services
 | Clinic Operating Hours  | Mon to Thu : 8:00am to 5:30pm<br>Fri : Closed <br>Lunch break : 12:30pm to 1:30pm|
 |
 
-#### **Dental Clinic Operating Schedule - June 2023**
-
-| <center>Week</center> | <center>Monday</center>| <center>Tuesday</center> | <center>Wednesday</center> | <center>Thursday</center> | <center>Friday</center> |
-|:---:|---|---|---|---|---|
-| <center> Holiday</center>|<center><br></center> | <center><br></center> | <center><br></center> |<center>1<br>CLOSED</center>  |<center>2<br>CLOSED</center>| 
-| <center>Holiday</center> | <center>5<br>CLOSED</center>  | <center>6<br>CLOSED</center>  | <center>7<br>CLOSED</center> | <center>8<br>CLOSED</center> | <center>9<br>CLOSED</center>  |
-| <center> Holiday</center> |  <center>12<br>CLOSED</center> | <center> 13<br>CLOSED</center> | <center> 14<br>CLOSED</center> |  <center> 15<br>CLOSED</center> | <center> 16<br>CLOSED</center> |
-| <center> Holiday</center>|  <center>19<br>CLOSED</center> | <center>20 <br>CLOSED</center> | <center>21 <br>CLOSED</center>|<center>22 <br>CLOSED</center> |<center>23 <br>CLOSED</center>|
-| <center> 1</center>|  <center>26<br>CLOSED</center> | <center>27 <br>CLOSED</center> | <center>28 <br>CLOSED</center>|<center>29 <br>CLOSED</center> |<center>30 <br>CLOSED</center>|
-|
-	
-#### July 2023
+#### **Dental Clinic Operating Schedule - July 2023**
 
 | <center>Week</center> | <center>Monday</center>| <center>Tuesday</center> | <center>Wednesday</center> | <center>Thursday</center> | <center>Friday</center> |
 |:---:|---|---|---|---|---|
