@@ -22,8 +22,8 @@ third_nav_title: Facilities & Services
 | <center> 6</center>|  <center>31<br></center> | <center> <br></center> | <center> <br></center>|<center> <br></center> |<center> <br></center>|
 |
 
-
 #### **August 2023**
+
 | <center>Week</center> | <center>Monday</center>| <center>Tuesday</center> | <center>Wednesday</center> | <center>Thursday</center> | <center>Friday</center> |
 |---|---|---|---|---|---|
 | <center>6</center>|<center><br></center> | <center>1<br></center> | <center>2<br></center> |<center>3<br></center>  |<center>4<br>CLOSED</center>| 
