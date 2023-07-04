@@ -23,8 +23,9 @@ third_nav_title: Facilities & Services
 |
 
 #### **August 2023**
+
 | <center>Week</center> | <center>Monday</center>| <center>Tuesday</center> | <center>Wednesday</center> | <center>Thursday</center> | <center>Friday</center> |
-|:---:|---|---|---|---|---|
+|---|---|---|---|---|---|
 | <center>6</center>|<center><br></center> | <center>1<br></center> | <center>2<br></center> |<center>3<br></center>  |<center>4<br>CLOSED</center>| 
 | <center>7</center> | <center>7<br>CLOSED</center>  | <center>8<br>CLOSED</center>  | <center>9<br>CLOSED</center> | <center>10<br>CLOSED</center> | <center>11<br>CLOSED</center>  |
 | <center>8</center> |  <center>14<br></center> | <center> 15<br></center> | <center> 16<br></center> |  <center> 17<br></center> | <center> 18<br>CLOSED</center> |
