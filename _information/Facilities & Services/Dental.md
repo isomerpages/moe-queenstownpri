@@ -19,7 +19,7 @@ third_nav_title: Facilities & Services
 | <center>3</center> | <center>10<br>CLOSED</center>  | <center>11<br>CLOSED</center>  | <center>12<br>CLOSED</center> | <center>13<br>CLOSED</center> | <center>14<br>CLOSED</center>  |
 | <center> 4</center> |  <center>17<br>CLOSED</center> | <center> 18<br></center> | <center> 19<br></center> |  <center> 20<br></center> | <center> 21<br>CLOSED</center> |
 | <center> 5</center>|  <center>24<br>CLOSED</center> | <center>25 <br>CLOSED</center> | <center>26 <br>CLOSED</center>|<center>27 <br>CLOSED</center> |<center>28 <br>CLOSED</center>|
-| <center> 6</center>|  <center>31<br>CLOSED</center> | <center> <br></center> | <center> <br></center>|<center> <br></center> |<center> <br></center>|
+| <center> 6</center>|  <center>31<br></center> | <center> <br></center> | <center> <br></center>|<center> <br></center> |<center> <br></center>|
 |
 
 #### **August 2023**
