@@ -22,12 +22,11 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
-      title: LEOH 2023
+      title: QtPS eLearning Website
       button: Click Here for details
-      url: /open-house-2023/overview/
-      image: /images/Open House 2023/oh23-motd.png
+      url: https://sites.google.com/moe.edu.sg/elearning-queenstown-primary/home/
+      image: /images/cce.jpg
       alt: Image alt text
-      description: Learning Extravaganza & Open House 1st July 2023
   - infopic:
       title: CCA
       description: Co-Curricular Activities
