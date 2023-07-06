@@ -32,4 +32,4 @@ must be submitted to the General Office. We will process the application and inf
 
 You would be notified of the status of the application.
 
-For more information on MOE Financial Assistance Schemes and Bursaries, please click **[here]** (https://www.moe.gov.sg/financial-matters/financial-assistance)
+For more information on MOE Financial Assistance Schemes and Bursaries, please click **[here](https://www.moe.gov.sg/financial-matters/financial-assistance)**

@@ -4,9 +4,9 @@ permalink: /useful-links/for-vendors/qtps-canteen/
 description: ""
 third_nav_title: For Vendors
 ---
-| Type of Stall | Closing Date | Requirements |
+| Type of Stall | <font color="#ff0000">Closing Date</font> | Requirements |
 |---|---|---|
-| Malay Food Stall | 17 Jul 2023 | Rice/noodle stalls are acceptable.|
+| Malay Food Stall | <font color="#ff0000">17 July 2023</font> | Rice/noodle stalls are acceptable.|
 |
 
 **Application Procedure**
