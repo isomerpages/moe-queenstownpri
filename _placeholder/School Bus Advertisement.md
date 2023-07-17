@@ -1,6 +1,6 @@
 ---
 title: School Bus Advertisement
-permalink: /useful-links/for-vendors/
+permalink: /useful-links/for-vendors/schbus/
 description: ""
 ---
 <!-- To place advertisements for ITQ -->
