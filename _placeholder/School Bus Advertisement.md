@@ -2,7 +2,6 @@
 title: School Bus Advertisement
 permalink: /useful-links/for-vendors/
 description: ""
-third_nav_title: For Vendors
 ---
 <!-- To place advertisements for ITQ -->
 To apply, please refer to the Service Requirements and the Application Procedure below.
