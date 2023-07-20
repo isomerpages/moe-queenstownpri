@@ -7,7 +7,7 @@ third_nav_title: Performing Arts
 #### **CCA Teachers-in-Charge**
 Mdm Yap Eng Fui (OIC)<br>
 Mdm Liu Zijing<br>
-Mrs Dorai
+Ms Ruzana
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
