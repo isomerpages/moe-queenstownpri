@@ -25,7 +25,7 @@ description: ""
 | CCA | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
 | Choir | Tue &amp; Fri<br>2.15 pm - 4.15 pm | Music Room 2 | Mdm Quek Siew Kee (OIC)<br>Ms Peck Siew Ling<br> |
-| Chinese Orchestra | Tue &amp; Fri<br>2.15 pm - 4.15 pm | Band Room<br>AVA Room<br>Classroom | Mdm Yap Eng Fui (OIC)<br>Ms Liu Zijing<br>Mrs Dorai |
+| Chinese Orchestra | Tue &amp; Fri<br>2.15 pm - 4.15 pm | Band Room<br>AVA Room<br>Classroom | Mdm Yap Eng Fui (OIC)<br>Ms Liu Zijing<br>Ms Ruzana |
 | International Dance | Tue &amp; Fri<br>2.15 pm - 4.15 pm |  Dance Studio | Ms Lu Wei (OIC)<br>Mrs Sharon Ng <br>Mdm Zaheedah|
 | Chinese Dance | Fri<br>2.15 pm - 4.15 pm| Music Room 1 | Mdm Li Lingbo (OIC)<br>Ms Cheung Man Wai |
 | Indian Dance | Fri<br>2.15 pm - 4.15 pm | PAL Room 2 | Ms Ho Li Ming (OIC)<br>Mdm Najumunisha |
