@@ -6,7 +6,7 @@ third_nav_title: For Vendors
 ---
 | Type of Stall | <font color="#ff0000">Closing Date</font> | Requirements |
 |---|---|---|
-| Malay Food Stall | <font color="#ff0000">17 July 2023</font> | Rice/noodle stalls are acceptable.|
+| Malay Food Stall | <font color="#ff0000">3 August 2023</font> | Rice/noodle stalls are acceptable.|
 |
 
 **Application Procedure**
