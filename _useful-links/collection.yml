@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - For Students.md
+      - For Parents.md
       - For Teachers.md
-      - School Calendar of Events.md
       - For Vendors/.keep
       - For Vendors/School Canteen Advertisement.md
+      - School Calendar of Events.md
