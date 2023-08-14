@@ -2,6 +2,7 @@ collections:
   placeholder:
     output: true
     order:
+      - School Canteen Advertisement.md
       - School Bus Advertisement.md
       - P4 Subject Based Banding.md
       - NEU PC Plus Programme.md
