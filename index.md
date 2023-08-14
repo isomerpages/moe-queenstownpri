@@ -23,10 +23,11 @@ sections:
           url: /useful-links/for-students
   - infopic:
       title: QtPS eLearning Website
-      button: Click Here for details
-      url: https://sites.google.com/moe.edu.sg/elearning-queenstown-primary/home/
+      button: https://go.gov.sg/qtps-hbl
+      url: https://go.gov.sg/qtps-hbl
       image: /images/cce.jpg
       alt: Image alt text
+      description: "Go to the QtPS e-Learning website for your e-Learning instructions:"
   - infopic:
       title: CCA
       description: Co-Curricular Activities
