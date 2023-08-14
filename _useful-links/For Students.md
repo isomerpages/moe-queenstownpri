@@ -3,7 +3,7 @@ title: For Students
 permalink: /useful-links/for-students/
 description: ""
 ---
-*   [QtPS eLearning Website](https://sites.google.com/moe.edu.sg/elearning-queenstown-primary/home)
+*   [QtPS eLearning Website](https://go.gov.sg/qtps-hbl)
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login/)
 *   [Student ICON](https://workspace.google.com/dashboard)
 <!--*   [Student ICON22](https://staging.d3haevm43m8pfu.amplifyapp.com/extra%20links/Student%20ICON.md/) -->
