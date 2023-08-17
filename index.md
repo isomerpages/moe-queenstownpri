@@ -22,6 +22,11 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: Teachers' Day Visitation Cancelled
+      subtitle: 31 August 2023
+      image: /images/td-cancelled3.png
+      alt: Image alt text
+  - infopic:
       title: QtPS eLearning Website
       button: https://go.gov.sg/qtps-hbl
       url: https://go.gov.sg/qtps-hbl
@@ -34,11 +39,6 @@ sections:
       button: Click here to register
       url: https://docs.google.com/forms/d/e/1FAIpQLSdWz8NCB86RSrF0Lk7EuBSM2300rasnztuvwINCNBsIRKX2rg/viewform
       image: /images/Alumni.jpg
-      alt: Image alt text
-  - infopic:
-      title: Teachers' Day Visitation Cancelled
-      subtitle: 31 August 2023
-      image: /images/td-cancelled3.png
       alt: Image alt text
   - infopic:
       title: CCA
