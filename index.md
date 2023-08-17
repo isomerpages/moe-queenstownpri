@@ -49,8 +49,6 @@ sections:
       url: https://go.ask.gov.sg/qtps
       image: /images/qtps-askgov.png
       alt: Image alt text
-  - infobar:
-      title: Teachers Day Visitation Cancelled
   - infopic:
       title: Teachers Day Visitation Cancelled
       image: /images/td-cancelled.jpg
