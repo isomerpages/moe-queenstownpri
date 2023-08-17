@@ -29,13 +29,6 @@ sections:
       alt: Image alt text
       description: "Go to the QtPS e-Learning website for your e-Learning instructions:"
   - infopic:
-      title: CCA
-      description: Co-Curricular Activities
-      button: click here
-      url: /experience/CCA/
-      alt: Image alt text
-      image: /images/cca banner.jpg
-  - infopic:
       title: Come join our Alumni
       subtitle: QtPS Alumni
       button: Click here to register
@@ -43,14 +36,21 @@ sections:
       image: /images/Alumni.jpg
       alt: Image alt text
   - infopic:
+      title: Teachers Day Visitation Cancelled
+      image: /images/td-cancelled.jpg
+      alt: Image alt text
+  - infopic:
+      title: CCA
+      description: Co-Curricular Activities
+      button: click here
+      url: /experience/CCA/
+      alt: Image alt text
+      image: /images/cca banner.jpg
+  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://go.ask.gov.sg/qtps
       image: /images/qtps-askgov.png
-      alt: Image alt text
-  - infopic:
-      title: Teachers Day Visitation Cancelled
-      image: /images/td-cancelled.jpg
       alt: Image alt text
 ---
