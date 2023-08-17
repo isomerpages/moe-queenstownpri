@@ -36,9 +36,9 @@ sections:
       image: /images/Alumni.jpg
       alt: Image alt text
   - infopic:
-      title: Teachers Day Visitation Cancelled
+      title: Teachers' Day Visitation Cancelled
       subtitle: 31 August 2023
-      image: /images/td-cancelled2.png
+      image: /images/td-cancelled3.png
       alt: Image alt text
   - infopic:
       title: CCA
