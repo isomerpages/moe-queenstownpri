@@ -36,8 +36,8 @@ description: ""
 
  * School Support Staff - Mr Lee Boon Hoe Lawrence 
  * Librarian - Ms Siti Azhan Bte Osman
- * Desktop Engineer - Rasiyayasmine D/O Mohamed Raffi
- * Desktop Engineer - Lee Kuoh Lip
+ * Desktop Engineer - Ms Rasiyayasmine D/O Mohamed Raffi
+ * Desktop Engineer - Mr Lee Kuoh Lip
 
 <!--
 |||
