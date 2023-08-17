@@ -12,7 +12,7 @@ third_nav_title: Form Teachers 2023
 | 5 Diligence | Mdm Revathi d/o Balasubramaniam<br>Mrs Yap-Fng Shilin, Calista |
 | 5 Honesty | Mrs Siti Faizah Shahrin <br> Mdm S Srija | 
 | 5 Joy | Ms Ratna Bte Jainal <br> Mr Kwek Hong Wee | 
-| 5 Peace | Mrs Chen Soon Shan <br>Mr Tan Cheow Seng  | 
+| 5 Peace | Mrs Chen Soon Shan <br>Mdm Hermawati Bte Dolfata  | 
 |
 
 Form Teachers can be reached either through ClassDojo or email. Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
