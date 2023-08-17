@@ -7,7 +7,7 @@ third_nav_title: Form Teachers 2023
 | Class| Form Teachers | 
 | -------- | -------- |
 | 2 Care     | Ms Charine Chong <br> Mdm Li Lingbo |
-| 2 Courage | Ms Labelle Lee <br> Ms Helen Liang |
+| 2 Courage | Ms Labelle Lee <br>  |
 | 2 Creativity | Mr Jasper Chiang <br> Mdm Vani Chawla |
 | 2 Diligence | Mdm Joyce Kang <br> Ms Sim Li Min | 
 | 2 Honesty | Mdm Zaheedah Bee Bte Mohd Samsudin <br> Mr Teo Chee Tat | 
