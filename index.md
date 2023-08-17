@@ -22,6 +22,11 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: Teachers' Day Visitation Cancelled
+      subtitle: 31 August 2023
+      image: /images/td-cancelled3.png
+      alt: Image alt text
+  - infopic:
       title: QtPS eLearning Website
       button: https://go.gov.sg/qtps-hbl
       url: https://go.gov.sg/qtps-hbl
@@ -29,19 +34,19 @@ sections:
       alt: Image alt text
       description: "Go to the QtPS e-Learning website for your e-Learning instructions:"
   - infopic:
-      title: CCA
-      description: Co-Curricular Activities
-      button: click here
-      url: /experience/CCA/
-      alt: Image alt text
-      image: /images/cca banner.jpg
-  - infopic:
       title: Come join our Alumni
       subtitle: QtPS Alumni
       button: Click here to register
       url: https://docs.google.com/forms/d/e/1FAIpQLSdWz8NCB86RSrF0Lk7EuBSM2300rasnztuvwINCNBsIRKX2rg/viewform
       image: /images/Alumni.jpg
       alt: Image alt text
+  - infopic:
+      title: CCA
+      description: Co-Curricular Activities
+      button: click here
+      url: /experience/CCA/
+      alt: Image alt text
+      image: /images/cca banner.jpg
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
