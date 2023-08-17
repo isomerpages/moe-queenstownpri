@@ -10,7 +10,7 @@ third_nav_title: Form Teachers 2023
 | 4 Courage | Mr Teo Nam Hua Mark<br> Mdm Najumunisha  |
 | 4 Creativity | Mrs Christabel Goh <br>Mdm Jeanie Lim Jieying |
 | 4 Diligence | Mr Lim Ching Feng <br> Mdm Jeanna Goh | 
-| 4 Honesty | Ms Harianti Bte Mohd Ibrahim <br>Ms Charmaine Goh  | 
+| 4 Honesty | Ms Harianti Bte Mohd Ibrahim <br>  | 
 | 4 Joy | Mr Amos Leong Sek Kee <br>Ms Lim Hong Hoon Geraldine | 
 |
 
