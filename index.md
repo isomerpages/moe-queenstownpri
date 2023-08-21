@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Teachers' Day Visitation Cancelled
       subtitle: 31 August 2023
-      image: /images/td-cancelled4.png
+      image: /images/td-cancelled6.png
       alt: Image alt text
   - infopic:
       title: QtPS eLearning Website
