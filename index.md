@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Teachers' Day Visit
       subtitle: 31 August 2023
-      image: /images/td-cancelled7.png
+      image: /images/td-cancelled8.png
       alt: Image alt text
   - infopic:
       title: QtPS eLearning Website
