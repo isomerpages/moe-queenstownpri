@@ -22,9 +22,9 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
-      title: Teachers' Day Visitation Cancelled
+      title: Teachers' Day Visit
       subtitle: 31 August 2023
-      image: /images/td-cancelled4.png
+      image: /images/td-cancelled7.png
       alt: Image alt text
   - infopic:
       title: QtPS eLearning Website
