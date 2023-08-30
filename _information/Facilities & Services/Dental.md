@@ -23,6 +23,7 @@ third_nav_title: Facilities & Services
 |
 
 #### **September 2023**
+
 | <center>Week</center> | <center>Monday</center>| <center>Tuesday</center> | <center>Wednesday</center> | <center>Thursday</center> | <center>Friday</center> |
 |---|---|---|---|---|---|
 | <center>10</center>|<center><br></center> | <center><br></center> | <center><br></center> |<center><br></center>  |<center>1<br>CLOSED</center>| 
