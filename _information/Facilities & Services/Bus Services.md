@@ -30,7 +30,3 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:
 
 Bus fares applicable from 1 January 2024 to 31 December 2025:
 ![](/images/schbuscost.jpg)
-
-
-
-
