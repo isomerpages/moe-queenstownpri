@@ -10,7 +10,6 @@ third_nav_title: Facilities & Services
 | Contact No | 91884698 |
 | Email  | [skyislandschool@gmail.com](mailto:skyislandschool@gmail.com) |
 |
-
 ###### <u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa). </u>
 
 Bus fares applicable from 1 January 2023 to 31 December 2023:
@@ -68,9 +67,7 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:
 |---|---|
 | Contact Person | Mr Nicholas Ng |
 | Contact No | 92739277 |
-| Email  | [emltpt96@gmail.com](mailto:emltpt96@gmail.com)  |
-|
-
+| Email  | [emltpt96@gmail.com](mailto:emltpt96@gmail.com)  ||<br>
 ###### <u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa). </u>
 
 Bus fares applicable from 1 January 2024 to 31 December 2025:
