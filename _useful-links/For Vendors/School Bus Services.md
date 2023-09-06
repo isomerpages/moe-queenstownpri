@@ -9,19 +9,8 @@ Contact Person: Mr Nicholas Ng<br>
 Contact No: 9273 9277<br>
 Email: emltpt96@gmail.com
 
-Daily School Bus Services **based on Not to Exceed Price** (i.e. for sending students from home to school and vice versa)&nbsp;&nbsp;
+Daily School Bus Services **based on Not to Exceed Price** (i.e. for sending students from home to school and vice versa)<br>
+Contract Period from <b><font color="#ff0000">1/1/2024-31/12/2025</font></b>
+![](/images/schbuscost.jpg)
 
-Contract Period from **1/1/2024-31/12/2025**
-
-
-| Distance | Up to   | 15 Seater | Column  | Column 5 |
-| -------- | -------- | -------- | --------  | -------- |
-| Distance        | 1 way | 2 way | 1 way | 2 way |
-| Up to 2km     | $130  | $150 |$115 | $135 |
-| &gt;2km-4km    | $170  | $190 | $140 | $160 |
 |
-
-
-
-
-
