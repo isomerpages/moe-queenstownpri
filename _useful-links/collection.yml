@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - For Vendors/School Bus Services.md
-      - For Vendors/.keep
       - For Students.md
       - For Parents.md
       - For Teachers.md
+      - For Vendors/.keep
+      - For Vendors/School Bus Services.md
       - School Calendar of Events.md
