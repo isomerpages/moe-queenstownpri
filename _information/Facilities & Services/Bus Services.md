@@ -24,7 +24,9 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:
 | Email  | [emltpt96@gmail.com](mailto:emltpt96@gmail.com)  |
 |
 
-###### **<u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa). </u><table border="1"> 
+###### **<u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa). </u>
+
+<table border="1"> 
 	<tbody>
 		<tr>
 		<th rowspan="2"><center>Distance </center></th>
