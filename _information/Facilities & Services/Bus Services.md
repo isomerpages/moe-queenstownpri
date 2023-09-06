@@ -15,17 +15,6 @@ third_nav_title: Facilities & Services
 
 Bus fares applicable from 1 January 2023 to 31 December 2023:
 
-
-
-| Company | Revolving Transport Pte Ltd |
-|---|---|
-| Contact Person | Mr Nicholas Ng |
-| Contact No | 92739277 |
-| Email  | [emltpt96@gmail.com](mailto:emltpt96@gmail.com)  |
-|
-
-###### **<u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa). </u>
-
 <table border="1"> 
 	<tbody>
 		<tr>
@@ -69,7 +58,18 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:
 		<td><center> $133 </center></td>
 		<td><center> $171 </center></td>
 		</tr>
-</tbody></table>**
+</tbody></table>
+
+
+
+| Company | Revolving Transport Pte Ltd |
+|---|---|
+| Contact Person | Mr Nicholas Ng |
+| Contact No | 92739277 |
+| Email  | [emltpt96@gmail.com](mailto:emltpt96@gmail.com)  |
+|
+
+###### **<u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa). </u>
 
 Bus fares applicable from 1 January 2024 to 31 December 2025:
 
