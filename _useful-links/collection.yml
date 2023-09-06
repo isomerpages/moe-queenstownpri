@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Vendors.md
       - For Students.md
       - For Parents.md
       - For Teachers.md
