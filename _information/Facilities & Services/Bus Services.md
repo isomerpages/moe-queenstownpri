@@ -11,7 +11,7 @@ third_nav_title: Facilities & Services
 | Email  | [skyislandschool@gmail.com](mailto:skyislandschool@gmail.com) |
 |
 
-###### **<u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa). </u>**
+###### <u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa). </u>
 
 Bus fares applicable from 1 January 2023 to 31 December 2023:
 
@@ -69,7 +69,7 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:
 | Email  | [emltpt96@gmail.com](mailto:emltpt96@gmail.com)  |
 |
 
-###### **<u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa). </u>
+###### <u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa). </u>
 
 Bus fares applicable from 1 January 2024 to 31 December 2025:
 
