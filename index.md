@@ -22,11 +22,6 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
-      title: Teachers' Day Visit
-      subtitle: 31 August 2023
-      image: /images/td-cancelled8.png
-      alt: Image alt text
-  - infopic:
       title: QtPS eLearning Website
       button: https://go.gov.sg/qtps-hbl
       url: https://go.gov.sg/qtps-hbl
