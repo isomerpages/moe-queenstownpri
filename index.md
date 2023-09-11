@@ -28,6 +28,7 @@ sections:
       url: https://www.cta.nie.edu.sg
       image: /images/caringteacher2024.png
       description: All nominations are to be submitted by 12 January 2024.
+      alt: Caring Teacher Awards 2024
   - infopic:
       title: QtPS eLearning Website
       button: https://go.gov.sg/qtps-hbl
