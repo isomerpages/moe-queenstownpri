@@ -49,4 +49,10 @@ sections:
       url: https://go.ask.gov.sg/qtps
       image: /images/qtps-askgov.png
       alt: Image alt text
+  - infopic:
+      title: Caring Teachers Award 2024
+      subtitle: Infopic Subtitle
+      button: NOMINATE HERE
+      url: https://www.cta.nie.edu.sg/nominate
+      image: /images/caringteacher2024.png
 ---
