@@ -22,6 +22,13 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: Caring Teachers Award 2024
+      subtitle: Infopic Subtitle
+      button: NOMINATE HERE
+      url: https://www.cta.nie.edu.sg/nominate
+      image: /images/caringteacher2024.png
+      description: All nominations are to be submitted by 12 January 2024.
+  - infopic:
       title: QtPS eLearning Website
       button: https://go.gov.sg/qtps-hbl
       url: https://go.gov.sg/qtps-hbl
@@ -49,10 +56,4 @@ sections:
       url: https://go.ask.gov.sg/qtps
       image: /images/qtps-askgov.png
       alt: Image alt text
-  - infopic:
-      title: Caring Teachers Award 2024
-      subtitle: Infopic Subtitle
-      button: NOMINATE HERE
-      url: https://www.cta.nie.edu.sg/nominate
-      image: /images/caringteacher2024.png
 ---
