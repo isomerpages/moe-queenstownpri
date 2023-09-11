@@ -47,7 +47,7 @@ sections:
       title: CCA
       description: Co-Curricular Activities
       button: click here
-      url: /experience/co-curricular-activities/
+      url: /co-curricular-activities/
       alt: Image alt text
       image: /images/cca banner.jpg
   - infopic:
