@@ -22,8 +22,7 @@ To register for the new bus service in 2024, [please submit here](https://bookin
 |---|---|
 | Contact Person | Mr Nicholas Ng |
 | Contact No | 92739277 |
-| Email  | [emltpt96@gmail.com](mailto:emltpt96@gmail.com)  |
-|
+| Email  | [emltpt96@gmail.com](mailto:emltpt96@gmail.com)  ||
 	
 Daily School Bus Services based on <b>Not to Exceed Price</b> (i.e. for sending students from home to school and vice versa). 
 
