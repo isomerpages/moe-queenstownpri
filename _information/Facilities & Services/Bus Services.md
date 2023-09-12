@@ -16,7 +16,7 @@ third_nav_title: Facilities & Services
 Bus fares applicable from 1 January 2023 to 31 December 2023:
 ![](/images/schbuscost2023.jpg)<br>
 <br>
-To register for the new bus service in 2024, [please click here](https://booking-eml.solo-cloud.com/schoolbus/) latest by <b><font color="#ff0000">20 November 2023</font></b>.
+To register for the new bus service in 2024, [please submit here](https://booking-eml.solo-cloud.com/schoolbus/) by <b><font color="#ff0000">20 November 2023</font></b>.
 
 | Company | Revolving Transport Pte Ltd |
 |---|---|
