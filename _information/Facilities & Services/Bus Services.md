@@ -26,7 +26,7 @@ Bus fares applicable from 1 January 2023 to 31 December 2023:
 | Email  | [emltpt96@gmail.com](mailto:emltpt96@gmail.com)  |
 |
 
-<u>Daily School Bus Services based on <b>Not to Exceed Price</b> (i.e. for sending students from home to school and vice versa). </u>
+To register for the new bus service in 2024, please click [please click here](https://booking-eml.solo-cloud.com/schoolbus/) latest by <b>Daily School Bus Services based on <b>Not to Exceed Price</b> (i.e. for sending students from home to school and vice versa). 
 
 Bus fares applicable from 1 January 2024 to 31 December 2025:
-![](/images/schbuscost.jpg)
+![](/images/schbuscost.jpg)</b>
