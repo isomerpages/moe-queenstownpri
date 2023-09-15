@@ -10,5 +10,3 @@ description: ""
 <!--*   [iMTL](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)  -->
 *   [Caught Doing Right](https://forms.gle/zzLMN4Mj9uwimY9y9)
 *   [TypingPal](https://queenstownps.typingpal.com/)
-*   [(For Primary 4 to 6 students only) National Digital Explorer Learn](https://learn.icdlasia.org/login/index.php/) 
-*   [(For Primary 4 to 6 students only) National Digital Explorer Learn &amp; Apply](https://asia.skillsbox.com/)
