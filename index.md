@@ -43,7 +43,6 @@ sections:
       image: /images/cce.jpg
       alt: Image alt text
       description: "Go to the QtPS e-Learning website for your e-Learning instructions:"
-      subtitle: QtPS eLearning
   - infopic:
       title: Come join our Alumni
       subtitle: QtPS Alumni
