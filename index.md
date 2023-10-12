@@ -22,8 +22,15 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: Outstanding Youth in Education 2024
+      id: infopic
+      description: All nominations are to be submitted by 10January 2024.
+      button: Nominate Here
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/nominate-a-teacher/
+      image: /images/oyea2024a.png
+      alt: Image alt text
+  - infopic:
       title: Caring Teachers Award 2024
-      subtitle: Infopic Subtitle
       button: NOMINATE HERE
       url: https://www.cta.nie.edu.sg
       image: /images/caringteacher2024.png
@@ -36,6 +43,7 @@ sections:
       image: /images/cce.jpg
       alt: Image alt text
       description: "Go to the QtPS e-Learning website for your e-Learning instructions:"
+      subtitle: QtPS eLearning
   - infopic:
       title: Come join our Alumni
       subtitle: QtPS Alumni
