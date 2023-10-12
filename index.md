@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Outstanding Youth in Education 2024
       id: infopic
-      description: All nominations are to be submitted by 10January 2024.
+      description: All nominations are to be submitted by 10 January 2024.
       button: Nominate Here
       url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/nominate-a-teacher/
       image: /images/oyea2024a.png
