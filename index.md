@@ -22,11 +22,19 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: President's Award for Teachers 2024
+      id: infopic
+      description: President's Award for Teachers 2024
+      button: Nominate Here
+      url: https://go.gov.sg/pat2024
+      image: /images/pat2024.png
+      alt: Image alt text
+  - infopic:
       title: Outstanding Youth in Education 2024
       id: infopic
       description: All nominations are to be submitted by 10 January 2024.
       button: Nominate Here
-      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/nominate-a-teacher/
+      url: https://go.gov.sg/oyea2024
       image: /images/oyea2024a.png
       alt: Image alt text
   - infopic:
