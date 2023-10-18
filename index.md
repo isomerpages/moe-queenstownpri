@@ -30,7 +30,7 @@ sections:
       image: /images/pat2024.png
       alt: Image alt text
   - infopic:
-      title: Outstanding Youth in Education 2024
+      title: Outstanding Youth in Education Award 2024
       id: infopic
       description: All nominations are to be submitted by 10 January 2024.
       button: Nominate Here
