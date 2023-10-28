@@ -1,0 +1,10 @@
+collections:
+  our-staff:
+    output: true
+    order:
+      - Overview.md
+      - Organisation Chart.md
+      - Teaching Staff/.keep
+      - School Management Committee.md
+      - Senior Teacher Council.md
+      - Admin & Support Staff.md

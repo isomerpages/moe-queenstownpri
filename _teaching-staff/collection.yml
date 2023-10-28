@@ -1,0 +1,14 @@
+collections:
+  teaching-staff:
+    output: true
+    order:
+      - Form Teachers 2023/P1 Form Teachers.md
+      - Form Teachers 2023/P2 Form Teachers.md
+      - Form Teachers 2023/P3 Form Teachers.md
+      - Form Teachers 2023/P4 Form Teachers.md
+      - Form Teachers 2023/P5 Form Teachers.md
+      - Form Teachers 2023/P6 Form Teachers.md
+      - Form Teachers 2023/.keep
+      - Senior Teacher Council.md
+      - Mother Tongue Teachers.md
+      - Teaching Support.md

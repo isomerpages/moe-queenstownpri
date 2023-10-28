@@ -1,0 +1,34 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - CCA Overall Schedule.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys Brigade.md
+      - Uniformed Groups/Girls Brigade.md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/International Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Drama Club.md
+      - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Football.md
+      - Sports/Softball.md
+      - Sports/Swimming.md
+      - Clubs And Societies/.keep
+      - Clubs And Societies/Infocomm Club.md
+      - Clubs And Societies/International Chess Club.md
+      - Clubs And Societies/Science and Green Club.md
+      - Clubs And Societies/Visual Art Club.md
+      - Clubs And Societies/Weiqi Club.md
+      - Enrichment Groups/.keep
+      - Enrichment Groups/E2K Science.md
+      - Enrichment Groups/Mathematics Club.md
+      - Other Programmes/.keep
+      - Other Programmes/RRP.md
+      - Other Programmes/SDR.md

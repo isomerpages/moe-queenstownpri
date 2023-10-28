@@ -1,0 +1,32 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Overview.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - Mathematics/.keep
+      - Mathematics/Overview.md
+      - Mathematics/Mathematics Club.md
+      - Science.md
+      - Physical Education (PE).md
+      - Aesthetics/.keep
+      - Aesthetics/Overview.md
+      - Aesthetics/Visual Art.md
+      - Aesthetics/Music.md
+      - Information & Communications Technology.md
+      - Character & Citizenship Educn/.keep
+      - Character & Citizenship Educn/Overview.md
+      - Character & Citizenship Educn/Values in Action (VIA).md
+      - Character & Citizenship Educn/SkillsFuture Week.md
+      - Character & Citizenship Educn/Internationalisation Programme.md
+      - Character & Citizenship Educn/Student Leadership.md
+      - Character & Citizenship Educn/Social Studies.md
+      - Character & Citizenship Educn/Cyberwellness.md
+      - Character & Citizenship Educn/NE Commerative Events.md
+      - Character & Citizenship Educn/Sexuality Education.md
+      - Character & Citizenship Educn/Character and Citizenship Education
+        Lessons (FTGP and CCE MTL).md

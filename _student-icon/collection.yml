@@ -1,0 +1,6 @@
+collections:
+  student-icon:
+    output: true
+    order:
+      - Student Learning Space.md
+      - Student ICON.md

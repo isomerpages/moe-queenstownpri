@@ -1,0 +1,5 @@
+collections:
+  p1-admin:
+    output: true
+    order:
+      - Test P1 adminA.md
