@@ -3,48 +3,6 @@ title: Dental
 permalink: /information/facilities-and-services/dental/
 description: ""
 third_nav_title: Facilities & Services
-variant: markdown
+variant: tiptap
 ---
-| Company | School Dental Service |
-|---|---|
-| Contact Person | Mdm Chui |
-| Contact No for Appt Booking | 89092160 |
-| Clinic Operating Hours  | Mon to Thu : 8:00am to 5:30pm<br>Fri : Closed <br>Lunch break : 12:30pm to 1:30pm|
-|
-
-#### **Dental Clinic Operating Schedule - November 2023**
-
-| <center>Week</center> | <center>Monday</center>| <center>Tuesday</center> | <center>Wednesday</center> | <center>Thursday</center> | <center>Friday</center> |
-|---|---|---|---|---|---|
-| <center>8</center>|<center><br></center> | <center><br></center> | <center>1<br>CLOSED</center> |<center>2<br>CLOSED</center>  |<center>3<br>CLOSED</center>| 
-| <center>9</center> | <center>6<br>OPEN</center>  | <center>7<br>OPEN</center>  | <center>8<br>OPEN</center> | <center>9<br>OPEN</center> | <center>10<br>CLOSED</center>  |
-| <center>10</center> |  <center>13<br>CLOSED</center> | <center> 14<br>CLOSED</center> | <center> 15<br>CLOSED</center> |  <center> 16<br>CLOSED</center> | <center> 17<br>CLOSED</center> |
-| <center> School Holiday</center>|  <center>20<br>CLOSED PM</center> | <center>21 <br>OPEN</center> | <center>22 <br>OPEN</center>|<center>23 <br>OPEN</center> |<center>24 <br>CLOSED</center>|
-| <center> School Holiday</center>|  <center>27<br>CLOSED</center> | <center>28 <br>CLOSED</center> | <center> 29<br>CLOSED</center>|<center>30<br>CLOSED</center> |<center> <br></center>|
-|
-
-#### **December 2023**
-
-| <center>Week</center> | <center>Monday</center>| <center>Tuesday</center> | <center>Wednesday</center> | <center>Thursday</center> | <center>Friday</center> |
-|---|---|---|---|---|---|
-| <center>School Holiday</center>|<center><br></center> | <center><br><center> | <center><br></center> |<center><br></center>  |<center>1<br>CLOSED</center>| 
-| <center>School Holiday</center> | <center>4<br>CLOSED</center>  | <center>5<br>CLOSED</center>  | <center>6<br>OPENS 10:30am</center> | <center>7<br>OPEN</center> | <center>8<br>CLOSED</center>  |
-| <center>School Holiday</center> |  <center>11<br>CLOSED</center> | <center> 12<br>CLOSED</center> | <center> 13<br>CLOSED</center> |  <center>14<br>CLOSED</center> | <center>15<br>CLOSED</center> |
-| <center> School Holiday</center>|  <center>18<br>CLOSED</center> | <center>19 <br>CLOSED</center> | <center>20 <br>CLOSED</center>|<center>21<br>OPEN</center> |<center>22 <br>CLOSED</center>|
-| <center>School Holiday</center>|  <center>25<br>CLOSED</center> | <center>26<br>CLOSED</center> | <center>27<br>CLOSED</center>|<center>28<br>CLOSED</center> |<center>29<br>CLOSED</center>|
-|
-
-Pupils who need dental treatment on days when the clinic is closed can go to the buddy clinics listed below.
-
-Please <b><u>CALL</u></b> the dental in the clinic to make an appointment before you go to the clinic.
-
-#### **Buddy Clinics**
-
-| No. | Dental Clinic | Telephone | Address |
-|---|---|:---:|---|
-| 1 | New Town Primary School Dental Clinic |  87649804 | 300 Tanglin Halt Road<br>S(148812)|
-| 2 | Raffles Girls Primary School Dental Clinic |  89095312 | 21 Hillcrest Road<br>S(289072) |
-| 3 | River Valley Primary School Dental Clinic |  89095948 | 2 River Valley Green<br>S(237993) |
-|
-
-In case of trauma, facial swelling or pain, please email Contact_YPS@HPB.Gov.Sg</center></center>
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Company</p></th><th rowspan="1" colspan="1"><p>School Dental Service</p></th></tr><tr><td rowspan="1" colspan="1"><p>Contact Person</p></td><td rowspan="1" colspan="1"><p>Mdm Chui</p></td></tr><tr><td rowspan="1" colspan="1"><p>Contact No for Appt Booking</p></td><td rowspan="1" colspan="1"><p>89092160 (WhatsApp message only)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Clinic Operating Hours</p></td><td rowspan="1" colspan="1"><p>Mon to Thu : 8:00am to 5:30pm<br>Fri : Closed <br>Lunch break : 12:30pm to 1:30pm</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h4><strong>Dental Clinic Operating Schedule - December 2023</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Week</p></th><th rowspan="1" colspan="1"><p>Monday</p></th><th rowspan="1" colspan="1"><p>Tuesday</p></th><th rowspan="1" colspan="1"><p>Wednesday</p></th><th rowspan="1" colspan="1"><p>Thursday</p></th><th rowspan="1" colspan="1"><p>Friday</p></th></tr><tr><td rowspan="1" colspan="1"><p>School Holiday</p></td><td rowspan="1" colspan="1"><p><br></p></td><td rowspan="1" colspan="1"><p><br></p></td><td rowspan="1" colspan="1"><p><br></p></td><td rowspan="1" colspan="1"><p><br></p></td><td rowspan="1" colspan="1"><p>1<br>CLOSED</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Holiday</p></td><td rowspan="1" colspan="1"><p>4<br>CLOSED</p></td><td rowspan="1" colspan="1"><p>5<br>CLOSED</p></td><td rowspan="1" colspan="1"><p>6<br>OPENS 10:30am</p></td><td rowspan="1" colspan="1"><p>7<br>OPEN</p></td><td rowspan="1" colspan="1"><p>8<br>CLOSED</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Holiday</p></td><td rowspan="1" colspan="1"><p>11<br>CLOSED</p></td><td rowspan="1" colspan="1"><p>12<br>CLOSED</p></td><td rowspan="1" colspan="1"><p>13<br>CLOSED</p></td><td rowspan="1" colspan="1"><p>14<br>CLOSED</p></td><td rowspan="1" colspan="1"><p>15<br>CLOSED</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Holiday</p></td><td rowspan="1" colspan="1"><p>18<br>CLOSED</p></td><td rowspan="1" colspan="1"><p>19 <br>CLOSED</p></td><td rowspan="1" colspan="1"><p>20 <br>CLOSED</p></td><td rowspan="1" colspan="1"><p>21<br>OPEN</p></td><td rowspan="1" colspan="1"><p>22 <br>CLOSED</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Holiday</p></td><td rowspan="1" colspan="1"><p>25<br>CLOSED</p></td><td rowspan="1" colspan="1"><p>26<br>CLOSED</p></td><td rowspan="1" colspan="1"><p>27<br>CLOSED</p></td><td rowspan="1" colspan="1"><p>28<br>CLOSED</p></td><td rowspan="1" colspan="1"><p>29<br>CLOSED</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p>Pupils who need dental treatment on days when the clinic is closed can go to the buddy clinics listed below.</p><p>Please <strong><u>CALL</u></strong> the dental in the clinic to make an appointment before you go to the clinic.</p><h4><strong>Buddy Clinics</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>No.</p></th><th rowspan="1" colspan="1"><p>Dental Clinic</p></th><th rowspan="1" colspan="1"><p>Telephone</p></th><th rowspan="1" colspan="1"><p>Address</p></th></tr><tr><td rowspan="1" colspan="1"><p>1</p></td><td rowspan="1" colspan="1"><p>New Town Primary School Dental Clinic</p></td><td rowspan="1" colspan="1"><p>87649804</p></td><td rowspan="1" colspan="1"><p>300 Tanglin Halt Road<br>S(148812)</p></td></tr><tr><td rowspan="1" colspan="1"><p>2</p></td><td rowspan="1" colspan="1"><p>Raffles Girls Primary School Dental Clinic</p></td><td rowspan="1" colspan="1"><p>89095312</p></td><td rowspan="1" colspan="1"><p>21 Hillcrest Road<br>S(289072)</p></td></tr><tr><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>River Valley Primary School Dental Clinic</p></td><td rowspan="1" colspan="1"><p>89095948</p></td><td rowspan="1" colspan="1"><p>2 River Valley Green<br>S(237993)</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p>In case of trauma, facial swelling or pain, please email Contact_YPS@HPB.Gov.Sg</p>

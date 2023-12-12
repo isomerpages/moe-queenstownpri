@@ -2,33 +2,6 @@
 title: School Management Committee
 permalink: /our-staff/school-management-committee/
 description: ""
+variant: tiptap
 ---
-|||
-|-----|-----|
-| Principal | Ms Pearly Ng  |   
-| Vice-Principal |  Ms Chew May |  
-| Vice-Principal (Admin) | Mr Low Kay Kiat  |
-| Admin Manager | Mrs Jeslyn Lim  | 
-| HOD/English | Ms Lim Hong Hoon Geraldine  | 
-| HOD/Science | Mrs Chia-Kong Su Sze  | 
-| HOD/Mother Tongue Languages  | Mr Yeo Chee Wee  |  
-| HOD/Character & Citizenship Education | Mr Feng Wenfu  | 
-| HOD/Student Management | Mr Wong Yew Kuan  | 
-| HOD/ICT | Mr Mohd Noor  | 
-| HOD/Mathematics | Mr Haw Shuen Siang   | 
-| School Staff Developer  | Mrs Ong-Lim Lay See  | 
-| Lower Primary Year Head | Mrs Diana Ho-Ong Suat Keng | 
-| Middle Primary Year Head | Mrs Bay-Teoh Wooi Ling | 
-| Upper Primary Year Head | Mdm K Thanalachimi  | 
-| Middle Primary Asst Year Head | Mrs Nur Syakilla Bates  | 
-| Upper Primary Asst Year Head | Ms Kang Li Ping   | 
-| SH/ICT | Mr Gabriel Lee  | 
-| SH/PE & CCA | Mr Muhammad A'srie Bin Che Ali  | 
-| SH/Aesthetics | Mdm Jeanna Goh   | 
-| SH/Student Well-Being | Mr Jevon See  | 
-| SH/Student Leadership | Mrs Yap-Fang Shilin Calista |
-| SH/Social Studies  | Mr Muhammad Azuan  | 
-| LH/Mathematics | Ms Yeo Teck Wai  | 
-| LH/Science | Mdm Liu Xi | 
-| LH/English | Mdm S Srija  | 
-|
+<table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Principal</p></td><td rowspan="1" colspan="1"><p>Ms Pearly Ng</p></td></tr><tr><td rowspan="1" colspan="1"><p>Vice-Principal</p></td><td rowspan="1" colspan="1"><p>Ms Chew May</p></td></tr><tr><td rowspan="1" colspan="1"><p>Vice-Principal (Admin)</p></td><td rowspan="1" colspan="1"><p>Mr Low Kay Kiat</p></td></tr><tr><td rowspan="1" colspan="1"><p>Admin Manager</p></td><td rowspan="1" colspan="1"><p>Mrs Jeslyn Lim</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD/English</p></td><td rowspan="1" colspan="1"><p>Ms Lim Hong Hoon Geraldine</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD/Mathematics</p></td><td rowspan="1" colspan="1"><p>Mr Haw Shuen Siang</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD/Science</p></td><td rowspan="1" colspan="1"><p>Mrs Chia-Kong Su Sze</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD/Mother Tongue Languages</p></td><td rowspan="1" colspan="1"><p>Mr Yeo Chee Wee</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD/Character &amp; Citizenship Education</p></td><td rowspan="1" colspan="1"><p>Mr Feng Wenfu</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD/Student Management</p></td><td rowspan="1" colspan="1"><p>Mr Wong Yew Kuan</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD/ICT</p></td><td rowspan="1" colspan="1"><p>Mr Mohd Noor</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD/PE &amp; CCA</p></td><td rowspan="1" colspan="1"><p>Mr Muhammad A'srie Bin Che Ali</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Staff Developer</p></td><td rowspan="1" colspan="1"><p>Mrs Ong-Lim Lay See</p></td></tr><tr><td rowspan="1" colspan="1"><p>Lower Primary Year Head</p></td><td rowspan="1" colspan="1"><p>Mrs Diana Ho-Ong Suat Keng</p></td></tr><tr><td rowspan="1" colspan="1"><p>Middle Primary Year Head</p></td><td rowspan="1" colspan="1"><p>Mrs Bay-Teoh Wooi Ling</p></td></tr><tr><td rowspan="1" colspan="1"><p>Upper Primary Year Head</p></td><td rowspan="1" colspan="1"><p>Mdm K Thanalachimi</p></td></tr><tr><td rowspan="1" colspan="1"><p>Middle Primary Asst Year Head</p></td><td rowspan="1" colspan="1"><p>Mrs Nur Syakilla Bates</p></td></tr><tr><td rowspan="1" colspan="1"><p>Upper Primary Asst Year Head</p></td><td rowspan="1" colspan="1"><p>Ms Kang Li Ping</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH/ICT</p></td><td rowspan="1" colspan="1"><p>Mr Gabriel Lee</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH/Aesthetics</p></td><td rowspan="1" colspan="1"><p>Mdm Jeanna Goh</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH/Student Well-Being</p></td><td rowspan="1" colspan="1"><p>Mr Jevon See</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH/Student Leadership</p></td><td rowspan="1" colspan="1"><p>Mrs Yap-Fang Shilin Calista</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH/Social Studies</p></td><td rowspan="1" colspan="1"><p>Mr Muhammad Azuan</p></td></tr><tr><td rowspan="1" colspan="1"><p>LH/English</p></td><td rowspan="1" colspan="1"><p>Mdm S Srija</p></td></tr><tr><td rowspan="1" colspan="1"><p>LH/Mathematics</p></td><td rowspan="1" colspan="1"><p>Ms Yeo Teck Wai</p></td></tr><tr><td rowspan="1" colspan="1"><p>LH/Science</p></td><td rowspan="1" colspan="1"><p>Mdm Liu Xi</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
