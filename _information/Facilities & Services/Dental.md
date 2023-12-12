@@ -8,7 +8,7 @@ variant: markdown
 | Company | School Dental Service |
 |---|---|
 | Contact Person | Mdm Chui |
-| Contact No for Appt Booking | 89092160 |
+| Contact No for Appt Booking | 89092160 (WhatsApp message only) |
 | Clinic Operating Hours  | Mon to Thu : 8:00am to 5:30pm<br>Fri : Closed <br>Lunch break : 12:30pm to 1:30pm|
 |
 
