@@ -3,24 +3,24 @@ title: Basketball
 permalink: /experience/CCA/physical-sports/basketball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Ms Charine Chong (OIC)<br>
 Mr Jevon See<br>
 Ms Venus Lim Wen Xuan<br>
 Mrs Nur Syakilla Bates<br>
-Mdm Vaani <br>
-Ms Wong Jieying
+Mdm Yap Eng Fui<br>
 
 #### **CCA Advisor**
 Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
-Tuesdays (Group 2) <br>
-3.00 pm to 5.00 pm
+Mondays (Development Team) <br>
+2.30-4.30 p.m.
 
-Fridays (Group 1)<br>
-3.00 pm to 5.00 pm
+Tuesdays and Fridays (Competitive Team) <br>
+2.30-4.30 p.m.
 
 #### **CCA Venue**
 ISH / Rooftop Basketball Court
