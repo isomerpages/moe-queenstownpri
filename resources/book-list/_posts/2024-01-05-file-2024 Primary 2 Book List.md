@@ -1,6 +1,6 @@
 ---
 title: 2024 Primary 2 Book List
-date: 2023-11-14
+date: 2024-01-05
 layout: file
 description: ""
 image: ""
