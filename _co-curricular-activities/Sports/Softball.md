@@ -19,7 +19,7 @@ Monday &amp; Friday 3pm to 5pm<br>
 
 #### **CCA Venue**
 Monday - School Field<br>
-Thursday - Hall<br>
+Friday - Hall<br>
 Wet Weather - ISH 
 
 #### **About CCA**
