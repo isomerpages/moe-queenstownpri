@@ -3,6 +3,7 @@ title: Softball
 permalink: /experience/CCA/physical-sports/softball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mr Jasper Chiang (OIC)<br>
@@ -14,7 +15,7 @@ Mr Tan Kian Tat
 Mr Muhammad A’srie B Che Ali
 
 #### **CCA Training**
-Monday &amp; Thursday 3pm to 5pm<br>
+Monday &amp; Friday 3pm to 5pm<br>
 
 #### **CCA Venue**
 Monday - School Field<br>
