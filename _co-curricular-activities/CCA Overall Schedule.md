@@ -26,7 +26,6 @@ variant: markdown
 | CCA | Day(s) / Time | Venue | Teachers In-Charge |
 |---|---|---|---|
 | Choir | Tue &amp; Fri<br>2.15 pm - 4.15 pm | Music Room 2 | Mdm Quek Siew Kee (OIC)<br>Ms Peck Siew Ling<br> |
-| Chinese Orchestra | Tue &amp; Fri<br>2.15 pm - 4.15 pm | Band Room<br>AVA Room<br>Classroom | Mdm Yap Eng Fui (OIC)<br>Ms Liu Zijing<br>Ms Ruzana |
 | International Dance | Tue &amp; Fri<br>2.15 pm - 4.15 pm |  Dance Studio | Ms Lu Wei (OIC)<br>Mrs Sharon Ng <br>Mdm Zaheedah|
 | Chinese Dance | Fri<br>2.15 pm - 4.15 pm| Music Room 1 | Mdm Li Lingbo (OIC)<br>Ms Cheung Man Wai |
 | Indian Dance | Fri<br>2.15 pm - 4.15 pm | PAL Room 2 | Ms Ho Li Ming (OIC)<br>Mdm Najumunisha |
@@ -41,7 +40,7 @@ variant: markdown
 | Badminton | Mon, Tue &amp; Fri <br>2.30 pm - 5.00 pm | School Hall | Mr Amos Leong (OIC)<br>Ms Tan Wei Xin<br>Ms Yap Ee Lim<br>Mdm Nazmunnisah<br>Ms Kang Li Ping<br>Mr Gordon Ranjit Magherra |
 | Basketball | Mon, Tue &amp; Fri<br>  2.30 pm - 4.30 pm | ISH / Rooftop Basketball Court | Ms Charine Chong (OIC)<br>Mr Jevon See <br>Ms Venus Lim <br>Mrs Nur Syakilla Bates<br>Mdm Yap Eng Fui  |
 | Football | Tue &amp; Thu<br> 3.00 pm to 5.00 pm<br> | Field / Parade Square<br>ISH (Wet Weather) | Ms Sim Li Min (OIC) <br>Mr Md Azuan <br>Mr Lim Ching Feng<br>Ms Yeo Teck Wai |
-| Softball | Mon &amp; Thu<br>3.00 pm - 5.00 pm | Mon - Field<br>Thu - Hall<br>Wet Weather - ISH | Mr Jasper Chiang (OIC)<br>Ms Wan Hameezah<br>Mrs Pauline Lee<br>Mr Tan Kian Tat |
+| Softball | Mon &amp; Fri<br>3.00 pm - 5.00 pm | Mon - Field<br>Fri - Hall<br>Wet Weather - ISH | Mr Jasper Chiang (OIC)<br>Ms Wan Hameezah<br>Mrs Pauline Lee<br>Mr Tan Kian Tat |
 | Swimming |  Tue &amp; Fri<br>2.30 pm - 5.00 pm | Queenstown/MOE (Evans Road) swimming complex | Ms Yong Foong Er (OIC) <br>Mr Kwek Hong Wee<br>Ms Calista Fang <br>Ms Charmaine Goh|
 |
 

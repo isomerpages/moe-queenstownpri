@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: CCA
           description: ""
-          url: /experience/CCA/
+          url: /co-curricular-activities/
         - title: Sign up for Parents Gateway now
           description: ""
           url: /information/parents-gateway/
