@@ -11,7 +11,7 @@ variant: markdown
 | Online Purchase  |  [www.iHuntforBooks.com](http://www.iHuntforBooks.com/) |
 | Contact No | 9018 5765 |
 | Email | [hb.bk.ctr@gmail.com](mailto:hb.bk.ctr@gmail.com) |
-| Operating Hours | Monday to Friday : 9.00 am – 3.00 pm |
+| Operating Hours | Monday to Friday : 12.00noon – 3.00 pm |
 |
 
 **On-site purchase:** Vendor accepts cash, PayNow, NTUC/CDAC Vouchers.
