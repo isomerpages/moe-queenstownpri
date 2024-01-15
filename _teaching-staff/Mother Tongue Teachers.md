@@ -2,6 +2,7 @@
 title: Mother Tongue Teachers
 permalink: /our-staff/teaching-staff/mother-tongue-teachers/
 description: ""
+variant: markdown
 ---
 #### **Chinese Language**
 
@@ -10,19 +11,19 @@ description: ""
 | 1 | Mr Yeo Chee Wee | 
 | 2 | Mdm Chai Jing Yi | 
 | 3 | Ms Cheung Man Wai |
-| 4 | Mdm Jeanie Lim | 
-| 5 | Mr Kwek Hong Wee |
-| 6 | Mdm Kwek Sor Hian | 
-| 7 | Ms Lee Hui Yi | 
-| 8 | Ms Lee Yee Hueh | 
-| 9 | Mdm Li Lingbo |
-| 10 | Ms Lu Wei | 
-| 11 | Ms Ng Wan Quan Kaycee | 
-| 12 | Mdm Qian Li |  
-| 13 | Ms Sim Li Min | 
-| 14 | Mdm Tan Chia Huee |
-| 15 | Mr Teo Chee Tat | 
-| 16 | Mdm Wong Jie Ying | 
+| 4 | Ms Chu Yu Fang | 
+| 5 | Mdm Jeanie Lim | 
+| 6 | Mr Kwek Hong Wee |
+| 7 | Mdm Kwek Sor Hian | 
+| 8 | Ms Lee Hui Yi | 
+| 9 | Ms Lee Yee Hueh | 
+| 10 | Mdm Li Lingbo |
+| 11 | Ms Lu Wei | 
+| 12 | Ms Ng Wan Quan Kaycee | 
+| 13 | Mdm Qian Li |  
+| 14 | Ms Sim Li Min | 
+| 15 | Mdm Tan Chia Huee |
+| 16 | Mr Teo Chee Tat | 
 | 17 | Mdm Yang Shiow Ru | 
 | 18 | Mdm Yap Eng Fui | 
 |
