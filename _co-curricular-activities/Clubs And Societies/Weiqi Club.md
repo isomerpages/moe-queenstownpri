@@ -3,13 +3,11 @@ title: Weiqi Club
 permalink: /experience/CCA/clubs-and-societies/weiqi-club/
 description: ""
 third_nav_title: Clubs And Societies
+variant: markdown
 ---
 #### **CCA teachers-in-Charge**
 Mdm Chai Jing Yi (OIC) <br>
 Mr Teo Chee Tat
-
-#### **CCA Advisor**
-Mr Yeo Chee Wee
 
 #### **CCA Day and Time**
 Tuesdays<br>

@@ -3,21 +3,18 @@ title: Badminton
 permalink: /experience/CCA/physical-sports/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mr Amos Leong (OIC)  <br>
+Mr Gordon Ranjit Magherra<br>
 Ms Tan Wei Xin<br>
 Ms Yap Ee Lim<br>
-Mdm Nazmunnisah<br>
-Ms Kang Li Ping <br>
-Mr Gordon Ranjit Magherra
-
-#### **CCA Advisor**
-Mr Muhammad A’srie B Che Ali
+Ms Kang Li Ping 
 
 #### **CCA Training**
 Mondays, Tuesdays &amp; Fridays<br>
-2.30 pm to 5.00 pm
+3.00 pm to 5.00 pm
 
 #### **CCA Venue**
 School Hall

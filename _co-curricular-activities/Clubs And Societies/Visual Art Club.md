@@ -3,10 +3,12 @@ title: Visual Art Club
 permalink: /experience/CCA/clubs-and-societies/visual-art-club/
 description: ""
 third_nav_title: Clubs And Societies
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
-Mdm Aliah Hanim (OIC)<br>
-Mrs Suzanne Pang
+Mrs Suzanne Pang (OIC)<br>
+Mdm Aliah Hanim<br>
+Mdm Cheung Man Wai
 
 #### **CCA Advisor**
 Mdm Jeanna Goh

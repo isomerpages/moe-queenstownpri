@@ -3,14 +3,12 @@ title: Boys Brigade
 permalink: /experience/CCA/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mr Jason Seng (OIC)<br>
-Mr Mark Teo<br>
-Mdm Kwek Sor Hian
-
-#### **CCA Advisor**
-Mr Muhammad A'srie B Che Ali
+Mdm Kwek Sor Hian<br>
+Ms Chu Yu Fang
 
 #### **CCA Day and Time**
 Fridays <br>

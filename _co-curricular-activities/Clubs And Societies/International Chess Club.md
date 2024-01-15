@@ -3,13 +3,12 @@ title: International Chess Club
 permalink: /experience/cca/clubs-and-societies/international-chess/
 description: ""
 third_nav_title: Clubs And Societies
+variant: markdown
 ---
 #### **CCA teachers-in-Charge**
-Ms Labelle Lee (OIC) <br>
-Ms Kaycee Ng Wan Quan
-
-#### **CCA Advisor**
-Mr Muhammad A'srie
+Ms Kaycee Ng Wan Quan (OIC) <br>
+Mdm Joyce Kang <br>
+Mrs Calista Yap
 
 #### **CCA Day and Time**
 Tuesdays<br>

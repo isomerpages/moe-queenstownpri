@@ -3,15 +3,14 @@ title: Football
 permalink: /experience/CCA/physical-sports/football/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Ms Sim Limin (OIC)<br>
 Mr Md Azuan<br>
-Mr Lim Ching Feng<br>
-Ms Yeo Teck Wai
-
-#### **CCA Advisor**
-Mr Muhammad A’srie B Che Ali
+Ms Yeo Teck Wai <br>
+Mdm Zaheedah <br>
+Mrs Chew-Lim Shu Min
 
 #### **CCA Training**
 Tuesdays &amp; Thursdays (Competitive Team)<br>

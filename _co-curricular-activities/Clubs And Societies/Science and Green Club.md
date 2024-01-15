@@ -3,14 +3,15 @@ title: Science and Green Club
 permalink: /experience/CCA/clubs-and-societies/
 description: ""
 third_nav_title: Clubs And Societies
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
-Ms Choo Ruofei (OIC)<br>
+Mdm Vaani (OIC)<br>
 Mrs Jean Law<br>
-Mdm Joyce Kang
+Ms Liu Zi Jing
 
 #### **CCA Advisor**
-Mrs Chen Soon Shan
+Mrs Chia Su Sze &amp; Mrs Chen Soon Shan
 
 #### **CCA Day and Time**
 Tuesdays<br>

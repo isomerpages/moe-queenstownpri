@@ -7,15 +7,13 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mr Jasper Chiang (OIC)<br>
-Ms Wan Hameezah<br>
 Mrs Pauline Lee<br>
-Mr Tan Kian Tat
-
-#### **CCA Advisor**
-Mr Muhammad A’srie B Che Ali
+Mr Tan Kian Tat<br>
+Ms Wan Hameezah
 
 #### **CCA Training**
-Monday &amp; Friday 3pm to 5pm<br>
+Monday &amp; Friday <br>
+3.00pm to 5.00pm<br>
 
 #### **CCA Venue**
 Monday - School Field<br>
