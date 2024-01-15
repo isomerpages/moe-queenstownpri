@@ -2,6 +2,7 @@
 title: Teaching Support
 permalink: /our-staff/teaching-staff/teaching-support/
 description: ""
+variant: markdown
 ---
 #### **Special Needs Officers**
 
@@ -13,7 +14,6 @@ description: ""
 
 *   Ms Irene Poon
 *   Ms Christine Chng
-*   Mrs Chua Oi Lin
 
 #### **Student Welfare Officer**
 
