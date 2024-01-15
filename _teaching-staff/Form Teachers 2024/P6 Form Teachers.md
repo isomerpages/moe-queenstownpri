@@ -7,20 +7,14 @@ variant: markdown
 ---
 | Class| Form Teachers | 
 | -------- | -------- |
-| 6 Care | Mdm Thamizhvaani d/o Veeraian <br> Mdm Siti-Hamesiah Bte Samsudin |
-| 6 Courage | Mr Jevon See <br> Mdm Yong Foong Er |
-| 6 Creativity | Mr Feng Wenfu <br> Mdm Von Tjong Min Cui |
-| 6 Diligence | Mr Haw Shuen Siang <br> Mrs Ong-Lim Lay See | 
-| 6 Honesty | Ms Choo Ruofei <br> Mr Yeo Chee Wee | 
-| 6 Joy | Ms Yeoh Mandi <br> Ms Wan Hameezah Bte Mohd Said | 
-| 6 Peace | Mr Muhammad Azuan <br> Ms Yeo Teck Wai | 
-| 5 Care | Mrs Pauline Lee <br> Mr Muhammad A'srie |
-| 5 Courage | Mdm K Thanalachimi <br>Mdm Wong Jie Ying |
-| 5 Creativity | Mdm Nazmunnisah <br>Ms Ng Wan Quan Kaycee |
-| 5 Diligence | Mdm Revathi d/o Balasubramaniam<br>Mrs Yap-Fng Shilin, Calista |
-| 5 Honesty | Mrs Siti Faizah Shahrin <br> Mdm S Srija | 
-| 5 Joy | Ms Ratna Bte Jainal <br> Mr Kwek Hong Wee | 
-| 5 Peace | Mrs Chen Soon Shan <br>Mdm Hermawati Bte Dolfata  | |
+| 6 Care | Mrs Pauline Lee <br> Mr Muhammad A'srie |
+| 6 Courage | Mdm K Thanalachimi <br>Mdm Siti-Hamesiah |
+| 6 Creativity | Mr Feng Wenfu  <br>Ms Ng Wan Quan Kaycee |
+| 6 Diligence | Mdm Revathi d/o Balasubramaniam<br>Mr Jason Seng |
+| 6 Honesty | Mrs Siti Faizah Shahrin <br> Mdm S Srija | 
+| 6 Joy | Ms Ratna Bte Jainal <br> Mr Yeo Chee Wee | 
+| 6 Peace | Mrs Chen Soon Shan <br>Mdm Hermawati Bte Dolfata  | 
+|
 
 Form Teachers can be reached either through ClassDojo or email. Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
 ![](/images/PG-contacts2.jpg)
