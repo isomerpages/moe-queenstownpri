@@ -12,15 +12,12 @@ Ms Venus Lim Wen Xuan<br>
 Mrs Nur Syakilla Bates<br>
 Mdm Yap Eng Fui<br>
 
-#### **CCA Advisor**
-Mr Muhammad A’srie B Che Ali
-
 #### **CCA Training**
 Mondays (Development Team) <br>
-2.30-4.30 p.m.
+3.00-5.00 p.m.
 
 Tuesdays and Fridays (Competitive Team) <br>
-2.30-4.30 p.m.
+3.00-5.00 p.m.
 
 #### **CCA Venue**
 ISH / Rooftop Basketball Court
