@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Class| Form Teachers | 
 | -------- | -------- |
-| 3 Care | Mr Jasper Chiang <br> Mrs Siregar <br> Mdm Zaheedah |
+| 3 Care | Mr Jasper Chiang <br> Mdm Zaheedah |
 | 3 Courage | Mrs Ong Lay See<br> Ms Muzaiyanah |
 | 3 Creativity | Mrs Nur Syakilla Bates <br> Ms Cheung Wai Man  |
 | 3 Diligence | Mrs Christabel Goh <br> Mr Amos Leong | 
