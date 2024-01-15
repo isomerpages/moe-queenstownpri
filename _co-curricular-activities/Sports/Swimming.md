@@ -3,12 +3,13 @@ title: Swimming
 permalink: /experience/CCA/physical-sports/swimming/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mdm Yong Foong Er (OIC)<br>
-Mr Kwek Hong Wee<br>
-Ms Calista Fang<br>
-Ms Charmaine Goh
+Mr Balajee<br>
+Ms Srija<br>
+Mdm Tan Chia Huee
 
 #### **CCA Advisor**
 Mr Muhammad A’srie B Che Ali
