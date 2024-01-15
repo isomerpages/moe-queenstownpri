@@ -11,9 +11,6 @@ Mr Balajee<br>
 Ms Srija<br>
 Mdm Tan Chia Huee
 
-#### **CCA Advisor**
-Mr Muhammad A’srie B Che Ali
-
 #### **CCA Training**
 Tuesdays &amp; Fridays<br> 
 2.30 pm to 5.00 pm <br>
