@@ -12,9 +12,6 @@ Ms Yeo Teck Wai <br>
 Mdm Zaheedah <br>
 Mrs Chew-Lim Shu Min
 
-#### **CCA Advisor**
-Mr Muhammad A’srie B Che Ali
-
 #### **CCA Training**
 Tuesdays &amp; Thursdays (Competitive Team)<br>
 3.00 pm to 5.00 pm 
