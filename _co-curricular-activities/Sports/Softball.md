@@ -11,11 +11,9 @@ Mrs Pauline Lee<br>
 Mr Tan Kian Tat<br>
 Ms Wan Hameezah
 
-#### **CCA Advisor**
-Mr Muhammad A’srie B Che Ali
-
 #### **CCA Training**
-Monday &amp; Friday 3pm to 5pm<br>
+Monday &amp; Friday <br>
+3.00pm to 5.00pm<br>
 
 #### **CCA Venue**
 Monday - School Field<br>
