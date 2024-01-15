@@ -3,12 +3,13 @@ title: E2K Science
 permalink: /co-curricular-activities/Enrichment-Groups/E2K-science/
 description: ""
 third_nav_title: Enrichment Groups
+variant: markdown
 ---
 #### **CCA teachers-in-Charge**
+Ms Ratna Bte Jainal (OIC) <br>
 Ms Ivy Tan <br>
-Ms Ratna Bte Jainal <br>
 Mr Gabriel Lee <br>
-Mr Charles Ng
+Mr Mark Teo
 
 #### **CCA Advisor**
 Mrs Chia-Kong Su Sze
