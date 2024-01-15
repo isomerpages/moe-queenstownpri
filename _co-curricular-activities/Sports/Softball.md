@@ -7,9 +7,9 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mr Jasper Chiang (OIC)<br>
-Ms Wan Hameezah<br>
 Mrs Pauline Lee<br>
-Mr Tan Kian Tat
+Mr Tan Kian Tat<br>
+Ms Wan Hameezah
 
 #### **CCA Advisor**
 Mr Muhammad A’srie B Che Ali
