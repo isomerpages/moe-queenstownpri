@@ -62,4 +62,5 @@ variant: markdown
 | Mathematics Club | Mon (P4)<br>2.00 pm - 3.30 pm<br>Thu (P5-P6)<br>3.30 pm - 5.00 pm | Teaching Lab  | Mrs Siti Shahrin (OIC) <br>Mr Albert Ng<br>Ms Mandi Yeoh<br>Mr Haw Shuen Siang (Advisor) |
 | E2K Science | Mon &amp; Thu <br>2.00 pm - 4.00 pm | Physical Science Room | Ms Ratna Bte Jainal (OIC) <br>Ms Ivy Tan<br>Mr Gabriel Lee<br> Mr Mark Teo<br>Mrs Chia-Kong Su Sze (Advisor) |
 |
+
 CCA Teachers in charge can be reached via email. Your child's CCA Teacher-in-charge's email address can be found on Parents Gateway.
