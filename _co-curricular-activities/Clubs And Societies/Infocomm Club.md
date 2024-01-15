@@ -3,6 +3,7 @@ title: Infocomm Club
 permalink: /experience/CCA/clubs-and-societies/infocomm/
 description: ""
 third_nav_title: Clubs And Societies
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Ms Fathin Atikah Mas’ud (OIC)<br>
