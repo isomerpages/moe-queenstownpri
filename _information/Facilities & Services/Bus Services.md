@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Company | Revolving Transport Pte Ltd |
 |---|---|
-| Contact Person | Mr Jason / Mr Nicholas Ng |
+| Contact Person | Mr Jason Lee / Mr Nicholas Ng |
 | Contact No | 92739277 / 92770099|
 | Email  | [emltpt96@gmail.com](mailto:emltpt96@gmail.com)  ||
 	
