@@ -22,12 +22,12 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
-      title: President's Award for Teachers 2024
+      title: Most Inspiring Tamil Teacher 2024
       id: infopic
-      description: President's Award for Teachers 2024
+      description: All nominations are to be submitted before 1 April 2024.
       button: Nominate Here
-      url: https://go.gov.sg/pat2024
-      image: /images/pat2024.png
+      url: https://go.gov.sg/mitt2024nominationformel
+      image: /images/TL_Teacher_Award.jpg
       alt: Image alt text
   - infopic:
       title: Outstanding Youth in Education Award 2024
