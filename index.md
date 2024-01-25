@@ -22,28 +22,13 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
-      title: President's Award for Teachers 2024
+      title: Most Inspiring Tamil Teacher 2024
       id: infopic
-      description: President's Award for Teachers 2024
+      description: All nominations are to be submitted before 1 April 2024.
       button: Nominate Here
-      url: https://go.gov.sg/pat2024
-      image: /images/pat2024.png
+      url: https://go.gov.sg/mitt2024nominationformel
+      image: /images/TL_Teacher_Award.jpg
       alt: Image alt text
-  - infopic:
-      title: Outstanding Youth in Education Award 2024
-      id: infopic
-      description: All nominations are to be submitted by 10 January 2024.
-      button: Nominate Here
-      url: https://go.gov.sg/oyea2024
-      image: /images/oyea2024a.png
-      alt: Image alt text
-  - infopic:
-      title: Caring Teachers Award 2024
-      button: NOMINATE HERE
-      url: https://www.cta.nie.edu.sg
-      image: /images/caringteacher2024.png
-      description: All nominations are to be submitted by 12 January 2024.
-      alt: Caring Teacher Awards 2024
   - infopic:
       title: QtPS eLearning Website
       button: https://go.gov.sg/qtps-hbl
