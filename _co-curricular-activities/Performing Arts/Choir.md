@@ -3,6 +3,7 @@ title: Choir
 permalink: /experience/CCA/performing-arts/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mdm Quek Siew Kee (OIC)<br>
@@ -49,12 +50,11 @@ Students also learn by reflecting on their own music making process and singing 
 ![](/images/perf%20art%202.jpg)
 
 #### **Videos**
+The music department, choir, and P4 students from 2023 would like to show our unity and we composed a song entitled "Together, We Thrive" in love to encourage us to unite and thrive in love during the challenges of the future.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="V6 TOGETHER WE THRIVE" src="https://www.youtube.com/embed/rO8ZTboquGM" height="364" width="644"></iframe>
 
 Choir CCA - Student Voices
 <iframe width="644" height="364" src="https://www.youtube.com/embed/Fl9gB0y-E68" title="Choir CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-"Thunder" Music Video 2021
-<iframe width="642" height="360" src="https://www.youtube.com/embed/CRlxXZO159o" title="Thunder QTPS Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 QtPS Choir Warm Up during SYF Rehearsal 2020 @ SOTA
 <iframe width="640" height="362" src="https://www.youtube.com/embed/dtgGmIt6D_I" title="QtPS Choir Warm Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
