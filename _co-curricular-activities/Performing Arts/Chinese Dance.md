@@ -3,10 +3,11 @@ title: Chinese Dance
 permalink: /experience/CCA/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mdm Li Lingbo (OIC)<br>
-Ms Cheung Man Wai
+Mdm Najumunisha
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
@@ -16,7 +17,7 @@ Fridays<br>
 2.15 pm to 4.15 pm
 
 #### **CCA Venue**
-Music Room 1
+Dance Studio
 
 #### **About CCA**
 Queenstown Primary School Chinese Dance CCA seeks to enrich its members with basic skills in both Chinese classical and ethnic folk dance movements incorporating elements of Chinese martial arts and gymnastics.

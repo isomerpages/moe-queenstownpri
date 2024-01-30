@@ -14,10 +14,10 @@ Mdm Yap Eng Fui<br>
 
 #### **CCA Training**
 Mondays (Development Team) <br>
-3.00 - 5.00 p.m.
+2.30 - 4.30 p.m.
 
 Tuesdays and Fridays (Competitive Team) <br>
-3.00 - 5.00 p.m.
+2.30 - 4.30 p.m.
 
 #### **CCA Venue**
 ISH / Rooftop Basketball Court

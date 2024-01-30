@@ -3,10 +3,11 @@ title: Drama Club
 permalink: /experience/CCA/performing-arts/drama-club/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
-Mdm Asmahliah (OIC)<br>
-Miss Lee Yee Hueh <br>
+Miss Lee Yee Hueh (OIC) <br>
+Ms Muzaiyanah
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
@@ -16,7 +17,7 @@ Fridays<br>
 2.15 pm to 4.15 pm
 
 #### **CCA Venue**
-Teaching Lab
+Music Room 1
 
 #### **About CCA**
 Drama Club aims to instill in its members skills that are important as a performer and beyond. It also provides a platform for students to express themselves creatively on stage, online as well as off-stage.
