@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mdm Li Lingbo (OIC)<br>
-Ms Cheung Man Wai
+Mdm Najumunisha
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
