@@ -3,10 +3,10 @@ title: Indian Dance
 permalink: /experience/CCA/performing-arts/indian-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Ms Ho Li Ming (OIC)<br>
-Mdm Najumunisha
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
