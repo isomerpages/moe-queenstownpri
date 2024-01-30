@@ -14,7 +14,7 @@ Ms Kang Li Ping
 
 #### **CCA Training**
 Mondays, Tuesdays &amp; Fridays<br>
-3.00 pm to 5.00 pm
+2.30 pm to 5.00 pm
 
 #### **CCA Venue**
 School Hall
