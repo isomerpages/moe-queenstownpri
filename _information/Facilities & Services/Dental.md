@@ -303,7 +303,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>13
-<br>CLSED</p>
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>14
