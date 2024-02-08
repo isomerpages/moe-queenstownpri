@@ -22,6 +22,16 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: Inspiring English Teacher Award 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: All nominations are to be submitted before 5 April 2024.
+      button: Nominate Here
+      url: http://goodenglish.org.sg/inspiring-teacher-of-english-
+        award/nomination-information
+      image: /images/EL_Teacher_Award.jpg
+      alt: Image alt text
+  - infopic:
       title: Most Inspiring Tamil Teacher 2024
       id: infopic
       description: All nominations are to be submitted before 1 April 2024.
