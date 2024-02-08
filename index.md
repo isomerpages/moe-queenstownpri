@@ -59,7 +59,7 @@ sections:
       button: click here
       url: /co-curricular-activities/
       alt: Image alt text
-      image: /images/cca banner.jpg
+      image: /images/CCA_2024.jpeg
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
