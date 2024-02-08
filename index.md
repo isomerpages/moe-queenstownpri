@@ -47,19 +47,19 @@ sections:
       alt: Image alt text
       description: "Go to the QtPS e-Learning website for your e-Learning instructions:"
   - infopic:
-      title: Come join our Alumni
-      subtitle: QtPS Alumni
-      button: Click here to register
-      url: https://docs.google.com/forms/d/e/1FAIpQLSdWz8NCB86RSrF0Lk7EuBSM2300rasnztuvwINCNBsIRKX2rg/viewform
-      image: /images/Alumni.jpg
-      alt: Image alt text
-  - infopic:
       title: CCA
       description: Co-Curricular Activities
       button: click here
       url: /co-curricular-activities/
       alt: Image alt text
       image: /images/CCA_2024.jpeg
+  - infopic:
+      title: Come join our Alumni
+      subtitle: QtPS Alumni
+      button: Click here to register
+      url: https://docs.google.com/forms/d/e/1FAIpQLSdWz8NCB86RSrF0Lk7EuBSM2300rasnztuvwINCNBsIRKX2rg/viewform
+      image: /images/Alumni.jpg
+      alt: Image alt text
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
