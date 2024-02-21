@@ -67,4 +67,13 @@ sections:
       url: https://ask.gov.sg/qtps
       image: /images/qtps-askgov.png
       alt: Image alt text
+  - infopic:
+      title: Arif Budiman Malay Language Teacher Award 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: All nominations are to be submitted before 1 April 2024.
+      button: Nominate Here
+      url: HTTPS://GO.GOV.SG/AGAB2024
+      image: /images/ML_Teacher_Award.jpg
+      alt: Image alt text
 ---
