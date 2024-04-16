@@ -24,8 +24,7 @@ sections:
   - infopic:
       title: Learning Extravaganza 2024
       id: infopic
-      description: Join us at LE 2024 to learn how you can partner the school to bring
-        out the best in your child!
+      description: Join us at LE 2024 !!
       button: Click here for more info
       image: /images/LE2024/QtPS_LE_Website_Header_2024.jpg
       url: /le2024/overview
