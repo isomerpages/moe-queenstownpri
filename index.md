@@ -30,6 +30,7 @@ sections:
       button: Click here for more info
       image: /images/LE2024/QtPS_LE_Website_Header_2024.jpg
       url: /le2024/overview
+      alt: Alt text
   - infopic:
       title: QtPS eLearning Website
       button: https://go.gov.sg/qtps-hbl
