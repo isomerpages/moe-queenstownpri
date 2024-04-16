@@ -1,7 +1,7 @@
 ---
 title: Learning Extravaganza 2024
 permalink: /le2024/overview/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2><strong><u>Aims of Learning Extravaganza 2024</u></strong></h2>
@@ -123,9 +123,6 @@ how you can partner with the school to bring out the best in your child!</p>
 <p>CCA Showcase</p>
 </td>
 <td rowspan="4" colspan="1">
-<p></p>
-<p></p>
-<p></p>
 <p>9 am to 12 pm</p>
 </td>
 <td rowspan="1" colspan="1">
