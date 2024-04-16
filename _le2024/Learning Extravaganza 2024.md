@@ -100,7 +100,6 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>Ongoing</strong></h3>
 <table>
 <tbody>
@@ -167,4 +166,6 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
