@@ -15,6 +15,7 @@ to develop leadership skills and confidence. Join us at LE 2024 to learn
 how you can partner with the school to bring out the best in your child!</p>
 <h3><strong><u>Lineup of Programmes</u></strong></h3>
 <h3><strong>Scheduled</strong></h3>
+<p></p>
 <table>
 <tbody>
 <tr>
