@@ -1,4 +1,5 @@
 collections:
   le2024:
     output: true
-    order: []
+    order:
+      - Learning Extravaganza 2024.md
