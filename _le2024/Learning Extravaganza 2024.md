@@ -17,11 +17,11 @@ how you can partner with the school to bring out the best in your child!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Timing</strong>
+<p><strong>Event</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Event</strong>
+<p><strong>Timing</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -31,16 +31,19 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 am to 9.40 am</p>
+<p>Talk by external vendor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Talk by external vendor</p>
+<p>9 am to 9.40 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>School Tour</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.30 am</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10 am</p>
@@ -48,18 +51,15 @@ how you can partner with the school to bring out the best in your child!</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Tour</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Various locations in school</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.45 am to 10.45 am</p>
+<p>Principal-Teacher-Parent dialogue/ Student-Parent Dialogue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal-Teacher-Parent dialogue/ Student-Parent Dialogue</p>
+<p>9.45 am to 10.45 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall</p>
@@ -67,10 +67,10 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.50 am to 11.20 am</p>
+<p>Classroom experience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom experience</p>
+<p>10.50 am to 11.20 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Band Room at Level 3</p>
@@ -78,11 +78,10 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.25 am to 12 pm</p>
+<p>CCA Performance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Performance</p>
-<p>&nbsp;</p>
+<p>11.25 am to 12 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall</p>
@@ -107,11 +106,11 @@ how you can partner with the school to bring out the best in your child!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Timing</strong>
+<p><strong>Event</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Event</strong>
+<p><strong>Timing</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,11 +119,14 @@ how you can partner with the school to bring out the best in your child!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>9 am to 12 pm</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>CCA Showcase</p>
+</td>
+<td rowspan="4" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p>9 am to 12 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
@@ -132,7 +134,7 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ALP &amp; LLP Booth</p>
+<p>ALP &amp; LLP Booths</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ALP: Library</p>
@@ -149,7 +151,7 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Enrichment Booth</p>
+<p>Enrichment Booths</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level 1 Teaching Lab</p>
