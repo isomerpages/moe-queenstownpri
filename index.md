@@ -22,6 +22,15 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: Learning Extravaganza 2024
+      id: infopic
+      description: Join us at LE 2024 to learn how you can partner with the school to
+        bring out the best in your child!
+      button: Click here for more info
+      image: /images/LE2024/QtPS_LE_Website_Header_2024.jpg
+      url: /le2024/overview
+      alt: Image alt text
+  - infopic:
       title: QtPS eLearning Website
       button: https://go.gov.sg/qtps-hbl
       url: https://go.gov.sg/qtps-hbl
