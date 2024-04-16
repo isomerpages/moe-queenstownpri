@@ -103,3 +103,8 @@ links:
         url: /useful-links/school-calendar/
       - title: Have A Question?
         url: https://go.ask.gov.sg/qtps
+  - title: Learning Extravaganza 2024
+    url: /le2024/overview
+    sublinks:
+      - title: Overview
+        url: /le2024/overview

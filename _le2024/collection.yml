@@ -1,0 +1,5 @@
+collections:
+  le2024:
+    output: true
+    order:
+      - Learning Extravaganza 2024.md
