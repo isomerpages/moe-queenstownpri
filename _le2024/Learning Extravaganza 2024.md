@@ -4,9 +4,8 @@ permalink: /le2024/overview/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/LE2024/QtPS_LE_Website_Header_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LE2024/QtPS_LE_Website_Header_2024.jpg">
 </div>
 <h2><strong><u>Aims of Learning Extravaganza 2024</u></strong></h2>
 <p>Learning Extravaganza 2024 aims to provide parents of Queenstown Primary
