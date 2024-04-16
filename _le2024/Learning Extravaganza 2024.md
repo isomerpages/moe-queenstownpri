@@ -14,8 +14,7 @@ experience. Through this year's lineup of programs, students will be empowered
 to develop leadership skills and confidence. Join us at LE 2024 to learn
 how you can partner with the school to bring out the best in your child!</p>
 <h3><strong><u>Lineup of Programmes</u></strong></h3>
-<p><strong>Scheduled</strong>
-</p>
+<h3><strong>Scheduled</strong></h3>
 <table>
 <tbody>
 <tr>
