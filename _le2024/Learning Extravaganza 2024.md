@@ -48,10 +48,10 @@ how you can partner with the school to bring out the best in your child!</p>
 <p>School Tour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30 am</p>
-<p>10 am</p>
-<p>10.30 am</p>
-<p>11 am</p>
+<p>9.30 am
+<br>10 am
+<br>10.30 am
+<br>11 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Various locations in school</p>
