@@ -34,7 +34,7 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Talk by MSF &amp; FFLC</p>
+<p>Talk by FFLC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 am to 9.40 am</p>
@@ -243,13 +243,12 @@ QtPS experience.</p>
 and the conducive learning environment in the school&nbsp;</p>
 </li>
 </ul>
-<p><strong>6. Talk by MSF</strong>
+<p><strong>6. Talk by Families for Life&nbsp;@ Community (FFLC)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MSF (Ministry of Social and Family Development) and FFLC (Families for
-Life @ Community - Jurong West) will engage parents in a talk on Positive
-Parenting and Student Well-being.</p>
+<p>Families for Life @ Community - Jurong West (FFLC) will engage parents
+in a talk on Positive Parenting and Student Well-being.</p>
 </li>
 </ul>
 <p></p>
