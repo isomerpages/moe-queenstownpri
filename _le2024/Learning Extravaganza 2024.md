@@ -34,7 +34,7 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Talk by MSF &amp; FFLC</p>
+<p>Talk by FFLC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 am to 9.40 am</p>
