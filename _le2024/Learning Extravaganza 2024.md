@@ -124,7 +124,7 @@ how you can partner with the school to bring out the best in your child!</p>
 <td rowspan="1" colspan="1">
 <p>CCA Showcase</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>9 am to 12 pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,16 +133,23 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ALP &amp; LLP Booths</p>
+<p>ALP Booth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALP: Library</p>
-<p>LLP: Art Gallery</p>
+<p>Library</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PSG booth</p>
+<p>LLP Booth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Gallery</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PSG Booth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Library</p>
@@ -170,7 +177,7 @@ how you can partner with the school to bring out the best in your child!</p>
 </tbody>
 </table>
 <p></p>
-<h4>More details of each programme : </h4>
+<h4><strong><u>Details of each programme :</u></strong></h4>
 <p><strong>1. Classroom Experience</strong>
 </p>
 <ul data-tight="true" class="tight">
