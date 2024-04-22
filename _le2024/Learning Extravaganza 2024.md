@@ -34,7 +34,7 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Talk by external vendor</p>
+<p>Talk by MSF &amp; FFLC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 am to 9.40 am</p>
@@ -170,5 +170,79 @@ how you can partner with the school to bring out the best in your child!</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<h4>More details of each programme : </h4>
+<p><strong>1. Classroom Experience</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Take part in a short lesson conducted by two of our teachers.</p>
+</li>
+<li>
+<p>Parents will put on the hat of students in a lesson to experience a student's
+learning in the classroom.</p>
+</li>
+<li>
+<p>QtPS signature and current pedagogy will be used to conduct the lesson.</p>
+</li>
+<li>
+<p>A Q&amp;A session is made available at the end of the lesson.</p>
+</li>
+</ul>
+<p>Important note: This is not a workshop to teach parents how to teach their
+child. Given the limited availability of seats, registrations will be processed
+on a first-come, first-served basis. Parents of current students will receive
+notification regarding the status of their registration closer to the event
+date.</p>
+<p><strong>2. Student Booths &amp; CCA Performances</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students will present their projects to LE 2024 attendees, highlighting
+their reflections, successes, and challenges faced during their journey
+of enrichment programs and CCA.</p>
+</li>
+<li>
+<p>Students will showcase their projects set up.</p>
+</li>
+<li>
+<p>LE attendees will be able to engage the presenters by asking questions
+at the respective booths.</p>
+</li>
+<li>
+<p>Performing Arts CCAs will showcase their SYF performances.</p>
+</li>
+</ul>
+<p><strong>3. Principal-Teacher-Parent Dialogue</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents are invited to post questions about QtPS experience to the panel
+consisting of our Principal and teachers.</p>
+</li>
+</ul>
+<p><strong>4. Student-Parent Dialogue</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents are invited to engage student panelists through questions about
+QtPS experience.</p>
+</li>
+</ul>
+<p><strong>5. School Tour</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Prefects will lead attendees on a school tour to explore the various facilities
+and the conducive learning environment in the school&nbsp;</p>
+</li>
+</ul>
+<p><strong>6. Talk by MSF</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MSF (Ministry of Social and Family Development) and FFLC (Families for
+Life @ Community - Jurong West) will engage parents in a talk on Positive
+Parenting and Student Well-being.</p>
+</li>
+</ul>
 <p></p>
