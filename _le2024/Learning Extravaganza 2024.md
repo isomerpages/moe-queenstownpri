@@ -243,13 +243,12 @@ QtPS experience.</p>
 and the conducive learning environment in the school&nbsp;</p>
 </li>
 </ul>
-<p><strong>6. Talk by MSF</strong>
+<p><strong>6. Talk by Families for Life&nbsp;@ Community (FFLC)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MSF (Ministry of Social and Family Development) and FFLC (Families for
-Life @ Community - Jurong West) will engage parents in a talk on Positive
-Parenting and Student Well-being.</p>
+<p>Families for Life @ Community - Jurong West (FFLC) will engage parents
+in a talk on Positive Parenting and Student Well-being.</p>
 </li>
 </ul>
 <p></p>
