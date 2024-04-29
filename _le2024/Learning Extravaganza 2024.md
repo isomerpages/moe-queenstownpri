@@ -34,7 +34,7 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Talk by Families for Life&nbsp;@ Community- Jurong West (FFLC)</p>
+<p>Talk by Families for Life&nbsp;@ Community - Jurong West (FFLC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00 am to 9.45 am</p>
@@ -219,15 +219,7 @@ at the respective booths.</p>
 <p>Performing Arts CCAs will showcase their SYF performances.</p>
 </li>
 </ul>
-<p><strong>3. Principal-Teacher-Parent Dialogue</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Parents are invited to post questions about QtPS experience to the panel
-consisting of our Principal and teachers.</p>
-</li>
-</ul>
-<p><strong>4. Student-Parent Dialogue</strong>
+<p><strong>3. Student-Parent Dialogue</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -235,7 +227,7 @@ consisting of our Principal and teachers.</p>
 QtPS experience.</p>
 </li>
 </ul>
-<p><strong>5. School Tour</strong>
+<p><strong>4. School Tour</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -243,7 +235,7 @@ QtPS experience.</p>
 and the conducive learning environment in the school&nbsp;</p>
 </li>
 </ul>
-<p><strong>6. Talk by Families for Life&nbsp;@ Community (FFLC)</strong>
+<p><strong>5. Talk by Families for Life&nbsp;@ Community (FFLC)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
