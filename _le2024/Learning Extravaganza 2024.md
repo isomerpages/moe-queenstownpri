@@ -34,13 +34,13 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Talk by FFLC</p>
+<p>Talk by Families for Life&nbsp;@ Community- Jurong West (FFLC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 am to 9.40 am</p>
+<p>9.00 am to 9.45 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hall</p>
+<p>Hall at Level 2</p>
 </td>
 </tr>
 <tr>
@@ -49,9 +49,9 @@ how you can partner with the school to bring out the best in your child!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.30 am
-<br>10 am
+<br>10.00 am
 <br>10.30 am
-<br>11 am</p>
+<br>11.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Various locations in school</p>
@@ -59,13 +59,13 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principal-Teacher-Parent dialogue/ Student-Parent Dialogue</p>
+<p>Student-Parent Dialogue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.45 am to 10.45 am</p>
+<p>10.00 am to 10.45 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hall</p>
+<p>PAL Room at Level 3</p>
 </td>
 </tr>
 <tr>
@@ -84,10 +84,10 @@ how you can partner with the school to bring out the best in your child!</p>
 <p>CCA Performance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.25 am to 12 pm</p>
+<p>11.20 am to 12.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hall</p>
+<p>Hall at Level 2</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ how you can partner with the school to bring out the best in your child!</p>
 <p>9 am to 12 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen</p>
+<p>Canteen at Level 1</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@ how you can partner with the school to bring out the best in your child!</p>
 <p>ALP Booth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library</p>
+<p>Library at Level 1</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ how you can partner with the school to bring out the best in your child!</p>
 <p>LLP Booth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Gallery</p>
+<p>Art Gallery at Level 1</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ how you can partner with the school to bring out the best in your child!</p>
 <p>PSG Booth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library</p>
+<p>Library at Level 1</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ how you can partner with the school to bring out the best in your child!</p>
 <p>Enrichment Booths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level 1 Teaching Lab</p>
+<p>Teaching Lab at Level 1</p>
 </td>
 </tr>
 <tr>
