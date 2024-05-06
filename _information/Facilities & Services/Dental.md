@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Facilities & Services
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -52,8 +56,16 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Dental Clinic Operating Schedule :</strong></h4>
-<h4><strong>April 2024</strong></h4>
-<table>
+<h4><strong>May 2024</strong></h4>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -77,7 +89,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1
@@ -91,18 +109,19 @@ variant: tiptap
 <p>3
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>4
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7
+<br>AM OPEN</p>
+<p>PM CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8
@@ -110,24 +129,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>9
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>11
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15
@@ -141,22 +160,22 @@ variant: tiptap
 <p>17
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>18
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>19
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>22
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23
@@ -164,20 +183,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>24
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26
 <br>CLOSED</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>29
@@ -188,13 +207,8 @@ variant: tiptap
 <br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>31
+<br>CLOSED</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +240,13 @@ make an appointment before you go to the clinic.</p>
 <p>Pupils who need dental treatment on days when the clinic is closed can
 go to the <strong><u>buddy clinics</u></strong> listed below.</p>
 <h4><strong>Buddy Clinics</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
