@@ -16,7 +16,12 @@ how you can partner with the school to bring out the best in your child!</p>
 <h3><strong><u>Lineup of Programmes</u></strong></h3>
 <h3><strong>Scheduled</strong></h3>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -104,7 +109,12 @@ how you can partner with the school to bring out the best in your child!</p>
 </tbody>
 </table>
 <h3><strong>Ongoing</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -157,7 +167,7 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Enrichment Booths</p>
+<p>Student Booths</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teaching Lab at Level 1</p>
