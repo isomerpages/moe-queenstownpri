@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LE2024/For_School_Website.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LE2024/Poster_for_School_Website__1_.png">
 </div>
 <h2><strong><u>Aims of Learning Extravaganza 2024</u></strong></h2>
 <p>Learning Extravaganza 2024 aims to provide parents of Queenstown Primary
@@ -253,4 +253,5 @@ and the conducive learning environment in the school&nbsp;</p>
 in a talk on Positive Parenting and Student Well-being.</p>
 </li>
 </ul>
+<p></p>
 <p></p>
