@@ -27,7 +27,7 @@ sections:
       description: Join us at LE 2024 to learn how you can partner with the school to
         bring out the best in your child!
       button: Click here for more info
-      image: /images/LE2024/For_School_Website.jpg
+      image: /images/LE2024/Poster_for_School_Website__1_.png
       url: /le2024/overview
       alt: Image alt text
   - infopic:
