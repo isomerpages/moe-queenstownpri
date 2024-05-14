@@ -2,6 +2,7 @@
 title: Admin & Support Staff
 permalink: /our-staff/admin-and-support-staff/
 description: ""
+variant: markdown
 ---
 #### **Administration Manager**
 *   Mrs Jeslyn Lim
@@ -37,10 +38,4 @@ description: ""
  * School Support Staff - Mr Lee Boon Hoe Lawrence 
  * Librarian - Ms Siti Azhan Bte Osman
  * Desktop Engineer - Ms Rasiyayasmine D/O Mohamed Raffi
- * Desktop Engineer - Mr Lee Kuoh Lip
-
-<!--
-|||
-|:---:|:---:|
- | Desktop Engineer | Ms Siti Aisah Binte Osman<br>Mr Radin Muhammad | 
--->
+ * Desktop Engineer - Mr Muhammad Hamizan Bin Abd Karim
