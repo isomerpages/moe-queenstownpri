@@ -14,6 +14,7 @@ variant: markdown
 
 *   Ms Irene Poon
 *   Ms Christine Chng
+*   Ms Sarah Yip
 
 #### **Student Welfare Officer**
 
