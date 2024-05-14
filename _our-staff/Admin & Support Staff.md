@@ -29,7 +29,6 @@ variant: markdown
 *   Mdm Mariala Solomon  
 *   Mdm Mun Lai Heng  
 *   Ms Ong Lak Cheng
-*   Mr William Foong Chong Keen
 *   Mdm Anushiya Devi D/O Gumanan
 *   Ms Yan Sok Ying
 
