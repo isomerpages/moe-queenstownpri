@@ -233,15 +233,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>Please <strong><u>contact </u></strong>the dental nurse in the clinic to
-make an appointment before you go to the clinic.</p>
-<p></p>
-<p>Pupils who need dental treatment on days when the clinic is closed can
-go to the <strong><u>buddy clinics</u></strong> listed below.</p>
-<h4><strong>Buddy Clinics</strong></h4>
-<table style="minWidth: 100px">
+<h4><strong>June 2024</strong></h4>
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -250,48 +246,131 @@ go to the <strong><u>buddy clinics</u></strong> listed below.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>No.</p>
+<p>Week</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Dental Clinic</p>
+<p>Monday</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Telephone</p>
+<p>Tuesday</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Address</p>
+<p>Wednesday</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Thursday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Friday</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21
+<br>CLOSED</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>New Town Primary School</p>
+<p>24
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>87649804</p>
+<p>25
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>300 Tanglin Halt Road
-<br>S(148812)</p>
+<p>26
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28
+<br>CLOSED</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fairfield Methodist Primary School</p>
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>87647361</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>100 Dover Road S(139648)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -307,4 +386,16 @@ go to the <strong><u>buddy clinics</u></strong> listed below.</p>
 </tr>
 </tbody>
 </table>
+<p>For dental treatment during the school holidays, please contact one of
+the Mini Centres below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mini Centre @Singapore Chinese Girls School (89097659)</p>
+</li>
+<li>
+<p>Mini Centre @Maris Stella High School (87648516)</p>
+</li>
+</ul>
+<p>Please <strong><u>contact </u></strong>the dental nurse in the clinic to
+make an appointment before you go to the clinic.</p>
 <p>In case of trauma, facial swelling or pain, please email Contact_YPS@HPB.Gov.Sg</p>
