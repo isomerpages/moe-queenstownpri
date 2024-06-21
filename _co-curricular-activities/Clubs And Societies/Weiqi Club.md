@@ -49,3 +49,30 @@ Before every CCA session, our members take the CCA pledge to remind themselves o
 At Weiqi CCA, we cultivate positive moral values in students. At the end of every session, students reflect on how they have performed and show gratitude to their teammates.
 
 <u> **Photos during Weiqi CCA lessons**</u>
+![](/images/CCA%20Weiqi/2024_Lesson_1.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_2.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_3.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_4.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_5.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_6.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_7.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_8.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_9.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_A.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_B.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_C.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_D.png)
+
+![](/images/CCA%20Weiqi/2024_Lesson_E.png)
