@@ -45,4 +45,7 @@ On 20 April 2024, 17 members of our Weiqi Club participated in the GO Academy Cu
 ![](/images/CCA%20Weiqi/2024_GO_6.png)
 ![](/images/CCA%20Weiqi/2024_GO_7.png)
 
-	Before every CCA session, our members take the CCA pledge to remind themselves on the need to Focus, Think and Persevere in their training.  Our  training consists of instructor-led teaching of concepts and strategies, student-centric problem-solving in pairs/groups, as well as gameplay and review. We are also integrating artificial intlligencs into lessons to improve students' match play standards.
+Before every CCA session, our members take the CCA pledge to remind themselves on the need to Focus, Think and Persevere in their training.  Our  training consists of instructor-led teaching of concepts and strategies, student-centric problem-solving in pairs/groups, as well as gameplay and review. We are also integrating artificial intelligence into lessons to improve students' match play standards.
+At Weiqi CCA, we cultivate positive moral values in students. At the end of every session, students reflect on how they have performed and show gratitude to their teammates.
+
+<u> **Photos during Weiqi CCA lessons**</u>
