@@ -32,4 +32,17 @@ Selected senior members were paired up with the juniors to coach them to enhance
 
 On 20 April 2024, 17 members of our Weiqi Club participated in the GO Academy Cup National GO Championship 2024. The results are as follows:
 
+![](/images/CCA%20Weiqi/2024_Table_1.png)
+![](/images/CCA%20Weiqi/2024_Table_2.png)
+![](/images/CCA%20Weiqi/2024_Table_3.png)
+ 
+<u> **Photos during competition**</u>
+![](/images/CCA%20Weiqi/2024_GO_1.png)
+![](/images/CCA%20Weiqi/2024_GO_2.png)
+![](/images/CCA%20Weiqi/2024_GO_3.png)
+![](/images/CCA%20Weiqi/2024_GO_4.png)
+![](/images/CCA%20Weiqi/2024_GO_5.png)
+![](/images/CCA%20Weiqi/2024_GO_6.png)
+![](/images/CCA%20Weiqi/2024_GO_7.png)
 
+	Before every CCA session, our members take the CCA pledge to remind themselves on the need to Focus, Think and Persevere in their training.  Our  training consists of instructor-led teaching of concepts and strategies, student-centric problem-solving in pairs/groups, as well as gameplay and review. We are also integrating artificial intlligencs into lessons to improve students' match play standards.
