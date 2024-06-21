@@ -17,7 +17,7 @@ Tuesdays<br>
 4 Honesty and 4 Joy classrooms
 
 #### **About CCA**
-The QtPS Weiqi Club is currently made up of 33 members. The CCA allows members to learn different strategies involved in playing the game of Weiqi. Members learn strategies progressively and hone their skills through friendly games with their fellow CCA mates. Members are grouped into junior and senior groups to better cater to their learning needs.
+The QtPS Weiqi Club is currently made up of 36 members. The CCA allows members to learn different strategies involved in playing the game of Weiqi. Members learn strategies progressively and hone their skills through friendly games with their fellow CCA mates. Members are grouped into junior and senior groups to better cater to their learning needs.
 
 Queenstown Primary School Weiqi Club CCA provides platforms for our students to gain exposure, new insights and experiences to enhance their Weiqi skills. Members of each level are selected by the instructor and teachers-in-charge to form school teams to represent the school to participate in the annual Weiqi Competition organized by the Singapore Weiqi Association (SWA) or The GO Academy.
 
@@ -27,46 +27,52 @@ Through the Weiqi Club CCA, our members are provided with opportunities to be:
 Regular CCA sessions, friendly matches during CCA sessions. Instructor provides challenging Weiqi questions for members to solve (Eg. defend, surround and score points)
 
 ##### **Good Communicator**
-CCA leaders and selected members are involved in Learning Extravaganza Open House and P2 CCA Fair. The selected members were able to listen, clarify their queries and concerns and to guide the P2 students patiently.<br>
+CCA leaders and selected members are involved in Learning Extravaganza and P2 CCA Fair. The selected members were able to listen, clarify their queries and concerns and to guide the P2 students patiently.<br>
 Selected senior members were paired up with the juniors to coach them to enhance their Weiqi skills.
 
-On 15 April 2023, 16 members of our Weiqi Club participated in the GO Academy Cup National GO Championship 2023. The results are as follows:
+On 20 April 2024, 17 members of our Weiqi Club participated in the GO Academy Cup National GO Championship 2024. The results are as follows:
 
-![](/images/CCA%20Weiqi/go-comp-results.jpg)
+![](/images/CCA%20Weiqi/2024_Table_1.png)
+![](/images/CCA%20Weiqi/2024_Table_2.png)
+![](/images/CCA%20Weiqi/2024_Table_3.png)
+ 
+<u> **Photos during competition**</u>
+![](/images/CCA%20Weiqi/2024_GO_1.png)
+![](/images/CCA%20Weiqi/2024_GO_2.png)
+![](/images/CCA%20Weiqi/2024_GO_3.png)
+![](/images/CCA%20Weiqi/2024_GO_4.png)
+![](/images/CCA%20Weiqi/2024_GO_5.png)
+![](/images/CCA%20Weiqi/2024_GO_6.png)
+![](/images/CCA%20Weiqi/2024_GO_7.png)
 
-![](/images/CCA%20Weiqi/go-comp-1.png)
+Before every CCA session, our members take the CCA pledge to remind themselves on the need to Focus, Think and Persevere in their training.  Our  training consists of instructor-led teaching of concepts and strategies, student-centric problem-solving in pairs/groups, as well as gameplay and review. We are also integrating artificial intelligence into lessons to improve students' match play standards.
+At Weiqi CCA, we cultivate positive moral values in students. At the end of every session, students reflect on how they have performed and show gratitude to their teammates.
 
-![](/images/CCA%20Weiqi/go-comp-2.png)
+<u> **Photos during Weiqi CCA lessons**</u>
+![](/images/CCA%20Weiqi/2024_Lesson_1.png)
 
-![](/images/CCA%20Weiqi/go-comp-3.png)
+![](/images/CCA%20Weiqi/2024_Lesson_2.png)
 
-![](/images/CCA%20Weiqi/go-comp-4.png)
+![](/images/CCA%20Weiqi/2024_Lesson_3.png)
 
-![](/images/CCA%20Weiqi/go-comp-5a.png)
+![](/images/CCA%20Weiqi/2024_Lesson_4.png)
 
-![](/images/CCA%20Weiqi/go-comp-6a.png)
+![](/images/CCA%20Weiqi/2024_Lesson_5.png)
 
-![](/images/CCA%20Weiqi/go-comp-7.png)         
-“By joining Weiqi CCA, I learnt how to focus, think and persevere. These are the core values of our CCA and they are crucial in our gameplay. Over the course of my four years in Weiqi CCA, I have accumulated vast experience and knowledge. For example, we should never assume that our opponents are weaker than us so we should always be cautious no matter who our opponents are.” (Quinton Tjia Ding En, P6 Joy, Weiqi CCA Leader)
+![](/images/CCA%20Weiqi/2024_Lesson_6.png)
 
-“I have learnt to always show respect to our opponent. Some ways include wishing them a great game before playing as well as thanking them sincerely after the game. These are some of the important life lessons I have learnt through these four years. I really love sparring with my CCA mates and will definitely miss the fun here.” (Chen Wen, P6 Joy, Weiqi Member)
+![](/images/CCA%20Weiqi/2024_Lesson_7.png)
 
-“I learnt to display sportsmanship and thank my opponent after every match. I also learnt that resilience is extremely important in playing Weiqi. Even though we might be trailing our opponent in a game, we must show resilience and persevere till the end, sometimes we can turn defeat into victory!” (Gracelyn Chia, P6 Honesty, Weiqi Member)
+![](/images/CCA%20Weiqi/2024_Lesson_8.png)
 
-“Being a CCA Leader is not only helping to carry our equipment around, but also being a mature role model to my fellow CCA mates. We sometimes have disputes during CCA, but as CCA Leaders, we keep our cool and encourage our fellow teammates to respect each other’s differences. In this way, we maintain harmony within the CCA, rather than discipline.” (Lee Kenzo, P6 Courage, Weiqi CCA Leader)
+![](/images/CCA%20Weiqi/2024_Lesson_9.png)
 
-![](/images/CCA%20Weiqi/training-1.png)
+![](/images/CCA%20Weiqi/2024_Lesson_A.png)
 
-![](/images/CCA%20Weiqi/training-2.png)
+![](/images/CCA%20Weiqi/2024_Lesson_B.png)
 
-![](/images/CCA%20Weiqi/training-3.png)
+![](/images/CCA%20Weiqi/2024_Lesson_C.png)
 
-![](/images/CCA%20Weiqi/training-4.png)
+![](/images/CCA%20Weiqi/2024_Lesson_D.png)
 
-![](/images/CCA%20Weiqi/training-5.png)
-
-![](/images/CCA%20Weiqi/training-6.png)
-
-![](/images/CCA%20Weiqi/training-7.png)
-
-![](/images/CCA%20Weiqi/training-9.png)
+![](/images/CCA%20Weiqi/2024_Lesson_E.png)
