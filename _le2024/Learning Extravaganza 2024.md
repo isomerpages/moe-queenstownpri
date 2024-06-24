@@ -135,7 +135,12 @@ how you can partner with the school to bring out the best in your child!</p>
 <td rowspan="1" colspan="1">
 <p>CCA Showcase</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>9 am to 12 pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,10 +149,10 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ALP Booth</p>
+<p>Student Booths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library at Level 1</p>
+<p>Teaching Lab at Level 1</p>
 </td>
 </tr>
 <tr>
@@ -160,18 +165,21 @@ how you can partner with the school to bring out the best in your child!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PSG Booth</p>
+<p>ALP Booth</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
+<p></p>
 <p>Library at Level 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Booths</p>
+<p>SENO Booth</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Teaching Lab at Level 1</p>
+<p>PSG Booth</p>
 </td>
 </tr>
 <tr>
