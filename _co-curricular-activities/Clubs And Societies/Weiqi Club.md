@@ -19,8 +19,6 @@ Tuesdays<br>
 #### **About CCA**
 Queenstown Primary School Weiqi Club CCA has 36 members currently. They are organised into junior, middle and senior groups to better cater to their learning needs.
 
-The CCA allows members to learn different strategies involved in playing the game of Weiqi. Members learn strategies progressively and hone their skills through friendly games with their fellow CCA mates. Members are grouped into junior and senior groups to better cater to their learning needs.
-
 ###### **Confident Individual**
 Before every training session, our members take the CCA pledge to remind themselves on the need to Focus, Think and Persevere in their training.  Thereafter, our training starts off with instructor-led teaching of concepts and strategies.
 
