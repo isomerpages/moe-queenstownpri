@@ -9,12 +9,12 @@ variant: markdown
 *   Mdm Angelina Gan  
 *   Mdm Noorjehan Ibrahim
 *   Ms Winnie Tan
+*   Ms Sarah Yip
 
 #### **School Counselor**
 
 *   Ms Irene Poon
 *   Ms Christine Chng
-*   Ms Sarah Yip
 
 #### **Student Welfare Officer**
 
