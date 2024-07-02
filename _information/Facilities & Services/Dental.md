@@ -56,7 +56,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Dental Clinic Operating Schedule :</strong></h4>
-<h4><strong>June 2024</strong></h4>
+<h4><strong>July 2024</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -89,32 +89,40 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Holidays</p>
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3
-<br>CLOSED</p>
+<br>OPEN UNTIL 3PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4
-<br>CLOSED</p>
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>6
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Holidays</p>
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10
@@ -128,63 +136,77 @@ variant: tiptap
 <p>12
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>13
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Holidays</p>
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>17
-<br>CLOSED</p>
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18
-<br>CLOSED</p>
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>19
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>20
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>222
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24
 <br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25
-<br>CLOSED</p>
+<p>25 CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26
 <br>CLOSED</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>27
-<br>CLOSED</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28
-<br>CLOSED</p>
+<p>29
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -209,16 +231,17 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>For dental treatment during the school holidays, please contact one of
-the Mini Centres below:</p>
+<p>Buddy Clinics:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mini Centre @Singapore Chinese Girls School (89097659)</p>
+<p>New Town Primary FDC - 87649804</p>
 </li>
 <li>
-<p>Mini Centre @Maris Stella High School (87648516)</p>
+<p>Fairfield Methodist Primary FDC - 87647361</p>
 </li>
 </ul>
+<p></p>
 <p>Please <strong><u>contact </u></strong>the dental nurse in the clinic to
 make an appointment before you go to the clinic.</p>
-<p>In case of trauma, facial swelling or pain, please email Contact_YPS@HPB.Gov.Sg</p>
+<p>For emergency treatment e.g. Trauma, Facial Swelling or Pain, please email <strong>Contact_YPS@HPB.GOV.SG</strong>
+</p>
