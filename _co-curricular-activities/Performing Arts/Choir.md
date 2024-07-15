@@ -51,7 +51,7 @@ Students also learn by reflecting on their own music making process and singing 
 
 #### **Videos**
 QtPS Choir SYF 2024
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Queenstown Primary School SYF 2024" src="https://www.youtube.com/embed/eZIjH8FGtho" height="360" width="640"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Queenstown Primary School SYF 2024" src="https://www.youtube.com/embed/eZIjH8FGtho" height="362" width="640"></iframe>
 
 
 The music department, choir, and P4 students from 2023 would like to show our unity and we composed a song entitled "Together, We Thrive" in love to encourage us to unite and thrive in love during the challenges of the future.
