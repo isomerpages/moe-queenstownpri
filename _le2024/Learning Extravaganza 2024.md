@@ -262,8 +262,7 @@ and the conducive learning environment in the school&nbsp;</p>
 in a talk on Positive Parenting and Student Well-being.</p>
 </li>
 </ul>
-<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vQs-2LtCXGcLEdKhsR5s1GAoskok6Tjeqjl9FAYd3x_3gCkKJURaNOEhChcIEUAgw/pub?embedded=true"></iframe>
+<iframe height="364" width="644" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vQs-2LtCXGcLEdKhsR5s1GAoskok6Tjeqjl9FAYd3x_3gCkKJURaNOEhChcIEUAgw/pub?embedded=true"></iframe>
 </div>
 <p></p>
