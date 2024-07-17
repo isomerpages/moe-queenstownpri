@@ -1,4 +1,5 @@
 collections:
   elearning:
     output: true
-    order: []
+    order:
+      - Test.md
