@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Primary 6/.keep
-      - Primary 6.md
       - Primary 5.md
       - Primary 4.md
       - Primary 3.md
