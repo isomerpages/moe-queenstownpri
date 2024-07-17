@@ -2,6 +2,7 @@ collections:
   elearning:
     output: true
     order:
+      - Primary 4/Primary 4.md
       - Primary 4/.keep
       - Primary 5/Primary 5.md
       - Primary 5/.keep
