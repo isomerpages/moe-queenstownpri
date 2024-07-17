@@ -2,6 +2,7 @@ collections:
   elearning:
     output: true
     order:
+      - Primary 1/P1 Respect.md
       - Primary 1/P1 Creativity.md
       - Primary 1/P1 Courage.md
       - Primary 1/.keep
