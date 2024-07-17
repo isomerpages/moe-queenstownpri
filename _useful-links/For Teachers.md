@@ -6,6 +6,7 @@ variant: markdown
 ---
 * [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 * [MOE ICON](https://workspace.google.com/dashboard)
+* [MOE CES](https://mail.schools.gov.sg/owa/)
 * [Resource Booking System](https://rbs.avero-tech.com/)
 * [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 * [SCMobile](https://scmobile.moe.edu.sg/)
