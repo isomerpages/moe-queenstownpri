@@ -2,10 +2,10 @@ collections:
   elearning:
     output: true
     order:
-      - Mother Tongue Languages.md
       - Primary 6.md
       - Primary 5.md
       - Primary 4.md
       - Primary 3.md
       - Primary 2.md
       - Primary 1.md
+      - Mother Tongue Languages.md
