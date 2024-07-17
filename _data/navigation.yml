@@ -89,10 +89,10 @@ links:
       - title: Student Care
         url: /partners/student-care/
   - title: eLearning
-    url: /ELearning/overview
+    url: /hbl-overview/
     sublinks:
       - title: Overview
-        url: /elearning/overview
+        url: /hbl-overview/
   - title: Useful links
     url: /useful-links/for-students/
     sublinks:
