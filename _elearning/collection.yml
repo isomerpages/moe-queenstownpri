@@ -1,0 +1,4 @@
+collections:
+  elearning:
+    output: true
+    order: []
