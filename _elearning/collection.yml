@@ -2,17 +2,17 @@ collections:
   elearning:
     output: true
     order:
-      - Mother Tongue Languages/Mother Tongue Languages.md
-      - Mother Tongue Languages/.keep
-      - Primary 1/Primary 1.md
       - Primary 1/.keep
-      - Primary 2/Primary 2.md
+      - Primary 1/Primary 1.md
       - Primary 2/.keep
-      - Primary 3/Primary 3.md
+      - Primary 2/Primary 2.md
       - Primary 3/.keep
-      - Primary 4/Primary 4.md
+      - Primary 3/Primary 3.md
       - Primary 4/.keep
-      - Primary 5/Primary 5.md
+      - Primary 4/Primary 4.md
       - Primary 5/.keep
-      - Primary 6/Primary 6.md
+      - Primary 5/Primary 5.md
       - Primary 6/.keep
+      - Primary 6/Primary 6.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
