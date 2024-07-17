@@ -2,5 +2,4 @@ collections:
   le2024:
     output: true
     order:
-      - Test.md
       - Learning Extravaganza 2024.md
