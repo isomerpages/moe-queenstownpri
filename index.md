@@ -22,9 +22,9 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
-      title: QtPS eLearning Website
+      title: QtPS eLearning Webpage
       button: Click HERE
-      url: /elearning/
+      url: /hbl-overview/
       image: /images/cce.jpg
       alt: Image alt text
       description: "Go to the QtPS e-Learning webpage for your e-Learning instructions:"
