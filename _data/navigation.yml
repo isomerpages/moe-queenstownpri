@@ -89,10 +89,10 @@ links:
       - title: Student Care
         url: /partners/student-care/
   - title: eLearning
-    url: /ELearning/Pri1
+    url: /ELearning/overview
     sublinks:
       - title: Overview
-        url: /elearning/pri6
+        url: /elearning/overview
   - title: Useful links
     url: /useful-links/for-students/
     sublinks:
