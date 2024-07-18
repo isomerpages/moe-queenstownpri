@@ -4,7 +4,7 @@ permalink: /useful-links/for-students/
 description: ""
 variant: markdown
 ---
-*   [QtPS eLearning Website](/hbl-overview/)
+*   [QtPS eLearning Website](/hbl-overviewt/)
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login/)
 *   [Student ICON](https://workspace.google.com/dashboard)
 *   [Caught Doing Right](https://forms.gle/zzLMN4Mj9uwimY9y9)
