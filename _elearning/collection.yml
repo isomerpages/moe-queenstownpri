@@ -1,0 +1,58 @@
+collections:
+  elearning:
+    output: true
+    order:
+      - Overview.md
+      - Primary 1/.keep
+      - Primary 1/P1 Care.md
+      - Primary 1/P1 Courage.md
+      - Primary 1/P1 Creativity.md
+      - Primary 1/P1 Diligence.md
+      - Primary 1/P1 Honesty.md
+      - Primary 1/P1 Joy.md
+      - Primary 1/P1 Respect.md
+      - Primary 2/P2 Care.md
+      - Primary 2/P2 Courage.md
+      - Primary 2/P2 Creativity.md
+      - Primary 2/P2 Diligence.md
+      - Primary 2/P2 Honesty.md
+      - Primary 2/P2 Joy.md
+      - Primary 2/.keep
+      - Primary 2/P2 Respect.md
+      - Primary 3/P3 Care.md
+      - Primary 3/P3 Courage.md
+      - Primary 3/P3 Creativity.md
+      - Primary 3/P3 Diligence.md
+      - Primary 3/P3 Honesty.md
+      - Primary 3/.keep
+      - Primary 3/P3 Joy.md
+      - Primary 4/P4 Care.md
+      - Primary 4/P4 Courage.md
+      - Primary 4/P4 Creativity.md
+      - Primary 4/P4 Diligence.md
+      - Primary 4/P4 Honesty.md
+      - Primary 4/.keep
+      - Primary 4/P4 Joy.md
+      - Primary 5/P5 Care.md
+      - Primary 5/P5 Courage.md
+      - Primary 5/P5 Creativity.md
+      - Primary 5/P5 Diligence.md
+      - Primary 5/P5 Honesty.md
+      - Primary 5/P5 Joy.md
+      - Primary 5/.keep
+      - Primary 5/P5 Peace.md
+      - Primary 6/P6 Care.md
+      - Primary 6/P6 Courage.md
+      - Primary 6/P6 Creativity.md
+      - Primary 6/P6 Diligence.md
+      - Primary 6/P6 Honesty.md
+      - Primary 6/P6 Joy.md
+      - Primary 6/.keep
+      - Primary 6/P6 Peace.md
+      - Mother Tongue Languages/Primary 1.md
+      - Mother Tongue Languages/Primary 2.md
+      - Mother Tongue Languages/Primary 3.md
+      - Mother Tongue Languages/Primary 4.md
+      - Mother Tongue Languages/Primary 5.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Primary 6.md

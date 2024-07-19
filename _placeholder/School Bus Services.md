@@ -1,8 +1,8 @@
 ---
 title: School Bus Services
-permalink: /useful-links/for-vendors/schbussvc/
+permalink: /useful-links/for-vendors/
 description: ""
-third_nav_title: For Vendors
+variant: tiptap
 ---
 Company: Revolving Transport Pte Ltd<br>
 Contact Person: Mr Nicholas Ng<br>
