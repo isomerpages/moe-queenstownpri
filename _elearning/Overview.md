@@ -4,5 +4,5 @@ permalink: /hbl-overview/
 variant: tiptap
 description: ""
 ---
-<h4><strong>e-Learning instructions will be published on Friday, 26 July 2024 8:30am.</strong></h4>
+<h4><strong>Please click on your respective levels &amp; classes for the instructions.</strong></h4>
 <p></p>
