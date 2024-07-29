@@ -2,7 +2,8 @@
 title: Organisation Chart
 permalink: /our-staff/organisation-chart/
 description: ""
+variant: markdown
 ---
-![](/images/Organisation%20Chart%202023-09Jan-SMC.jpg)
+![](/images/OrgChart/SMC_2024_29Jul.png)
 
-![](/images/Organisation%20Chart%202023-09Jan-STCa.jpg)
+![](/images/OrgChart/STC_2024_29Jul.png)
