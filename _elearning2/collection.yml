@@ -1,5 +1,5 @@
 collections:
-  elearningtemp:
+  elearning2:
     output: true
     order:
       - Overview.md
