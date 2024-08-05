@@ -43,6 +43,12 @@ CCA Training, Competitions, Friendly matches and Football Clinics.
 
 #### **Photos**
 
+![](/images/CCA%20Football/IMG_8984.jpg)
+Congratulations to our junior team on finishing top in the group for the Pool round 2024
+
+![](/images/CCA%20Football/23_Apr_2024_at_18_46.jpg)
+Coach Lynden reviewed the performance of the junior team during half-time
+
 ![](/images/CCA%20Football/match%20time.JPG)
 Our senior boys doing their best in one of their matches
 
@@ -55,11 +61,3 @@ Our senior boys doing their best in one of their matches
 ![](/images/CCA%20Football/circle%20with%20coach%20lynden.jpg)Circle Time with Coach Lynden to review their match and performance
 
 ![](/images/CCA%20Football/junior%20team.jpg)Our Junior Team before their match
-
-<img src="/images/football%201.jpg" style="width:75%">
-
-<img src="/images/football%202.jpg" style="width:75%">
-		 
-<img src="/images/football%203.jpg" style="width:75%">
-		 
-<img src="/images/football%204.jpg" style="width:75%">
