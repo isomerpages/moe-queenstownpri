@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: QtPS eLearning Webpage
       button: Click HERE
-      url: /hbl-overviewt/
+      url: /hbl-overview2/
       image: /images/cce.jpg
       alt: Image alt text
       description: "Go to the QtPS e-Learning webpage for your e-Learning instructions:"
