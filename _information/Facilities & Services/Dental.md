@@ -176,7 +176,8 @@ variant: tiptap
 <br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 CLOSED</p>
+<p>22
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23
@@ -200,7 +201,8 @@ variant: tiptap
 <br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 CLOSED</p>
+<p>29
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30
