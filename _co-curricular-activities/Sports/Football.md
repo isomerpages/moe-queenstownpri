@@ -49,6 +49,9 @@ Congratulations to our junior team on finishing top in the group for the Pool ro
 ![](/images/CCA%20Football/23_Apr_2024_at_18_46.jpg)
 Coach Lynden reviewed the performance of the junior team during half-time
 
+![](/images/CCA%20Football/12b0a8ff_6da8_4b04_9dd7_102aa170e623.jpg)
+Our senior team during one of their matches
+
 ![](/images/CCA%20Football/match%20time.JPG)
 Our senior boys doing their best in one of their matches
 
