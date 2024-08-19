@@ -13,7 +13,7 @@ variant: markdown
 | 6 Diligence | Mdm Revathi d/o Balasubramaniam<br>Mr Jason Seng |
 | 6 Honesty | Mrs Siti Faizah Shahrin <br> Mdm S Srija | 
 | 6 Joy | Ms Ratna Bte Jainal <br> Mr Yeo Chee Wee | 
-| 6 Peace | Mrs Chen Soon Shan <br>Mdm Hermawati Bte Dolfata  | 
+| 6 Peace | Mdm Hermawati Bte Dolfata  | 
 |
 
 Form Teachers can be reached either through ClassDojo or email. Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
