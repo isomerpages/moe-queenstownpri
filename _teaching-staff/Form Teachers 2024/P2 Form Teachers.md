@@ -10,7 +10,7 @@ variant: markdown
 | 2 Care     | Mrs Sharon Ng <br> Mdm Qian Li |
 | 2 Courage | Mrs Jean Law <br> Mdm Chai Jing Yi|
 | 2 Creativity | Ms Ho Li Ming <br> Mr Gordon Magherra |
-| 2 Diligence | Ms Peck Siew Ling <br> Mdm Aliah Hanim Bte Mahmud | 
+| 2 Diligence | Ms Peck Siew Ling <br> Mdm Joyce Kang | 
 | 2 Honesty | Mr Albert Ng <br> Ms Fathin | 
 | 2 Joy | Mdm Wee Su Ern <br> Ms Mahejwari | 
 | 2 Respect  | Ms Yap Ee Lim <br> Ms Lee Yee Hueh | 
