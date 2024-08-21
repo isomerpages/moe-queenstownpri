@@ -45,7 +45,9 @@ CCA Training, Competitions, Friendly matches and Football Clinics.
 
 ![](/images/CCA%20Football/IMG_8984.jpg)
 Congratulations to our junior team on finishing top in the group for the Pool round 2024
-
+![](/images/CCA%20Football/football_juniors1.jpg)
+![](/images/CCA%20Football/football_juniors2.jpg)
+![](/images/CCA%20Football/football_juniors3.jpg)
 ![](/images/CCA%20Football/23_Apr_2024_at_18_46.jpg)
 Coach Lynden reviewed the performance of the junior team during half-time
 
