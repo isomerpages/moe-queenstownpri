@@ -309,7 +309,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>13
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 </tr>
 <tr>
@@ -378,6 +378,182 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>October 2024</strong></h4>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Week</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Monday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Tuesday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Wednesday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Thursday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Friday</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
