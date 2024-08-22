@@ -6,7 +6,7 @@ variant: markdown
 ---
 |||
 |-----|-----|
-| Lead Teacher | Mdm Aliah Hanim Mahmud  | 
+| ST/Art | Mdm Aliah Hanim Mahmud  | 
 | ST/English Language | Ms Choo Ruofei  | 
 | ST/Chinese Language | Mr Kwek Hong Wee |
 | ST/Tamil Language | Mdm Najumunisha |
