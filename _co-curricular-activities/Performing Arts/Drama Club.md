@@ -32,13 +32,49 @@ Besides working individually, students are also given opportunities to work in t
 Time is given for students to share their highs and lows on their experiences in Drama Club, either in-between processes or at the end of each session. Expectations are set for the students to respect one another’s views and that no judgment is passed. 
 
 #### **CCA Participation**
-2019 - Involvement in Moulmein-Cairnhill: Throughout the Years @ Gateway Theatre<br>
-Yearly performances in school’s events/assembly programmes <br>
-2018 - Participation in International Science Drama Competition<br>
-2016 - Participation in National Story Challenge
+Each year, Drama Club provides students the opportunity to perform on one or more of the following platforms:
+-  Chinese New Year Concert
+-  English Language Week
+-  Learning Extravaganza
+-  National Day Celebration
+-  Prize Giving Ceremony
 
 #### **Photos**
 
-![](/images/drama%201.jpg)
+##### Drama Club in Action:
+![](/images/CCA%20Drama/6212880424179449586.jpg)
 
-![](/images/drama%202.jpg)
+![](/images/CCA%20Drama/EL_Week.png)
+
+![](/images/CCA%20Drama/drama1.jpg)
+
+![](/images/CCA%20Drama/JEP3834a.jpg)
+
+![](/images/CCA%20Drama/IMG_3414.jpg)
+
+![](/images/CCA%20Drama/IMG_3431.jpg)
+
+![](/images/CCA%20Drama/IMG_3434.jpg)
+
+![](/images/CCA%20Drama/IMG_3436.jpg)
+
+![](/images/CCA%20Drama/IMG_3437.jpg)
+
+![](/images/CCA%20Drama/IMG_8797.jpg)
+
+![](/images/CCA%20Drama/IMG_8804.jpg)
+
+![](/images/CCA%20Drama/IMG_8814.jpg)
+
+![](/images/CCA%20Drama/IMG_9872.jpg)
+
+![](/images/CCA%20Drama/IMG_9875.jpg)
+
+##### Behind the Scenes:
+![](/images/CCA%20Drama/6212880424179449581.jpg)
+
+![](/images/CCA%20Drama/6212880424179449582.jpg)
+
+![](/images/CCA%20Drama/6212880424179449583.jpg)
+
+![](/images/CCA%20Drama/6212880424179449584.jpg)
