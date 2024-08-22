@@ -231,6 +231,180 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>September 2024</strong></h4>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Week</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Monday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Tuesday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Wednesday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Thursday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Friday</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Holiday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13
+<br>OPEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Buddy Clinics:</p>
 <ul data-tight="true" class="tight">
 <li>
