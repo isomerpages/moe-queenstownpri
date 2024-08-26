@@ -22,6 +22,11 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: Notice to All Alumni of QtPS
+      id: infopic
+      image: /images/TeacherDay_close.png
+      alt: Image alt text
+  - infopic:
       title: QtPS eLearning Webpage
       button: Click HERE
       url: /hbl-overview/
@@ -48,10 +53,5 @@ sections:
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/qtps
       image: /images/qtps-askgov.png
-      alt: Image alt text
-  - infopic:
-      title: Notice to All Alumni of QtPS
-      id: infopic
-      image: /images/TeacherDay_close.png
       alt: Image alt text
 ---
