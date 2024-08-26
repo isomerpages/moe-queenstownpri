@@ -49,4 +49,9 @@ sections:
       url: https://ask.gov.sg/qtps
       image: /images/qtps-askgov.png
       alt: Image alt text
+  - infopic:
+      title: Notice to All Alumni of QtPS
+      id: infopic
+      image: /images/TeacherDay_close.png
+      alt: Image alt text
 ---
