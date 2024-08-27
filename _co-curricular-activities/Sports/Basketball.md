@@ -135,10 +135,11 @@ into:</p>
 </li>
 </ul>
 <h3><strong>Photos</strong></h3>
+<p>Competitive Senior Boys</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/Senior_boys.jpg">
 </div>
-<p>Competitive Senior Boys</p>
+<p>Competitive Junior Girls</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/Junior_girls.jpg">
 </div>
@@ -146,7 +147,7 @@ into:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/8.png">
 </div>
-<p>Competitive Junior Girls</p>
+<p>Competitive Junior Boys</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/Junior_boys.jpg">
 </div>
@@ -154,8 +155,8 @@ into:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/3.png">
 </div>
-<p>Competitive Junior Boys</p>
 <p></p>
+<p>Boys &amp; girls in action</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/2.png">
 </div>
