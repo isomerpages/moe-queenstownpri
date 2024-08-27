@@ -142,10 +142,35 @@ into:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/Junior_girls.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/8.png">
+</div>
 <p>Competitive Junior Girls</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/Junior_boys.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/3.png">
+</div>
 <p>Competitive Junior Boys</p>
-<p><a href="https://www.canva.com/design/DAGO2JlNtWE/f5IFabuXQPu6qe4N1y2HUg/view?utm_content=DAGO2JlNtWE&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=viewer" rel="noopener nofollow" target="_blank">Photo Gallery</a>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Basketball/6.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
