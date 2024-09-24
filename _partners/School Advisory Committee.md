@@ -7,7 +7,6 @@ variant: markdown
 | Role | Name |
 |:---:|:---:|
 | Chairman | Mr Teo Cher Hwa |
-| Vice-Chairman |  |
 |  Honorary Secretary | Ms Pearly Ng  |
 |  Member | Mr Harry Kee |
 |  Member | Mdm Liu Cheng Cheng |
