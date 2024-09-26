@@ -2,5 +2,7 @@
 title: Overview
 permalink: /our-staff/overview/
 description: ""
+variant: markdown
 ---
-![](/images/all%20staff%202023a.jpg)
+![](/images/OrgChart/All_Staff_Formal_2.jpg)
+Queenstown Primary School 2024
