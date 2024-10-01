@@ -7,8 +7,8 @@ variant: markdown
 ---
 | Company | Revolving Transport Pte Ltd |
 |---|---|
-| Contact Person | Mr Jason Lee / Mr Nicholas Ng |
-| Contact No | 92739277 / 92770099|
+| Contact Person | Mr Nicholas Ng |
+| Contact No | 92770099|
 | Email  | [emltpt96@gmail.com](mailto:emltpt96@gmail.com)  ||
 	
 Daily School Bus Services based on <b>Not to Exceed Price</b> (i.e. for sending students from home to school and vice versa). 
