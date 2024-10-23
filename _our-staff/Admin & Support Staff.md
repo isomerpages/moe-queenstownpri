@@ -11,14 +11,10 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-</tr>
-<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Manager</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -26,11 +22,12 @@ variant: tiptap
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Managers</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -41,11 +38,12 @@ variant: tiptap
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>Operations Managers</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -53,11 +51,12 @@ variant: tiptap
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Executive</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -65,11 +64,12 @@ variant: tiptap
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>Administration Executive</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officers</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -83,11 +83,12 @@ variant: tiptap
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officers</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officers</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -110,11 +111,12 @@ variant: tiptap
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officers</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Librarian</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -122,11 +124,12 @@ variant: tiptap
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>Librarian</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Support Staff</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -134,11 +137,12 @@ variant: tiptap
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p>School Support Staff</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineers</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -148,9 +152,6 @@ variant: tiptap
 <p>Mr Muhammad Hamizan Bin Abd Karim</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineers</p>
 </td>
 </tr>
 </tbody>
