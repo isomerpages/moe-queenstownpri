@@ -293,8 +293,8 @@ variant: tiptap
 <br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5</p>
-<p>OPEN</p>
+<p>5
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6
@@ -380,8 +380,8 @@ variant: tiptap
 <br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29</p>
-<p>CLOSED</p>
+<p>29
+<br>CLOSED</p>
 </td>
 </tr>
 <tr>
