@@ -49,4 +49,11 @@ sections:
       url: https://ask.gov.sg/qtps
       image: /images/qtps-askgov.png
       alt: Image alt text
+  - infopic:
+      title: President's Award for Teachers 2025
+      id: infopic
+      description: Infopic description
+      button: For more details , click here
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/overview/
+      alt: Image alt text
 ---
