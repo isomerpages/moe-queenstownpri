@@ -20,7 +20,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/Art</p>
+<p><strong>ST/Art</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Aliah Hanim Mahmud</p>
@@ -28,7 +29,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/English Language</p>
+<p><strong>ST/English Language</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Choo Ruofei</p>
@@ -36,7 +38,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/Tamil Language</p>
+<p><strong>ST/Tamil Language</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Najumunisha</p>
@@ -44,7 +47,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/Mathematics</p>
+<p><strong>ST/Mathematics</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Albert Ng</p>
@@ -52,7 +56,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/Music</p>
+<p><strong>ST/Music</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Amos Leong</p>
