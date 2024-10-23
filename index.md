@@ -22,6 +22,25 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: President's Award for Teachers 2025
+      id: infopic
+      description: The President’s Award for Teachers recognises excellent educators
+        for their role in moulding the future of our nation.  Nomination closes
+        on 10 January 2025.
+      button: For more details , click here
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/overview/
+      alt: Image alt text
+      image: /images/Announcements/PAT2025.png
+  - infopic:
+      title: Outstanding Youth in Education Award 2025
+      id: infopic
+      description: The OYEA is a national award that recognises and honours the
+        achievements of young educators.  Nomination closes on 10 January 2025,
+        Friday.
+      button: For more details, click here
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/overview/
+      image: /images/Announcements/OYEA_2025.jpg
+  - infopic:
       title: QtPS eLearning Webpage
       button: Click HERE
       url: /hbl-overview/
