@@ -40,6 +40,7 @@ sections:
       button: For more details, click here
       url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/overview/
       image: /images/Announcements/OYEA_2025_a.jpg
+      alt: Image alt text
   - infopic:
       title: QtPS eLearning Webpage
       button: Click HERE
