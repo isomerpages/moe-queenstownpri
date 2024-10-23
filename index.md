@@ -39,7 +39,7 @@ sections:
         Friday.
       button: For more details, click here
       url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/overview/
-      image: /images/Announcements/OYEA_2025.jpg
+      image: /images/Announcements/OYEA_2025a.jpg
   - infopic:
       title: QtPS eLearning Webpage
       button: Click HERE
