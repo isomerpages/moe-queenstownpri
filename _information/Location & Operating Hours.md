@@ -201,7 +201,7 @@ outside school compound)</p>
 <h4><strong>Students Arrival &amp; Dismissal</strong></h4>
 <p>(PG message on 15 October 2024)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/New_Route_PG15Oct.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/New_Route_PG15OctA.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Annex_A_Page_1.png">
