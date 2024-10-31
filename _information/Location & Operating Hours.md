@@ -198,9 +198,8 @@ P3 only]</p>
 once school compound is visible on right side)
 <br>From Redhill MRT Station (Opp Stn): <strong>32</strong> (alight directly
 outside school compound)</p>
-<h4><strong>Students Arrival &amp; Dismissal </strong></h4>
+<h4><strong>Students Arrival &amp; Dismissal</strong></h4>
 <p>(PG message on 15 October 2024)</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/New_Route_PG15Oct.jpg">
 </div>
