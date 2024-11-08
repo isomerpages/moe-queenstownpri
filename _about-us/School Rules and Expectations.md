@@ -150,3 +150,7 @@ Keep our school safe for all.
 *   Students must cooperate and report all suspicious characters on the school premises to the General Office without delay.  
 *   All students must take personal responsibility for the safekeeping of their personal belongings.
 *   Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to self or others.
+
+![](/images/School_Related/Level_1_Offences_Page_1.jpg)
+![](/images/School_Related/Level_1_Offences_Page_2.jpg)
+![](/images/School_Related/Level_1_Offences_Page_3.jpg)
