@@ -424,15 +424,35 @@ intended to be used to cause harm to others.</p>
 <p>Students are also not allowed to bring any scissors or penknife to school.</p>
 </li>
 </ul>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/Level_1_Offences_Page_1.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/Level_1_Offences_Page_2.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/Level_1_Offences_Page_3.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
