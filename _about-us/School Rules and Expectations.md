@@ -2,6 +2,7 @@
 title: School Rules and Expectations
 permalink: /about-us/school-rules-and-expectations/
 description: ""
+variant: markdown
 ---
 Rules are necessary to maintain a safe and secure environment for students to learn and teachers to carry out their duties. Keeping to school rules help students develop self-discipline and a sense of responsibility which are basic qualities for success in life.
 
@@ -28,8 +29,7 @@ Be responsible and disciplined.
 * Absence from classes, CCA and other school activities must be covered by a medical certificate or a letter of excuse from the parent/guardian. Absence from exams/tests must be covered by a medical certificate or letters of excuse which will only be accepted under extenuating circumstances such as bereavement.
 
 #### **Appearance and attire**
-<img src="/images/attire%20boy.jpg" style="width:50%" align="left">
-		 <img src="/images/attire%20girl.png" style="width:50%" align="right">                        .
+![](/images/School_Related/5___1_.jpg)![](/images/School_Related/5_1___1_a.jpg)
 
 Look smart. Take pride in your appearance and school attire.
 *   Students are to wear the prescribed school uniform. Modification to the uniform is not allowed.
