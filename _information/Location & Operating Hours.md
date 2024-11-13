@@ -200,9 +200,11 @@ once school compound is visible on right side)
 outside school compound)</p>
 <h4><strong>Students Arrival &amp; Dismissal</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QNjSto2mKuM"></iframe>
+<iframe height="362" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QNjSto2mKuM"></iframe>
 </div>
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eZIjH8FGtho"></iframe>
+</div>
 <p>(PG message on 15 October 2024)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/New_Route_PG15OctA.png">
