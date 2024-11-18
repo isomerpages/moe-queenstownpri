@@ -440,7 +440,7 @@ variant: tiptap
 <p>87646935</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 Nov - 20 Dec</p>
+<p>18 Nov-20 Dec</p>
 </td>
 </tr>
 <tr>
