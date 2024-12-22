@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/School_Related/P_Olivia_Cheong_QTPSb.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School_Related/P_Olivia_Cheong_QTPSb.png">
 </div>
 <h4><strong>Principal’s Foreward</strong></h4>
 <p><strong>Dear Parents,</strong>
