@@ -2,6 +2,7 @@ collections:
   placeholder:
     output: true
     order:
+      - Nothing for Vendors.md
       - School Bus Advertisement.md
       - School Bus Services.md
       - School Life Memories Our Photo Journal.md
