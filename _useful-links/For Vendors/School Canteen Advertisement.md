@@ -28,7 +28,8 @@ variant: tiptap
 <p>Malay Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 August 2023</p>
+<p><strong>9 Jan 2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice/noodle stalls are acceptable.</p>
