@@ -65,6 +65,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>ST/Learning Profile SEN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mahejwari</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
