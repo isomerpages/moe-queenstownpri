@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pearly Ng</p>
+<p>Mrs Olivia Cheong</p>
 </td>
 </tr>
 <tr>
@@ -92,20 +92,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HOD/PE &amp; CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad A'srie Bin Che Ali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>HOD/Character &amp; Citizenship Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Feng Wenfu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD/Student Management</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Yew Kuan</p>
 </td>
 </tr>
 <tr>
@@ -119,11 +119,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD/PE &amp; CCA</strong>
+<p><strong>HOD/Student Management</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad A'srie Bin Che Ali</p>
+<p>Mr Wong Yew Kuan</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Diana Ho-Ong Suat Keng</p>
+<p>Mdm K Thanalachimi</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Bay-Teoh Wooi Ling</p>
+<p>Mrs Nur Syakilla Bates</p>
 </td>
 </tr>
 <tr>
@@ -159,70 +159,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm K Thanalachimi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Middle Primary Asst Year Head</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Nur Syakilla Bates</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Upper Primary Asst Year Head</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Kang Li Ping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH/ICT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Gabriel Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH/Aesthetics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jeanna Goh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH/Student Well-Being</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jevon See</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH/Student Leadership</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Yap-Fang Shilin Calista</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH/Social Studies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Azuan</p>
 </td>
 </tr>
 <tr>
@@ -245,11 +182,101 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH/Science</strong>
+<p><strong>SH/Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Xi</p>
+<p>Mr Gabriel Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH/Malay</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fathin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH/Aesthetics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jeanna Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH/CCE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mandi Yeoh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH/NE/SS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Revathi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH/ICT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wan Hameezah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH/Student Well-Being</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jevon See</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH/Student Leadership</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Yap-Fang Shilin Calista</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lower Primary Asst Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Julie Hong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Primary Asst Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yee Hueh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Upper Primary Asst Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Azuan</p>
 </td>
 </tr>
 <tr>
