@@ -7,12 +7,12 @@ variant: markdown
 ---
 | Class| Form Teachers | 
 | -------- | -------- |
-| 3 Care | Mr Jasper Chiang <br> Mdm Zaheedah<br> Mrs Lam-Ng Wee Li |
-| 3 Courage | Mrs Ong Lay See<br> Ms Muzaiyanah |
-| 3 Creativity | Mrs Nur Syakilla Bates <br> Ms Cheung Wai Man  |
-| 3 Diligence | Mrs Christabel Goh <br> Mr Amos Leong | 
-| 3 Honesty | Mdm Najumunisha<br> Mdm Liu Xi<br> Ms Wu Pei Ying| 
-| 3 Joy | Mdm Jeanna Goh<br> Mdm Tan Chia Huee<br> Ms Celeste Lee Lin Xuan | 
+| 3 Care | Mdm Zaheedah<br> Mdm Tan Chia Huee |
+| 3 Courage | Ms Goh Siew Ping<br> Mr Lee Chin Hua Gabriel |
+| 3 Creativity | Mdm Asmahliah<br> Ms Mahejwari  |
+| 3 Diligence | Mdm Revathi <br> Ms Celeste Lee | 
+| 3 Honesty | Mr Tan Kian Tat <br> Ms Lee Yee Hueh | 
+| 3 Joy | Ms Ivy Tan <br> Ms Pauline Leong | 
 |
 
 Form Teachers can be reached either through ClassDojo or email. Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
