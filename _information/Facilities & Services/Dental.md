@@ -40,7 +40,8 @@ variant: tiptap
 <p>Clinic Operating Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon to Fri : 8:00am to 5:30pm
+<p>Mon, Wed, Fri : 8:00am to 5:00pm
+<br>Tue, Thu : 8:00am to 5:30pm
 <br>Lunch break : 12:30pm to 1:30pm</p>
 </td>
 </tr>
@@ -382,8 +383,74 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Buddy Clinics : <strong>New town Pr FDC (87649804)</strong> &amp; <strong>Fairfield Methodist Pr (87647361)</strong>
-</p>
+<p>Buddy Clinics :</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>School</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact No.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>New Town Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>87649804</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>300 Tanglin Halt Road
+<br>S(148812)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fairfield Methodist Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>87647361</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100 Dover Road
+<br>S(139648)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Please <strong><u>contact </u></strong>the dental nurse in the clinic to
 make an appointment before you go to the clinic.</p>
 <p>For emergency treatment e.g. Trauma, Facial Swelling or Pain, please email <strong>Contact_YPS@HPB.GOV.SG</strong>
