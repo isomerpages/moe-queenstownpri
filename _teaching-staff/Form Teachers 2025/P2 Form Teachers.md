@@ -7,13 +7,13 @@ variant: markdown
 ---
 | Class| Form Teachers | 
 | -------- | -------- |
-| 2 Care     | Mrs Sharon Ng <br> Mdm Qian Li |
-| 2 Courage | Mrs Jean Law <br> Mdm Chai Jing Yi|
-| 2 Creativity | Ms Ho Li Ming <br> Mr Gordon Magherra |
-| 2 Diligence | Ms Peck Siew Ling <br> Mdm Joyce Kang | 
-| 2 Honesty | Mr Albert Ng <br> Ms Fathin | 
-| 2 Joy | Mdm Wee Su Ern <br> Ms Mahejwari | 
-| 2 Respect  | Ms Yap Ee Lim <br> Ms Lee Yee Hueh | 
+| 2 Care     | Ms Venus Lim<br> Mdm Kwek Sor Hian  |
+| 2 Courage | Ms Von Tjong <br> Ms Yeo Teck Wai<br>Mr Muhammad Taufiq |
+| 2 Creativity | Ms Julie Hong <br> Ms Wan Hameezah |
+| 2 Diligence | Ms Liu Zijing <br> Mrs Garcia Siew Kee | 
+| 2 Honesty | Ms Sim Li Min <br> Ms Candice Teh | 
+| 2 Joy | Ms Charine Chong <br> Mdm Vani Chawla | 
+| 2 Respect  | Mdm Jeanna Goh <br> Ms Faith Ng | 
 |
 
 Form Teachers can be reached either through ClassDojo or email. Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
