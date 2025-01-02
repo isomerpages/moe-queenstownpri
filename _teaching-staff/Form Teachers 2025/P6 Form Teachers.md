@@ -7,13 +7,13 @@ variant: markdown
 ---
 | Class| Form Teachers | 
 | -------- | -------- |
-| 6 Care | Mrs Pauline Lee <br> Mr Muhammad A'srie |
-| 6 Courage | Mdm K Thanalachimi <br>Mdm Siti-Hamesiah |
-| 6 Creativity | Mr Feng Wenfu  <br>Ms Ng Wan Quan Kaycee |
-| 6 Diligence | Mdm Revathi d/o Balasubramaniam<br>Mr Jason Seng |
-| 6 Honesty | Mrs Siti Faizah Shahrin <br> Mdm S Srija | 
-| 6 Joy | Ms Ratna Bte Jainal <br> Mr Yeo Chee Wee | 
-| 6 Peace | Mdm Hermawati Bte Dolfata  | 
+| 6 Care | Mdm Yong Foong Er <br> Mdm Siti-Hamesiah |
+| 6 Courage | Mr Mark Teo <br>Ms Geraldine Lim |
+| 6 Creativity | Ms Mandi Yeoh <br>Ms Tan Wei Xin |
+| 6 Diligence | Mdm Thamizhvaani <br>Mdm Yap Eng Fui |
+| 6 Honesty | Mr Jevon See <br> Mr Teo Chee Tat | 
+| 6 Joy | Ms Choo Ruofei <br> Mr Mohamad Noor | 
+| 6 Peace | Mr Muhammad Azuan  | 
 |
 
 Form Teachers can be reached either through ClassDojo or email. Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
