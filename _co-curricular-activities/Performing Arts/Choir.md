@@ -50,14 +50,18 @@ Students also learn by reflecting on their own music making process and singing 
 ![](/images/perf%20art%202.jpg)
 
 #### **Videos**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2 Finalised 2nd Draft Larger than life Edited" src="https://www.youtube.com/embed/fdaSXnufF1c" height="362" width="640"></iframe>
+<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="B dazzled 2023   Queenstown Primary School" src="https://www.youtube.com/embed/pRjekvxizw8" height="360" width="640"></iframe>
+<br>
 QtPS Choir SYF 2024
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Queenstown Primary School SYF 2024" src="https://www.youtube.com/embed/eZIjH8FGtho" height="362" width="640"></iframe>
-
-
+<br>
 The music department, choir, and P4 students from 2023 would like to show our unity and we composed a song entitled "Together, We Thrive" in love to encourage us to unite and thrive in love during the challenges of the future.
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="V6 TOGETHER WE THRIVE" src="https://www.youtube.com/embed/rO8ZTboquGM" height="364" width="644"></iframe>
 
-Choir CCA - Student Voices
+Choir CCA - Student Voices <br>
 <iframe width="644" height="364" src="https://www.youtube.com/embed/Fl9gB0y-E68" title="Choir CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 QtPS Choir Warm Up during SYF Rehearsal 2020 @ SOTA
