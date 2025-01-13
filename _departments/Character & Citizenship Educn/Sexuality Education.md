@@ -279,9 +279,8 @@ parents via Parents’ Gateway in Term 1 Week 2. The completed opt-out form
 is to be submitted by 31 January 2025.</p>
 </li>
 <li>
-<p>Parents can contact the school at 64741044 or email us at <a rel="noopener noreferrer nofollow" target="_blank">qtps@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p>Parents can contact the school at 64741044 or email us at <a rel="noopener noreferrer nofollow" target="_blank">qtps@moe.edu.sg</a> for discussion or
+to seek clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
 <p></p>
