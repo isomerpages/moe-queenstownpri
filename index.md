@@ -49,4 +49,12 @@ sections:
       url: https://ask.gov.sg/qtps
       image: /images/qtps-askgov.png
       alt: Image alt text
+  - infopic:
+      title: We are on Instagram
+      id: infopic
+      description: ✨ We're excited to announce that Queenstown Primary School is now
+        on Instagram! ✨
+      button: Button Text
+      image: /images/Announcements/QtPS_insta.png
+      alt: Image alt text
 ---
