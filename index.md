@@ -22,6 +22,13 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: ✨ Queenstown Primary School is now on Instagram! ✨
+      id: infopic
+      description: Follow us @qtps_sg to stay connected with our school community in a
+        new way! 🏫
+      image: /images/Announcements/QtPS_instaA.png
+      alt: Image alt text
+  - infopic:
       title: QtPS eLearning Webpage
       button: Click HERE
       url: /hbl-overview/
@@ -48,13 +55,5 @@ sections:
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/qtps
       image: /images/qtps-askgov.png
-      alt: Image alt text
-  - infopic:
-      title: We are on Instagram
-      id: infopic
-      description: ✨ We're excited to announce that Queenstown Primary School is now
-        on Instagram! ✨
-      button: Button Text
-      image: /images/Announcements/QtPS_insta.png
       alt: Image alt text
 ---
