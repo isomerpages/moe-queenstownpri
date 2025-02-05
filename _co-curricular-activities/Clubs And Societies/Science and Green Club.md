@@ -11,7 +11,7 @@ Mrs Jean Law<br>
 Ms Liu Zi Jing
 
 #### **CCA Advisor**
-Mrs Chia Su Sze &amp; Mrs Chen Soon Shan
+Mrs Chia Su Sze
 
 #### **CCA Day and Time**
 Tuesdays<br>
