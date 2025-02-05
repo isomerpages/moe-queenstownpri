@@ -12,7 +12,7 @@ variant: markdown
 | 5 Creativity | Mdm Aliah Hanim <br> Mrs Chia-Kong Su Sze |
 | 5 Diligence | Mdm S Srija <br>Mr Muhd A'srie <br> Mdm Nurulain Nadiah |
 | 5 Honesty | Ms Ratna <br> Mdm Lu Wei| 
-| 5 Joy | Mrs Siti Faizah Shahrin <br> Mr Yeo Chee Wee | 
+| 5 Joy | Mrs Siti Faizah Shahrin <br> Mdm Li Ying | 
 | 5 Peace | Mr Jason Seng  | 
 |
 

@@ -13,7 +13,7 @@ variant: markdown
 | 6 Diligence | Mdm Thamizhvaani <br>Mdm Yap Eng Fui |
 | 6 Honesty | Mr Jevon See <br> Mr Teo Chee Tat | 
 | 6 Joy | Ms Choo Ruofei <br> Mr Mohamad Noor | 
-| 6 Peace | Mr Muhammad Azuan  | 
+| 6 Peace | Mr Muhammad Azuan <br> Mr Yeo Chee Wee  | 
 |
 
 Form Teachers can be reached either through ClassDojo or email. Your child's Form Teachers' email addresses can be found on Parents Gateway (refer to image below for a guide).
