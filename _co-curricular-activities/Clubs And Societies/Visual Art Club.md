@@ -7,8 +7,7 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mdm Aliah Hanim (OIC)<br>
-Mrs Suzanne Pang (<br>
-
+Mrs Suzanne Pang
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
