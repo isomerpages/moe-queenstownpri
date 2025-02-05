@@ -8,9 +8,9 @@ variant: markdown
 #### **CCA Teachers-in-Charge**
 Ms Sim Limin (OIC)<br>
 Mr Md Azuan<br>
-Ms Yeo Teck Wai <br>
 Mdm Zaheedah <br>
-Mrs Chew-Lim Shu Min
+Mrs Chew-Lim Shu Min <br>
+Mr Balajee
 
 #### **CCA Training**
 Tuesdays &amp; Thursdays (Competitive Team)<br>
