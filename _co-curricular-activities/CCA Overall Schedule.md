@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Advisors</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -50,7 +54,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Uniformed Groups</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -80,7 +90,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Jason Seng (OIC)
 <br>Mdm Kwek Sor Hian
-<br>Ms Chu Yu Fang</p>
+<br>Mdm Qian Li</p>
 </td>
 </tr>
 <tr>
@@ -96,8 +106,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Von Tjong Min Cui (OIC)
-<br>Ms Wee Su Ern
-<br>Mdm Qian Li</p>
+<br>Mrs Christabel Goh
+<br>Ms Wee Su Ern</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +127,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Performing Arts</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -156,15 +172,15 @@ variant: tiptap
 <p>International Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue
+<p>Fri
 <br>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PAL Room 1 &amp; 2</p>
+<p>PAL Room 1 &amp; 2/ Music Room 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lu Wei (OIC)
-<br>Mrs Sharon Ng</p>
+<br>Mdm Ng Sor Lan</p>
 </td>
 </tr>
 <tr>
@@ -179,23 +195,8 @@ variant: tiptap
 <p>Dance studio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Lingbo (OIC)
-<br>Mdm Najumunisha</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Indian Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri
-<br>2.15 pm - 4.15 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PAL Room 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ho Li Ming (OIC)</p>
+<p>Ms Cheung Man Wai (OIC)
+<br>Ms Ho Li Ming</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +204,7 @@ variant: tiptap
 <p>Malay Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri
+<p>Tue
 <br>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -211,7 +212,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti-Hamesiah (OIC)
-<br>Mdm Norwati Neswan</p>
+<br>Ms Wan Hameezah</p>
 </td>
 </tr>
 <tr>
@@ -223,11 +224,11 @@ variant: tiptap
 <br>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Room 1</p>
+<p>Band Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Yee Hueh (OIC)
-<br>Ms Muzaiyanah</p>
+<br>Mdm Nurulain Nadiah</p>
 </td>
 </tr>
 <tr>
@@ -247,7 +248,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Sports</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -275,11 +282,11 @@ variant: tiptap
 <p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Amos Leong (OIC)
+<p>Mr Amos Leong (OIC)</p>
+<p>Ms Tan Wei Xin (2IC)
 <br>Mr Gordon Magherra
-<br>Ms Tan Wei Xin
 <br>Ms Yap Ee Lim
-<br>Ms Kang Li Ping</p>
+<br>Mr Muhd Taufiq</p>
 </td>
 </tr>
 <tr>
@@ -288,17 +295,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon, Tue &amp; Fri
-<br>2.30 pm - 4.30 pm</p>
+<br>3.00 pm - 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH / Rooftop Basketball Court</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Charine Chong (OIC)
-<br>Mr Jevon See
+<br>Mr Jevon See (Sem 1)
 <br>Ms Venus Lim
-<br>Mrs Nur Syakilla Bates
-<br>Mdm Yap Eng Fui</p>
+<br>Mdm Yap Eng Fui
+<br>Ms Celeste Lee
+<br>Mdm Srija (Sem 2)</p>
 </td>
 </tr>
 <tr>
@@ -318,9 +326,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Sim Li Min (OIC)
 <br>Mr Md Azuan
-<br>Ms Yeo Teck Wai
 <br>Mdm Zaheedah
-<br>Mrs Chew-Lim Shu Min</p>
+<br>Mrs Chew-Lim Shu Min
+<br>Mr Balajee</p>
 </td>
 </tr>
 <tr>
@@ -332,15 +340,14 @@ variant: tiptap
 <br>3.00 pm - 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon - Field
-<br>Fri - Hall
-<br>Wet Weather - ISH</p>
+<p>Field
+<br>ISH (Wet Weather)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jasper Chiang (OIC)
 <br>Mrs Pauline Lee
 <br>Mr Tan Kian Tat
-<br>Ms Wan Hameezah</p>
+<br>Ms Yeo Teck Wai</p>
 </td>
 </tr>
 <tr>
@@ -352,13 +359,13 @@ variant: tiptap
 <br>2.30 pm - 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Queenstown/MOE (Evans Road) swimming complex</p>
+<p>MOE (Evans Road) Swimming Complex</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Foong Er (OIC)
-<br>Mr Balajee
-<br>Ms Srija
-<br>Mdm Tan Chia Huee</p>
+<p>Mdm Yong Foong Er (OIC)
+<br>Mr Kwek Hong Wee
+<br>Mdm Tan Chia Huee
+<br>Ms Candice Teh</p>
 </td>
 </tr>
 <tr>
@@ -378,7 +385,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Clubs &amp; Societies</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -403,19 +416,17 @@ variant: tiptap
 <br>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Room
+<p>Art Room &amp;
 <br>Art Studio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Suzanne Pang (OIC)
-<br>Mdm Aliah Hanim
-<br>Mdm Cheung Man Wai
+<p>Mdm Aliah Hanim (OIC) Mrs Suzanne Pang
 <br>Ms Jeanna Goh (TIC &amp; Advisor)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science &amp; Green Club</p>
+<p>Environmental Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tue
@@ -428,7 +439,7 @@ variant: tiptap
 <p>Mdm Vaani (OIC)
 <br>Mrs Jean Law
 <br>Ms Liu Zi Jing
-<br>Mrs Chia Su Sze &amp; Mrs Chen Soon Shan (Advisor)</p>
+<br>Mrs Chia Su Sze (Advisor)</p>
 </td>
 </tr>
 <tr>
@@ -444,8 +455,8 @@ variant: tiptap
 <br>Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chai Jing Yi (OIC)
-<br>Mr Teo Chee Tat</p>
+<p>Mr Teo Chee Tat (OIC)</p>
+<p>Ms Peh Lay Hoon</p>
 </td>
 </tr>
 <tr>
@@ -461,9 +472,8 @@ variant: tiptap
 <br>Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kaycee Ng (OIC)
-<br>Mdm Joyce Kang
-<br>Mrs Calista Yap</p>
+<p>Ms Lee Hui Yi (OIC)
+<br>Ms Choo Ruofei</p>
 </td>
 </tr>
 <tr>
@@ -479,8 +489,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fathin Atikah Mas’ud (OIC)
-<br>Ms Lee Hui Yi
-<br>Ms Jeanie Lim
+<br>Mrs Calista Yap
 <br>Mr Noor (Advisor)</p>
 </td>
 </tr>
@@ -501,7 +510,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Enrichment Groups</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
