@@ -7,14 +7,13 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Ms Fathin Atikah Mas’ud (OIC)<br>
-Ms Lee Hui Yi<br>
-Ms Jeanie Lim
+Mrs Calista Yap
 
 #### **CCA Advisor**
 Mr Mohd Noor
 
 #### **CCA Days and Time**
-Tuesdays<br>
+Fridays<br>
 2.15 pm to 4.15 pm
 
 #### **CCA Venue**
