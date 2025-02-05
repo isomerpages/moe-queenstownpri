@@ -33,8 +33,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Latiff Bin A Majeed</p>
-<p>Mr Pathmanaban S/O V. Pitchayia</p>
+<p>Mr Abdul Latiff Bin A Majeed
+<br>Mr Pathmanaban S/O V. Pitchayia</p>
 </td>
 </tr>
 <tr>
@@ -61,9 +61,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Asanamal Bivi D/O Kothari</p>
-<p>Mdm Noraisah Bte Ibrahim</p>
-<p>Mdm Vasanthi D/O Sathiaselan</p>
+<p>Mdm Asanamal Bivi D/O Kothari
+<br>Mdm Noraisah Bte Ibrahim
+<br>Mdm Vasanthi D/O Sathiaselan</p>
 </td>
 </tr>
 <tr>
@@ -72,12 +72,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dahliah Bte Hussin</p>
-<p>Mdm Mariala Solomon</p>
-<p>Mdm Mun Lai Heng</p>
-<p>Ms Ong Lak Cheng</p>
-<p>Mdm Anushiya Devi D/O Gumanan</p>
-<p>Ms Yan Sok Ying</p>
+<p>Mdm Dahliah Bte Hussin
+<br>Mdm Mariala Solomon
+<br>Mdm Mun Lai Heng
+<br>Ms Ong Lak Cheng
+<br>Mdm Anushiya Devi D/O Gumanan
+<br>Ms Yan Sok Ying</p>
 </td>
 </tr>
 <tr>
@@ -104,8 +104,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rasiyayasmine D/O Mohamed Raffi</p>
-<p>Mr Muhammad Hamizan Bin Abd Karim</p>
+<p>Ms Rasiyayasmine D/O Mohamed Raffi
+<br>Mr Muhammad Hamizan Bin Abd Karim</p>
 </td>
 </tr>
 <tr>
