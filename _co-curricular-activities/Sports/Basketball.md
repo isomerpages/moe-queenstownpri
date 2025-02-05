@@ -7,18 +7,18 @@ variant: tiptap
 ---
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <p>Ms Charine Chong (OIC)
-<br>Mr Jevon See
+<br>Mr Jevon See (Sem 1)
 <br>Ms Venus Lim Wen Xuan
-<br>Mrs Nur Syakilla Bates
 <br>Mdm Yap Eng Fui
 <br>Ms Celeste Lee
+<br>Mdm Srija (Sem 2)
 <br>
 </p>
 <h4><strong>CCA Training</strong></h4>
 <p>Mondays (Development Team)
-<br>2.30 - 4.30 p.m.</p>
+<br>3.00 - 5.00 p.m.</p>
 <p>Tuesdays and Fridays (Competitive Team)
-<br>2.30 - 4.30 p.m.</p>
+<br>3.00 - 5.00 p.m.</p>
 <h4><strong>CCA Venue</strong></h4>
 <p>ISH / Rooftop Basketball Court</p>
 <h3><strong>About CCA</strong></h3>
