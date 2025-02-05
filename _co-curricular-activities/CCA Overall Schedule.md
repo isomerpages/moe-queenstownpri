@@ -282,8 +282,8 @@ variant: tiptap
 <p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Amos Leong (OIC)</p>
-<p>Ms Tan Wei Xin (2IC)
+<p>Mr Amos Leong (OIC)
+<br>Ms Tan Wei Xin (2IC)
 <br>Mr Gordon Magherra
 <br>Ms Yap Ee Lim
 <br>Mr Muhd Taufiq</p>
@@ -302,11 +302,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Charine Chong (OIC)
-<br>Mr Jevon See (Sem 1)
+<br>Mr Jevon See
 <br>Ms Venus Lim
 <br>Mdm Yap Eng Fui
 <br>Ms Celeste Lee
-<br>Mdm Srija (Sem 2)</p>
+<br>Mdm Srija</p>
 </td>
 </tr>
 <tr>
@@ -420,7 +420,8 @@ variant: tiptap
 <br>Art Studio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aliah Hanim (OIC) Mrs Suzanne Pang
+<p>Mdm Aliah Hanim (OIC)
+<br>Mrs Suzanne Pang
 <br>Ms Jeanna Goh (TIC &amp; Advisor)</p>
 </td>
 </tr>
@@ -455,8 +456,8 @@ variant: tiptap
 <br>Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Chee Tat (OIC)</p>
-<p>Ms Peh Lay Hoon</p>
+<p>Mr Teo Chee Tat (OIC)
+<br>Ms Peh Lay Hoon</p>
 </td>
 </tr>
 <tr>
