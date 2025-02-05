@@ -6,8 +6,8 @@ third_nav_title: Clubs And Societies
 variant: markdown
 ---
 #### **CCA teachers-in-Charge**
-Mdm Chai Jing Yi (OIC) <br>
-Mr Teo Chee Tat
+Mr Teo Chee Tat (OIC) <br>
+Ms Peh Lay Hoon
 
 #### **CCA Day and Time**
 Tuesdays<br>
