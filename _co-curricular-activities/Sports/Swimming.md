@@ -7,16 +7,16 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mdm Yong Foong Er (OIC)<br>
-Mr Balajee<br>
-Ms Srija<br>
-Mdm Tan Chia Huee
+Mr Kwek Hong Wee<br>
+Mdm Tan Chia Huee<br>
+Ms Candice Teh
 
 #### **CCA Training**
 Tuesdays &amp; Fridays<br> 
 2.30 pm to 5.00 pm <br>
 
 #### **CCA Venue**
-Queenstown/MOE (Evans Road) swimming complex
+MOE (Evans Road) Swimming Complex
 
 #### **About CCA**
 The swimming CCA aims to develop competitive swimmers, by providing them with a platform to develop their potential. Members of the CCA will learn to swim proficiently using the various swimming strokes such as freestyle, backstroke, breaststroke and butterfly. Our swimmers also get a chance to represent the school in the Swimming National School Games.
