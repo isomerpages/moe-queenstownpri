@@ -11,9 +11,7 @@ variant: tiptap
 <br>Ms Venus Lim Wen Xuan
 <br>Mdm Yap Eng Fui
 <br>Ms Celeste Lee
-<br>Mdm Srija (Sem 2)
-<br>
-</p>
+<br>Mdm Srija (Sem 2)</p>
 <h4><strong>CCA Training</strong></h4>
 <p>Mondays (Development Team)
 <br>3.00 - 5.00 p.m.</p>
