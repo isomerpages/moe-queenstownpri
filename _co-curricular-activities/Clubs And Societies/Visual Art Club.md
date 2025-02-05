@@ -6,9 +6,8 @@ third_nav_title: Clubs And Societies
 variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
-Mrs Suzanne Pang (OIC)<br>
-Mdm Aliah Hanim<br>
-Mdm Cheung Man Wai
+Mdm Aliah Hanim (OIC)<br>
+Mrs Suzanne Pang
 
 #### **CCA Advisor**
 Mdm Jeanna Goh

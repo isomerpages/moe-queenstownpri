@@ -6,8 +6,8 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
-Mdm Li Lingbo (OIC)<br>
-Mdm Najumunisha
+Ms Cheung Man Wai<br>
+Ms Ho Li Ming
 
 #### **CCA Advisor**
 Mdm Jeanna Goh

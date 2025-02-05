@@ -9,16 +9,15 @@ variant: markdown
 Mr Jasper Chiang (OIC)<br>
 Mrs Pauline Lee<br>
 Mr Tan Kian Tat<br>
-Ms Wan Hameezah
+Ms Yeo Teck Wai
 
 #### **CCA Training**
 Monday &amp; Friday <br>
 3.00pm to 5.00pm<br>
 
 #### **CCA Venue**
-Monday - School Field<br>
-Friday - Hall<br>
-Wet Weather - ISH 
+School Field<br>
+ISH (Wet Weather) 
 
 #### **About CCA**
 Softball is a great sport opened to boys from P3 onwards.

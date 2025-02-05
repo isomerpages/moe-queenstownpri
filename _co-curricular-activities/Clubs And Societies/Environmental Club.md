@@ -1,6 +1,6 @@
 ---
-title: Science and Green Club
-permalink: /experience/CCA/clubs-and-societies/
+title: Environmental Club
+permalink: /experience/cca/clubs-and-societies/
 description: ""
 third_nav_title: Clubs And Societies
 variant: markdown
@@ -11,7 +11,7 @@ Mrs Jean Law<br>
 Ms Liu Zi Jing
 
 #### **CCA Advisor**
-Mrs Chia Su Sze &amp; Mrs Chen Soon Shan
+Mrs Chia Su Sze
 
 #### **CCA Day and Time**
 Tuesdays<br>

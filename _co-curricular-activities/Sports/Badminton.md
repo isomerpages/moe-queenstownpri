@@ -7,10 +7,10 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Mr Amos Leong (OIC)  <br>
+Ms Tan Wei Xin (2IC)<br>
 Mr Gordon Ranjit Magherra<br>
-Ms Tan Wei Xin<br>
 Ms Yap Ee Lim<br>
-Ms Kang Li Ping 
+Mr Muhd Taufiq
 
 #### **CCA Training**
 Mondays, Tuesdays &amp; Fridays<br>

@@ -7,17 +7,18 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Ms Lu Wei (OIC)<br>
-Mrs Sharon Ng<br>
+Ms Ng Sor Lan<br>
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
 
 #### **CCA Day and Time**
-Tuesdays
+Fridays
 2.15 pm - 4.15 pm
 
 #### **CCA Venue**
 PAL Room 1 &amp; 2
+Music Room 1
 
 #### **About CCA**
 International Dance is a contemporary dance CCA. Contemporary dance has its roots in classical ballet and modern dance, and is one of the most dominant dance genres of dance worldwide. During the training sessions, our Queenstowners are exposed to a wide range of movements, from jumps and turns to floor work, to improve their technique, expressiveness, and fluidity. The team also works towards performances and competitions such as the CCA Showcase and the Singapore Youth Festival, dancing specially choreographed items that showcase the talent and skill of the team.

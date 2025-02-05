@@ -8,7 +8,7 @@ variant: markdown
 #### **CCA Teachers-in-Charge**
 Mr Jason Seng (OIC)<br>
 Mdm Kwek Sor Hian<br>
-Ms Chu Yu Fang
+Mdm Qian Li
 
 #### **CCA Day and Time**
 Fridays <br>
