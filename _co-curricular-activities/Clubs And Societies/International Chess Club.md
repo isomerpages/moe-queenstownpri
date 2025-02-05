@@ -6,9 +6,8 @@ third_nav_title: Clubs And Societies
 variant: markdown
 ---
 #### **CCA teachers-in-Charge**
-Ms Kaycee Ng Wan Quan (OIC) <br>
-Mdm Joyce Kang <br>
-Mrs Calista Yap
+Ms Lee Hui Yi (OIC) <br>
+Ms Choo Ruofei
 
 #### **CCA Day and Time**
 Tuesdays<br>
