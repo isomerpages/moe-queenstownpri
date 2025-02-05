@@ -7,8 +7,8 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Ms Von Tjong Min Cui (OIC) <br>
+Mrs Christabel Goh  <br>
 Ms Wee Su Ern  <br>
-Mdm Qian Li <br>
 
 #### **CCA Day and Time**
 Fridays <br>
