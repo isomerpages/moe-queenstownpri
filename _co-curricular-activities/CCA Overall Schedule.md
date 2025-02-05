@@ -490,8 +490,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fathin Atikah Mas’ud (OIC)
-<br>Mrs Calista Yap
-<br>Mr Noor (Advisor)</p>
+<br>Mrs Calista Yap</p>
 </td>
 </tr>
 <tr>
