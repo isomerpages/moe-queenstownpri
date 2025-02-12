@@ -28,7 +28,7 @@ variant: tiptap
 <p>Malay Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>31 Jan 2025</strong>
+<p><strong>25 February 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
