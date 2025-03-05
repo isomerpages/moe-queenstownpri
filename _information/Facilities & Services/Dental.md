@@ -143,23 +143,23 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>17
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>19
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>20
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 </tr>
 <tr>
