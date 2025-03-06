@@ -10,8 +10,6 @@ As valued partners in education, the school’s parent support group, QtPSG, is 
 
 For parents, QtPSG is also a valuable resource to enhance parent-child bond. It is a terrific platform for parents to network, understand educational and learning issues, get to know their children’s classmates and teachers and connect with other parents for practical and emotional support.
 
-For more information on QtPSG, please click&nbsp;[here](http://www.queenstownpsg.org/).
+For more information on QtPSG, please [visit our Facebook page](https://www.facebook.com/QtPSG)
 
-<iframe width="1180" height="664" src="https://www.youtube.com/embed/rpwj-xOwx-Y" title="2021 Project Care" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<iframe width="1180" height="664" src="https://www.youtube.com/embed/fhjzq10t4-U" title="2021 E encouragement Board" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Connecting Parents: Your First Step to a Stronger Support Network" src="https://www.youtube.com/embed/-9NN0xw-c80" height="360" width="620"></iframe>
