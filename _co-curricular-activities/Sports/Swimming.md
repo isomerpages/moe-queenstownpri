@@ -30,10 +30,10 @@ Students from our Swimming CCA took part in the 60th National Primary School Swi
 
 #### **Photos**
 
-<img src="/images/swimming%201.jpg" style="width:75%">
+<img src="/images/CCA%20Swimming/swimming%201.jpg" style="width:75%">
 
-<img src="/images/swimming%202.jpg" style="width:75%">
+<img src="/images/CCA%20Swimming/swimming%202.jpg" style="width:75%">
 		 
-<img src="/images/swimming%203.jpg" style="width:75%">
+<img src="/images/CCA%20Swimming/swimming%203.jpg" style="width:75%">
 		 
-<img src="/images/swimming%204.jpg" style="width:65%">
+<img src="/images/CCA%20Swimming/swimming%204.jpg" style="width:65%">
