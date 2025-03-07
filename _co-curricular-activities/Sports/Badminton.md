@@ -28,16 +28,17 @@ Junior Boys - Qualified for Second Round of the 2018 National Schools Games (Sou
 
 #### **Photos**
 
-<img src="/images/bmt%201.jpg" style="width:85%">
+<img src="/images/CCA%20Badminton/bmt%201.jpg" style="width:85%">
 
-<img src="/images/bmt%202.jpg" style="width:65%">
+<img src="/images/CCA%20Badminton/bmt%202.jpg" style="width:65%">
 
-![](/images/bmt%203.jpg)
+![](/images/CCA%20Badminton/bmt%203.jpg)
 
-![](/images/bmt%204.jpg)
 
-<img src="/images/bmt%205.jpg" style="width:65%">
+![](/images/CCA%20Badminton/bmt%204.jpg)
 
-<img src="/images/bmt%206.jpg" style="width:65%">
+<img src="/images/CCA%20Badminton/bmt%205.jpg" style="width:65%">
 
-![](/images/bmt%207.jpg)
+<img src="/images/CCA%20Badminton/bmt%206.jpg" style="width:65%">
+
+![](/images/CCA%20Badminton/bmt%207.jpg)

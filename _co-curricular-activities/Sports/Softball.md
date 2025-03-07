@@ -37,9 +37,9 @@ A number of our softball players have managed to enter their desired secondary s
 
 #### **Photos**
 
-![](/images/softball%201.jpg)
-![](/images/softball%202.jpg)
-![](/images/softball%203.jpg)
-![](/images/softball%204.jpg)
-![](/images/softball%205.jpg)
-![](/images/softball%206.jpg)
+![](/images/CCA%20Softball/softball%201.jpg)
+![](/images/CCA%20Softball/softball%202.jpg)
+![](/images/CCA%20Softball/softball%203.jpg)
+![](/images/CCA%20Softball/softball%204.jpg)
+![](/images/CCA%20Softball/softball%205.jpg)
+![](/images/CCA%20Softball/softball%206.jpg)
