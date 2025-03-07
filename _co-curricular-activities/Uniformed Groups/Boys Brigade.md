@@ -48,13 +48,12 @@ JM Fraser Award for Excellence - Suspended due to Circuit Breaker (2020)<br>
 JM Fraser Award for Excellence - Gold Honour Roll (2021)
 
 #### **Photos**
+![](/images/CCA%20Uniform%20Groups/bb%201.jpg)
 
-![](/images/bb%201.jpg)
+![](/images/CCA%20Uniform%20Groups/bb%202.jpg)
 
-![](/images/bb%202.jpg)
+![](/images/CCA%20Uniform%20Groups/bb%203.jpg)
 
-![](/images/bb%203.jpg)
+![](/images/CCA%20Uniform%20Groups/bb%204.jpg)
 
-![](/images/bb%204.jpg)
-
-![](/images/bb%205.jpg)
+![](/images/CCA%20Uniform%20Groups/bb%205.jpg)
