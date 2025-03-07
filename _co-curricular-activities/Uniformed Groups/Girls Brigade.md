@@ -37,16 +37,16 @@ Low Guat Tin Challenge<br>
 2019 - Silver Award<br>
 #### **Photos**
 
-![](/images/gb%201.jpg)
+![](/images/CCA%20Uniform%20Groups/gb%201.jpg)
 
-![](/images/gb%202.jpg)
+![](/images/CCA%20Uniform%20Groups/gb%202.jpg)
 
-![](/images/gb%203.jpg)
+![](/images/CCA%20Uniform%20Groups/gb%203.jpg)
 
-![](/images/gb%204.jpg)
+![](/images/CCA%20Uniform%20Groups/gb%204.jpg)
 
-![](/images/gb%205.jpg)
+![](/images/CCA%20Uniform%20Groups/gb%205.jpg)
 
-![](/images/gb%206.jpg)
+![](/images/CCA%20Uniform%20Groups/gb%206.jpg)
 
-![](/images/gb%207.jpg)
+![](/images/CCA%20Uniform%20Groups/gb%207.jpg)
