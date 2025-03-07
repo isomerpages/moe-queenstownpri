@@ -26,19 +26,19 @@ Through Malay Dance, we develop students to be an individual with a strength of 
 
 ##### **Every Member is a Potential Dancer**
 
-<img src="/images/ML%20Dance%20Pic%201.jpeg" style="width:85%">
+<img src="/images/CCA%20MalayDance/ML%20Dance%20Pic%201.jpeg" style="width:85%">
 Practice and hard work is essential in bringing out the best in every Malay Dancer. Getting the right dance technique and form requires perseverance and teamwork. Through dance, students sharpen their agility and poise. They look better and more importantly feel good about themselves.
 
 ##### **Effective Leaders as Malay Dance Ambassadors**
-<img src="/images/ML%20Dance%20Pic%202.jpeg" style="width:75%">
+<img src="/images/CCA%20MalayDance/ML%20Dance%20Pic%202.jpeg" style="width:75%">
 It is just not about dancing! As Malay Dance members, students are ambassadors in school’s events such as Learning Extravaganza cum Open House. This is just one of the many platforms for students to present themselves confidently, simultaneously developing the leadership skills in them.
 
 ##### **Confident Dancers, Accomplished Individuals**
 
-<img src="/images/ML%20Dance%20Pic%203.jpg" style="width:49%" align="left">
-<img src="/images/Malay%20Dance%20Pic%204.jpeg" style="width:49%" align="right">		 
+<img src="/images/CCA%20MalayDance/ML%20Dance%20Pic%203.jpg" style="width:49%" align="left">
+<img src="/images/CCA%20MalayDance/Malay%20Dance%20Pic%204.jpeg" style="width:49%" align="right">		 
 <br><br><br><br><br><br><br><br>		 
-<img src="/images/ML%20Dance%20Pic%205.jpg" style="width:85%">
+<img src="/images/CCA%20MalayDance/ML%20Dance%20Pic%205.jpg" style="width:85%">
 		 
 The transformation of the ordinary to the extraordinary! Our Malay Dancers never fail to awe audience with their captivating smiles and graceful performance. Every performance is a great opportunity for them to showcase their talents and hone their dance skills. Hours of practice, commitment and positive thinking is key to every momentous performance! Students feel accomplished, much to the joy of their parents.
 
