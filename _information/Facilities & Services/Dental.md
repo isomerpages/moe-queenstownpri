@@ -24,7 +24,7 @@ variant: tiptap
 <p>Contact Person</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chui</p>
+<p>Mdm Chui / Ms Rebecca</p>
 </td>
 </tr>
 <tr>
