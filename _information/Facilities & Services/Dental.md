@@ -24,7 +24,7 @@ variant: tiptap
 <p>Contact Person</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chui</p>
+<p>Mdm Chui / Ms Rebecca</p>
 </td>
 </tr>
 <tr>
@@ -56,180 +56,6 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Dental Clinic Operating Schedule :</strong></h4>
-<h4><strong>March 2025</strong></h4>
-<table style="minWidth: 150px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Week</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Monday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Tuesday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Wednesday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Thursday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Friday</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7
-<br>OPEN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14
-<br>CLOSED</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Holidays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>19
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21
-<br>CLOSED</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>27
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28
-<br>CLOSED</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>April 2025</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
@@ -270,11 +96,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>1
-<br>OPEN</p>
+<br>AM OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3
@@ -282,7 +108,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>4
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 </tr>
 <tr>
@@ -332,7 +158,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>18
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 </tr>
 <tr>
@@ -449,14 +275,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fairfield Methodist Primary School</p>
+<p>Radin Mas Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>87647361</p>
+<p>89092397</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>100 Dover Road
-<br>S(139648)</p>
+<p>1 Bukit Purmei Ave
+<br>S(099840)</p>
 </td>
 </tr>
 <tr>
