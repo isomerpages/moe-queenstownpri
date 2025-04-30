@@ -1,4 +1,5 @@
 collections:
   leoh-2025:
     output: true
-    order: []
+    order:
+      - Learning Extravaganza Open House 2025.md
