@@ -1,5 +1,4 @@
 collections:
   leoh-2025:
     output: true
-    order:
-      - LEOH 2025.md
+    order: []
