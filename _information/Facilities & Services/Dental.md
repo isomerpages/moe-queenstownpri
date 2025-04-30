@@ -56,7 +56,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Dental Clinic Operating Schedule :</strong></h4>
-<h4><strong>April 2025</strong></h4>
+<h4><strong>May 2025</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -89,31 +89,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1
-<br>AM OPEN</p>
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>3
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7
@@ -127,18 +133,18 @@ variant: tiptap
 <p>9
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>10
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>14
@@ -146,24 +152,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>15
-<br>OPEN</p>
+<br>OPEN (AM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16
 <br>OPEN</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>17
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21
@@ -171,24 +177,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>22
-<br>CLOSED</p>
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>24
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>28
@@ -196,17 +202,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>29
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<br>CLOSED</p>
 </td>
 </tr>
 <tr>
