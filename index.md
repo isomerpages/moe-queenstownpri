@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: QtPS LEOH 2025
       button: Click HERE
-      url: /leoh2025/
+      url: /leoh2025/overview/
       image: /images/LEOH2025/LEOH_Poster_for_Website.png
       alt: Image alt text
       description: Join us to discover the vibrant school life and values that define
