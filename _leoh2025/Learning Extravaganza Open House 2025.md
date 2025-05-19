@@ -15,8 +15,7 @@ description: ""
 <br>Come and experience the joy of learning at Queenstown Primary School!
 Explore our classrooms, engage with our passionate educators and discover
 how we nurture every child to be a confident learner and caring citizen.</p>
-<p><strong>LEOH Programme Schedule</strong>
-</p>
+<h4><strong>LEOH Programme Schedule</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -88,8 +87,7 @@ how we nurture every child to be a confident learner and caring citizen.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Ongoing Programmes</strong>
-</p>
+<h4><strong>Ongoing Programmes</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
