@@ -8,6 +8,7 @@ variant: markdown
 #### **CCA Teachers-in-Charge**
 Mdm Quek Siew Kee (OIC)<br>
 Ms Peck Siew Ling<br>
+Mdm Li  Ying
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
