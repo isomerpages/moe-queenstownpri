@@ -163,8 +163,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Quek Siew Kee (OIC)
 <br>Ms Peck Siew Ling
-<br>
-</p>
+<br>Mdm Li Ying</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +179,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lu Wei (OIC)
-<br>Mdm Ng Sor Lan</p>
+<br>Mr Ng Peng Hwee</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +195,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheung Man Wai (OIC)
-<br>Ms Ho Li Ming</p>
+<br>Ms Ho Li Ming
+<br>Mdm Yang Shiow Ru</p>
 </td>
 </tr>
 <tr>
@@ -228,6 +228,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Yee Hueh (OIC)
+<br>Mr Ken Tan
 <br>Mdm Nurulain Nadiah</p>
 </td>
 </tr>
@@ -306,7 +307,8 @@ variant: tiptap
 <br>Ms Venus Lim
 <br>Mdm Yap Eng Fui
 <br>Ms Celeste Lee
-<br>Mdm Srija</p>
+<br>Mdm Srija
+<br>Mr Yeo Bo Yu</p>
 </td>
 </tr>
 <tr>
@@ -422,6 +424,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Aliah Hanim (OIC)
 <br>Mrs Suzanne Pang
+<br>Mr Wellens Tan
 <br>Ms Jeanna Goh (TIC &amp; Advisor)</p>
 </td>
 </tr>
@@ -474,7 +477,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Hui Yi (OIC)
-<br>Ms Choo Ruofei</p>
+<br>Ms Choo Ruofei
+<br>Mdm Lily Ong</p>
 </td>
 </tr>
 <tr>
@@ -490,7 +494,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fathin Atikah Mas’ud (OIC)
-<br>Mrs Calista Yap</p>
+<br>Mrs Calista Yap
+<br>Mr Noor (Advisor)</p>
 </td>
 </tr>
 <tr>

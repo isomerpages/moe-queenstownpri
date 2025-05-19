@@ -22,19 +22,20 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: QtPS LEOH 2025
+      button: Click HERE
+      url: /leoh2025/overview/
+      image: /images/LEOH2025/LEOH_Poster_for_Website.png
+      alt: Image alt text
+      description: Join us to discover the vibrant school life and values that define
+        the Queenstown Primary School experience!
+  - infopic:
       title: ✨ Queenstown Primary School is now on Instagram! ✨
       id: infopic
       description: Follow us @qtps_sg to stay connected with our school community in a
         new way! 🏫
       image: /images/Announcements/QtPS_instaA.png
       alt: Image alt text
-  - infopic:
-      title: QtPS eLearning Webpage
-      button: Click HERE
-      url: /hbl-overview/
-      image: /images/cce.jpg
-      alt: Image alt text
-      description: "Go to the QtPS e-Learning webpage for your e-Learning instructions:"
   - infopic:
       title: CCA
       description: Co-Curricular Activities
