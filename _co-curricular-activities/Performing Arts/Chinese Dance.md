@@ -7,7 +7,8 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Ms Cheung Man Wai<br>
-Ms Ho Li Ming
+Ms Ho Li Ming <br>
+Mdm Yang Shiow Ru
 
 #### **CCA Advisor**
 Mdm Jeanna Goh
