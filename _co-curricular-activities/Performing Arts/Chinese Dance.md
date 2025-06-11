@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
-Ms Cheung Man Wai<br>
+Ms Cheung Man Wai (OIC)<br>
 Ms Ho Li Ming <br>
 Mdm Yang Shiow Ru
 
