@@ -1,6 +1,6 @@
 ---
 title: Nothing for Vendors
-permalink: /web-page-not-available/
+permalink: /nothing-vendors/
 variant: tiptap
 description: ""
 third_nav_title: For Vendors
