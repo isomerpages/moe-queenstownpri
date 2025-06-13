@@ -37,6 +37,26 @@ Students are guided through an Inquiry Based approach which includes making Conn
 
 #### **CCA Achievement**
 
+##### **2025 Singapore Youth Festival (SYF)**
+
+|  |  | 
+| -------- | -------- | 
+|  ![](/images/CCA%20VisualArts/2025_CAT_B.jpg)         |  ![](/images/CCA%20VisualArts/2025_CAT_B1.jpg)     | 
+|  ![](/images/CCA%20VisualArts/2025_CAT_B3.jpg)Certification of Participation for CAT B  |  ![](/images/CCA%20VisualArts/2025_CAT_B2.jpg)     | 
+|   |  | 
+
+
+|  |  | 
+| -------- | -------- | 
+|  ![](/images/CCA%20VisualArts/2025_CAT_C.jpg)         |  ![](/images/CCA%20VisualArts/2025_CAT_C4.jpg)     | 
+|  ![](/images/CCA%20VisualArts/2025_CAT_C2.jpg)  |  ![](/images/CCA%20VisualArts/2025_CAT_C1.jpg)     | 
+|  Certification of Participation for CAT C  |  ![](/images/CCA%20VisualArts/2025_CAT_C3.jpg)     | 
+|   |  | 
+
+
+##### **2023 Singapore Youth Festival (SYF)**
+![](/images/CCA%20VisualArts/2023_CAT_B.jpg)Certification of Participation for CAT B
+
 ##### **2023 SOTA Primary 6 Art Competition**
 Top 50 Finalist - Yim Yebin (6 Joy)
 ![](/images/CCA%20VisualArts/2023-sota-top50.png)
@@ -47,14 +67,6 @@ Silver Award - Yim Yebin (6 Joy)
 ##### **2021 Draw My Stamp Story Art Competition**
 Silver Award - Chua Xin Yu, Elise (6 Joy)
 ![](/images/CCA%20VisualArts/art%201.jpg)
-
-##### **2021 Singapore Youth Festival (SYF)**
-Selected for Virtual Exhibition CAT C
-##### **2019 Singapore Youth Festival (SYF)**
-Selected for exhibition at National Museum of Singapore CAT B
-##### **2017 Singapore Youth Festival (SYF)**
-Certificate of Participation for CAT B<br>
-Certificate of Recognition for CAT C
 
 #### **Other Information**
 Students will be required to purchase their own art sketchbook (visual diary) for use during CCA sessions.
