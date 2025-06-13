@@ -37,16 +37,22 @@ Low Guat Tin Challenge<br>
 2019 - Silver Award<br>
 #### **Photos**
 
-![](/images/CCA%20Uniform%20Groups/gb%201.jpg)
+![](/images/CCA%20Girls%20Brigade/GB2025_1.png)
 
-![](/images/CCA%20Uniform%20Groups/gb%202.jpg)
+![](/images/CCA%20Girls%20Brigade/GB2025_2.png)
 
-![](/images/CCA%20Uniform%20Groups/gb%203.jpg)
+![](/images/CCA%20Girls%20Brigade/GB2025_3.png)
 
-![](/images/CCA%20Uniform%20Groups/gb%204.jpg)
+![](/images/CCA%20Girls%20Brigade/GB2025_4.png)
 
-![](/images/CCA%20Uniform%20Groups/gb%205.jpg)
+![](/images/CCA%20Girls%20Brigade/GB2025_5.png)
 
-![](/images/CCA%20Uniform%20Groups/gb%206.jpg)
+![](/images/CCA%20Girls%20Brigade/GB2025_6.png)
 
-![](/images/CCA%20Uniform%20Groups/gb%207.jpg)
+![](/images/CCA%20Girls%20Brigade/GB2025_7.png)
+
+![](/images/CCA%20Girls%20Brigade/GB2025_8.png)
+
+![](/images/CCA%20Girls%20Brigade/GB2025_9.png)
+
+![](/images/CCA%20Girls%20Brigade/GB2025_10.png)
