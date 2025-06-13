@@ -36,7 +36,7 @@ data, and communicate results while learning Science in a fun way.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="1.	Feeling the warmth — a hands-on way to learn about heat!" src="/images/Dept_Science/1_Heat.jpg">
 </div>
-<p>From feeling to measuring – using dataloggers to explore heat!</p>
+<p>Feeling the warmth — a hands-on way to learn about heat!</p>
 </td>
 </tr>
 <tr>
