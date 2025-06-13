@@ -132,6 +132,14 @@ Centre!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="10.	A closer look at nature – exploring microscopic life in action!" src="/images/Dept_Science/10_Microscope.jpg">
+</div>
+<p>A closer look at nature – exploring microscopic life in action!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
