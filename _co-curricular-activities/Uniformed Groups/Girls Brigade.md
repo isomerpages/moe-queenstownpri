@@ -28,13 +28,15 @@ The GB members engage in meaningful activities led by their teachers and volunte
 Through these experiences, the members will become a Confident Individual, Caring Citizen and Effective Leader.&nbsp;Although a Christian-based CCA, we welcome girls of any religion to join us.
 
 #### **CCA Achievement**
-Girls’ Brigade Company Award<br>
-2017 - Silver <br>
-2018 - Silver <br>
-2021 - Silver <br><br>
-Low Guat Tin Challenge<br>
-2017 - Gold Award <br>
-2019 - Silver Award<br>
+**Girls’ Brigade Company Award<br>**
+2024 - Bronze <br>
+2023 - Bronze <br>
+2022 - Bronze <br>
+
+**Drill Competition Award<br>**
+2024 - Bronze <br>
+2023 - Bronze
+
 #### **Photos**
 
 ![](/images/CCA%20Girls%20Brigade/GB2025_1.png)
