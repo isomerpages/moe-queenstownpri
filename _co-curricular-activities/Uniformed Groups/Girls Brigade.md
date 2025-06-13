@@ -33,6 +33,10 @@ Through these experiences, the members will become a Confident Individual, Carin
 2023 - Bronze <br>
 2022 - Bronze <br>
 
+**Drill Competition Award<br>**
+2024 - Bronze <br>
+2023 - Bronze <br>
+
 #### **Photos**
 
 ![](/images/CCA%20Girls%20Brigade/GB2025_1.png)
