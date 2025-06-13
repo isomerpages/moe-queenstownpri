@@ -35,7 +35,7 @@ Through these experiences, the members will become a Confident Individual, Carin
 
 **Drill Competition Award<br>**
 2024 - Bronze <br>
-2023 - Bronze <br>
+2023 - Bronze
 
 #### **Photos**
 
