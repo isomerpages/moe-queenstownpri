@@ -27,9 +27,8 @@ The members in the ‘Recreational Team’ attend theory lessons and progressive
 Through the International Chess Club CCA, members will learn to be critical thinkers and problem solvers. These skills are paramount to becoming good chess players. As chess is a ‘gentleman’s game’, members will also learn the importance of being reflective, gracious and displaying sportsmanship which will serve them well in school and beyond.
 
 #### **Photos**
+![](/images/CCA%20InternationalChess/IntChess1.jpg)
 
-![](/images/IntChess1.jpeg)
+![](/images/CCA%20InternationalChess/IntChess2.jpg)
 
-![](/images/IntChess2.jpeg)
-
-![](/images/IntChess3.jpeg)
+![](/images/CCA%20InternationalChess/IntChess3.jpg)
