@@ -4,7 +4,7 @@ permalink: /experience/overview/
 description: ""
 variant: markdown
 ---
-![](/images/experience.jpg)
+![](/images/School_Related/2025_CCA_Montage_for_Website.png)![](/images/experience.jpg)
 
 * [Co-Curricular Activities (CCA)](/co-curricular-activities/)
 * [Applied Learning Programme - Environmental Project-based Learning](/experience/ALP/)
