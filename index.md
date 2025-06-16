@@ -42,7 +42,7 @@ sections:
       button: click here
       url: /co-curricular-activities/
       alt: Image alt text
-      image: /images/CCA_2024.jpeg
+      image: /images/School_Related/2025_CCA_Montage_for_Website.png
   - infopic:
       title: Come join our Alumni
       subtitle: QtPS Alumni
