@@ -83,11 +83,17 @@ and overcome challenges.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5%20Camp/P5Camp_2025_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5%20Camp/P5Camp_2025_3.jpg">
 </div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5%20Camp/P5Camp_2025_5.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -102,15 +108,9 @@ and overcome challenges.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5%20Camp/P5Camp_2025_3.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5%20Camp/P5Camp_2025_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5%20Camp/P5Camp_2025_8.jpg">
 </div>
 <p></p>
 </td>
