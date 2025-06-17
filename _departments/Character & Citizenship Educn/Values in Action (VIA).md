@@ -3,38 +3,189 @@ title: Values in Action (VIA)
 permalink: /departments/CCE/VIA/
 description: ""
 third_nav_title: Character & Citizenship Educn
+variant: tiptap
 ---
-#### **5516 Daily Cleaning**
-All students from Queenstown Primary School are doing Values In Action (VIA) every day in school. Each student will spend&nbsp;**5 minutes**,&nbsp;**5 times**&nbsp;a week cleaning their own respective areas and classrooms. They in turn take approximately&nbsp;**16 in a year**&nbsp;ensuring that they are disciplined to keep their own areas and classroom neat and clean. Students also do wipe down after the MTL lessons and at the end of the day. Overall, students display responsibility, resilience, integrity and care to their second home.
-
-<img src="/images/via%201.jpg" style="width:65%">
-		 
-<img src="/images/via%202.jpg" style="width:75%">
-		 
-##### **Primary 1: Zero Waste**
-Students in primary 1 raised their awareness about food wastage in Singapore. Students learn about the process of food cultivation and the effort and care that has been put into it. With the COVID-19 situation, the challenge of food cultivation has been greater. Upon learning to appreciate food better, the Primary 1 students used a Zero Waste Checklist to remind themselves to appreciate food and form new good habits. Overall, the Primary 1 students put respect, integrity and gratitude to action.&nbsp;
-
-<img src="/images/via%203.jpg" style="width:55%">
-		 
-##### **Primary 2: Clean and Beautiful Toilets**
-Primary 2 students from Queenstown Primary School attended a talk co-created by QtPS VIA committee and Restroom Association (Singapore). The students learnt about the importance of hygiene and social etiquette in the toilets. Students embarked on a journey to encourage their fellow schoolmates to keep the school toilets clean. Primary 2 students created posters during their art lessons. These posters were used to decorate the toilets to encourage good toilet etiquette during FTGP. Overall, the Primary 2 students showed responsibility, respect, integrity and care.
-
-<img src="/images/via%204.jpg" style="width:75%">
-		 
-##### **Primary 3: Buddy Clean**
-Primary 3 students from Queenstown Primary School attended a workshop conducted by NEA. During the workshop, students learnt about the hygiene concerns in Singapore in the late 60s and the introduction of the Keep Singapore Clean Campaign by then late Prime Minister Lee Kuan Yew. They understood the need of a clean and green Singapore. Students also learn to handle cleaning tools effectively. They took responsibility to clean various parts of the school like the canteen, school hall, indoor sports hall and their own classroom. Overall, the Primary 3 students put responsibility, resilience and integrity into action.
-
-<img src="/images/via%205.jpg" style="width:85%">
-		 
-##### **Primary 4: Adopt A Station**
-Despite the COVID-19 pandemic, the Primary 4 students had an interesting and an eye-opening VIA. They attended a zoom session to learn about promoting a gracious and safe commuting conducted by SMRT. P4 students learn about the daily life of Station Manager of the SMRT in Singapore. Students discover the challenges and hardships of the station staff. Students also learn on the many ways to enjoy commuting on while on public transport. The primary 4 students appreciated the efforts of the station staff and created posters to promote gracious and safe commuting. The posters will be placed at MRT stations to promote gracious and safe commuting. Overall, the Primary 4 students displayed respect, gratitude, and care.
-
-<img src="/images/via%206.jpg" style="width:85%">
-		 
-##### **Primary 5: Inclusivity**
-The Primary 5 students from Queenstown Primary School had a heart wrenching and an eye-opening VIA. They learnt the dynamics of an inclusive society through a workshop co-created by the QtPS VIA committee and Form Teachers of Primary 5. Through the workshop, the primary 5 students learn about people with disabilities. Students also learnt more about the challenges of the people who are visually impaired. To understand it better, the primary 5 students went through a blind fold communicating experience. With the experience, they reflected on the way that they could assist people who are visually impaired. Overall, the Primary 5 students displayed empathy, respect, and gratitude.
-
-<img src="/images/via%207.jpg" style="width:85%">
-
-##### **Primary 6: Appreciation for Non-Teaching Staff**
-Despite the COVID-19 pandemic, the primary six students from Queenstown Primary School had a heart-warming VIA. In view of the rapidly ageing society, students attended a workshop co-created by QtPS VIA committee and P6 Form Teachers. Through the workshop, students learn more about the duties of the non-teaching staff in the school. This includes the office staff, IT personnel and janitors. Students learn about the job scopes and challenges of the adults. Students learn about the importance of their duties to ensure that the school runs smoothly. Students then conduct interviews to the non-teaching staff and explore ways to show appreciation to them. As form of reflection, students not only appreciate the non-teaching staff but also heighten their respect for the unsung heroes who are also the front liners. Overall, the Primary 6 students displayed respect, gratitude and care.
+<h4><strong>5516 Daily Classroom Cleaning</strong></h4>
+<p>Queenstown Primary School nurtures values through daily actions. Our 5516
+programme encourages students to take ownership of their learning environment
+through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>5 minutes</strong> of cleaning</p>
+</li>
+<li>
+<p><strong>5 times</strong> a week</p>
+</li>
+<li>
+<p><strong>16 hours</strong> annually</p>
+</li>
+</ul>
+<p>Students clean their classrooms and personal areas daily, developing discipline,
+responsibility, and care for their 'second home'.</p>
+<p><strong>Clean Classroom Campaign</strong>
+</p>
+<p>Environment Ambassadors lead their peers in daily cleaning routines, fostering
+leadership and collective responsibility. Classes demonstrating exceptional
+commitment receive certificates recognising their dedication.</p>
+<p><strong>Cultivating Values</strong>
+</p>
+<p>Through 5516, students learn to show gratitude to school cleaners, take
+pride in their environment, and develop ownership and community spirit.
+This daily practice reinforces responsibility, resilience, integrity, and
+care—creating a conducive learning atmosphere while instilling core values
+in every student.</p>
+<h5><strong>Primary 1: K2 Befriender Programme</strong></h5>
+<p>The K2 Befriender Programme pairs Primary 1 students with K2 children
+from partner preschools through letter exchanges integrated into English
+lessons. Primary 1 students develop as mentors, preparing to welcome their
+buddies during a half-day school visit where K2 students experience primary
+school life and attend lessons together.</p>
+<p><strong>Programme Benefits:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Leadership Development</strong>: Primary 1 students nurture leadership
+qualities as caring mentors</p>
+</li>
+<li>
+<p><strong>Literacy Enhancement</strong>: Letter exchanges enhance writing
+and communication skills through English curriculum integration</p>
+</li>
+<li>
+<p><strong>School Transition Support</strong>: K2 students gain familiarity
+with primary school environment and routines</p>
+</li>
+</ul>
+<p>Both groups reflect on their experiences, reinforcing valuable lessons
+learned. Through this programme, Primary 1 students demonstrate care and
+gratitude towards their junior buddies, embodying the school's values in
+a meaningful way.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P1_Befriender.png">
+</div>
+<h5><strong>Primary 2: Clean it Right!</strong></h5>
+<p>The "Clean it Right!" programme develops Primary 2 students' responsibility
+towards the school environment and appreciation for cleaning staff through
+engaging activities.</p>
+<p><strong>Programme Components:</strong>
+</p>
+<p><strong>Understanding Our Cleaners' Challenges</strong> 
+<br>Students participate in classroom activities and a conversation session
+with school cleaners, learning about their daily routines and challenges.
+This interaction fosters appreciation for maintaining the learning environment
+and encourages students to contribute to school cleanliness as a gesture
+of gratitude.</p>
+<p><strong>Creative Reflection - Jingle Composition</strong> 
+<br>Students compose meaningful jingles that serve as daily reminders about
+the importance of the 5516 cleaning routine, reinforcing the school's commitment
+to cleanliness.</p>
+<p><strong>Hands-On Application</strong> 
+<br>The programme culminates with students cleaning designated school areas,
+allowing them to contribute directly and understand the impact of their
+actions.</p>
+<p>Through "Clean it Right!", Primary 2 students develop empathy, gratitude,
+and community spirit while learning about responsibility and environmental
+stewardship.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P2_CleanItRight.png">
+</div>
+<h5><strong>Primary 3: Gracious Commuting</strong></h5>
+<p>This collaborative VIA programme with SMRT develops Primary 3 students'
+consideration and care in public transportation through three key components:</p>
+<p><strong>SMRT Assembly Talk</strong> 
+<br>SMRT staff share insights about station staff roles, daily challenges,
+and the importance of public consideration. Students learn about awareness
+initiatives like the 'May I Have a Seat' lanyard, encouraging them to offer
+seats to those in greater need.</p>
+<p><strong>Classroom Activities</strong> 
+<br>Students engage in small group discussions on graciousness in public transport,
+reflecting on how they can demonstrate consideration. They create handmade
+bookmarks containing messages of gracious commuting.</p>
+<p><strong>Community Outreach</strong> 
+<br>Students visit nearby MRT stations to distribute their handmade bookmarks
+to commuters, actively spreading awareness of considerate behaviour in
+public transportation.</p>
+<p>Through this programme, Primary 3 students cultivate empathy, social responsibility,
+and civic-mindedness, becoming thoughtful users of public transport and
+considerate members of society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P3_GracCommuting.png">
+</div>
+<h5><strong>Primary 4: Adopt A Park</strong></h5>
+<p>The Adopt-a-Park programme aligns with Singapore's Green Plan, fostering
+Primary 4 students' responsibility towards shared spaces and the natural
+environment through three components:</p>
+<p><strong>City in Nature Talk</strong> National Environment Agency (NEA)
+staff educate students about Singapore's Green Plan, native biodiversity,
+and the importance of community and companion animals in our ecosystem,
+establishing understanding of environmental initiatives and parks' role
+in urban landscapes.</p>
+<p><strong>Classroom Activities</strong> Students engage in discussions and
+interactive exercises about being considerate users of shared spaces like
+parks. Activities help students appreciate greenery and animals while reflecting
+on their role in maintaining and respecting public green areas.</p>
+<p><strong>Hands-on Environmental Stewardship</strong> Students participate
+in a park clean-up activity near school, putting learning into action while
+observing and appreciating nature in their school environment.</p>
+<p>Through Adopt-a-Park, Primary 4 students develop environmental awareness,
+responsibility for public spaces, and appreciation for local flora and
+fauna. This programme nurtures environmentally conscious citizens who understand
+the importance of green spaces and actively contribute to their preservation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P4_AdoptAPark.png">
+</div>
+<h5><strong>Primary 5: We Are All Special!</strong></h5>
+<p>This collaborative programme with Dialogue in the Dark from Ngee Ann Polytechnic
+fosters Primary 5 students' empathy and understanding towards the visually
+impaired community through four components:</p>
+<p><strong>Interactive Dialogue Session</strong> 
+<br>Visually impaired facilitators engage students in meaningful conversations,
+sharing their experiences and perspectives. This session provides valuable
+insights into daily lives of people with visual impairments, cultivating
+empathy and understanding.</p>
+<p><strong>Recess-in-the-Dark Experience</strong> 
+<br>Students enjoy their recess food while blindfolded, experiencing challenges
+faced in everyday situations. This immersive activity deepens appreciation
+and fosters empathy and awareness.</p>
+<p><strong>Classroom Activities and Reflection</strong> 
+<br>Students consolidate their learning through classroom activities and craft
+heartfelt thank-you letters to facilitators, expressing gratitude and sharing
+their insights.</p>
+<p><strong>Peer Education Initiative</strong> 
+<br>Students plan and prepare interactive booths to share their learning with
+lower primary juniors, reinforcing understanding while becoming advocates
+for inclusivity and empathy within the school community.</p>
+<p>Through "We Are All Special!", Primary 5 students develop deeper empathy,
+understanding, and advocacy skills for creating an inclusive community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P5_WeRAllSpecial.png">
+</div>
+<h5><strong>Primary 6: Care for Older Adults</strong></h5>
+<p>The programme develops Primary 6 students' empathy and understanding of
+the ageing process while promoting meaningful intergenerational connections
+through three key components:</p>
+<p><strong>Dialogue with Time Exhibition</strong> 
+<br>Students visit the interactive "Dialogue with Time" exhibition at the
+Science Centre to experience and understand the ageing process firsthand.
+This immersive experience helps students develop empathy and reconsider
+their perceptions of ageing, fostering a deeper appreciation for older
+adults.</p>
+<p><strong>Classroom Reflection and Discussion</strong> 
+<br>Following the exhibition, students engage in class discussions and personal
+reflections, processing their experiences and consolidating their learning
+about ageing and the challenges faced by older adults.</p>
+<p><strong>Community Partnership with Day Care Centres</strong> 
+<br>Each Primary 6 class partners with local day care centres to plan and
+conduct interactive sessions with seniors. Students research seniors' needs
+and interests, designing activities that cater to their preferences. Through
+these visits, students interact with seniors and learn from their rich
+life experiences, promoting valuable intergenerational learning.</p>
+<p>Through "Care for Older Adults", Primary 6 students develop empathy, respect,
+and gratitude while learning to appreciate the wisdom and contributions
+of older adults in their community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P6_CareForOlder.png">
+</div>
+<p></p>
+<p></p>
