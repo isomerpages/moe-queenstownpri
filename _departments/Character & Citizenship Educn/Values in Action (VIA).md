@@ -60,8 +60,9 @@ with primary school environment and routines</p>
 learned. Through this programme, Primary 1 students demonstrate care and
 gratitude towards their junior buddies, embodying the school's values in
 a meaningful way.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P1_Befriender.png">
+</div>
 <h5><strong>Primary 2: Clean it Right!</strong></h5>
 <p>The "Clean it Right!" programme develops Primary 2 students' responsibility
 towards the school environment and appreciation for cleaning staff through
@@ -85,6 +86,10 @@ actions.</p>
 <p>Through "Clean it Right!", Primary 2 students develop empathy, gratitude,
 and community spirit while learning about responsibility and environmental
 stewardship.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P2_CleanItRight.png">
+</div>
 <h5><strong>Primary 3: Gracious Commuting</strong></h5>
 <p>This collaborative VIA programme with SMRT develops Primary 3 students'
 consideration and care in public transportation through three key components:</p>
@@ -104,6 +109,9 @@ public transportation.</p>
 <p>Through this programme, Primary 3 students cultivate empathy, social responsibility,
 and civic-mindedness, becoming thoughtful users of public transport and
 considerate members of society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P3_GracCommuting.png">
+</div>
 <h5><strong>Primary 4: Adopt A Park</strong></h5>
 <p>The Adopt-a-Park programme aligns with Singapore's Green Plan, fostering
 Primary 4 students' responsibility towards shared spaces and the natural
@@ -124,6 +132,9 @@ observing and appreciating nature in their school environment.</p>
 responsibility for public spaces, and appreciation for local flora and
 fauna. This programme nurtures environmentally conscious citizens who understand
 the importance of green spaces and actively contribute to their preservation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P4_AdoptAPark.png">
+</div>
 <h5><strong>Primary 5: We Are All Special!</strong></h5>
 <p>This collaborative programme with Dialogue in the Dark from Ngee Ann Polytechnic
 fosters Primary 5 students' empathy and understanding towards the visually
@@ -148,7 +159,7 @@ for inclusivity and empathy within the school community.</p>
 <p>Through "We Are All Special!", Primary 5 students develop deeper empathy,
 understanding, and advocacy skills for creating an inclusive community.</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/via%207.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P5_WeRAllSpecial.png">
 </div>
 <h5><strong>Primary 6: Care for Older Adults</strong></h5>
 <p>The programme develops Primary 6 students' empathy and understanding of
@@ -173,3 +184,8 @@ life experiences, promoting valuable intergenerational learning.</p>
 <p>Through "Care for Older Adults", Primary 6 students develop empathy, respect,
 and gratitude while learning to appreciate the wisdom and contributions
 of older adults in their community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P6_CareForOlder.png">
+</div>
+<p></p>
+<p></p>
