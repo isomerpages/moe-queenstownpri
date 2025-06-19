@@ -101,13 +101,13 @@ throughout their 4-year journey into Digital Media.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="480" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DMPqIAv5HwM"></iframe>
+<iframe height="360" width="360" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DMPqIAv5HwM"></iframe>
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="480" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OX9ySQjpln4"></iframe>
+<iframe height="360" width="360" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OX9ySQjpln4"></iframe>
 </div>
 <p></p>
 </td>
