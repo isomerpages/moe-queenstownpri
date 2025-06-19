@@ -90,49 +90,9 @@ throughout their 4-year journey into Digital Media.</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OX9ySQjpln4"></iframe>
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Infocomm/2025_Robotics_Image_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA Infocomm/2025_Robotics_Image_1.jpg">
 </div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
