@@ -12,7 +12,7 @@ variant: tiptap
 <h4><strong>Festive Celebrations</strong></h4>
 <p>Chinese New Year 2025</p>
 <div class="iframe-wrapper">
-<iframe height="729" width="1296" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D3ikVL_9TBU"></iframe>
+<iframe height="580" width="1024" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D3ikVL_9TBU"></iframe>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
