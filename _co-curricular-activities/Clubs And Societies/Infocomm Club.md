@@ -29,15 +29,8 @@ and effective leaders through various collaborative projects and Problem-Based
 Learning activities. Through these CCA activities, members become confident
 and self-directed individuals who learn from overcoming problems and challenges
 throughout their 4-year journey into Digital Media.</p>
-<h4><strong>CCA Achievement</strong></h4>
-<p>National Photography Festival 2016 - Group Special Mention Award
-<br>7th National Young Shutterbugs 2018 - Special Mention Award (Theme: Embrace
-Diversity)
-<br>7th National Young Shutterbugs 2018 - 3rd Prize (Theme: You’re Not Alone)
-<br>8th National Young Shutterbugs 2019 - 2nd Prize (Theme: Respect, Admiring
-Minds)</p>
 <h4><strong>Photos &amp; Videos</strong></h4>
-<h5><strong>Coding</strong></h5>
+<h4><strong>Coding</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="345" width="626" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZYJXvOSYsFE"></iframe>
 </div>
@@ -89,7 +82,7 @@ Minds)</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>Robotics</strong></h5>
+<h4><strong>Robotics</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
