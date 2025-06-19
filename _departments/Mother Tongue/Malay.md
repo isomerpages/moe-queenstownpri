@@ -35,14 +35,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_MTL/2025_MTL_Fortnight_ML_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_MTL/2025_MTL_Fortnight_ML_4.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_MTL/2025_MTL_Fortnight_ML_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_MTL/2025_MTL_Fortnight_ML_6.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
