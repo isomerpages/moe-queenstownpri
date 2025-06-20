@@ -229,9 +229,9 @@ for the training of our students<a href="#_ftn1" rel="noopener noreferrer nofoll
 <li>
 <p>Morning and recess duties</p>
 <p></p>
-<p>*Tier 1 refers to every Queenstowner, Tier 2 refers to Class Committee
-members, Tier 3 includes CCA leaders and prefects whilst Tier 4 includes
-Head Prefect, Vice Head Prefects and Senior Prefects.</p>
 </li>
 </ol>
+<p>Tier 1 refers to every Queenstowner, Tier 2 refers to Class Committee
+members, Tier 3 includes CCA leaders and prefects whilst Tier 4 includes
+Head Prefect, Vice Head Prefects and Senior Prefects.</p>
 <p></p>
