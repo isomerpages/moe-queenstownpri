@@ -28,8 +28,8 @@ Leadership Framework.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>First Circle:</strong>
+<br>
 </p>
-<p></p>
 <p><strong>Student Leadership Development is anchored by the four school values</strong>
 </p>
 <p></p>
@@ -46,8 +46,7 @@ experiences.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Second Circle:</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<br>
 </p>
 <p><strong>Extending from the school values, we expect all students to demonstrate the 4 Queenstowner Outcomes as leaders.</strong>
 </p>
@@ -60,8 +59,7 @@ Queenstowner outcomes to grow flourishing individuals who are future-ready.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Pentagon:</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<br>
 </p>
 <p><strong>5-pronged leadership experiences to develop leaders</strong>
 </p>
@@ -74,26 +72,33 @@ opportunities to discover, develop and exercise their leadership capabilities.
 <br>
 <br><strong>Tiered developmental in-house programmes and Mentorship</strong> (with
 reference to the 5 Leadership Practices):</p>
-<p>Tier 1: Every Queenstowner goes through baseline leadership training during
-FTGP lessons.</p>
-<p>Tier 2: Class Committee members go through trainings to prepare them for
-their roles to support teachers and students in their learning. Form teachers
-mentor class committee members in the discharge of their duties through
-daily observations and mentorship during the scheduled form teacher time.</p>
-<p>Tier 3: CCA Leaders and Prefects go through training to equip them with
-skills to be empathetic leaders to lead their CCAs and the school population.
-CCA Leaders and Prefects are mentored by CCA teachers and teachers in the
-Student Leadership Committee respectively.</p>
-<p>Tier 4: Head Prefects, Vice Head Prefects and Senior Prefects are given
-opportunities and support from teachers to mentor Prefects and plan school
-wide events. Teachers in the Student Leadership Committee mentor this group
-of Prefects.</p>
+<p><strong>Tier 1: </strong>Every Queenstowner goes through baseline leadership
+training during FTGP lessons.</p>
+<p><strong>Tier 2:</strong> Class Committee members go through trainings to
+prepare them for their roles to support teachers and students in their
+learning. Form teachers mentor class committee members in the discharge
+of their duties through daily observations and mentorship during the scheduled
+form teacher time.</p>
+<p><strong>Tier 3:</strong> CCA Leaders and Prefects go through training to
+equip them with skills to be empathetic leaders to lead their CCAs and
+the school population. CCA Leaders and Prefects are mentored by CCA teachers
+and teachers in the Student Leadership Committee respectively.</p>
+<p><strong>Tier 4:</strong> Head Prefects, Vice Head Prefects and Senior Prefects
+are given opportunities and support from teachers to mentor Prefects and
+plan school wide events. Teachers in the Student Leadership Committee mentor
+this group of Prefects.
+<br>
+</p>
 <p><strong>External Workshops</strong>
 <br>Prefects go through external workshops to gain external perspective in
-their own development as leaders of QtPS.</p>
+their own development as leaders of QtPS.
+<br>
+</p>
 <p><strong>Service to School</strong>
 <br>All appointed student leaders will serve the school at the various levels
-(class, CCA, cohort, school).</p>
+(class, CCA, cohort, school).
+<br>
+</p>
 <p><strong>Reflective Practice</strong>
 <br>Central to the development of the 5 leadership practices is reflective
 practice. Student Leaders will reflect upon their learning at various junctures
@@ -103,8 +108,7 @@ through guided reflections.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Vertexes of the Pentagon:</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<br>
 </p>
 <p><strong>The 5 Leadership Practices are measurable, learnable and teachable behaviours that student leaders should demonstrate</strong>
 </p>
@@ -114,11 +118,13 @@ through guided reflections.</p>
 <p>Student Leadership Development is guided by the 5 Leadership Practices
 to co-construct and build all Queenstowners’ knowledge and growth in student
 leadership.</p>
+<p></p>
 <p><strong>Model the Way</strong>
 <br>Student Leaders need to take personal responsibility and to consistently
 model the right values and behaviour to act as role models for the rest
 of the school. As leaders, they would learn to “walk the talk” and demonstrate
 their commitments by aligning their actions with QTOs and school values.&nbsp;</p>
+<p></p>
 <p><strong>Inspire a Shared Vision</strong>
 <br>As leaders of teams and as role models, student leaders need to be reflective
 and inspire others to become enthusiastic supporters of the school values
@@ -148,14 +154,13 @@ other to enhance their competence and confidence.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Hands nurturing the growth of our future generation:</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<br>
 </p>
 <p><strong>Enablers of Student Leadership Development provide the foundation to leadership growth in QtPS.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nvolvement of teachers and parents in students’ leadership development
+<p>Involvement of teachers and parents in students’ leadership development
 to guide and mentor students in their growth as leaders will reinforce
 values and practices useful for their development.
 <br>
@@ -174,8 +179,7 @@ values and practices useful for their development.
 </tbody>
 </table>
 <p>The Student Leadership (SL) Committee adopts a tiered-developmental approach
-for the training of our students<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">:</a>
-</p>
+for the training of our students</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/2025_SkillsFuture_Tier.png">
 </div>
