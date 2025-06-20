@@ -18,24 +18,23 @@ self-confidence and problem-solving skills. They also learn to become effective
 team players as they work collaboratively with one another.</p>
 <h4><strong>Varied Experiences in PE Lessons</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_PE/PE 1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_PE/PE 2.jpg">
 </div>
 <h4><strong>ICT-infused PE Lessons</strong></h4>
 <p>As a school of the 21st Century, our digital natives are provided with
 many opportunities to use ICT to review their performances, receive feedback
 and collaborate with their peers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_PE/PE 3.jpg">
 </div>
 <h4><strong>P3 SwimSafer 2.0</strong></h4>
 <p>The P3 SwimSafer 2.0 programme aims to build important life skills in
 our students such as water safety and basic swimming skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE%204.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_PE/PE 4.jpg">
 </div>
 <h4><strong>P5 Camp</strong></h4>
 <p>In the annual cohort camp, students engage in authentic activities and
@@ -117,13 +116,13 @@ and overcome challenges.</p>
 advocate the importance of sports education, encourage sports participation,
 and increase the opportunity to engage in sports.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE%207.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_PE/PE 7.jpg">
 </div>
 <h4><strong>Athletics Fiesta</strong></h4>
 <p>In the Athletics Fiesta, students become athletes for the day and engage
 in friendly competitions. Conducting the event at an external venue raises
 the excitement and quality of experience!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE%2010.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_PE/PE 10.jpg">
 </div>
 <p></p>
