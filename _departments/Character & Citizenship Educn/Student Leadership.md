@@ -16,6 +16,9 @@ Experiences, and the 5 Leadership Practices, as guided by the QtPS Student
 Leadership Framework.</p>
 <p><strong>Student Leadership Framework</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/2025_SkillsFuture_FrameW.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,11 +29,10 @@ Leadership Framework.</p>
 <td rowspan="1" colspan="1">
 <p><strong>First Circle:</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Student Leadership Development is anchored by the four school values</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Central to the Student Leadership Framework is the school’s aspiration
@@ -39,7 +41,6 @@ the potential in every student’s ability to develop as a leader, Student
 Leadership Development creates opportunities to teach students the four
 school values and allows students to demonstrate these values through leadership
 experiences.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -50,12 +51,10 @@ experiences.</p>
 </p>
 <p><strong>Extending from the school values, we expect all students to demonstrate the 4 Queenstowner Outcomes as leaders.</strong>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>With the school values in mind, student leadership development infuses
 Queenstowner outcomes to grow flourishing individuals who are future-ready.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -71,45 +70,34 @@ Queenstowner outcomes to grow flourishing individuals who are future-ready.</p>
 <td rowspan="1" colspan="1">
 <p>With the Queenstowner outcomes and school values in mind, developmentally
 appropriate experiences are designed for our students to provide them with
-opportunities to discover, develop and exercise their leadership capabilities.</p>
-<p>&nbsp;</p>
-<p><strong>Tiered developmental in-house programmes and Mentorship</strong> (with
+opportunities to discover, develop and exercise their leadership capabilities.
+<br>
+<br><strong>Tiered developmental in-house programmes and Mentorship</strong> (with
 reference to the 5 Leadership Practices):</p>
-<p>&nbsp;</p>
 <p>Tier 1: Every Queenstowner goes through baseline leadership training during
 FTGP lessons.</p>
-<p>&nbsp;</p>
 <p>Tier 2: Class Committee members go through trainings to prepare them for
 their roles to support teachers and students in their learning. Form teachers
 mentor class committee members in the discharge of their duties through
 daily observations and mentorship during the scheduled form teacher time.</p>
-<p>&nbsp;</p>
 <p>Tier 3: CCA Leaders and Prefects go through training to equip them with
 skills to be empathetic leaders to lead their CCAs and the school population.
 CCA Leaders and Prefects are mentored by CCA teachers and teachers in the
 Student Leadership Committee respectively.</p>
-<p>&nbsp;</p>
 <p>Tier 4: Head Prefects, Vice Head Prefects and Senior Prefects are given
 opportunities and support from teachers to mentor Prefects and plan school
 wide events. Teachers in the Student Leadership Committee mentor this group
 of Prefects.</p>
-<p>&nbsp;</p>
 <p><strong>External Workshops</strong>
-</p>
-<p>Prefects go through external workshops to gain external perspective in
+<br>Prefects go through external workshops to gain external perspective in
 their own development as leaders of QtPS.</p>
-<p>&nbsp;</p>
 <p><strong>Service to School</strong>
-</p>
-<p>All appointed student leaders will serve the school at the various levels
+<br>All appointed student leaders will serve the school at the various levels
 (class, CCA, cohort, school).</p>
-<p>&nbsp;</p>
 <p><strong>Reflective Practice</strong>
-</p>
-<p>Central to the development of the 5 leadership practices is reflective
+<br>Central to the development of the 5 leadership practices is reflective
 practice. Student Leaders will reflect upon their learning at various junctures
 through guided reflections.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -126,42 +114,35 @@ through guided reflections.</p>
 <p>Student Leadership Development is guided by the 5 Leadership Practices
 to co-construct and build all Queenstowners’ knowledge and growth in student
 leadership.</p>
-<p>&nbsp;</p>
 <p><strong>Model the Way</strong>
-</p>
-<p>Student Leaders need to take personal responsibility and to consistently
+<br>Student Leaders need to take personal responsibility and to consistently
 model the right values and behaviour to act as role models for the rest
 of the school. As leaders, they would learn to “walk the talk” and demonstrate
-their commitments by aligning their actions with QTOs and school values.</p>
-<p>&nbsp;</p>
+their commitments by aligning their actions with QTOs and school values.&nbsp;</p>
 <p><strong>Inspire a Shared Vision</strong>
-</p>
-<p>As leaders of teams and as role models, student leaders need to be reflective
+<br>As leaders of teams and as role models, student leaders need to be reflective
 and inspire others to become enthusiastic supporters of the school values
 and QtOs. Student Leaders understand that the leadership journey is a dialogue
-and involves other stakeholders.</p>
-<p>&nbsp;</p>
-<p><strong>Challenge the Process</strong>
+and involves other stakeholders.
+<br>
 </p>
-<p>Student Leaders should treat challenges as adventures and crucible of
+<p><strong>Challenge the Process</strong>
+<br>Student Leaders should treat challenges as adventures and crucible of
 learning, they should use their voice and purposefully synthesise and advocate
 for bold ideas that serve the school.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Encourage the Heart</strong>
-</p>
-<p>Student Leaders inspire others with courage, hope and optimism, and will
+<br>Student Leaders inspire others with courage, hope and optimism, and will
 recognise the work of their peers. Student Leaders care for and look after
 the members of the school, will create a spirit of community that is reflective
 to create good outcomes for the school as leadership is an ongoing learning
 loop.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Enable Others to Act</strong>
-</p>
-<p>Student Leaders form strong partnerships, peer support, and relationships,
+<br>Student Leaders form strong partnerships, peer support, and relationships,
 they will use collaboration, empathy, and mutual respect to create win-win
 outcomes for the school and the students. Student Leaders work with each
 other to enhance their competence and confidence.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -172,49 +153,85 @@ other to enhance their competence and confidence.</p>
 </p>
 <p><strong>Enablers of Student Leadership Development provide the foundation to leadership growth in QtPS.</strong>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Involvement of teachers and parents in students’ leadership development
+<p>nvolvement of teachers and parents in students’ leadership development
 to guide and mentor students in their growth as leaders will reinforce
-values and practices useful for their development.</p>
-<p>&nbsp;</p>
+values and practices useful for their development.
+<br>
+</p>
 <p>Students will take an active role in their student leadership development.</p>
-<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>The Student Leadership (SL) Commitee adopts a tiered-developmental approach
-for the training of our students<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>.</p>
+for the training of our students<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">:</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/2025_SkillsFuture_Tier.png">
+</div>
+<h4><strong>Leadership Programs for QtPS student leaders</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Prefect camp and meetings</p>
+</li>
+<li>
+<p>Prefect cluster networking with secondary school student councillors</p>
+</li>
+<li>
+<p>Conducting of Focus Group Discussion with selected student groups</p>
+</li>
+<li>
+<p>Student Leaders Investiture</p>
+</li>
+<li>
+<p>Class Monitors Investiture</p>
+</li>
+<li>
+<p>CCA Leaders Investiture</p>
+</li>
+<li>
+<p>Class Leaders Training</p>
+</li>
+<li>
+<p>P6 Graduation Party Facilitators</p>
+</li>
+<li>
+<p>Caught Doing Right</p>
+</li>
+<li>
+<p>QtPS Appreciates</p>
+</li>
+<li>
+<p>Head Prefect Election</p>
+</li>
+<li>
+<p>Leading of Morning Assembly</p>
+</li>
+<li>
+<p>Friday Values Sharing</p>
+</li>
+<li>
+<p>Tour guides for LEOH</p>
+</li>
+<li>
+<p>Emcees for school events</p>
+</li>
+<li>
+<p>Morning and recess duties</p>
 <p></p>
-<p>&nbsp;</p>
-<p><strong>Leadership Programs for QtPS student leaders</strong>
-</p>
-<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prefect camp and meetings</p>
-<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prefect cluster networking with secondary
-school student councillors</p>
-<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conducting of Focus Group Discussion
-with selected student groups</p>
-<p>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leaders Investiture</p>
-<p>5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Monitors Investiture</p>
-<p>6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA Leaders Investiture</p>
-<p>7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Leaders Training</p>
-<p>8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Graduation Party Facilitators</p>
-<p>9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caught Doing Right</p>
-<p>10) QtPS Appreciates</p>
-<p>11) Head Prefect Election</p>
-<p>12) &nbsp;Leading of Morning Assembly</p>
-<p>13) &nbsp;Friday Values Sharing</p>
-<p>14) &nbsp;Tour guides for LEOH</p>
-<p>15) &nbsp;Emcees for school events</p>
-<p>16) Morning and recess duties</p>
-<p>
-<br>
-</p>
-<hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Tier
-1 refers to every Queenstowner, Tier 2 refers to Class Committee members,
-Tier 3 includes CCA leaders and prefects whilst Tier 4 includes Head Prefect,
-Vice Head Prefects and Senior Prefects.</p>
+<p>*Tier 1 refers to every Queenstowner, Tier 2 refers to Class Committee
+members, Tier 3 includes CCA leaders and prefects whilst Tier 4 includes
+Head Prefect, Vice Head Prefects and Senior Prefects.</p>
+</li>
+</ol>
+<p></p>
