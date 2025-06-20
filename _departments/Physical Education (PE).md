@@ -18,11 +18,10 @@ self-confidence and problem-solving skills. They also learn to become effective
 team players as they work collaboratively with one another.</p>
 <h4><strong>Varied Experiences in PE Lessons</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_PE/PE 1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_PE/PE 2.jpg">
 </div>
 <h4><strong>ICT-infused PE Lessons</strong></h4>
 <p>As a school of the 21st Century, our digital natives are provided with
