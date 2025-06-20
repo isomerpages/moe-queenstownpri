@@ -173,7 +173,7 @@ values and practices useful for their development.
 </tr>
 </tbody>
 </table>
-<p>The Student Leadership (SL) Commitee adopts a tiered-developmental approach
+<p>The Student Leadership (SL) Committee adopts a tiered-developmental approach
 for the training of our students<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">:</a>
 </p>
 <div class="isomer-image-wrapper">
@@ -231,7 +231,6 @@ for the training of our students<a href="#_ftn1" rel="noopener noreferrer nofoll
 <p></p>
 </li>
 </ol>
-<p>Tier 1 refers to every Queenstowner, Tier 2 refers to Class Committee
-members, Tier 3 includes CCA leaders and prefects whilst Tier 4 includes
-Head Prefect, Vice Head Prefects and Senior Prefects.</p>
+<p><em>Tier 1 refers to every Queenstowner, Tier 2 refers to Class Committee members, Tier 3 includes CCA leaders and prefects whilst Tier 4 includes Head Prefect, Vice Head Prefects and Senior Prefects.</em>
+</p>
 <p></p>
