@@ -26,11 +26,11 @@ aesthetically. Malay Dance members also participate in the biennial SYF
 Arts Performance at the national level.</p>
 <h5><strong>Every Member is a Potential Dancer</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA%20MalayDance/ML%20Dance%20Pic%201.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA MalayDance/2025_Malay_Dance_1c.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA MalayDance/2025_Malay_Dance_1b.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA MalayDance/2025_Malay_Dance_1d.png">
 </div>
 <p>Practice and hard work is essential in bringing out the best in every
 Malay Dancer. Getting the right dance technique and form requires perseverance
