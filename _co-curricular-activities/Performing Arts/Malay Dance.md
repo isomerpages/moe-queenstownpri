@@ -30,7 +30,7 @@ Arts Performance at the national level.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA MalayDance/2025_Malay_Dance_1a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA MalayDance/2025_Malay_Dance_1b.png">
 </div>
 <p>Practice and hard work is essential in bringing out the best in every
 Malay Dancer. Getting the right dance technique and form requires perseverance
