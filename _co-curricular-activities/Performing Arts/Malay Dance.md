@@ -36,8 +36,7 @@ Arts Performance at the national level.</p>
 Malay Dancer. Getting the right dance technique and form requires perseverance
 and teamwork. Through dance, students sharpen their agility and poise.
 They look better and more importantly feel good about themselves.</p>
-<h5><strong>Effective Leaders as Malay Dance Ambassadors</strong></h5>
-<p></p>
+<h4><strong>Effective Leaders as Malay Dance Ambassadors</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA MalayDance/2025_Malay_Dance_Am.png">
 </div>
@@ -46,7 +45,7 @@ in school’s events such as Learning Extravaganza cum Open House and P2
 CCA Fair. This is just one of the many platforms for students to present
 themselves confidently, simultaneously developing the leadership skills
 in them.</p>
-<h5><strong>Confident Dancers, Accomplished Individuals</strong></h5>
+<h4><strong>Confident Dancers, Accomplished Individuals</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA MalayDance/2025_Malay_Dance_SYF24a.png">
 </div>
@@ -60,5 +59,8 @@ Every performance is a great opportunity for them to showcase their talents
 and hone their dance skills. Hours of practice, commitment and positive
 thinking is key to every momentous performance! Students feel accomplished,
 much to the joy of their parents.</p>
-<h4></h4>
+<h4><strong>CCA Achievement</strong></h4>
+<p>Singapore Youth Festival (SYF) 2024 - Certificate of Accomplishment</p>
+<p></p>
+<p></p>
 <p></p>
