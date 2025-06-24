@@ -61,7 +61,7 @@ learned. Through this programme, Primary 1 students demonstrate care and
 gratitude towards their junior buddies, embodying the school's values in
 a meaningful way.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P1_Befriender.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/2025_via_p1_befriender.png">
 </div>
 <h5><strong>Primary 2: Clean it Right!</strong></h5>
 <p>The "Clean it Right!" programme develops Primary 2 students' responsibility
@@ -86,9 +86,8 @@ actions.</p>
 <p>Through "Clean it Right!", Primary 2 students develop empathy, gratitude,
 and community spirit while learning about responsibility and environmental
 stewardship.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P2_CleanItRight.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/2025_via_p2_cleanitright.png">
 </div>
 <h5><strong>Primary 3: Gracious Commuting</strong></h5>
 <p>This collaborative VIA programme with SMRT develops Primary 3 students'
@@ -110,7 +109,7 @@ public transportation.</p>
 and civic-mindedness, becoming thoughtful users of public transport and
 considerate members of society.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P3_GracCommuting.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/2025_via_p3_graccommuting.png">
 </div>
 <h5><strong>Primary 4: Adopt A Park</strong></h5>
 <p>The Adopt-a-Park programme aligns with Singapore's Green Plan, fostering
@@ -133,7 +132,7 @@ responsibility for public spaces, and appreciation for local flora and
 fauna. This programme nurtures environmentally conscious citizens who understand
 the importance of green spaces and actively contribute to their preservation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P4_AdoptAPark.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/2025_via_p4_adoptapark.png">
 </div>
 <h5><strong>Primary 5: We Are All Special!</strong></h5>
 <p>This collaborative programme with Dialogue in the Dark from Ngee Ann Polytechnic
@@ -159,7 +158,7 @@ for inclusivity and empathy within the school community.</p>
 <p>Through "We Are All Special!", Primary 5 students develop deeper empathy,
 understanding, and advocacy skills for creating an inclusive community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P5_WeRAllSpecial.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/2025_via_p5_werallspecial.png">
 </div>
 <h5><strong>Primary 6: Care for Older Adults</strong></h5>
 <p>The programme develops Primary 6 students' empathy and understanding of
@@ -185,7 +184,6 @@ life experiences, promoting valuable intergenerational learning.</p>
 and gratitude while learning to appreciate the wisdom and contributions
 of older adults in their community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/VIA_P6_CareForOlder.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept_CCE/2025_via_p6_careforolder.png">
 </div>
-<p></p>
 <p></p>
