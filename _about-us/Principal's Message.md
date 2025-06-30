@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School_Related/P_Olivia_Cheong_QTPSb.png">
 </div>
-<h4><strong>Principal’s Foreward</strong></h4>
+<h4><strong>Principal’s Foreword</strong></h4>
 <p><strong>Dear Parents,</strong>
 <br>Welcome to Queenstown Primary School.</p>
 <p>It is both an honor and a privilege to serve as the principal of this
