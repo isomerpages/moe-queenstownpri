@@ -56,7 +56,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Dental Clinic Operating Schedule :</strong></h4>
-<h4><strong>June 2025</strong></h4>
+<h4><strong>July 2025</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -89,7 +89,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Holidays</p>
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2
@@ -103,43 +110,43 @@ variant: tiptap
 <p>4
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>5
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Holidays</p>
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9
-<br>CLOSED</p>
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10
-<br>CLOSED</p>
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13
-<br>CLOSED</p>
+<br>OPPEN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Holidays</p>
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16
@@ -153,22 +160,22 @@ variant: tiptap
 <p>18
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>19
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Holidays</p>
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23
-<br>CLOSED</p>
+<br>OPEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24
@@ -178,31 +185,26 @@ variant: tiptap
 <p>25
 <br>OPEN</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>26
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>27
-<br>OPEN</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30
 <br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>31
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -230,9 +232,58 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>During the June school holidays, Saint Andrew's Junior School is the mini
-centre. Telephone <strong>89097867</strong>
-</p>
+<p></p>
+<p>If you require any URGENT dental treatment and the clinic is closed, please
+call one of the following BUDDY CLINICS for assistance.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Buddy Clinic</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Telephone</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>New Town Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>87649804</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Radin Mas Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>89092397</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>For general enquiry, please email : <strong><a href="mailto:Contact_YPS@HPB.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@HPB.GOV.SG</a></strong>
 </p>
 <p></p>
