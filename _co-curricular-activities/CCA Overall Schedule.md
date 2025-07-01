@@ -437,7 +437,7 @@ variant: tiptap
 <br>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TeachingLab</p>
+<p>Teaching Lab</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Vaani (OIC)
