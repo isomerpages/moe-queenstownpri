@@ -73,7 +73,6 @@ experience right here in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Enviromental Club/2025_GreenGarden3.png">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
