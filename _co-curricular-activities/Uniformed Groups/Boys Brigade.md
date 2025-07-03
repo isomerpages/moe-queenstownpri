@@ -107,6 +107,11 @@ BB Week fund raising.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Year End Camp</strong>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Pitching a tent</p>
 </td>
 </tr>
 <tr>
