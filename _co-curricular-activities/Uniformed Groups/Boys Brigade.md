@@ -99,19 +99,23 @@ BB Week fund raising.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Boys Brigade/2025_BB3.png">
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year End Camp</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Boys Brigade/2025_BB4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Year End Camp</strong>
+<p><strong>Learning to Pitch a Tent</strong>
 </p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p>Pitching a tent</p>
 </td>
 </tr>
 <tr>
