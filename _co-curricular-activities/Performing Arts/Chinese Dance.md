@@ -37,8 +37,7 @@ to their peers’ artwork.</p>
 <p>Students are given opportunities to participate in school and community
 events such as mid-autumn festival celebration.</p>
 <h4><strong>CCA Achievement</strong></h4>
-<p>Singapore Youth Festival (SYF) Art Presentation 2016— Certificate of Distinction.
-<br>Singapore Youth Festival (SYF) Art Presentation 2018— Certificate of Accomplishment</p>
+<p>Singapore Youth Festival (SYF) Art Presentation 2018— Certificate of Accomplishment</p>
 <h4><strong>Photos</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
