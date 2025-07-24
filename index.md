@@ -22,6 +22,14 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: eLearning webpage
+      id: infopic
+      description: Find out what you need to do  on 28 & 29 July 2025
+      button: Click Here
+      url: /hbl-overview/
+      image: /images/cce.jpg
+      alt: Image alt text
+  - infopic:
       title: ✨ Queenstown Primary School is now on Instagram! ✨
       id: infopic
       description: Follow us @qtps_sg to stay connected with our school community in a
