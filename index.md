@@ -22,6 +22,22 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: eLearning webpage
+      id: infopic
+      description: Find out what you need to do  on 28 & 29 July 2025
+      button: Click Here
+      url: /hbl-overview/
+      image: /images/cce.jpg
+      alt: Image alt text
+  - infopic:
+      title: Caring Teacher Awards 2026
+      id: infopic
+      description: Nominations start 1 August 2025
+      button: To find out more click here
+      url: https://www.cta.nie.edu.sg/home
+      image: /images/Announcements/CAT2026.png
+      alt: Image alt text
+  - infopic:
       title: ✨ Queenstown Primary School is now on Instagram! ✨
       id: infopic
       description: Follow us @qtps_sg to stay connected with our school community in a
