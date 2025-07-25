@@ -59,7 +59,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Caring Teacher Awards 2026
-      subtitle: Add an image and text
       id: infopic
       description: Nominations start 1 August 2025
       button: To find out more click here
