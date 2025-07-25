@@ -30,6 +30,14 @@ sections:
       image: /images/cce.jpg
       alt: Image alt text
   - infopic:
+      title: Caring Teacher Awards 2026
+      id: infopic
+      description: Nominations start 1 August 2025
+      button: To find out more click here
+      url: https://www.cta.nie.edu.sg/home
+      image: /images/Announcements/CAT2026.png
+      alt: Image alt text
+  - infopic:
       title: ✨ Queenstown Primary School is now on Instagram! ✨
       id: infopic
       description: Follow us @qtps_sg to stay connected with our school community in a
@@ -56,13 +64,5 @@ sections:
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/qtps
       image: /images/qtps-askgov.png
-      alt: Image alt text
-  - infopic:
-      title: Caring Teacher Awards 2026
-      id: infopic
-      description: Nominations start 1 August 2025
-      button: To find out more click here
-      url: https://www.cta.nie.edu.sg/home
-      image: /images/Announcements/CAT2026.png
       alt: Image alt text
 ---
