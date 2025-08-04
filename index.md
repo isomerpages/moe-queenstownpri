@@ -22,14 +22,6 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
-      title: eLearning webpage
-      id: infopic
-      description: Find out what you need to do  on 28 & 29 July 2025
-      button: Click Here
-      url: /hbl-overview/
-      image: /images/cce.jpg
-      alt: Image alt text
-  - infopic:
       title: Caring Teacher Awards 2026
       id: infopic
       description: Nominations start 1 August 2025
