@@ -44,6 +44,8 @@ sections:
         new way! 🏫
       image: /images/Announcements/QtPS_instaA.png
       alt: Image alt text
+      url: https://www.instagram.com/qtps_sg/
+      button: Click Here
   - infopic:
       title: CCA
       description: Co-Curricular Activities
