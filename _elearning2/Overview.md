@@ -4,5 +4,5 @@ permalink: /hbl-overview2/
 variant: tiptap
 description: ""
 ---
-<h4><strong>The next e-Learning instructions will be published soon.</strong></h4>
+<h4><strong>The next e-Learning instructions will be published by 8 Aug 2025 4pm.</strong></h4>
 <p></p>
