@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: Find out what you need to do on 13 & 14 August
       button: Click here
-      url: /eLearning/
+      url: /hbl-overview/
       image: /images/cce.jpg
       alt: Image alt text
   - infopic:
