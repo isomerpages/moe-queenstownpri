@@ -8,7 +8,6 @@ variant: markdown
 #### **CCA Teachers-in-Charge**
 Miss Lee Yee Hueh (OIC) <br>
 Mr Ken Tan <br>
-Mdm Nurulain Nadiah
 
 #### **CCA Advisor**
 Mdm Jeanna Goh

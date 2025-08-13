@@ -195,8 +195,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheung Man Wai (OIC)
-<br>Ms Ho Li Ming
-<br>Mdm Yang Shiow Ru</p>
+<br>Ms Ho Li Ming</p>
 </td>
 </tr>
 <tr>
@@ -228,8 +227,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Yee Hueh (OIC)
-<br>Mr Ken Tan
-<br>Mdm Nurulain Nadiah</p>
+<br>Mr Ken Tan</p>
 </td>
 </tr>
 <tr>
@@ -286,8 +284,7 @@ variant: tiptap
 <p>Mr Amos Leong (OIC)
 <br>Ms Tan Wei Xin (2IC)
 <br>Mr Gordon Magherra
-<br>Ms Yap Ee Lim
-<br>Mr Muhd Taufiq</p>
+<br>Ms Yap Ee Lim</p>
 </td>
 </tr>
 <tr>

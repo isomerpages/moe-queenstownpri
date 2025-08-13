@@ -7,8 +7,7 @@ variant: tiptap
 ---
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <p>Ms Cheung Man Wai (OIC)
-<br>Ms Ho Li Ming
-<br>Mdm Yang Shiow Ru</p>
+<br>Ms Ho Li Ming</p>
 <h4><strong>CCA Advisor</strong></h4>
 <p>Mdm Jeanna Goh</p>
 <h4><strong>CCA Day and Time</strong></h4>
