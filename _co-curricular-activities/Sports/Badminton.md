@@ -10,7 +10,6 @@ Mr Amos Leong (OIC)  <br>
 Ms Tan Wei Xin (2IC)<br>
 Mr Gordon Ranjit Magherra<br>
 Ms Yap Ee Lim<br>
-Mr Muhd Taufiq
 
 #### **CCA Training**
 Mondays, Tuesdays &amp; Fridays<br>
