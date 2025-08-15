@@ -18,7 +18,3 @@ variant: markdown
 * [iBENS](https://ibens.moe.gov.sg/rm/)
 * [Xue Le](http://chinese4kids.net/xuele-a-great-chinese-learning-website-from-singapore/)
 * [Caught Doing Right](https://forms.gle/zzLMN4Mj9uwimY9y9)
-
-
-
-
