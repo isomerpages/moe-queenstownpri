@@ -8,6 +8,8 @@ variant: markdown
 * [MOE ICON](https://workspace.google.com/dashboard)
 * [MOE CES](https://mail.schools.gov.sg/owa/)
 * [Resource Booking System](https://rbs.avero-tech.com/)
+* [Incident Report](https://go.gov.sg/qtps-incidentreport)
+* [Bus Booking](https://go.gov.sg/qtps-busbooking)
 * [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 * [SCMobile](https://scmobile.moe.edu.sg/)
 * [SSOE Portal](https://ssoe2.moe.edu.sg/)
