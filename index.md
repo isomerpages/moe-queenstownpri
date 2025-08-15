@@ -22,13 +22,10 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
-      title: eLearning Webpage
+      title: Don’t toy with your life
       id: infopic
-      description: Find out what you need to do on 13 & 14 August
-      button: Click here
-      url: /hbl-overview/
-      image: /images/cce.jpg
-      alt: Image alt text
+      description: Vaping is illegal and harms your health
+      image: /images/School_Related/Vaping.gif
   - infopic:
       title: Caring Teacher Awards 2026
       id: infopic
