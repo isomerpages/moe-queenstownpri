@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Don’t toy with your life
       id: infopic
-      description: Vaping is illegal and harms your health
+      description: Vaping is illegal and harms your health.
       image: /images/School_Related/Vaping.gif
       alt: Image alt text
   - infopic:
