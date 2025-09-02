@@ -22,6 +22,11 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: Teachers Day
+      id: infopic
+      image: /images/School_Related/TeachersDay2025.png
+      alt: Image alt text
+  - infopic:
       title: Don’t toy with your life
       id: infopic
       description: Vaping is illegal and harms your health.
