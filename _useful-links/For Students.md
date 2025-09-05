@@ -18,12 +18,13 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://forms.gle/zzLMN4Mj9uwimY9y9" rel="noopener noreferrer nofollow" target="_blank">Caught Doing Right</a>
+<p><a href="https://mims.moe.gov.sg/sspr" rel="noopener nofollow" target="_blank">MIMS Self-Service Password Reset Service</a>
 </p>
 </li>
 <li>
-<p><a href="https://queenstownps.typingpal.com/" rel="noopener noreferrer nofollow" target="_blank">TypingPal</a>
+<p><a href="https://forms.gle/zzLMN4Mj9uwimY9y9" rel="noopener noreferrer nofollow" target="_blank">Caught Doing Right</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
