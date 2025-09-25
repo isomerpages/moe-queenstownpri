@@ -22,13 +22,6 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
-      title: HBL for 16 Sept 2025
-      id: infopic
-      image: /images/cce.jpg
-      alt: Image alt text
-      button: Click here to access the links
-      url: /hbl-overview/
-  - infopic:
       title: Don’t toy with your life
       id: infopic
       description: Vaping is illegal and harms your health.
