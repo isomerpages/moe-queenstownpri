@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Engagement Charter
       id: infopic
-      image: /images/Announcements/Annex_B___Engagement_Charter25.png
+      image: /images/Announcements/Engagement_Charter25a.png
       alt: Image alt text
   - infopic:
       title: Don’t toy with your life
