@@ -22,6 +22,11 @@ sections:
           description: ""
           url: /useful-links/for-students
   - infopic:
+      title: Engagement Charter
+      id: infopic
+      image: /images/Announcements/Annex_B___Engagement_Charter25.png
+      alt: Image alt text
+  - infopic:
       title: Don’t toy with your life
       id: infopic
       description: Vaping is illegal and harms your health.
