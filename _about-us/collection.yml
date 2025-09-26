@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Engagement Charter.md
       - Overview.md
       - Principal's Message.md
       - Vision Mission Values.md
