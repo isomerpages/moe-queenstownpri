@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Announcements/QtPS-intro3.png
+      background: /images/Announcements/QtPS_intro2.png
       key_highlights:
         - title: CCA
           description: ""
@@ -21,6 +21,7 @@ sections:
         - title: Useful Links for Students & Teachers
           description: ""
           url: /useful-links/for-students
+      variant: image
   - infopic:
       title: Engagement Charter
       id: infopic
