@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Announcements/QtPS-intro3.png
+      background: /images/Announcements/QtPS_intro2.png
       key_highlights:
         - title: CCA
           description: ""
@@ -21,13 +21,15 @@ sections:
         - title: Useful Links for Students & Teachers
           description: ""
           url: /useful-links/for-students
+      variant: image
   - infopic:
-      title: HBL for 16 Sept 2025
+      title: Engagement Charter
       id: infopic
-      image: /images/cce.jpg
+      image: /images/Announcements/Engagement_Charter25a.png
       alt: Image alt text
-      button: Click here to access the links
-      url: /hbl-overview/
+      description: MOE will place greater emphasis on the expected conduct of parents
+        when interacting with school staff, and the importance of mutual
+        courtesy and respect.
   - infopic:
       title: Don’t toy with your life
       id: infopic

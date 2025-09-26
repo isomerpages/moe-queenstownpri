@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/hbl-overview/" rel="noopener noreferrer nofollow" target="_blank">QtPS eLearning Instructions</a>
+<p><a href="/hbl-overview2/" rel="noopener noreferrer nofollow" target="_blank">QtPS eLearning Instructions</a>
 </p>
 </li>
 <li>
