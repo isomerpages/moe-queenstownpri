@@ -26,6 +26,9 @@ sections:
       id: infopic
       image: /images/Announcements/Engagement_Charter25a.png
       alt: Image alt text
+      description: MOE will place greater emphasis on the expected conduct of parents
+        when interacting with school staff, and the importance of mutual
+        courtesy and respect.
   - infopic:
       title: Don’t toy with your life
       id: infopic
