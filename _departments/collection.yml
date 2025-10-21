@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - Overview.md
+      - Mathematics.md
       - English.md
       - Mother Tongue/.keep
       - Mother Tongue/Overview.md
