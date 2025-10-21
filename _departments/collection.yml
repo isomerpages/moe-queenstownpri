@@ -2,16 +2,16 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics.md
       - English.md
+      - Mathematics.md
+      - Mathematics@@/.keep
+      - Mathematics@@/Mathematics Club.md
+      - Science.md
       - Mother Tongue/.keep
       - Mother Tongue/Overview.md
       - Mother Tongue/Chinese.md
       - Mother Tongue/Malay.md
       - Mother Tongue/Tamil.md
-      - Mathematics@@/.keep
-      - Mathematics@@/Mathematics Club.md
-      - Science.md
       - Physical Education (PE).md
       - Aesthetics/.keep
       - Aesthetics/Overview.md
