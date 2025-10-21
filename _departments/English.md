@@ -2,6 +2,7 @@
 title: English
 permalink: /departments/english/
 description: ""
+variant: markdown
 ---
 #### **Vision**
 Linguistically competent and effectively adept EL learners &amp; communicators.
