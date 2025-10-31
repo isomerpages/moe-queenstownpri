@@ -4,8 +4,6 @@ collections:
     order:
       - English.md
       - Mathematics.md
-      - Mathematics@@/.keep
-      - Mathematics@@/Mathematics Club.md
       - Science.md
       - Mother Tongue/.keep
       - Mother Tongue/Overview.md
