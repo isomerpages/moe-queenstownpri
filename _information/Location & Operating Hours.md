@@ -2,7 +2,7 @@
 title: Location & Operating Hours
 permalink: /information/location-and-operating-hours/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Address</strong></h4>
 <p>310 Margaret Drive, Singapore 149303
@@ -201,9 +201,6 @@ outside school compound)</p>
 <h4><strong>Students Arrival &amp; Dismissal</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="612" width="1088" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZwqXXBp3WAc"></iframe>
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/New_Route_PG15OctA.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Annex_A_Page_1.png">
