@@ -29,18 +29,27 @@ non-teaching staff, and student leaders).</p>
 <p>Be honest. Do not cheat, steal or alter official school documents.</p>
 </li>
 <li>
-<p>Use proper language at all times.</p>
+<p>Communicate politely and clearly at all times.</p>
 </li>
 <li>
-<p>Move quietly, briskly and in an orderly manner. Do not loiter along the
-corridors or on the school premises.</p>
+<p>Do not run. Move quietly, briskly and in an orderly manner. Do not loiter
+along the corridors</p>
+<p>or on the school premises.</p>
 </li>
 <li>
 <p>Take pride in all work and assignments. Strive for the highest possible
 standards.</p>
 </li>
 <li>
-<p>Take pride in the school and uphold the good name of the school.</p>
+<p>When in school uniform, take pride in your school and uphold its good
+name.</p>
+</li>
+<li>
+<p>After school dismissal, do not loiter in the neighbourhood while in school
+uniform (e.g. void</p>
+<p>decks, playgrounds). Students must go home to change out of their uniforms
+and obtain a</p>
+<p>parent's/ guardian's permision if they wish to play near their homes.</p>
 </li>
 </ul>
 <h4><strong>Attendance and Punctuality</strong></h4>
@@ -68,15 +77,24 @@ of excuse which will only be accepted under extenuating circumstances such
 as bereavement.</p>
 </li>
 <li>
-<p><u>Each term, only two letters of excuse from the parent/guardian will be accepted by the school.</u>
+<p><u>The school will accept up to two parent/guardian excuse letters per term.</u>
 </p>
+</li>
+<li>
+<p>Each letter may cover up to three school days and must state the reason
+and dates of</p>
+<p>absence.</p>
+</li>
+<li>
+<p>Further or extended absences require a medical certificate or prior school
+approval</p>
 </li>
 <li>
 <p>All students are required to participate in PE lessons unless they are
 ill or certified unfit by a medical doctor.</p>
 </li>
 </ul>
-<h4><strong>Appearance and attire</strong></h4>
+<h4><strong>Attire and Appearance</strong></h4>
 <p>Look smart. Take pride in your appearance and school attire.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -107,8 +125,8 @@ shaving or cropping the sides and rear.</p>
 </li>
 <li>
 <p>Girls with hair touching the collar must have it neatly plaited or tied
-up. All rubber bands, hair bands and hair cl ips used must be black or
-dark blue.</p>
+up. All rubber bands, hair bands and hair clips used must be black or dark
+blue.</p>
 </li>
 <li>
 <p>Students are not allowed to wear make-up at any time except when performing
@@ -147,13 +165,12 @@ not required to change out of their PE shorts after their PE lessons.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/School_Related/5___1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/UniformF.jpg">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/School_Related/5_1___1_a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/UniformM.jpg">
 </div>
 </th>
 </tr>
@@ -175,7 +192,7 @@ to the classroom every Wednesday and Friday.</p>
 </li>
 <li>
 <p>Have breakfast in the canteen if necessary before proceeding to the hall/classroom.
-No idling at the canteen.</p>
+No idling at the canteen after 7.20 am.</p>
 </li>
 <li>
 <p>Breakfast from the canteen will <strong><em><u>NOT</u></em></strong> be
@@ -264,6 +281,9 @@ Do not buy food, drinks or stationery after the bell has rung.</p>
 <p>Always queue up quietly and in an orderly manner for your food and drinks.</p>
 </li>
 <li>
+<p>Queue for your own food and drinks only.</p>
+</li>
+<li>
 <p>All food and drinks are to be consumed only in the canteen.</p>
 </li>
 <li>
@@ -276,11 +296,12 @@ provided.</p>
 </li>
 <li>
 <p>When the bell rings after recess, walk to the assembly area, sit down
-in two rows and get ready for Mindful Moment.</p>
+in two rows and wait quietly.</p>
 </li>
 </ul>
 <h4><strong>Care for Our School and Environment</strong></h4>
-<p>Have respect for school property and show consideration for other users.</p>
+<p>Have respect for school property and environment, show consideration for
+other users.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Do not misuse or vandalise school property or facilities.</p>
@@ -297,6 +318,12 @@ in two rows and get ready for Mindful Moment.</p>
 <li>
 <p>Toilets must be kept clean and flushed after use. Keep the toilet floor
 clean and dry.</p>
+</li>
+<li>
+<p>Dispose of toilet paper properly. Do not play with wet toilet paper.</p>
+</li>
+<li>
+<p>Respect wildlife. Do not catch, handle, feed or harm animals.</p>
 </li>
 <li>
 <p>Be civic-minded, report acts of vandalism or misuse of school property/facilities
@@ -363,45 +390,60 @@ and verbal information such as digital cameras and MP3 players.</p>
 <li>
 <p>Cheating is a serious offence. Disciplinary action will be taken against
 candidates found cheating, attempting to cheat or helping others to cheat
-in an examination</p>
+in an examination.</p>
 </li>
 </ul>
-<h4><strong>Mobile Phones</strong></h4>
+<h4><strong>Mobile Phones and Smart Devices</strong></h4>
 <p>Be responsible users of mobile phones and smart devices.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students who need to bring a mobile phone to school for the purpose of
-keeping in touch with family members, <strong><u>can only use the mobile phone after school hours and at the foyer</u></strong>.
-Students who bring such devices are to put them in their school bags before
-school start time.</p>
+<p>Students are not encouraged to bring smartphones or smart devices (e.g.
+smartwatches, except the POSB Smart Buddy Watch) to school.</p>
 </li>
 <li>
-<p>Even at the foyer and after school hours, students are not allowed to
-use their mobile phones to play games, listen to music or watch videos.</p>
+<p>Students who need to bring a smartphone or smartwatch to school for the
+purpose of keeping in touch with family members, are not to use such devices
+during school hours including recess, CCA and after-school programmes (e.g.
+supplementary/ enrichment/remedial lessons).</p>
 </li>
 <li>
-<p>Students are not to use smartphones and/or smartwatches (other than the
-POSB Smart Buddy Watch) during school hours including recess, CCA and after-school
-programmes. Students found to be using their mobile phones without permission
-during these occasions, will have their mobile phones confiscated. Mobile
-phones will only be returned</p>
+<p>Students must place their devices in their school bags before school starts.
+Devices can only be retrieved after school ends.</p>
 </li>
 <li>
-<p>to parents.</p>
+<p>Smartwatches are not allowed to be worn in school even when set to "school
+mode". All smartwatches must be kept in school bags during school hours
+even if all other functions are disabled.</p>
 </li>
 <li>
-<p>The school will not bear responsibility for the loss of, damage to or
-theft of mobile phones or smart devices. Students should bear responsibility
-for safekeeping of devices.</p>
+<p>Students are only allowed to use smartphones or smart devices at the foyer
+and outside of school when they have no further school activities for the
+day.</p>
 </li>
 <li>
-<p>The school will take strict action against students who abuse their mobile
-phones or smart devices by taking pictures or videos without permission
-and uploading them onto the Internet.</p>
+<p>Even in the designated area, students are not permitted to play games,
+listen to music, or watch videos on their devices.</p>
 </li>
 <li>
-<p>Any smart devices capable of communicating will be treated as mobile phones
-in school and are only allowed for used at approved location and hours.</p>
+<p>Students are responsible for the safekeeping of their devices.</p>
+</li>
+<li>
+<p>The school will not be held responsible for any loss, damage, or theft
+of smartphones or smart devices.</p>
+</li>
+<li>
+<p>Students found using their devices without permission during school hours
+or in prohibited areas will have their devices confiscated. Confiscated
+devices will only be returned to parents.</p>
+</li>
+<li>
+<p>Students are strictly prohibited from taking photos, videos, or audio
+recordings without permission. Uploading such content to the Internet is
+a serious offense and will result in strict disciplinary action.</p>
+</li>
+<li>
+<p>Any device capable of communication will be treated as a smartphone and
+is subject to the same rules.</p>
 </li>
 </ul>
 <h4><strong>School Security</strong></h4>
@@ -424,35 +466,21 @@ intended to be used to cause harm to others.</p>
 <p>Students are also not allowed to bring any scissors or penknife to school.</p>
 </li>
 </ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/Level_1_Offences_Page_1a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines1.png">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines4.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/Level_1_Offences_Page_2a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines5a.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/Level_1_Offences_Page_3a.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
