@@ -80,7 +80,7 @@ variant: tiptap
 fresh new dynamism of Queenstown Primary School. The three jewels represent
 the three primary schools, Mei Chin, Queenstown and Tanglin, which merged
 to form the crown, Queenstown Primary School.</p>
-<p>The school colours are blue, green and red. Blue signifies peace and tranquillity
+<p>The school colours are blue, green and red. Blue signifies peace and tranquility
 in the school. Green signifies growing of young minds and developing their
 capabilities and competencies. Red signifies our passion for learning and
 the love we have for our nation.</p>
