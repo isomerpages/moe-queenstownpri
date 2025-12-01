@@ -481,7 +481,8 @@ intended to be used to cause harm to others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines4.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines5a.png">
 </div>
 <p></p>
