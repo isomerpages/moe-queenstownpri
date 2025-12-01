@@ -63,9 +63,8 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/QTPS-logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/QTPS_logo.png">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>

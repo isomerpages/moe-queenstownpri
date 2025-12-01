@@ -33,8 +33,7 @@ non-teaching staff, and student leaders).</p>
 </li>
 <li>
 <p>Do not run. Move quietly, briskly and in an orderly manner. Do not loiter
-along the corridors</p>
-<p>or on the school premises.</p>
+along the corridors or on the school premises.</p>
 </li>
 <li>
 <p>Take pride in all work and assignments. Strive for the highest possible
@@ -46,10 +45,9 @@ name.</p>
 </li>
 <li>
 <p>After school dismissal, do not loiter in the neighbourhood while in school
-uniform (e.g. void</p>
-<p>decks, playgrounds). Students must go home to change out of their uniforms
-and obtain a</p>
-<p>parent's/ guardian's permision if they wish to play near their homes.</p>
+uniform (e.g. void decks, playgrounds). Students must go home to change
+out of their uniforms and obtain a parent's/ guardian's permission if they
+wish to play near their homes.</p>
 </li>
 </ul>
 <h4><strong>Attendance and Punctuality</strong></h4>
@@ -82,8 +80,7 @@ as bereavement.</p>
 </li>
 <li>
 <p>Each letter may cover up to three school days and must state the reason
-and dates of</p>
-<p>absence.</p>
+and dates of absence.</p>
 </li>
 <li>
 <p>Further or extended absences require a medical certificate or prior school
@@ -479,8 +476,10 @@ intended to be used to cause harm to others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines4.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines5a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines5b.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines5c.png">
 </div>
 <p></p>
