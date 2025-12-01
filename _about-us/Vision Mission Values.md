@@ -52,10 +52,30 @@ variant: tiptap
 </table>
 <h4><strong>School Motto</strong></h4>
 <p>Onward to Success: Live with GRACE, reach with IMPACT</p>
-<h4><strong>School Crest</strong></h4>
+<h4><strong>School Crest</strong><br></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:25%;margin-right:15px;" height="auto" width="100%" src="/images/QTPS-logo.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/QTPS-logo.png">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p>The school crest comprises three jewels on a crown. It symbolizes the
 fresh new dynamism of Queenstown Primary School. The three jewels represent
 the three primary schools, Mei Chin, Queenstown and Tanglin, which merged
