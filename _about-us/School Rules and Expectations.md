@@ -406,7 +406,7 @@ smartwatches, except the POSB Smart Buddy Watch) to school.</p>
 <p>Students who need to bring a smartphone or smartwatch to school for the
 purpose of keeping in touch with family members, are not to use such devices
 during school hours including recess, CCA and after-school programmes (e.g.
-supplementary/ enrichmen/remedial lessons).</p>
+supplementary/ enrichment/remedial lessons).</p>
 </li>
 <li>
 <p>Students must place their devices in their school bags before school starts.
