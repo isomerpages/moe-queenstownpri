@@ -10,8 +10,7 @@ variant: tiptap
 <br>E-mail :&nbsp;<a href="mailto:qtps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qtps@moe.edu.sg</a>
 </p>
 <h4><strong>School Curriculum Hours</strong></h4>
-<p>7:30 am -1:30 pm (Monday, Tuesday, Thursday &amp; Friday)
-<br>7:30 am - 1:15 pm (Wednesday)</p>
+<p>7:30 am -1:30 pm</p>
 <h4><strong>Main Gate (No. 3) Operating Hours</strong></h4>
 <p>Daily 6.30 am – 6.30 pm (Monday - Friday)</p>
 <h4><strong>Back Gate (No. 8) Operating Hours</strong></h4>
