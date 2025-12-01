@@ -165,13 +165,12 @@ not required to change out of their PE shorts after their PE lessons.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/School_Related/5___1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/UniformF.jpg">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/School_Related/5_1___1_a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/UniformM.jpg">
 </div>
 </th>
 </tr>
@@ -193,8 +192,7 @@ to the classroom every Wednesday and Friday.</p>
 </li>
 <li>
 <p>Have breakfast in the canteen if necessary before proceeding to the hall/classroom.
-No</p>
-<p>idling at the canteen after 7.20 am.</p>
+No idling at the canteen after 7.20 am.</p>
 </li>
 <li>
 <p>Breakfast from the canteen will <strong><em><u>NOT</u></em></strong> be
