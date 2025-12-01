@@ -7,7 +7,6 @@ variant: tiptap
 <h4><strong>Address</strong></h4>
 <p>310 Margaret Drive, Singapore 149303
 <br>Tel: 6474 1044
-<br>Fax: 6471 3640
 <br>E-mail :&nbsp;<a href="mailto:qtps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qtps@moe.edu.sg</a>
 </p>
 <h4><strong>School Curriculum Hours</strong></h4>
