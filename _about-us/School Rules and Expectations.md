@@ -94,7 +94,7 @@ approval</p>
 ill or certified unfit by a medical doctor.</p>
 </li>
 </ul>
-<h4><strong>Attire and Appearance </strong></h4>
+<h4><strong>Attire and Appearance</strong></h4>
 <p>Look smart. Take pride in your appearance and school attire.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -468,26 +468,20 @@ intended to be used to cause harm to others.</p>
 <p>Students are also not allowed to bring any scissors or penknife to school.</p>
 </li>
 </ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Related/DisciplineGuidelines5.png">
+</div>
 <p></p>
