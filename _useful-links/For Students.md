@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://mims.moe.gov.sg/sspr" rel="noopener nofollow" target="_blank">MIMS Self-Service Password Reset Service</a>
+<p><a href="https://mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">MIMS Self-Service Password Reset Service</a>
 </p>
 </li>
 <li>
