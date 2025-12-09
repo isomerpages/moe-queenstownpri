@@ -4,4 +4,4 @@ permalink: /information/school-open-letters/
 description: ""
 variant: markdown
 ---
-[Open Letters](/resources/open-letter/)
+[Open Letter](/resources/open-letter/)
