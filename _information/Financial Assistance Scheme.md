@@ -4,4 +4,120 @@ permalink: /information/fas/
 description: ""
 variant: tiptap
 ---
-<p>To qualify, the pupil must be a Singapore citizen and must meet the following income criteria:</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Gross Monthly Household Income</p></th><th rowspan="1" colspan="1"><p>Per Capita Income</p></th></tr><tr><td rowspan="1" colspan="1"><p>$3,000 or below</p></td><td rowspan="1" colspan="1"><p>$750 or below</p></td></tr></tbody></table><h4><strong>Benefits</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Item</p></th><th rowspan="1" colspan="1"><p>P1 to P6</p></th></tr><tr><td rowspan="1" colspan="1"><p>School Fees</p></td><td rowspan="1" colspan="1"><p>Not applicable</p></td></tr><tr><td rowspan="1" colspan="1"><p>Standard Miscellaneous Fees</p></td><td rowspan="1" colspan="1"><p>Full waiver of $6.50 per month</p></td></tr><tr><td rowspan="1" colspan="1"><p>Textbooks</p></td><td rowspan="1" colspan="1"><p>Free</p></td></tr><tr><td rowspan="1" colspan="1"><p>School attire</p></td><td rowspan="1" colspan="1"><p>Free school attire - 2 sets of uniform, 2 sets of PE attire, 1 pair of shoes and 2 pairs of socks</p></td></tr><tr><td rowspan="1" colspan="1"><p>Bursary</p></td><td rowspan="1" colspan="1"><p>Not applicable</p></td></tr><tr><td rowspan="1" colspan="1"><p>Examination Fees</p></td><td rowspan="1" colspan="1"><p>75% waiver of National Examination Fees</p></td></tr></tbody></table><h4><strong>How to apply?</strong></h4><p>Parents/guardians who wish to apply for MOE FAS can obtain an application form by downloading it here&nbsp;<a href="https://go.gov.sg/qtps2024fas" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> or apply online here&nbsp;<a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">FAS Online Form</a>.&nbsp;&nbsp;The completed application form, together with the following documents</p><ul data-tight="true" class="tight"><li><p>For working family members: a copy of your latest payslip or letter of employment from the company</p></li><li><p>For unemployed family members: a written letter stating your unemployment and the source of family income</p></li><li><p>For self-employed family members: a copy of the latest Income Tax Assessment</p></li></ul><p>must be submitted to the General Office. We will process the application and inform you of the outcome. Please note that the application would not be processed if the form is incomplete or relevant documents are not submitted.</p><p>You would be notified of the status of the application.</p><p>For more information on MOE Financial Assistance Schemes and Bursaries, please click&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a></strong></p>
+<p>To qualify, the pupil must be a Singapore citizen and must meet the following
+income criteria:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Gross Monthly Household Income</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Per Capita Income</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>$3,000 or below</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$750 or below</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Benefits</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Item</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P1 to P6</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Fees</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Standard Miscellaneous Fees</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full waiver of $6.50 per month</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Textbooks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free school attire - 2 sets of uniform, 2 sets of PE attire, 1 pair of
+shoes and 2 pairs of socks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bursary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Examination Fees</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>75% waiver of National Examination Fees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>How to apply?</strong></h4>
+<p>Parents/guardians who wish to apply for MOE FAS can obtain an application
+form by downloading it here&nbsp;<a href="https://go.gov.sg/qtps2024fas" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> or apply online
+here&nbsp;<a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">FAS Online Form</a>.&nbsp;&nbsp;The
+completed application form, together with the following documents</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For working family members: a copy of your latest payslip or letter of
+employment from the company</p>
+</li>
+<li>
+<p>For unemployed family members: a written letter stating your unemployment
+and the source of family income</p>
+</li>
+<li>
+<p>For self-employed family members: a copy of the latest Income Tax Assessment</p>
+</li>
+</ul>
+<p>must be submitted to the General Office. We will process the application
+and inform you of the outcome. Please note that the application would not
+be processed if the form is incomplete or relevant documents are not submitted.</p>
+<p>You would be notified of the status of the application.</p>
+<p>For more information on MOE Financial Assistance Schemes and Bursaries,
+please click&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here.</a></strong>
+</p>
