@@ -4,3 +4,4 @@ permalink: /resources/open-letter/
 description: ""
 variant: markdown
 ---
+[Open Letter](/resources/open-letter/)
