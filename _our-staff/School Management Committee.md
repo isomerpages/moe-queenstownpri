@@ -38,6 +38,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Vice-Principal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Max Chua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Vice-Principal (Admin)</strong>
 </p>
 </td>
@@ -52,15 +61,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jeslyn Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD/English</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Hong Hoon Geraldine</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Feng Wenfu</p>
+<p>Mdm Jeanna Goh</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Yew Kuan</p>
+<p>Ms Nazreen Zainuddin</p>
 </td>
 </tr>
 <tr>
@@ -200,15 +200,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/Aesthetics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jeanna Goh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SH/CCE</strong>
 </p>
 </td>
@@ -218,11 +209,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/NE/SS</strong>
+<p><strong>SH/21CC</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Revathi</p>
+<p>Ms Lee Yee Hueh</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +222,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wan Hameezah</p>
+<p>Mdm Lu Wei</p>
 </td>
 </tr>
 <tr>
@@ -245,11 +236,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/Student Leadership</strong>
+<p><strong>SH/Professional Development</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yap-Fang Shilin Calista</p>
+<p>Ms Beh Jing Ying</p>
 </td>
 </tr>
 <tr>
@@ -267,7 +258,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yee Hueh</p>
+<p>Ms Venus Lim</p>
 </td>
 </tr>
 <tr>

@@ -1,0 +1,14 @@
+collections:
+  teaching-staff-2026:
+    output: true
+    order:
+      - Senior Teacher Council 2026.md
+      - Form Teachers 2026/.keep
+      - Form Teachers 2026/P1 Form Teachers.md
+      - Form Teachers 2026/P2 Form Teachers.md
+      - Form Teachers 2026/P3 Form Teachers.md
+      - Form Teachers 2026/P4 Form Teachers.md
+      - Form Teachers 2026/P5 Form Teachers.md
+      - Form Teachers 2026/P6 Form Teachers.md
+      - Mother Tongue Teachers.md
+      - Teaching Support.md

@@ -1,7 +1,7 @@
 ---
-title: Senior Teacher Council
+title: Senior Teacher Council 2026
 permalink: /our-staff/teaching-staff/senior-teacher-council/
 description: ""
 variant: markdown
 ---
-![](/images/OrgChart/Organisation_Chart_2025_1Jan_STC.jpg)
+![](/images/OrgChart/STC_2026.png)

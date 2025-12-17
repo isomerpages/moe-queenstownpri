@@ -13,7 +13,6 @@ variant: markdown
 
 #### **School Counselor**
 
-*   Ms Irene Poon
 *   Ms Christine Chng
 
 #### **Student Welfare Officer**

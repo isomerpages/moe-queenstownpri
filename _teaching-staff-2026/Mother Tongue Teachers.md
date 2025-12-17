@@ -23,8 +23,6 @@ variant: markdown
 | 13 | Mr Teo Chee Tat | 
 | 14 | Mdm Yang Shiow Ru | 
 | 15 | Mdm Yap Eng Fui | 
-| 16 | Ms Woo Siok Hwee |
-| 17 | Ms Ng Sor Lan |
 |
 
 #### **Malay Language**
@@ -32,9 +30,8 @@ variant: markdown
 |  |  |  
 |---|---|
 | 1 | Ms Fathin Atikah Mas'ud | 
-| 2 | Mdm Nurulain Nadiah  | 
-| 3 | Mdm Siti-Hamesiah Samsudin | 
-| 4 | Ms Wan Hameezah  |
+| 2 | Mdm Siti-Hamesiah Samsudin | 
+| 3 | Ms Wan Hameezah  |
 |
 
 #### **Tamil Language**

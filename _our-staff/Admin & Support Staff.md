@@ -33,8 +33,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Latiff Bin A Majeed
-<br>Mr Pathmanaban S/O V. Pitchayia</p>
+<p>Mr Pathmanaban S/O V. Pitchayia
+<br>Mr A Nagaratnam</p>
 </td>
 </tr>
 <tr>
