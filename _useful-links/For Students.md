@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://docs.google.com/document/d/10lOcH20lt1I0DOWZ2YiKuYhVVEOXg6qfrtyT_etNUX8/edit?tab=t.btztm8ds3xo6" rel="noopener nofollow" target="_blank">2026 Start-IT-Right ICT Matters</a>
+</p>
+</li>
+<li>
 <p><a href="/hbl-overview2/" rel="noopener noreferrer nofollow" target="_blank">QtPS eLearning Instructions</a>
 </p>
 </li>
