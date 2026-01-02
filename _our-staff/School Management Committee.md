@@ -123,7 +123,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nazreen Zainuddin</p>
+<p>Ms Nazreen Zainudeen</p>
 </td>
 </tr>
 <tr>
