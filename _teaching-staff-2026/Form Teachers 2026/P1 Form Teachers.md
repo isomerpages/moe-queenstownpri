@@ -12,7 +12,7 @@ variant: markdown
 | 1 Creativity |Mr Kwek Hong Wee <br> Ms Liu Zi Jing |
 | 1 Diligence | Ms Yeo Teck Wai <br> Ms Wan Hameezah <br>Ms Carin Chan | 
 | 1 Honesty | Ms Faith Ng <br> Ms Charine Chong | 
-| 1 Joy | Mdm Vani Chawla <br> Ms Sim Li Min | 
+| 1 Joy | Ms Vani Chawla <br> Ms Sim Li Min | 
 | 1 Respect  | Ms Venus Lim<br> Mr Wellens Tan | 
 |
 
