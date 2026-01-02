@@ -191,15 +191,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/Malay</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Fathin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SH/CCE</strong>
 </p>
 </td>
