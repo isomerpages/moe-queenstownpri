@@ -12,12 +12,14 @@ Mr Tan Kian Tat<br>
 Ms Yeo Teck Wai
 
 #### **CCA Training**
-Monday &amp; Friday <br>
+Monday <br>
 3.00pm to 5.00pm<br>
+Friday <br>
+2.30pm to 4.30pm<br>
 
 #### **CCA Venue**
 School Field<br>
-ISH (Wet Weather) 
+Rooftop Basketball Court (Wet Weather) 
 
 #### **About CCA**
 Softball is a great sport opened to boys from P3 onwards.
