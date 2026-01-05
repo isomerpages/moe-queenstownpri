@@ -335,12 +335,14 @@ variant: tiptap
 <p>Softball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon &amp; Fri
+<p>Mon
 <br>3.00 pm - 5.00 pm</p>
+<p>Fri
+<br>2.30 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field
-<br>ISH (Wet Weather)</p>
+<br>Rooftop Basketball Court (Wet Weather)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jasper Chiang (OIC)
