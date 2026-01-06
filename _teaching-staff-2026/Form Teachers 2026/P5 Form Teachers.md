@@ -8,7 +8,7 @@ variant: markdown
 | Class| Form Teachers | 
 | -------- | -------- |
 | 5 Care | Ms Tan Wei Xin <br> Mdm Zaheedah |
-| 5 Courage | Ms Mandi Yeoh <br>Mr Tan Wei Kok  |
+| 5 Courage | Ms Mandi Yeoh <br>Mr Tang Wei Kok  |
 | 5 Creativity | Mr Noor <br> Mdm Beh Jing Ying |
 | 5 Diligence | Mdm S Srija <br>Ms Choo Ruofei <br> Mr Teo Chee Tat |
 | 5 Honesty | Mr Mark Teo <br> Mdm Najumunisha | 
