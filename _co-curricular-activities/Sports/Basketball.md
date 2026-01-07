@@ -7,12 +7,11 @@ variant: tiptap
 ---
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <p>Ms Charine Chong (OIC)
-<br>Mr Jevon See
+<br>Ms Celeste Lee (2IC)
 <br>Ms Venus Lim Wen Xuan
-<br>Mdm Yap Eng Fui
-<br>Ms Celeste Lee
-<br>Mdm Srija
-<br>Mr Yeo Bo Yu</p>
+<br>Mr Yeo Bo Yu
+<br>Mr Jevon See
+<br>Mr Ng Peng Hwee</p>
 <h4><strong>CCA Training</strong></h4>
 <p>Mondays (Development Team)
 <br>3.00 - 5.00 p.m.</p>
