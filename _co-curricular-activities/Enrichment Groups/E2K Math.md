@@ -1,6 +1,6 @@
 ---
-title: Mathematics Club
-permalink: /co-curricular-activities/Enrichment-Groups/math-club/
+title: E2K Math
+permalink: /co-curricular-activities/enrichment-groups/math-club/
 description: ""
 third_nav_title: Enrichment Groups
 variant: markdown

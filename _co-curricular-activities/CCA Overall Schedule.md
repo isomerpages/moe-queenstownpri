@@ -536,7 +536,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics Club</p>
+<p>E2K Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon (P4)
