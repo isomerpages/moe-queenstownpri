@@ -6,9 +6,9 @@ third_nav_title: Clubs And Societies
 variant: tiptap
 ---
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
-<p>Mdm Vaani (OIC)
-<br>Mrs Jean Law
-<br>Ms Liu Zi Jing</p>
+<p>Ms Liu Zi Jing (OIC)
+<br>Mdm Vaani
+<br>Mrs Jean Law</p>
 <h4><strong>CCA Advisor</strong></h4>
 <p>Mrs Chia Su Sze</p>
 <h4><strong>CCA Day and Time</strong></h4>

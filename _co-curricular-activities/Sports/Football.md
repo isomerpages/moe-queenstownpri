@@ -7,9 +7,9 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Ms Sim Limin (OIC)<br>
+Mr Tang Kok Wei <br>
 Mr Md Azuan<br>
 Mdm Zaheedah <br>
-Mrs Chew-Lim Shu Min <br>
 Mr Balajee
 
 #### **CCA Training**

@@ -6,8 +6,8 @@ third_nav_title: Sports
 variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
-Mr Amos Leong (OIC)  <br>
-Ms Tan Wei Xin (2IC)<br>
+Ms Tan Wei Xin (OIC)<br>
+Mr Amos Leong  <br>
 Mr Gordon Ranjit Magherra<br>
 Ms Yap Ee Lim<br>
 

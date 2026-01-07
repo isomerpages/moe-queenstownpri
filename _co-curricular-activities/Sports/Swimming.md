@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <p>Mdm Yong Foong Er (OIC)
-<br>Mr Kwek Hong Wee
-<br>Mdm Tan Chia Huee
-<br>Ms Candice Teh</p>
+<br>Mdm Yap Eng Fui (2IC)
+<br>Mr Rick Low
+<br>Mdm Yang Shiow Ru</p>
 <h4><strong>CCA Training</strong></h4>
 <p>Tuesdays &amp; Fridays
 <br>2.30 pm to 5.00 pm

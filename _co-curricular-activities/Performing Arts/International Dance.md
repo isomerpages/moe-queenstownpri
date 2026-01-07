@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### **CCA Teachers-in-Charge**
 Ms Lu Wei (OIC)<br>
-Mr Ng Peng Hwee<br>
+Mdm Naju<br>
 
 #### **CCA Advisor**
 Mdm Jeanna Goh

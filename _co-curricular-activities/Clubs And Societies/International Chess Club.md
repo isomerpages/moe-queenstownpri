@@ -6,7 +6,8 @@ third_nav_title: Clubs And Societies
 variant: markdown
 ---
 #### **CCA teachers-in-Charge**
-Ms Lee Hui Yi (OIC) <br>
+Mr Kwek Hong Wee (OIC) <br>
+Mr Ken Tan <br>
 Ms Choo Ruofei
 
 #### **CCA Day and Time**

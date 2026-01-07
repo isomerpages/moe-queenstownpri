@@ -6,8 +6,9 @@ third_nav_title: Clubs And Societies
 variant: tiptap
 ---
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
-<p>Ms Fathin Atikah Mas’ud (OIC)
-<br>Mrs Calista Yap</p>
+<p>Ms Fathin Atikah (OIC)
+<br>Mr Wong Wai Liong
+<br>Ms Tan Siew Choo</p>
 <h4><strong>CCA Advisor</strong></h4>
 <p>Mr Mohd Noor Bin Salim</p>
 <h4><strong>CCA Days and Time</strong></h4>
