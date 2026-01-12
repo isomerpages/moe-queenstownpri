@@ -8,59 +8,44 @@ variant: tiptap
 <h4><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>&nbsp;Sexuality Education (SEd) in schools aims to enable students to
-understand the physiological, social and emotional changes they experience
-as they mature, develop healthy and rewarding relationships with others,
-including those with members of the opposite sex, and make wise, informed
-and responsible decisions on sexuality matters. SEd is premised on the
-importance of the family as the basic unit of society. This means encouraging
-healthy, heterosexual marriages and stable nuclear family units with extended
-family support. The teaching and learning of SEd is based on respect for
-the values and beliefs of the different ethnic and religious communities
-in Singapore on sexuality issues.</p>
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
+marriages and stable nuclear family units with extended family support.
+The teaching and learning of SEd is based on respect for the values and
+beliefs of the different ethnic and religious communities in Singapore
+on sexuality issues.</p>
 </li>
 <li>
-<p>The <strong>Goals</strong> of Sexuality Education are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.</p>
+<p>The <strong>Goals </strong>of Sexuality Education are:
+<br>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.
+<br>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.
+<br>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
 </li>
 <li>
-<p>Guide students to make wise, informed and responsible decisions on sexuality
-matters.</p>
-</li>
-<li>
-<p>Help students develop a moral compass and respect for themselves and others
-by having positive mainstream values and attitudes about sexuality that
-are premised on the family as the basic unit of society.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Love and respect yourself as you love and respect others;</p>
-</li>
-<li>
-<p>Build positive relationships based on love and respect (which are the
-foundation for strong families);</p>
-</li>
-<li>
-<p>Make responsible decisions for yourself, your family and society; and</p>
-</li>
-<li>
-<p>Abstinence before marriage is the best protection against STIs/HIV and
-unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones.</p>
-</li>
-</ul>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:
+<br>(a) Love and respect yourself as you love and respect others;
+<br>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);
+<br>(c) Make responsible decisions for yourself, your family and society;
+and
+<br>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.
+<br>
+</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
 </li>
 </ol>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.&nbsp;</p>
-<h4><strong>OVERVIEW OF QUEENSTOWN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h4><strong>OVERVIEW OF QUEENSTOWN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -71,14 +56,8 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Science</p>
-</li>
-<li>
-<p>Character and Citizenship Education (CCE)</p>
-</li>
-</ul>
+<p>a. Science
+<br>b. Character and Citizenship Education (CCE)</p>
 </li>
 </ol>
 <h5><strong>Sexuality Education Lessons</strong>:</h5>
@@ -96,16 +75,16 @@ close guidance so that they can respond with discernment to the sexual
 messages in the media and other sources.</p>
 </li>
 <li>
-<p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
-Primary 5 and 6. Through these lessons, students will learn healthy ways
-to manage the physiological, social and emotional changes in their growing
-years. They learn to build healthy and rewarding relationships with others,
-including those with members of the opposite sex. Students are also guided
-to make wise, informed and responsible decisions to keep themselves safe
-from sexuality-related risks.</p>
+<p>&nbsp;Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
+at Primary 5 and 6. Through these lessons, students will learn healthy
+ways to manage the physiological, social and emotional changes in their
+growing years. They learn to build healthy and rewarding relationships
+with others, including those with members of the opposite sex. Students
+are also guided to make wise, informed and responsible decisions to keep
+themselves safe from sexuality-related risks.</p>
 </li>
 </ol>
-<h4><strong>At QUEENSTOWN PRIMARY SCHOOL’S, the following Sexuality Education lessons will be taught in 2025:</strong></h4>
+<h4><strong>At QUEENSTOWN PRIMARY SCHOOL’S, the following Sexuality Education lessons will be taught in 2026:</strong></h4>
 <h3><strong>Primary 5</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -138,8 +117,8 @@ from sexuality-related risks.</p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Changes in Me</p>
-<p>(60 min)</p>
+<p>The Changes in Me
+<br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students identify the emotions and stress
@@ -156,8 +135,8 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Did You Know?</p>
-<p>(60 min)</p>
+<p>Did You Know?
+<br>(60 min)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,8 +155,8 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Keeping Myself Safe</p>
-<p>(60 min)</p>
+<p>Keeping Myself Safe
+<br>(60 min)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,9 +207,9 @@ and how to seek help for themselves and their friends.</p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Are We More than Friends?</p>
-<p>Lesson 1</p>
-<p>(60 min)</p>
+<p>Are We More than Friends?
+<br>Lesson 1
+<br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn to distinguish between the characteristics
@@ -242,14 +221,14 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 7</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Are We More than Friends?</p>
-<p>Lesson 2</p>
-<p>(60 min)</p>
+<p>Are We More than Friends?
+<br>Lesson 2
+<br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn healthy ways to manage the emotions
@@ -259,7 +238,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 8</p>
+<p>Term 2 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -276,7 +255,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be shared with
 parents via Parents’ Gateway in Term 1 Week 2. The completed opt-out form
-is to be submitted by 31 January 2025.</p>
+is to be submitted by 31 January 2026.</p>
 </li>
 <li>
 <p>Parents can contact the school at 64741044 or email us at <a rel="noopener noreferrer nofollow" target="_blank">qtps@moe.edu.sg</a> for discussion or
