@@ -282,8 +282,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Wei Xin (OIC)
-<br>Mr Amos Leong</p>
-<p>Mr Gordon Magherra
+<br>Mr Amos Leong
+<br>Mr Gordon Magherra
 <br>Ms Yap Ee Lim</p>
 </td>
 </tr>
@@ -300,11 +300,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Charine Chong (OIC)
-<br>Ms Celeste Lee (2IC)</p>
-<p>Ms Venus Lim
-<br>Mr Yeo Bo Yu</p>
-<p>Mr Jevon See</p>
-<p>Mr Ng Peng Hwee</p>
+<br>Ms Celeste Lee (2IC)
+<br>Ms Venus Lim
+<br>Mr Yeo Bo Yu
+<br>Mr Jevon See
+<br>Mr Ng Peng Hwee</p>
 </td>
 </tr>
 <tr>
@@ -323,8 +323,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sim Li Min (OIC)
-<br>Mr Tang Wei Kok</p>
-<p>Mr Md Azuan
+<br>Mr Tang Wei Kok
+<br>Mr Md Azuan
 <br>Mdm Zaheedah
 <br>Mr Balajee</p>
 </td>
@@ -363,9 +363,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yong Foong Er (OIC)
-<br>Mdm Yap Eng Fui (2IC)</p>
-<p>Mr Rick Low</p>
-<p>Mdm Yang Shiow Ru</p>
+<br>Mdm Yap Eng Fui (2IC)
+<br>Mr Rick Low
+<br>Mdm Yang Shiow Ru</p>
 </td>
 </tr>
 <tr>
@@ -438,8 +438,8 @@ variant: tiptap
 <p>Teaching Lab</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Zi Jing (OIC)</p>
-<p>Mdm Vaani
+<p>Ms Liu Zi Jing (OIC)
+<br>Mdm Vaani
 <br>Mrs Jean Law</p>
 </td>
 </tr>
@@ -473,8 +473,8 @@ variant: tiptap
 <br>Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kwek Hong Wee (OIC)</p>
-<p>Mr Ken Tan
+<p>Mr Kwek Hong Wee (OIC)
+<br>Mr Ken Tan
 <br>Ms Choo Ruofei</p>
 </td>
 </tr>
