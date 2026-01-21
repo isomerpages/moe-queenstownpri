@@ -67,3 +67,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_2f059cd3ad927d41ced68281a6340d178294589cd28b8f34282c30f35904b434%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+</div>
+<p></p>
