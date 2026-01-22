@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://forms.gle/zzLMN4Mj9uwimY9y9" rel="noopener noreferrer nofollow" target="_blank">Caught Doing Right</a>
+<p><a href="https://forms.gle/u8ndgE96NP61xP6RA" rel="noopener noreferrer nofollow" target="_blank">Caught Doing Right</a>
 </p>
 <p></p>
 </li>
