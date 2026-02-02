@@ -23,6 +23,14 @@ sections:
           url: /useful-links/for-students
       variant: image
   - infopic:
+      title: Inspiring Teacher of English Award 2026
+      id: infopic
+      description: Nominations start 2 February 2026 until 5pm on 6 April 2026
+      button: To find out more click here
+      url: https://www.goodenglish.org.sg/
+      image: /images/Announcements/ITEA_MOTD_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: Engagement Charter
       id: infopic
       image: /images/Announcements/Engagement_Charter25a.png
@@ -35,14 +43,6 @@ sections:
       id: infopic
       description: Vaping is illegal and harms your health.
       image: /images/School_Related/Vaping.gif
-      alt: Image alt text
-  - infopic:
-      title: Caring Teacher Awards 2026
-      id: infopic
-      description: Nominations start 1 August 2025
-      button: To find out more click here
-      url: https://www.cta.nie.edu.sg/home
-      image: /images/Announcements/CAT2026.png
       alt: Image alt text
   - infopic:
       title: ✨ Queenstown Primary School is now on Instagram! ✨
