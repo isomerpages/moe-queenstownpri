@@ -24,7 +24,7 @@ variant: tiptap
 <p>Contact Person</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chui / Ms Bey</p>
+<p>Mdm Chui</p>
 </td>
 </tr>
 <tr>
@@ -40,8 +40,8 @@ variant: tiptap
 <p>Clinic Operating Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, Wed, Fri : 8:00am to 5:00pm
-<br>Tue, Thu : 8:00am to 5:30pm
+<p>Mon, to Thu : 8:00am to 5:30pm
+<br>Closed on Friday
 <br>Lunch break : 12:30pm to 1:30pm</p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Dental Clinic Operating Schedule :</strong></h4>
-<h4><strong>January 2026</strong></h4>
+<h4><strong>February 2026</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -89,28 +89,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Week 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2
-<br>CLOSED</p>
+<br>OPEN</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Week 1</p>
+<p>3
+<br>OPEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5
@@ -118,24 +109,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>6
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 2</p>
+<p>Week 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12
@@ -145,22 +136,22 @@ variant: tiptap
 <p>13
 <br>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>14
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16
-<br>CLOSED</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 3</p>
+<p>Week 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16
+<br>OPEN (AM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>19
@@ -168,24 +159,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>20
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22
-<br>OPEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23
-<br>OPEN</p>
+<br>CLOSED</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 4</p>
+<p>Week 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26
@@ -193,18 +184,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>27
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>29
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30
 <br>CLOSED</p>
 </td>
 </tr>
@@ -264,10 +243,18 @@ call one of the following BUDDY CLINICS for assistance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHIJ Kellock Primary School</p>
+<p>Pei Tong Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>87647293</p>
+<p>89091679</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
