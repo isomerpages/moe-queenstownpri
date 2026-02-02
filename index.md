@@ -27,7 +27,7 @@ sections:
       id: infopic
       description: Nominations start 2 February 2026 until 5pm on 6 April 2026
       button: To find out more click here
-      url: https://www.languagecouncils.sg/goodenglish
+      url: https://www.goodenglish.org.sg/
       image: /images/Announcements/ITEA_MOTD_2026.jpg
       alt: Image alt text
   - infopic:
