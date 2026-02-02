@@ -31,6 +31,23 @@ sections:
       image: /images/Announcements/ITEA_MOTD_2026.jpg
       alt: Image alt text
   - infopic:
+      title: Arif Budiman Malay Language Teacher Award 2026
+      id: infopic
+      description: Nominations start 2 Feb 2026 until 13 March 2026
+      button: TO FIND OUT MORE CLICK HERE
+      url: https://www.languagecouncils.sg/mbms/en/agab/anugerah-guru-arif-budiman
+      image: /images/Announcements/AGAB_2026_Poster.png
+      alt: Image alt text
+  - infopic:
+      title: Most Inspiring Tamil Teachers' Award 2026
+      subtitle: Add an image and text
+      id: infopic
+      description: Nominations start 2 February 2026 until 13 March 2026
+      button: TO FIND OUT MORE CLICK HERE
+      url: https://www.tllpc.sg/
+      image: /images/Announcements/MITT_2026_Poster.png
+      alt: Image alt text
+  - infopic:
       title: Engagement Charter
       id: infopic
       image: /images/Announcements/Engagement_Charter25a.png
