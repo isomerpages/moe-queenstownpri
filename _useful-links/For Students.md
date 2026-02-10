@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zskfb7h" rel="noopener nofollow" target="_blank">Dance Mat Typing </a>
+<p><a href="https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zskfb7h" rel="noopener nofollow" target="_blank">Dance Mat Typing</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/dancemat.png">
