@@ -52,12 +52,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zskfb7h" rel="noopener nofollow" target="_blank">Dance Mat Typing </a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/dancemat.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.typingclub.com/" rel="noopener nofollow" target="_blank">TypingClub</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/typingclub.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://monkeytype.com/" rel="noopener nofollow" target="_blank">Monkeytype</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/monkeytype.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -67,6 +85,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -75,20 +94,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zskfb7h" rel="noopener nofollow" target="_blank">Learn: Dance Mat Typing for 7 - 11 year olds - BBC Bitesize</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.typingclub.com/" rel="noopener nofollow" target="_blank">Learn: Learn Touch Typing Free - TypingClub</a>
-</p>
-</li>
-<li>
-<p><a href="https://monkeytype.com/" rel="noopener nofollow" target="_blank">Play/Test: Monkeytype | A minimalistic, customizable typing test</a>
-</p>
-</li>
-</ul>
 </li>
 </ul>
 <p></p>
