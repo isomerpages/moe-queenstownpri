@@ -32,6 +32,8 @@ variant: tiptap
 <li>
 <p><strong>Touch Typing Resources</strong>
 </p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -85,7 +87,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -94,6 +95,4 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-</li>
-</ul>
 <p></p>
