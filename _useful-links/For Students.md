@@ -85,7 +85,7 @@ variant: tiptap
 <p><a href="https://monkeytype.com/" rel="noopener nofollow" target="_blank">Monkeytype</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/monkeytype2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/monkeytype3.png">
 </div>
 </td>
 </tr>
