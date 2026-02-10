@@ -34,8 +34,10 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -51,37 +53,49 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zskfb7h" rel="noopener nofollow" target="_blank">Dance Mat Typing</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/dancemat.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/dancemat2.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.typingclub.com/" rel="noopener nofollow" target="_blank">TypingClub</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/typingclub.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/typingclub2.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://monkeytype.com/" rel="noopener nofollow" target="_blank">Monkeytype</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/monkeytype.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Misc/monkeytype3.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
