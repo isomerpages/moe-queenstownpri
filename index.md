@@ -91,4 +91,12 @@ sections:
       url: https://ask.gov.sg/qtps
       image: /images/qtps-askgov.png
       alt: Image alt text
+  - infopic:
+      title: Distinguished Chinese Language Teachers Awards 2026
+      subtitle: Add an image and text
+      id: infopic
+      description: Nominations end 30 April 2026
+      button: To find out more click here
+      url: https://contest.sph.com.sg/campaigns/dclta
+      alt: Image alt text
 ---
