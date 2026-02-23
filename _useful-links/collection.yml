@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Restricted Access.md
       - For Students.md
       - For Parents.md
       - For Teachers.md
