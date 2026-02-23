@@ -56,6 +56,9 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Dental Clinic Operating Schedule :</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_c4ddb1609af3b53c9a21f86f9d2d1a5f96064d2c64156fbef5c3246eab05f48e%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+</div>
 <h4><strong>February 2026</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
