@@ -7,10 +7,11 @@ variant: markdown
 | Role | Name |
 |:---:|:---:|
 | Chairman | Mr Teo Cher Hwa |
-|  Honorary Secretary | Ms Pearly Ng  |
-|  Member | Mr Harry Kee |
+|  Vice Chairman | Mr Mike Ang Khay Thye |
+|  Honorary Secretary | Mrs Olivia Cheong  |
 |  Member | Mdm Liu Cheng Cheng |
 |  Member | Dr Gao Yujia |
-|  Member | Mr Mike Ang Khay Thye |
-|  Member | Mr David Hoe  |
+|  Member | Ms Foo Lee Meng (Joye) |
+|  Member | Mdm Ice Sherry Lee |
+|  Member | Mr Ong Hock Boon  |
 |
