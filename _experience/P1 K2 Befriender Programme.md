@@ -33,12 +33,12 @@ towards their junior buddies, embodying the school's values in a practical,
 meaningful way.&nbsp;</p>
 <h4><strong><u>Preschool participation:</u></strong></h4>
 <p>Queenstown Primary School warmly invites preschools interested in participating
-in the K2 Befriender Programme for the academic year 2025 to register their
+in the K2 Befriender Programme for the academic year 2026 to register their
 interest. This collaborative initiative offers an excellent opportunity
 for K2 students to familiarise themselves with the primary school environment
 and build confidence for their upcoming transition. If your preschool would
 like to be a part of this enriching experience, please register your interest
-through the following link: <strong><a href="https://go.gov.sg/qtpsk2befriender2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/qtpsk2befriender2025</a></strong>
+through the following link: <strong><a href="https://go.gov.sg/qtpsk2befriender2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/qtpsk2befriender2026</a></strong>
 </p>
 <p>Kindly note that we will contact selected preschools by the end of March
 using the details provided in the registration form. Due to the volume
