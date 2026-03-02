@@ -93,10 +93,10 @@ call one of the following BUDDY CLINICS for assistance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pei Tong Primary School</p>
+<p>Fairfield Methodist Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>89091679</p>
+<p>87647361</p>
 </td>
 </tr>
 <tr>
