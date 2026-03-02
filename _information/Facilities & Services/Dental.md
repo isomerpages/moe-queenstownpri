@@ -43,6 +43,7 @@ variant: tiptap
 <p>Mon, to Thu : 8:00am to 5:30pm
 <br>Closed on Friday
 <br>Lunch break : 12:30pm to 1:30pm</p>
+<p>Dental Clinic is open on alternate weeks</p>
 </td>
 </tr>
 <tr>
@@ -93,10 +94,10 @@ call one of the following BUDDY CLINICS for assistance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pei Tong Primary School</p>
+<p>Fairfield Methodist Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>89091679</p>
+<p>87647361</p>
 </td>
 </tr>
 <tr>
