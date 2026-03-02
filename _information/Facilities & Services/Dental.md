@@ -43,6 +43,7 @@ variant: tiptap
 <p>Mon, to Thu : 8:00am to 5:30pm
 <br>Closed on Friday
 <br>Lunch break : 12:30pm to 1:30pm</p>
+<p>Dental Clinic is open on alternate weeks</p>
 </td>
 </tr>
 <tr>
