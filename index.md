@@ -23,8 +23,15 @@ sections:
           url: /useful-links/for-students
       variant: image
   - infopic:
+      title: Queenstown Primary School celebrates our 70th Anniversary
+      button: Click here to register
+      url: go.gov.sg/qtpsalumnihomecoming
+      image: /images/Announcements/QtPS_70th_Anni_Launch.png
+      description: Join us as Queenstown Primary celebrates our 70th Anniversary!
+        Reconnect with friends, revisit familiar spaces, celebrate the shared
+        journey of QtPS generations
+  - infopic:
       title: Distinguished Chinese Language Teachers Awards 2026
-      subtitle: Add an image and text
       id: infopic
       description: Nominations end 30 April 2026
       button: To find out more click here
@@ -38,23 +45,6 @@ sections:
       button: To find out more click here
       url: https://www.goodenglish.org.sg/
       image: /images/Announcements/ITEA_MOTD_2026.jpg
-      alt: Image alt text
-  - infopic:
-      title: Arif Budiman Malay Language Teacher Award 2026
-      id: infopic
-      description: Nominations start 2 Feb 2026 until 13 March 2026
-      button: TO FIND OUT MORE CLICK HERE
-      url: https://www.languagecouncils.sg/mbms/en/agab/anugerah-guru-arif-budiman
-      image: /images/Announcements/AGAB_2026_Poster.png
-      alt: Image alt text
-  - infopic:
-      title: Most Inspiring Tamil Teachers' Award 2026
-      subtitle: Add an image and text
-      id: infopic
-      description: Nominations start 2 February 2026 until 13 March 2026
-      button: TO FIND OUT MORE CLICK HERE
-      url: https://www.tllpc.sg/
-      image: /images/Announcements/MITT_2026_Poster.png
       alt: Image alt text
   - infopic:
       title: Engagement Charter
@@ -71,6 +61,13 @@ sections:
       image: /images/School_Related/Vaping.gif
       alt: Image alt text
   - infopic:
+      title: CCA
+      description: Co-Curricular Activities
+      button: click here
+      url: /co-curricular-activities/
+      alt: Image alt text
+      image: /images/School_Related/2025_CCA_Montage_for_Website.png
+  - infopic:
       title: ✨ Queenstown Primary School is now on Instagram! ✨
       id: infopic
       description: Follow us @qtps_sg to stay connected with our school community in a
@@ -79,20 +76,6 @@ sections:
       alt: Image alt text
       url: https://www.instagram.com/qtps_sg/
       button: Click Here
-  - infopic:
-      title: CCA
-      description: Co-Curricular Activities
-      button: click here
-      url: /co-curricular-activities/
-      alt: Image alt text
-      image: /images/School_Related/2025_CCA_Montage_for_Website.png
-  - infopic:
-      title: Come join our Alumni
-      subtitle: QtPS Alumni
-      button: Click here to register
-      url: https://docs.google.com/forms/d/e/1FAIpQLSdWz8NCB86RSrF0Lk7EuBSM2300rasnztuvwINCNBsIRKX2rg/viewform
-      image: /images/Alumni.jpg
-      alt: Image alt text
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
