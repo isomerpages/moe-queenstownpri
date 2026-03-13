@@ -24,7 +24,6 @@ sections:
       variant: image
   - infopic:
       title: Queenstown Primary School celebrates our 70th Anniversary
-      subtitle: QtPS Homecoming
       button: Click here to register
       url: go.gov.sg/qtpsalumnihomecoming
       image: /images/Announcements/QtPS_70th_Anni_Launch.png
