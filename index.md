@@ -30,6 +30,7 @@ sections:
       description: Join us as Queenstown Primary celebrates our 70th Anniversary!
         Reconnect with friends, revisit familiar spaces, celebrate the shared
         journey of QtPS generations
+      alt: Image alt text
   - infopic:
       title: Distinguished Chinese Language Teachers Awards 2026
       id: infopic
