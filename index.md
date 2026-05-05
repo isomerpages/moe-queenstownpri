@@ -32,22 +32,6 @@ sections:
         journey of QtPS generations
       alt: Image alt text
   - infopic:
-      title: Distinguished Chinese Language Teachers Awards 2026
-      id: infopic
-      description: Nominations end 30 April 2026
-      button: To find out more click here
-      url: https://contest.sph.com.sg/campaigns/dclta
-      alt: Image alt text
-      image: /images/Announcements/distn_cl_trs_award26.png
-  - infopic:
-      title: Inspiring Teacher of English Award 2026
-      id: infopic
-      description: Nominations start 2 February 2026 until 5pm on 6 April 2026
-      button: To find out more click here
-      url: https://www.goodenglish.org.sg/
-      image: /images/Announcements/ITEA_MOTD_2026.jpg
-      alt: Image alt text
-  - infopic:
       title: Engagement Charter
       id: infopic
       image: /images/Announcements/Engagement_Charter25a.png
