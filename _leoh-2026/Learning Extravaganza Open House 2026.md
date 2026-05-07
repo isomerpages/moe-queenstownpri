@@ -4,16 +4,15 @@ permalink: /learning-extravaganza-open-house-2026/
 variant: tiptap
 description: ""
 ---
-<p><strong>70<sup>th</sup> Anniversary Learning Extravaganza Open House 2026</strong>
-</p>
-<p></p>
+<h4><strong>70<sup>th</sup> Anniversary Learning Extravaganza Open House 2026</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/LEOH2026.jpg">
+</div>
 <p><strong>Day/Date:</strong> Saturday, 4th July 2026
 <br><strong>Time:</strong> 9:00 AM – 12:00 PM
 <br><strong>Venue:</strong> Queenstown Primary School
 <br>
-<br>
-</p>
-<p>Come and experience the joy of learning at Queenstown Primary! Explore
+<br>Come and experience the joy of learning at Queenstown Primary! Explore
 our classrooms and explore how we nurture our students to become <strong>Confident Leaders and Caring Citizens who are Change Makers</strong>.</p>
 <hr>
 <p><strong>Programme Schedule</strong>
@@ -95,6 +94,17 @@ our classrooms and explore how we nurture our students to become <strong>Confide
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -185,8 +195,18 @@ our classrooms and explore how we nurture our students to become <strong>Confide
 <p>Canteen</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>Join us to discover the vibrant school life and values that define the
-Queenstown experience!</p>
+<p>&nbsp;Join us to discover the vibrant school life and values that define
+the Queenstown experience!</p>
