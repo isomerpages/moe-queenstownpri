@@ -12,9 +12,7 @@ description: ""
 <br><strong>Time:</strong> 9:00 AM – 12:00 PM
 <br><strong>Venue:</strong> Queenstown Primary School
 <br>
-<br>
-</p>
-<p>Come and experience the joy of learning at Queenstown Primary! Explore
+<br>Come and experience the joy of learning at Queenstown Primary! Explore
 our classrooms and explore how we nurture our students to become <strong>Confident Leaders and Caring Citizens who are Change Makers</strong>.</p>
 <hr>
 <p><strong>Programme Schedule</strong>
@@ -111,9 +109,7 @@ our classrooms and explore how we nurture our students to become <strong>Confide
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Concurrent Programmes</strong>
+<p><strong>&nbsp;Concurrent Programmes</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -210,6 +206,5 @@ our classrooms and explore how we nurture our students to become <strong>Confide
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>Join us to discover the vibrant school life and values that define the
-Queenstown experience!</p>
+<p>&nbsp;Join us to discover the vibrant school life and values that define
+the Queenstown experience!</p>
