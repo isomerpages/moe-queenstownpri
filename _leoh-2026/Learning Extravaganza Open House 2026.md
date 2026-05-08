@@ -109,9 +109,7 @@ our classrooms and explore how we nurture our students to become <strong>Confide
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Concurrent Programmes</strong>
+<p><strong>&nbsp;Concurrent Programmes</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -144,7 +142,7 @@ our classrooms and explore how we nurture our students to become <strong>Confide
 <p>LLP Learning Experiences Booths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 Respect (Level 2)</p>
+<p>P4 Care (Level 2)</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +150,7 @@ our classrooms and explore how we nurture our students to become <strong>Confide
 <p>ALP Learning Experiences Booths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 Diligence, P1 Honesty, P1 Joy (Level 2)</p>
+<p>P1 Diligence, P1 Honesty, P1 Joy, P1 Respect (Level 2)</p>
 </td>
 </tr>
 <tr>
