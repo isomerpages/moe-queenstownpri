@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Class| Form Teachers | 
 | -------- | -------- |
-| 3 Care | Mdm Yong Foong Er<br> Ms Von Tjong<br>Mr Balajee |
+| 3 Care | Mdm Yong Foong Er<br> Ms Von Tjong<br>Mr Balajee s/o Haridas|
 | 3 Courage | Mr Wong Wai Liong<br> Ms Celeste Lee |
 | 3 Creativity | Ms Joann Han<br> Mr Amos Leong  |
 | 3 Diligence | Mrs Ong-Lim Lay See <br> Mrs Christabel Goh | 
