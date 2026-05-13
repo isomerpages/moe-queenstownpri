@@ -1,8 +1,9 @@
 ---
-title: NE Commerative Events
-permalink: /departments/CCE/ne-commerative-event/
+title: NE Commemorative Events
+permalink: /departments/cce/ne-commerative-event/
 description: ""
 third_nav_title: Character & Citizenship Educn
+variant: markdown
 ---
 International Friendship Day (IFD) celebrates the friendship that Singapore shares with its neighbouring countries and schools are encouraged to commemorate this by having programmes for students to understand the cultures of these nations. In the Primary school setting, IFD provides an opportunity for students to learn about and appreciate other cultures in cosmopolitan Singapore. Schools nurture the spirit of friendship and collaboration among different peoples through this celebration and also guide them to keep an open mindset and express an appreciation of the contributions of foreigners living, working and studying in Singapore.
 
