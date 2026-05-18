@@ -55,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operating Hours</p>
+<p>Operating hours for parents who want to purchase in person.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday to Friday : 12.00noon – 3.00 pm

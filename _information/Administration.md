@@ -8,7 +8,9 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/qtps-leaveofabsence" rel="noopener noreferrer nofollow" target="_blank">Leave Of Absence Application Form</a>
-</p>
+<br>LOA applies to Singapore Citizens and Singapore Permanent Resident children
+accompanying their parent on an overseas posting,&nbsp;with the intention
+of rejoining their school after returning to Singapore</p>
 </li>
 <li>
 <p><a href="https://www.myuniformshop.com.sg/name-tag-order" rel="noopener noreferrer nofollow" target="_blank">QtPS Name Tag Order Form</a>

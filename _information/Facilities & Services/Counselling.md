@@ -17,6 +17,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Christine Chng</p>
+<p>Mr Lucas Foo</p>
 </td>
 </tr>
 <tr>
