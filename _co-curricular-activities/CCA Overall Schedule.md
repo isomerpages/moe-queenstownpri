@@ -211,8 +211,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti-Hamesiah (OIC)
-<br>Ms Mahes</p>
-<p>Ms Joann Han</p>
+<br>Ms Mahes
+<br>Ms Joann Han</p>
 </td>
 </tr>
 <tr>
