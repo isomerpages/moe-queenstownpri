@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <p>Ms Fathin Atikah (OIC)
-<br>Mr Wong Wai Liong
+<br>Mdm Hermawati
 <br>Ms Tan Siew Choo</p>
 <h4><strong>CCA Advisor</strong></h4>
 <p>Mr Mohd Noor Bin Salim</p>
@@ -33,7 +33,7 @@ throughout their 4-year journey into Digital Media.</p>
 <h4><strong>Photos &amp; Videos</strong></h4>
 <h4><strong>Coding</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="345" width="626" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZYJXvOSYsFE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="345" width="626" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZYJXvOSYsFE"></iframe>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -102,13 +102,13 @@ throughout their 4-year journey into Digital Media.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="360" width="360" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DMPqIAv5HwM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="360" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DMPqIAv5HwM"></iframe>
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="360" width="360" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OX9ySQjpln4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="360" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OX9ySQjpln4"></iframe>
 </div>
 <p></p>
 </td>

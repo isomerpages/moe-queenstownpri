@@ -211,7 +211,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti-Hamesiah (OIC)
-<br>Ms Wan Hameezah</p>
+<br>Ms Mahes</p>
+<p>Ms Joann Han</p>
 </td>
 </tr>
 <tr>
@@ -305,6 +306,7 @@ variant: tiptap
 <br>Ms Venus Lim
 <br>Mr Yeo Bo Yu
 <br>Mr Jevon See
+<br>Mr Wong Wai Liong
 <br>Mr Ng Peng Hwee</p>
 </td>
 </tr>
@@ -492,7 +494,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fathin Atikah (OIC)
-<br>Mr Wong Wai Liong
+<br>Mdm Hermawati
 <br>Ms Tan Siew Choo</p>
 </td>
 </tr>

@@ -11,6 +11,7 @@ variant: tiptap
 <br>Ms Venus Lim Wen Xuan
 <br>Mr Yeo Bo Yu
 <br>Mr Jevon See
+<br>Mr Wong Wai Liong
 <br>Mr Ng Peng Hwee</p>
 <h4><strong>CCA Training</strong></h4>
 <p>Mondays (Development Team)
