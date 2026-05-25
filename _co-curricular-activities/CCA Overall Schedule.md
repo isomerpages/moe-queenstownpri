@@ -285,6 +285,7 @@ variant: tiptap
 <br>Mr Amos Leong
 <br>Mr Gordon Magherra
 <br>Ms Yap Ee Lim</p>
+<p>Ms Beh Jing Ying</p>
 </td>
 </tr>
 <tr>
