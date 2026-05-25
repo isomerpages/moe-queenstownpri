@@ -7,7 +7,8 @@ variant: tiptap
 ---
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <p>Mdm Siti-Hamesiah Samsudin (OIC)
-<br>Ms Wan Hameezah</p>
+<br>Ms Mahes
+<br>Ms Joann Han</p>
 <h4><strong>CCA Advisor</strong></h4>
 <p>Mdm Jeanna Goh</p>
 <h4><strong>CCA Day and Time</strong></h4>
