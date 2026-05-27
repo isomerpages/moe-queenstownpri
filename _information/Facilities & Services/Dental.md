@@ -86,18 +86,18 @@ call one of the following BUDDY CLINICS for assistance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>New Town Primary School</p>
+<p>MINI CENTRE@BENDEMEER PRIMARY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>87649804</p>
+<p>87646320</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fairfield Methodist Primary School</p>
+<p>New Town Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>87647361</p>
+<p>87649804</p>
 </td>
 </tr>
 <tr>
