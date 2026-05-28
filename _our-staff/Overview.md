@@ -4,5 +4,4 @@ permalink: /our-staff/overview/
 description: ""
 variant: markdown
 ---
-![](/images/OrgChart/all_staff_2025.jpg)
-Queenstown Primary School 2025
+![Queenstown Primary School 2026](/images/OrgChart/QTPS_All_Staff__5_.jpg)Queenstown Primary School 2026
