@@ -22,10 +22,5 @@ contacts:
       - email: qtps@moe.edu.sg
       - other: ""
     title: Email ID
-  - content:
-      - phone: +65 6471 3640
-      - email: ""
-      - other: ""
-    title: Fax
 feedback: ""
 ---
