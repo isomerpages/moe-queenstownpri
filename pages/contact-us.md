@@ -23,5 +23,10 @@ contacts:
       - email: ""
       - other: ""
     title: Fax
+  - content:
+      - phone: ""
+      - email: qtps@moe.edu.sg
+      - other: ""
+    title: Email ID
 feedback: ""
 ---
