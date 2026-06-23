@@ -15,18 +15,17 @@ contacts:
   - content:
       - phone: +65 6474 1044
       - email: ""
-      - other: <br>Have A Question?<br><a
-          href="https://ask.gov.sg/qtps">https://ask.gov.sg/qtps</a><p></p>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: +65 6471 3640
-      - email: ""
       - other: ""
-    title: Fax
+    title: General Enquiries & Feedback
   - content:
       - phone: ""
       - email: qtps@moe.edu.sg
       - other: ""
     title: Email ID
+  - content:
+      - phone: +65 6471 3640
+      - email: ""
+      - other: ""
+    title: Fax
 feedback: ""
 ---
