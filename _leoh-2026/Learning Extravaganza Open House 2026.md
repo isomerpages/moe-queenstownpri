@@ -73,7 +73,7 @@ our classrooms and explore how we nurture our students to become <strong>Confide
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.15 AM – 12:00 AM</p>
+<p>11.15 AM – 12:00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Exhibition Booths</p>
