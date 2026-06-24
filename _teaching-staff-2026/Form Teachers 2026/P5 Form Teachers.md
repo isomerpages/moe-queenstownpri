@@ -10,7 +10,7 @@ variant: markdown
 | 5 Care | Ms Tan Wei Xin <br> Mdm Zaheedah |
 | 5 Courage | Ms Mandi Yeoh <br>Mr Tang Wei Kok  |
 | 5 Creativity | Mr Noor <br> Mdm Beh Jing Ying |
-| 5 Diligence | Mdm S Srija <br>Ms Choo Ruofei <br> Mr Teo Chee Tat |
+| 5 Diligence | Ms Choo Ruofei <br> Mr Teo Chee Tat |
 | 5 Honesty | Mr Mark Teo <br> Mdm Najumunisha | 
 | 5 Joy | Mr Jevon See <br> Mdm Yap Eng Fui | 
 |
