@@ -65,11 +65,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD/Mathematics</strong>
+<p><strong>HOD/Total Curriculum</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Haw Shuen Siang</p>
+<p>Mr Benjamin Yeo</p>
 </td>
 </tr>
 <tr>
