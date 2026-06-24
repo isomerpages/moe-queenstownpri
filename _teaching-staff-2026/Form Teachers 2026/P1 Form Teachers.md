@@ -10,7 +10,7 @@ variant: markdown
 | 1 Care     | Mdm Jeanna Goh <br> Ms Celia Chia <br>Mr Yeo Bo Yu|
 | 1 Courage | Mrs Lam-Ng Wee Li Angie <br>Mdm Kwek Sor Hian |
 | 1 Creativity |Mr Kwek Hong Wee <br> Ms Liu Zi Jing |
-| 1 Diligence | Ms Yeo Teck Wai <br> Ms Wan Hameezah <br>Ms Carin Chan | 
+| 1 Diligence | Ms Yeo Teck Wai <br>Ms Carin Chan | 
 | 1 Honesty | Ms Faith Ng <br> Ms Charine Chong | 
 | 1 Joy | Ms Vani Chawla <br> Ms Sim Li Min | 
 | 1 Respect  | Ms Venus Lim<br> Mr Wellens Tan | 
