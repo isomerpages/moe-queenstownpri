@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Announcements/QtPS_intro2.png
+      background: /images/School_Related/VMV2.jpg
       key_highlights:
         - title: CCA
           description: ""
