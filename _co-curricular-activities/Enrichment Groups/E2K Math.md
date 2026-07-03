@@ -10,9 +10,6 @@ Mrs Siti Shahrin (OIC) <br>
 Mr Albert Ng<br>
 Ms Mandi Yeoh
 
-#### **CCA Advisor**
-Mr Haw Shuen Siang
-
 #### **CCA Day and Time**
 Mondays (P4) <br>
 2.00 pm – 3.30 pm <br>

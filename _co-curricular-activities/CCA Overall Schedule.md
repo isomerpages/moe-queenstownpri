@@ -553,8 +553,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Siti Shahrin (OIC)
 <br>Mr Albert Ng
-<br>Ms Mandi Yeoh
-<br>Mr Haw Shuen Siang (Advisor)</p>
+<br>Ms Mandi Yeoh</p>
 </td>
 </tr>
 <tr>
