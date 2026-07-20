@@ -23,13 +23,6 @@ sections:
           url: /useful-links/for-students
       variant: image
   - infopic:
-      title: Queenstown Primary School celebrates our 70th Anniversary
-      button: Click here to register
-      url: https://docs.google.com/forms/d/e/1FAIpQLSdiV8l2SrKzJuuVu-jA8zQfOThx690QQ-PxJwZF2_KNzoYeZA/viewform
-      image: /images/Announcements/QtPS_70th_Anni_Launch.png
-      description: Join us as Queenstown Primary celebrates our 70th Anniversary!
-      alt: Image alt text
-  - infopic:
       title: Engagement Charter
       id: infopic
       image: /images/Announcements/Engagement_Charter25a.png
