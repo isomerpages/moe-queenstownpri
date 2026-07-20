@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/qtps-elearningsite/home" rel="noopener noreferrer nofollow" target="_blank">QtPS Home-Based Learning (HBL) Site</a>
+<p><a href="hbl-overview" rel="noopener noreferrer nofollow" target="_blank">QtPS Home-Based Learning (HBL) Site</a>
 </p>
 </li>
 <li>
