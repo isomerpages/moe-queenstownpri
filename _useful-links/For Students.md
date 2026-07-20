@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://vle.learning.moe.edu.sg/login/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
+<p><a href="https://sites.google.com/moe.edu.sg/qtps-elearningsite/home" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
 </p>
 </li>
 <li>
