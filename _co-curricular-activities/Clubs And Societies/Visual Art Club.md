@@ -67,9 +67,6 @@ Silver Award - Yim Yebin (6 Joy)
 Silver Award - Chua Xin Yu, Elise (6 Joy)
 ![](/images/CCA%20VisualArts/art%201.jpg)
 
-#### **Other Information**
-Students will be required to purchase their own art sketchbook (visual diary) for use during CCA sessions.
-
 #### **Photo**
 
 ![](/images/CCA%20VisualArts/art_5a.jpg)
